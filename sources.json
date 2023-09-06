@@ -28,6 +28,20 @@
         ]
     },
     {
+        "shortOperatorName": "vbb-db-sbahn",
+        "contributors": [
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan S-Bahn Berlin",
+                "source": "https://sbahn.berlin/liniennetz/"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-db-sbs",
         "contributors": [
             {
