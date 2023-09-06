@@ -5,7 +5,7 @@ so they can be displayed on systems using DB HAFAS.
 ## Structure
 
 The `line-colors.csv` contains several columns:
-- `shortOperatorName`: Short operator name (i.e. vehicle keeper marking/"Halterkürzel" or another identifier for EVU)
+- `shortOperatorName`: Short operator name (i.e. vehicle keeper marking/"Halterkürzel" or another identifier for EVU) and a local transport network abbreviation
 - `lineName`: Displayed line name
 - `hafasOperatorCode`: used to identify the correct line, if line id is not distinct. Can be empty!
 - `hafasLineId`: identifies the HAFAS line
@@ -15,12 +15,21 @@ The `line-colors.csv` contains several columns:
 
 ## Contributing
 
+If a line operates in a local transport network/"Verkehrsverbund", the network's line color shall be preferred.<br>
+Local transport networks usually have line colors for:
+
+- suburban lines / "S-Bahn"
+- subway lines / "U-Bahn"
+- tramway lines / "Straßenbahn, Stadtbahn"
+- bus lines / "Bus"
+
 I'd be very happy if this file could expand very fast, so please feel free to add more lines by opening a PR. <br>
 
 **BUT FIRST**
 
 - Check that entries are sorted first by `shortOperatorName` and then `lineName`
-- Add a source where data can be proved (somewhere from the internet, like a timetable PDF...)
+- Reference a source in your PR where data can be proved (somewhere from the internet, like a timetable PDF...)
+  - Don't add it to `sources.json`, just mention it in your PR
 - All entries in the CSV (except `lineName`) shall be in lower case
 
 ## Examples
@@ -44,7 +53,7 @@ Entry: `gaby;RE72;go-ahead-bayern-gmbh;re-72;#ef7c00;#ffffff;false`
 <img src="examples/sbm-s7.png" alt="S7" width=100>
 <br><br>
 
-- `shortOperatorName`: db-sbm
+- `shortOperatorName`: mvv-db-sbm
 - `lineName`: S7
 - `hafasOperatorCode`: db-regio-ag-s-bahn-munchen
 - `hafasLineId`: 4-800725-7
@@ -52,4 +61,4 @@ Entry: `gaby;RE72;go-ahead-bayern-gmbh;re-72;#ef7c00;#ffffff;false`
 - `textColor`: #ffffff
 - `rounded`: true
 
-Entry: `db-sbm;S7;db-regio-ag-s-bahn-munchen;4-800725-7;#8a372f;#ffffff;true`
+Entry: `mvv-db-sbm;S7;db-regio-ag-s-bahn-munchen;4-800725-7;#8a372f;#ffffff;true`

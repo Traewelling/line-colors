@@ -1,0 +1,44 @@
+[
+    {
+        "shortOperatorName": "gaby",
+        "contributors": [
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Go-Ahead Bayern Linienübersicht",
+                "source": "https://www.go-ahead.bayern/unterwegs-mit-go-ahead/fahrplaene"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "mvv-db-sbm",
+        "contributors": [
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "MVV Gesamtfahrplan",
+                "source": "https://www.mvv-muenchen.de/fahrplanauskunft/index.html#c30293"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-db-sbs",
+        "contributors": [
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan S-Bahn Stuttgart",
+                "source": "https://download.vvs.de/SBahn_Liniennetz.pdf"
+            }
+        ]
+    }
+]
