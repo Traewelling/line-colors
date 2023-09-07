@@ -42,6 +42,20 @@
         ]
     },
     {
+        "shortOperatorName": "vgn-spnv",
+        "contributors": [
+            {
+                "github": "tomabrafix"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VGN Schienennetz Gesamtraum",
+                "source": "https://www.vgn.de/liniennetze/schienennetz_gesamtraum/"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-db-sbs",
         "contributors": [
             {
