@@ -8,7 +8,7 @@ The `line-colors.csv` contains several columns:
 - `shortOperatorName`: Short operator name (i.e. vehicle keeper marking/"Halterkürzel" or another identifier for EVU) and a local transport network abbreviation
 - `lineName`: Displayed line name
 - `hafasOperatorCode`: used to identify the correct line, if line id is not distinct. Can be empty!
-- `hafasLineId`: identifies the HAFAS line
+- `hafasLineId`: identifies the HAFAS line - you can get this by requesting a departure for the line from HAFAS (i.e. using [db-rest playground](https://petstore.swagger.io/?url=https%3A%2F%2Fv6.db.transport.rest%2F.well-known%2Fservice-desc%0A))
 - `backgroundColor`: Color-Hexcode for the display background color
 - `textColor`: Color-Hexcode for the text color
 - `rounded`: Specifies whether the line icon has rounded ends or not
