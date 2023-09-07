@@ -56,6 +56,20 @@
         ]
     },
     {
+        "shortOperatorName": "vgn-soepnv",
+        "contributors": [
+            {
+                "github": "tomabrafix"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VGN Schienennetz Nürnberg-Fürth",
+                "source": "https://www.vgn.de/liniennetze/schienennetz_nuernberg_furth/"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-db-sbs",
         "contributors": [
             {

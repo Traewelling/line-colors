@@ -81,6 +81,14 @@ vgn-spnv,RB62,db-regio-ag-bayern,rb-62,#95af33,#ffffff,rectangle
 vgn-spnv,RB81,db-regio-ag-bayern,rb-81,#26898c,#ffffff,rectangle
 vgn-spnv,RB82,db-regio-ag-bayern,rb-82,#0a81c5,#ffffff,rectangle
 vgn-spnv,RB91,db-regio-ag-bayern,rb-91,#70a9ce,#ffffff,rectangle
+vgn-soepnv,U1,nahreisezug,7-vanuba-1,#1c62aa,#ffffff,rectangle
+vgn-soepnv,U2,nahreisezug,7-vanuba-2,#ed1c24,#ffffff,rectangle
+vgn-soepnv,U3,nahreisezug,7-vanuba-3,#4dc2bb,#ffffff,rectangle
+vgn-soepnv,4,nahreisezug,8-vanstr-4,#f46989,#ffffff,rectangle
+vgn-soepnv,5,nahreisezug,8-vanstr-5,#8a3ea3,#ffffff,rectangle
+vgn-soepnv,6,nahreisezug,8-vanstr-6,#fcf105,#151515,rectangle
+vgn-soepnv,7,nahreisezug,8-vanstr-7,#9ba1d9,#ffffff,rectangle
+vgn-soepnv,8,nahreisezug,8-vanstr-8,#32bdf2,#ffffff,rectangle
 vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,rectangle
 vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,rectangle
 vvs-db-sbs,S2,db-regio-ag-s-bahn-stuttgart,4-800643-2,#ee1c28,#ffffff,rectangle
