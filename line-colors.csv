@@ -32,9 +32,9 @@ vbb-db-sbahn,S75,s-bahn-berlin,4-08-75,#764d9a,#ffffff,true
 vbb-db-sbahn,S8,s-bahn-berlin,4-08-8,#4fa433,#ffffff,true
 vbb-db-sbahn,S85,s-bahn-berlin,4-08-85,#4fa433,#ffffff,true
 vbb-db-sbahn,S9,s-bahn-berlin,4-08-9,#951732,#ffffff,true
-vvo-db-sbd,S 1,?,?,#4f9551,#ffffff,true
-vvo-db-sbd,S 2,?,?,#f58220,#ffffff,true
-vvo-db-sbd,S 3,?,?,#00b3ef,#ffffff,true
+vvo-db-sbd,S 1,db-regio-ag-sudost,4-800469-1,#4f9551,#ffffff,true
+vvo-db-sbd,S 2,db-regio-ag-sudost,4-800469-2,#f58220,#ffffff,true
+vvo-db-sbd,S 3,db-regio-ag-sudost,4-800469-3,#00b3ef,#ffffff,true
 vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,false
 vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,false
 vvs-db-sbs,S2,db-regio-ag-s-bahn-stuttgart,4-800643-2,#ee1c28,#ffffff,false
