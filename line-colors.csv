@@ -41,3 +41,26 @@ vvs-db-sbs,S5,db-regio-ag-s-bahn-stuttgart,4-800643-5,#00acdd,#ffffff,false
 vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,false
 vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,false
 vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,false
+nah-sh,RE 6,db-regio-schleswig-holstein,,#00975f,#ffffff,FALSCH
+nah-sh,RB 61,nordbahn,,#174094,#ffffff,FALSCH
+nah-sh,RB 62,db-regio-schleswig-holstein,,#00aeca,#000000,FALSCH
+nah-sh,RB 63,nordbahn,,#ffdc00,#000000,FALSCH
+nah-sh,RB 64,db-regio-schleswig-holstein,,#c2d0eb,#000000,FALSCH
+nah-sh,RB 65,neg,,#dedd00,#000000,FALSCH
+nah-sh,RB 66,arriva-dk,,#798e0e,#ffffff,FALSCH
+nah-sh,RE 7,db-regio-schleswig-holstein,,#ef7c00,#000000,FALSCH
+nah-sh,RE 70,db-regio-schleswig-holstein,,#c30732,#ffffff,FALSCH
+nah-sh,RB 71,nordbahn,,#008bd2,#ffffff,FALSCH
+nah-sh,RE 72,db-regio-schleswig-holstein,,#adce6d,#000000,FALSCH
+nah-sh,RB 73,db-regio-schleswig-holstein,,#008c57,#ffffff,FALSCH
+nah-sh,RE 74,db-regio-schleswig-holstein,,#0069b4,#ffffff,FALSCH
+nah-sh,RB 75,db-regio-schleswig-holstein,,#ba731a,#ffffff,FALSCH
+nah-sh,RB 76,erixx-sh,,#ffdc00,#000000,FALSCH
+nah-sh,RE 8,db-regio-schleswig-holstein,,#a3d9f0,#000000,FALSCH
+nah-sh,RE 80,db-regio-schleswig-holstein,,#d9338a,#ffffff,FALSCH
+nah-sh,RB 81,db-regio-schleswig-holstein,,#798e0e,#ffffff,FALSCH
+nah-sh,RB 82,nordbahn,,#9c9c9c,#ffffff,FALSCH
+nah-sh,RE 83,erixx-sh,,#2d53a0,#ffffff,FALSCH
+nah-sh,RB 84,erixx-sh,,#e4afd2,#000000,FALSCH
+nah-sh,RB 85,db-regio-schleswig-holstein,,#fbb902,#000000,FALSCH
+nah-sh,X 85,db-regio-schleswig-holstein,,#fbb902,#000000,FALSCH
