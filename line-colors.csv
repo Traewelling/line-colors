@@ -32,6 +32,25 @@ vbb-db-sbahn,S75,s-bahn-berlin,4-08-75,#764d9a,#ffffff,true
 vbb-db-sbahn,S8,s-bahn-berlin,4-08-8,#4fa433,#ffffff,true
 vbb-db-sbahn,S85,s-bahn-berlin,4-08-85,#4fa433,#ffffff,true
 vbb-db-sbahn,S9,s-bahn-berlin,4-08-9,#951732,#ffffff,true
+,STR 1,nahreisezug,8-vrs001-1,#e1081c,#ffffff,false
+,STR 3,nahreisezug,8-vrs001-3,#f29ec2,#ffffff,false
+,STR 4,nahreisezug,8-vrs001-4,#eb72a5,#ffffff,false
+,STR 5,nahreisezug,8-vrs001-5,#a69dc8,#ffffff,false
+,STR 7,nahreisezug,8-vrs001-7,#f08d52,#ffffff,false
+,STR 9,nahreisezug,8-vrs001-9,#f09086,#ffffff,false
+,STR 12,nahreisezug,8-vrs001-12,#98c01e,#ffffff,false
+,STR 13,nahreisezug,8-vrs001-13,#aa8567,#ffffff,false
+,STR 15,nahreisezug,8-vrs001-15,#5aad31,#ffffff,false
+,STR 16,nahreisezug,8-vrs001-16,#07ada5,#ffffff,false
+,STR 17,nahreisezug,8-vrs001-17,#1e93d1,#ffffff,false
+,STR 18,nahreisezug,8-vrs001-18,#85d1f5,#ffffff,false
+,STR 61,stadtwerke-bonn,8-s3-61,#9ab831,#ffffff,false
+,STR 62,stadtwerke-bonn,8-s3-62,#65a53b,#ffffff,false
+,STR 63,stadtwerke-bonn,8-s3-63,#8bccf3,#ffffff,false
+,STR 65,stadtwerke-bonn,8-s3-65,#c6cc2a,#ffffff,false
+,STR 66,stadtwerke-bonn,8-s3-66,#d4417d,#ffffff,false
+,STR 67,stadtwerke-bonn,8-s3-67,#e7a8c4,#ffffff,false
+,STR 68,stadtwerke-bonn,8-s3-68,#cbaece,#ffffff,false
 vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,false
 vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,false
 vvs-db-sbs,S2,db-regio-ag-s-bahn-stuttgart,4-800643-2,#ee1c28,#ffffff,false
