@@ -16,6 +16,29 @@ mvv-db-sbm,S4,db-regio-ag-s-bahn-munchen,4-800725-4,#e41f28,#ffffff,pill
 mvv-db-sbm,S6,db-regio-ag-s-bahn-munchen,4-800725-6,#008f5c,#ffffff,pill
 mvv-db-sbm,S7,db-regio-ag-s-bahn-munchen,4-800725-7,#8a372f,#ffffff,pill
 mvv-db-sbm,S8,db-regio-ag-s-bahn-munchen,4-800725-8,#2d2b29,#ffcd01,pill
+nah-sh,RE 6,db-regio-ag-nord,re-6,#00975f,#ffffff,rectangle
+nah-sh,RB 61,nordbahn-eisenbahngesellschaft,nbe-rb61,#174094,#ffffff,rectangle
+nah-sh,RB 62,db-regio-ag-nord,rb-62,#00aeca,#000000,rectangle
+nah-sh,RB 63,nordbahn-eisenbahngesellschaft,nbe-rb63,#ffdc00,#000000,rectangle
+nah-sh,RB 64,db-regio-ag-nord,rb-64,#c2d0eb,#000000,rectangle
+nah-sh,RB 65,norddeutsche-eisenbahn-gesellschaft,neg-rb65,#dedd00,#000000,rectangle
+nah-sh,RB 66,norddeutsche-eisenbahn-gesellschaft,neg-rb66,#798e0e,#ffffff,rectangle
+nah-sh,RE 7,db-regio-ag-nord,re-7,#ef7c00,#000000,rectangle
+nah-sh,RE 70,db-regio-ag-nord,re-70,#c30732,#ffffff,rectangle
+nah-sh,RB 71,nordbahn-eisenbahngesellschaft,nbe-rb71,#008bd2,#ffffff,rectangle
+nah-sh,RE 72,db-regio-ag-nord,re-72,#adce6d,#000000,rectangle
+nah-sh,RB 73,db-regio-ag-nord,rb-73,#008c57,#ffffff,rectangle
+nah-sh,RE 74,db-regio-ag-nord,re-74,#0069b4,#ffffff,rectangle
+nah-sh,RB 75,db-regio-ag-nord,rb-75,#ba731a,#ffffff,rectangle
+nah-sh,RB 76,erixx,erx-rb76,#ffdc00,#000000,rectangle
+nah-sh,RE 8,db-regio-ag-nord,re-8,#a3d9f0,#000000,rectangle
+nah-sh,RE 80,db-regio-ag-nord,re-80,#d9338a,#ffffff,rectangle
+nah-sh,RB 81,db-regio-ag-nord,rb-81,#798e0e,#ffffff,rectangle
+nah-sh,RB 82,nordbahn-eisenbahngesellschaft,nbe-rb82,#9c9c9c,#ffffff,rectangle
+nah-sh,RE 83,erixx,erx-re83,#2d53a0,#ffffff,rectangle
+nah-sh,RB 84,erixx,erx-rb84,#e4afd2,#000000,rectangle
+nah-sh,RB 85,db-regio-ag-nord,rb-85,#fbb902,#000000,rectangle
+nah-sh,X 85,db-regio-ag-nord,3-b1-x85,#fbb902,#000000,rectangle
 vbb-db-sbahn,S1,s-bahn-berlin,4-08-1,#eb588f,#ffffff,pill
 vbb-db-sbahn,S2,s-bahn-berlin,4-08-2,#047939,#ffffff,pill
 vbb-db-sbahn,S25,s-bahn-berlin,4-08-25,#047939,#ffffff,pill
