@@ -27,6 +27,8 @@ Local transport networks usually have line colors for:
 - tramway lines / "Straßenbahn, Stadtbahn"
 - bus lines / "Bus"
 
+If a single line operates in **multiple** transport networks, the color communicated by the operator shall be preferred.
+
 I'd be very happy if this file could expand very fast, so please feel free to add more lines by opening a PR. <br>
 
 **BUT FIRST**
