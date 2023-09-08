@@ -54,5 +54,47 @@
                 "source": "https://download.vvs.de/SBahn_Liniennetz.pdf"
             }
         ]
+    },
+    {
+        "shortOperatorName": "hvv-hha",
+        "contributors": [
+            {
+                "github": "echtnurich"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Wikipedia U-Bahn Hamburg",
+                "source": "https://de.wikipedia.org/wiki/U-Bahn_Hamburg"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hvv-db-sbhh",
+        "contributors": [
+            {
+                "github": "echtnurich"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Wikipedia S-Bahn Hamburg",
+                "source": "https://de.wikipedia.org/wiki/S-Bahn_Hamburg"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hvv-akn",
+        "contributors": [
+            {
+                "github": "echtnurich"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Wikipedia AKN Eisenbahn",
+                "source": "https://de.wikipedia.org/wiki/AKN_Eisenbahn"
+            }
+        ]
     }
 ]
