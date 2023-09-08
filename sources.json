@@ -59,6 +59,20 @@
         ]
     },
     {
+        "shortOperatorName": "vrs-stadtbahn",
+        "contributors": [
+            {
+                "github": "jeyemwey"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz VRS",
+                "source": "https://www.vrs.de/fahren/liniennetz/liniennetz-interaktiv"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-db-sbs",
         "contributors": [
             {
