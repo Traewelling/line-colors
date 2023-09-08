@@ -16,6 +16,11 @@ mvv-db-sbm,S4,db-regio-ag-s-bahn-munchen,4-800725-4,#e41f28,#ffffff,true
 mvv-db-sbm,S6,db-regio-ag-s-bahn-munchen,4-800725-6,#008f5c,#ffffff,true
 mvv-db-sbm,S7,db-regio-ag-s-bahn-munchen,4-800725-7,#8a372f,#ffffff,true
 mvv-db-sbm,S8,db-regio-ag-s-bahn-munchen,4-800725-8,#2d2b29,#ffcd01,true
+nasa-db,RB 32,db-regio-ag-sudost,rb-32,#7ab929,#ffffff,false
+nasa-db,RB 40,db-regio-ag-sudost,rb-40,#bd6227,#ffffff,false
+nasa-db,RE 20,db-regio-ag-sudost,re-20,#006f6c,#ffffff,false
+nasa-db,RE 30,db-regio-ag-sudost,re-30,#3c78bd,#ffffff,false
+nasa-db,S1,db-regio-ag-sudost,4-800489-1,#2c7331,#ffffff,true
 vbb-db-sbahn,S1,s-bahn-berlin,4-08-1,#eb588f,#ffffff,true
 vbb-db-sbahn,S2,s-bahn-berlin,4-08-2,#047939,#ffffff,true
 vbb-db-sbahn,S25,s-bahn-berlin,4-08-25,#047939,#ffffff,true
