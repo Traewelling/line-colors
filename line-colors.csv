@@ -32,6 +32,12 @@ vbb-db-sbahn,S75,s-bahn-berlin,4-08-75,#764d9a,#ffffff,pill
 vbb-db-sbahn,S8,s-bahn-berlin,4-08-8,#4fa433,#ffffff,pill
 vbb-db-sbahn,S85,s-bahn-berlin,4-08-85,#4fa433,#ffffff,pill
 vbb-db-sbahn,S9,s-bahn-berlin,4-08-9,#951732,#ffffff,pill
+vgn-db-sbn,S1,db-regio-ag-bayern,4-800721-1,#6f2c2f,#ffffff,rectangle
+vgn-db-sbn,S2,db-regio-ag-bayern,4-800721-2,#51a444,#ffffff,rectangle
+vgn-db-sbn,S3,db-regio-ag-bayern,4-800721-3,#cf4d30,#ffffff,rectangle
+vgn-db-sbn,S4,db-regio-ag-bayern,4-800721-4,#292d5e,#ffffff,rectangle
+vgn-db-sbn,S5,db-regio-ag-bayern,4-800721-5,#00699d,#ffffff,rectangle
+vgn-db-sbn,S6,db-regio-ag-bayern,4-800721-6,#8a9b48,#ffffff,rectangle
 vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,rectangle
 vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,rectangle
 vvs-db-sbs,S2,db-regio-ag-s-bahn-stuttgart,4-800643-2,#ee1c28,#ffffff,rectangle
