@@ -11,7 +11,11 @@ The `line-colors.csv` contains several columns:
 - `hafasLineId`: identifies the HAFAS line
 - `backgroundColor`: Color-Hexcode for the display background color
 - `textColor`: Color-Hexcode for the text color
-- `rounded`: Specifies whether the line icon has rounded ends or not
+- `shape`: Specifies the shape of the icon --> see examples below
+  - `rectangle`: Just a rectangle
+  - `pill`: Rectangle with rounded corners
+  - `trapezoid`
+  - `hexagon`
 
 ## Contributing
 
@@ -25,10 +29,10 @@ I'd be very happy if this file could expand very fast, so please feel free to ad
 
 ## Examples
 
-### Go-Ahead Bayern GmbH,  RE72
+### Go-Ahead Bayern GmbH, RE72
 
 <img src="examples/gaby-re72.png" alt="RE72" width=100>
-<br><br>
+<br>
 
 - `shortOperatorName`: gaby
 - `lineName`: RE72
@@ -36,13 +40,13 @@ I'd be very happy if this file could expand very fast, so please feel free to ad
 - `hafasLineId`: re-72
 - `backgroundColor`: #ef7c00
 - `textColor`: #ffffff
-- `rounded`: false
+- `shape`: rectangle
 
-Entry: `gaby;RE72;go-ahead-bayern-gmbh;re-72;#ef7c00;#ffffff;false`
+Entry: `gaby,RE72,go-ahead-bayern-gmbh,re-72,#ef7c00,#ffffff,rectangle`
 
 ### DB Regio AG S-Bahn München, S7
 <img src="examples/sbm-s7.png" alt="S7" width=100>
-<br><br>
+<br>
 
 - `shortOperatorName`: db-sbm
 - `lineName`: S7
@@ -50,6 +54,16 @@ Entry: `gaby;RE72;go-ahead-bayern-gmbh;re-72;#ef7c00;#ffffff;false`
 - `hafasLineId`: 4-800725-7
 - `backgroundColor`: #8a372f
 - `textColor`: #ffffff
-- `rounded`: true
+- `shape`: pill
 
-Entry: `db-sbm;S7;db-regio-ag-s-bahn-munchen;4-800725-7;#8a372f;#ffffff;true`
+Entry: `db-sbm,S7,db-regio-ag-s-bahn-munchen,4-800725-7,#8a372f,#ffffff,pill`
+
+### Other shapes:
+
+#### Trapezoid
+
+<img src="examples/hvv-64.png" alt="64" width=100>
+
+#### Hexagon
+
+<img src="examples/hvv-112.png" alt="112" width=100>
