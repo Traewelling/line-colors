@@ -61,6 +61,16 @@ nah-sh,RE 83,erixx,erx-re83,#2d53a0,#ffffff,rectangle
 nah-sh,RB 84,erixx,erx-rb84,#e4afd2,#000000,rectangle
 nah-sh,RB 85,db-regio-ag-nord,rb-85,#fbb902,#000000,rectangle
 nah-sh,X 85,db-regio-ag-nord,3-b1-x85,#fbb902,#000000,rectangle
+transdev-hannover,S1,4-tdhs-1,#846daa,#ffffff,rectangle-rounded-corner
+transdev-hannover,S2,4-tdhs-2,#007a3d,#ffffff,rectangle-rounded-corner
+transdev-hannover,S21,4-tdhs-21,#007a3d,#ffffff,rectangle-rounded-corner
+transdev-hannover,S3,4-tdhs-3,#cc69a6,#ffffff,rectangle-rounded-corner
+transdev-hannover,S4,4-tdhs-4,#9b2b48,#ffffff,rectangle-rounded-corner
+transdev-hannover,S5,4-tdhs-5,#f18700,#ffffff,rectangle-rounded-corner
+transdev-hannover,S51,4-tdhs-51,#f18700,#ffffff,rectangle-rounded-corner
+transdev-hannover,S6,4-tdhs-6,#004f9f,#ffffff,rectangle-rounded-corner
+transdev-hannover,S7,4-tdhs-7,#afcb27,#ffffff,rectangle-rounded-corner
+transdev-hannover,S8,4-tdhs-8,#1794ca,#ffffff,rectangle-rounded-corner
 vbb-db-sbahn,S1,s-bahn-berlin,4-08-1,#eb588f,#ffffff,pill
 vbb-db-sbahn,S2,s-bahn-berlin,4-08-2,#047939,#ffffff,pill
 vbb-db-sbahn,S25,s-bahn-berlin,4-08-25,#047939,#ffffff,pill

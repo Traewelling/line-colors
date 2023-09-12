@@ -77,6 +77,20 @@
         ]
     },
     {
+        "shortOperatorName": "transdev-hannover",
+        "contributors": [
+            {
+                "github": "MrKrisKrisu"
+            }
+        ],
+        "sources": [
+            {
+                "name": "S-Bahn Hannover Liniennetzplan",
+                "source": "https://www.sbahn-hannover.de/de/liniennetz/liniennetz"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vbb-db-sbahn",
         "contributors": [
             {
