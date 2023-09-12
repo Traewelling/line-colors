@@ -77,6 +77,20 @@
         ]
     },
     {
+        "shortOperatorName": "uestra",
+        "contributors": [
+            {
+                "github": "MrKrisKrisu"
+            }
+        ],
+        "sources": [
+            {
+                "name": "ÜSTRA Interaktiver Liniennetzplan",
+                "source": "https://plaene.uestra.de/"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "transdev-hannover",
         "contributors": [
             {
