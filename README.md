@@ -42,7 +42,7 @@ I'd be very happy if this file could expand very fast, so please feel free to ad
 
 ### Go-Ahead Bayern GmbH, RE72
 
-<img src="examples/gaby-re72.png" alt="RE72" width=100>
+<img src="examples/gaby-re72.png" alt="RE72" width="100">
 <br>
 
 - `shortOperatorName`: gaby
@@ -56,7 +56,7 @@ I'd be very happy if this file could expand very fast, so please feel free to ad
 Entry: `gaby,RE72,go-ahead-bayern-gmbh,re-72,#ef7c00,#ffffff,rectangle`
 
 ### DB Regio AG S-Bahn München, S7
-<img src="examples/sbm-s7.png" alt="S7" width=100>
+<img src="examples/sbm-s7.png" alt="S7" width="100">
 <br>
 
 - `shortOperatorName`: mvv-db-sbm
@@ -69,12 +69,25 @@ Entry: `gaby,RE72,go-ahead-bayern-gmbh,re-72,#ef7c00,#ffffff,rectangle`
 
 Entry: `mvv-db-sbm,S7,db-regio-ag-s-bahn-munchen,4-800725-7,#8a372f,#ffffff,pill`
 
+### KVV: Albtal-Verkehrs-Gesellschaft mbH
+
+<img src="examples/kvv-s1.png" alt="S1" width="100">
+<br>
+
+- `shortOperatorName`: kvv-avg
+- `lineName`: S1
+- `hafasOperatorCode`: albtal-verkehrs-gesellschaft-mbh
+- `hafasLineId`: 4-a6s8-8
+- `backgroundColor`: #6e692a
+- `textColor`: #ffffff
+- `shape`: rectangle-rounded-corner (a pill with less rounded corners)
+
 ### Other shapes:
 
 #### Trapezoid
 
-<img src="examples/hvv-64.png" alt="64" width=100>
+<img src="examples/hvv-64.png" alt="64" width="100">
 
 #### Hexagon
 
-<img src="examples/hvv-112.png" alt="112" width=100>
+<img src="examples/hvv-112.png" alt="112" width="100">
