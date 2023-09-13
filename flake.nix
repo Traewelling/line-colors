@@ -27,15 +27,33 @@
     in
       operators ++ subOperators;
 
-    operators =
-      builtins.listToAttrs
-      (map (operator: {
-          name = operator.hafasId;
-          value = operator;
+    operators = readOperators ./operators;
+
+    modules = lib.evalModules {
+      modules = [
+        {
+          options.operators = lib.mkOption {
+            type = with lib.types; listOf (submodule {
+              options = {
+                name = lib.mkOption {
+                  type = lib.types.str;
+                  description = lib.mdDoc "Name of the Operator";
+                };
+                hafas-id = lib.mkOption {
+                  type = lib.types.str;
+                  description = lib.mdDoc "Hafas ID of the Operator";
+                };
+              };
+            });
+          };
+        }
+        ({
+          inherit operators;
         })
-        (readOperators ./operators));
+      ];
+    };
   in {
-    inherit operators;
+    inherit (modules.config) operators;
     formatter = forAllSystems (pkgs: pkgs.alejandra);
     packages = forAllSystems (pkgs: {
       operators-json = pkgs.callPackage ./pkgs/operators-json.nix {inherit operators;};
