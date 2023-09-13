@@ -64,6 +64,14 @@
         value = linesValue;
         name = "lines.csv";
       };
+      operator-docs = pkgs.callPackage ./pkgs/docs.nix { 
+        options = [(import ./lib/operator-module.nix { 
+          inherit lib;
+        })];
+      };
+      line-docs = pkgs.callPackage ./pkgs/docs.nix {
+        options = [(import ./lib/line-module.nix { inherit lib; })];
+      };
     });
   };
 }
