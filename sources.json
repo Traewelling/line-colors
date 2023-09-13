@@ -14,6 +14,38 @@
         ]
     },
     {
+        "shortOperatorName": "kvv-avg",
+        "contributors": [
+            {
+                "github": "MrKrisKrisu"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVV Liniennetzplan Schiene 2023",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Schiene/2023/KVV-Liniennetzplan_Schiene1.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "kvv-vbk",
+        "contributors": [
+            {
+                "github": "MrKrisKrisu"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVV Liniennetzplan Schiene 2023",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Schiene/2023/KVV-Liniennetzplan_Schiene1.pdf"
+            },
+            {
+                "name": "KVV Liniennetzplan Nightliner 2023",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Schiene/2023/KVV-Liniennetzplan_Nightliner.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mvv-db-sbm",
         "contributors": [
             {
@@ -28,6 +60,23 @@
         ]
     },
     {
+        "shortOperatorName": "nah-sh",
+        "contributors": [
+            {
+                "github": "asraelvudogel"
+            },
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "NAH.SH Bahnlinienplan",
+                "source": "https://www.nah.sh/assets/2023/nahsh_bahnlinienSH_2023.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vbb-db-sbahn",
         "contributors": [
             {
@@ -38,6 +87,20 @@
             {
                 "name": "Netzplan S-Bahn Berlin",
                 "source": "https://sbahn.berlin/liniennetz/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrs-stadtbahn",
+        "contributors": [
+            {
+                "github": "jeyemwey"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz VRS",
+                "source": "https://www.vrs.de/fahren/liniennetz/liniennetz-interaktiv"
             }
         ]
     },
