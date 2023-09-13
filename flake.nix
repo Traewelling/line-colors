@@ -15,21 +15,55 @@
         "x86_64-darwin"
         "aarch64-darwin"
       ] (system: function nixpkgs.legacyPackages.${system});
-    
-    readOperators = import ./lib/operators.nix { inherit lib; };
+
+    readOperators = import ./lib/operators.nix {inherit lib;};
     operatorFiles = builtins.filter (file: lib.hasSuffix ".nix" (baseNameOf file)) (lib.filesystem.listFilesRecursive ./operators);
     operators = lib.pipe operatorFiles [
       (map readOperators)
-      (map (operator: { name = operator.hafas-id; value = operator; }))
+      (map (operator: {
+        name = operator.hafas-id;
+        value = operator;
+      }))
       builtins.listToAttrs
     ];
+
+    readLines = import ./lib/lines.nix {inherit lib operators;};
+
+    lineFiles = builtins.filter (file: lib.hasSuffix ".nix" (baseNameOf file)) (lib.filesystem.listFilesRecursive ./lines);
+    lines = lib.pipe lineFiles [
+      (map readLines)
+      lib.flatten
+    ];
   in {
-    inherit operators;
+    inherit operators lines;
 
     formatter = forAllSystems (pkgs: pkgs.alejandra);
-    packages = forAllSystems (pkgs: {
-      operators-json = pkgs.callPackage ./pkgs/operators-json.nix {inherit operators;};
-      operators-csv = pkgs.callPackage ./pkgs/operators-csv.nix {inherit operators;};
+    packages = forAllSystems (pkgs: let
+      operatorsValue = builtins.attrValues operators;
+      linesValue = map (line:
+        builtins.removeAttrs line ["operator"]
+        // {
+          operatorHafasId = line.operator.hafas-id or null;
+          operatorName = line.operator.name or null;
+        })
+      lines;
+    in {
+      operators-json = pkgs.callPackage ./pkgs/json.nix {
+        value = operatorsValue;
+        name = "operators.json";
+      };
+      operators-csv = pkgs.callPackage ./pkgs/csv.nix {
+        value = operatorsValue;
+        name = "operators.csv";
+      };
+      lines-json = pkgs.callPackage ./pkgs/json.nix {
+        value = linesValue;
+        name = "lines.json";
+      };
+      lines-csv = pkgs.callPackage ./pkgs/csv.nix {
+        value = linesValue;
+        name = "lines.csv";
+      };
     });
   };
 }

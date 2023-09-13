@@ -1,10 +1,11 @@
 {
   stdenvNoCC,
-  operators,
+  value,
+  name,
   jq,
 }:
 stdenvNoCC.mkDerivation {
-  name = "operators.json";
+  inherit name;
 
   dontUnpack = true;
   dontConfigure = true;
@@ -12,7 +13,7 @@ stdenvNoCC.mkDerivation {
 
   buildPhase = ''
     runHook preBuild
-    echo '${builtins.toJSON (builtins.attrValues operators)}' | ${jq}/bin/jq > $out
+    echo '${builtins.toJSON value}' | ${jq}/bin/jq > $out
     runHook postBuild
   '';
 }

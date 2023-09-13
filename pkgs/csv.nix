@@ -1,10 +1,11 @@
 {
   stdenvNoCC,
-  operators,
+  value,
   nushell,
+  name,
 }:
 stdenvNoCC.mkDerivation {
-  name = "operators.csv";
+  inherit name;
 
   dontUnpack = true;
   dontConfigure = true;
@@ -12,7 +13,7 @@ stdenvNoCC.mkDerivation {
 
   buildPhase = ''
     runHook preBuild
-    echo '${builtins.toJSON (builtins.attrValues operators)}' | nu --stdin -c "from json | to csv" > $out
+    echo '${builtins.toJSON value}' | nu --stdin -c "from json | to csv" > $out
     runHook postBuild
   '';
 

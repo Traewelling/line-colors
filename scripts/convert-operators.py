@@ -5,6 +5,7 @@ import os
 
 with open('hafas-operators.csv') as file:
     operators = csv.reader(file, delimiter=',')
+    next(operators)
     for [id, name] in operators:
         prefix = id[0:2]
         path = f"./operators/{prefix}"
