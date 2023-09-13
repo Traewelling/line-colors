@@ -41,10 +41,10 @@ vvs-db-sbs,S5,db-regio-ag-s-bahn-stuttgart,4-800643-5,#00acdd,#ffffff,rectangle
 vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,rectangle
 vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,rectangle
 vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,rectangle
-hvv-hha,U1,hvv001,7-hvv001-1,#005aa4,#ffffff,rectangle
-hvv-hha,U2,hvv001,7-hvv001-2,#ed0020,#ffffff,rectangle
-hvv-hha,U3,hvv001,7-hvv001-3,#ffd600,#ffffff,rectangle
-hvv-hha,U4,hvv001,7-hvv001-4,#008b8f,#ffffff,rectangle
+hvv-hha,U1,hvv001,7-hvv001-1,#0073c0,#ffffff,rectangle
+hvv-hha,U2,hvv001,7-hvv001-2,#ff2e17,#ffffff,rectangle
+hvv-hha,U3,hvv001,7-hvv001-3,#ffd939,#ffffff,rectangle
+hvv-hha,U4,hvv001,7-hvv001-4,#00b2c1,#ffffff,rectangle
 hvv-hha,U5,hvv001,7-hvv001-5,#a26118,#ffffff,rectangle
 hvv-db-sbhh,S1,s-bahn-hamburg,4-0s-1,#36b64b,#ffffff,pill
 hvv-db-sbhh,S11,s-bahn-hamburg,4-0s-11,#36b64b,#ffffff,pill
