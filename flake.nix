@@ -15,45 +15,17 @@
         "x86_64-darwin"
         "aarch64-darwin"
       ] (system: function nixpkgs.legacyPackages.${system});
-
-    readOperators = path: let
-      dir = builtins.readDir path;
-      files = builtins.attrNames (lib.filterAttrs (name: type: type == "regular" && lib.hasSuffix ".nix" name) dir);
-      directories = builtins.attrNames (lib.filterAttrs (name: type: type == "directory") dir);
-      operators = map (file: (import "${path}/${file}")) files;
-      subOperators =
-        lib.optionals ((builtins.length directories) > 0)
-        (lib.flatten (map (dir: readOperators "${path}/${dir}") directories));
-    in
-      operators ++ subOperators;
-
-    operators = readOperators ./operators;
-
-    modules = lib.evalModules {
-      modules = [
-        {
-          options.operators = lib.mkOption {
-            type = with lib.types; listOf (submodule {
-              options = {
-                name = lib.mkOption {
-                  type = lib.types.str;
-                  description = lib.mdDoc "Name of the Operator";
-                };
-                hafas-id = lib.mkOption {
-                  type = lib.types.str;
-                  description = lib.mdDoc "Hafas ID of the Operator";
-                };
-              };
-            });
-          };
-        }
-        ({
-          inherit operators;
-        })
-      ];
-    };
+    
+    readOperators = import ./lib/operators.nix { inherit lib; };
+    operatorFiles = builtins.filter (file: lib.hasSuffix ".nix" (baseNameOf file)) (lib.filesystem.listFilesRecursive ./operators);
+    operators = lib.pipe operatorFiles [
+      (map readOperators)
+      (map (operator: { name = operator.hafas-id; value = operator; }))
+      builtins.listToAttrs
+    ];
   in {
-    inherit (modules.config) operators;
+    inherit operators;
+
     formatter = forAllSystems (pkgs: pkgs.alejandra);
     packages = forAllSystems (pkgs: {
       operators-json = pkgs.callPackage ./pkgs/operators-json.nix {inherit operators;};
