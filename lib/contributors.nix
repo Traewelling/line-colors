@@ -1,0 +1,6 @@
+{maintainers}: {
+  inherit
+    (maintainers)
+    marie
+    ;
+}
