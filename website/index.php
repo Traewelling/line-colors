@@ -1,16 +1,6 @@
 <?php
+include_once "../validation/common.php";
 
-$csv = array_map("str_getcsv", file("../line-colors.csv", FILE_SKIP_EMPTY_LINES));
-$keys = array_shift($csv);
-foreach ($csv as $i => $row) {
-    $csv[$i] = array_combine($keys, $row);
-}
-
-$linesByOperatorCode = array_reduce($csv, function ($result, $line) {
-    $result[$line["shortOperatorName"]][] = $line;
-
-    return $result;
-}, []);
 ?>
 
 <!DOCTYPE html>
@@ -128,10 +118,10 @@ $linesByOperatorCode = array_reduce($csv, function ($result, $line) {
                                     <?php foreach ($line as $key => $value): ?>
                                         <dt><?= $key ?></dt>
                                         <dd class="<?= in_array($key, ["backgroundColor", "textColor", "shape"]) ? "monospace" : "" ?>">
-                                            <? if (in_array($key, ["backgroundColor", "textColor"])): ?>
+                                            <?php if (in_array($key, ["backgroundColor", "textColor"])): ?>
                                                 <span class="color-preview"
                                                       style="background-color: <?= $value ?>"></span>
-                                            <? endif ?>
+                                            <?php endif ?>
                                             <?= $value ?>
                                         </dd>
                                     <?php endforeach ?>
@@ -230,8 +220,6 @@ $linesByOperatorCode = array_reduce($csv, function ($result, $line) {
         <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
         <!-- Easing -->
         <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-        <!-- Magnific Popup -->
-        <script src="assets/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
         <!-- Custom Script -->
         <script src="assets/js/theme.js"></script>
         <script src="assets/js/custom-elements.js"></script>
