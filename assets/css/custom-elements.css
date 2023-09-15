@@ -20,7 +20,7 @@
 }
 
 .operator-group dd span.color-preview {
-    width: 1px;
+    width: 1em;
     height: 1em;
     display: inline-block;
     border: 1px solid #d4d4d4;
