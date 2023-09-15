@@ -105,6 +105,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvo-db-sbd",
+        "contributors": [
+            {
+                "github": "Unterwerk"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan S-Bahn Dresden",
+                "source": "https://assets.static-bahn.de/dam/jcr:5b9c05ce-1bd8-46f7-9b99-4445807baa48/246507-327552.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-db-sbs",
         "contributors": [
             {
