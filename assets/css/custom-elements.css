@@ -1,0 +1,44 @@
+.operator-group {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.operator-group article {
+    margin-bottom: 3em;
+}
+
+.operator-group article div {
+    margin: 0 auto;
+}
+
+.operator-group article dl {
+    font-size: 0.8em;
+    margin: 2em 0 0;
+    display: none;
+}
+.operator-group article dd.monospace {
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.operator-group dd span.color-preview {
+    width: 1px;
+    height: 1em;
+    display: inline-block;
+    border: 1px solid #d4d4d4;
+}
+
+#main-wrapper.details-shown .operator-group article dl {
+    display: block;
+}
+
+
+@media (max-width: 950px) {
+    .operator-group {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 500px) {
+    .operator-group {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
