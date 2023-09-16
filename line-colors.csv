@@ -30,6 +30,10 @@ kvv-vbk,18,,8-kvv021-18,#197248,#ffffff,rectangle
 kvv-vbk,E,,8-kvv021-e,#fff,#000,rectangle
 kvv-vbk,NL1,,8-kvv021-nl1,#ed1c24,#ffffff,rectangle
 kvv-vbk,NL2,,8-kvv021-nl2,#0071bc,#ffffff,rectangle
+mobiel,1,mobiel-gmbh,8-owl031-1,#009fe0,#ffffff,rectangle
+mobiel,2,mobiel-gmbh,8-owl031-2,#008f36,#ffffff,rectangle
+mobiel,3,mobiel-gmbh,8-owl031-3,#ffed00,#00264f,rectangle
+mobiel,4,mobiel-gmbh,8-owl031-4,#e3001b,#ffffff,rectangle
 mvv-db-sbm,S1,db-regio-ag-s-bahn-munchen,4-800725-1,#1fbce6,#ffffff,pill
 mvv-db-sbm,S2,db-regio-ag-s-bahn-munchen,4-800725-2,#79b833,#ffffff,pill
 mvv-db-sbm,S20,db-regio-ag-s-bahn-munchen,4-800725-20,#f05972,#ffffff,pill
