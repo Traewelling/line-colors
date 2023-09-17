@@ -1,9 +1,9 @@
 shortOperatorName,lineName,hafasOperatorCode,hafasLineId,backgroundColor,textColor,shape
-gabw,IRE1,go-ahead-baden-wurttemberg-gmbh,ire-1,#88c946,#ffffff,rectangle
-gabw,MEX13,go-ahead-baden-wurttemberg-gmbh,mex-13,#00b9f2,#ffffff,rectangle
-gabw,MEX16,go-ahead-baden-wurttemberg-gmbh,mex-16,#0073c0,#ffffff,rectangle
-gabw,RE8,go-ahead-baden-wurttemberg-gmbh,re-8,#b350a8,#ffffff,rectangle
-gabw,RE90,go-ahead-baden-wurttemberg-gmbh,re-90,#fd3083,#ffffff,rectangle
+gabw,IRE 1,go-ahead-baden-wurttemberg-gmbh,ire-1,#88c946,#ffffff,rectangle
+gabw,MEX 13,go-ahead-baden-wurttemberg-gmbh,mex-13,#00b9f2,#ffffff,rectangle
+gabw,MEX 16,go-ahead-baden-wurttemberg-gmbh,mex-16,#0073c0,#ffffff,rectangle
+gabw,RE 8,go-ahead-baden-wurttemberg-gmbh,re-8,#b350a8,#ffffff,rectangle
+gabw,RE 90,go-ahead-baden-wurttemberg-gmbh,re-90,#fd3083,#ffffff,rectangle
 gaby,RB86,go-ahead-bayern-gmbh,rb-86,#77aed2,#ffffff,rectangle
 gaby,RB87,go-ahead-bayern-gmbh,rb-87,#77aed2,#ffffff,rectangle
 gaby,RB89,go-ahead-bayern-gmbh,rb-89,#006da7,#ffffff,rectangle
