@@ -128,6 +128,76 @@
         ]
     },
     {
+        "shortOperatorName": "ooevv-linz-linien",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Linz AG Linien",
+                "source": "https://www.linzag.at/media/dokumente/linien_1/infomaterial_1/linien-linienfahrplan.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ooevv-oebb",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan OÖVV",
+                "source": "https://www.oebb.at/dam/jcr:562c11c9-4da3-4253-8623-28601d77e346/liniennetz_ooe.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ooevv-stern-hafferl",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan OÖVV",
+                "source": "https://www.oebb.at/dam/jcr:562c11c9-4da3-4253-8623-28601d77e346/liniennetz_ooe.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "svv-oebb",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan SVV",
+                "source": "https://salzburg-verkehr.at/download/bahnnetz-land-salzburg/?wpdmdl=32234&refresh=6501827b0c3a01694597755"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "svv-slb",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan SVV",
+                "source": "https://salzburg-verkehr.at/download/bahnnetz-land-salzburg/?wpdmdl=32234&refresh=6501827b0c3a01694597755"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vbb-db-sbahn",
         "contributors": [
             {
@@ -138,6 +208,34 @@
             {
                 "name": "Netzplan S-Bahn Berlin",
                 "source": "https://sbahn.berlin/liniennetz/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vor-oebb",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan VOR",
+                "source": "https://www.vor.at/fileadmin/CONTENT/Downloads/Plaene/Bahnnetz_Plaene/Bahnnetz_Wien_NOE_BGLD_2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vor-wl",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Wiener Linien",
+                "source": "https://www.wienerlinien.at/media/files/2016/gesamtnetzplan_wien_176236.pdf"
             }
         ]
     },
