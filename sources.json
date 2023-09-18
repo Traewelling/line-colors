@@ -14,6 +14,57 @@
         ]
     },
     {
+        "shortOperatorName": "hvv-akn",
+        "contributors": [
+            {
+                "github": "echtnurich"
+            },
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "hvv USAR-Plan",
+                "source": "https://www.hvv.de/de/plaene"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hvv-db-sbhh",
+        "contributors": [
+            {
+                "github": "echtnurich"
+            },
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "hvv USAR-Plan",
+                "source": "https://www.hvv.de/de/plaene"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hvv-hha",
+        "contributors": [
+            {
+                "github": "echtnurich"
+            },
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "hvv USAR-Plan",
+                "source": "https://www.hvv.de/de/plaene"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "kvv-avg",
         "contributors": [
             {
