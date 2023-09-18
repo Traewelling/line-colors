@@ -11,6 +11,7 @@ The `line-colors.csv` contains several columns:
 - `hafasLineId`: identifies the HAFAS line - you can get this by requesting a departure for the line from HAFAS (i.e. using [db-rest playground](https://petstore.swagger.io/?url=https%3A%2F%2Fv6.db.transport.rest%2F.well-known%2Fservice-desc%0A))
 - `backgroundColor`: Color-Hexcode for the display background color
 - `textColor`: Color-Hexcode for the text color
+- `borderColor`: Color-Hexcode for the border
 - `shape`: Specifies the shape of the icon --> see examples below
   - `rectangle`: Just a rectangle
   - `pill`: Rectangle with rounded corners
