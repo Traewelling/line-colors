@@ -14,6 +14,57 @@
         ]
     },
     {
+        "shortOperatorName": "hvv-akn",
+        "contributors": [
+            {
+                "github": "echtnurich"
+            },
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "hvv USAR-Plan",
+                "source": "https://www.hvv.de/de/plaene"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hvv-db-sbhh",
+        "contributors": [
+            {
+                "github": "echtnurich"
+            },
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "hvv USAR-Plan",
+                "source": "https://www.hvv.de/de/plaene"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hvv-hha",
+        "contributors": [
+            {
+                "github": "echtnurich"
+            },
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "hvv USAR-Plan",
+                "source": "https://www.hvv.de/de/plaene"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "kvv-avg",
         "contributors": [
             {
@@ -105,6 +156,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvo-db-sbd",
+        "contributors": [
+            {
+                "github": "Unterwerk"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan S-Bahn Dresden",
+                "source": "https://assets.static-bahn.de/dam/jcr:5b9c05ce-1bd8-46f7-9b99-4445807baa48/246507-327552.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-db-sbs",
         "contributors": [
             {
@@ -119,52 +184,16 @@
         ]
     },
     {
-        "shortOperatorName": "hvv-hha",
+        "shortOperatorName": "vvs-ssb-stadtbahn",
         "contributors": [
             {
-                "github": "echtnurich"
+                "github": "jheubuch"
             }
         ],
         "sources": [
             {
-                "name": "hvv USAR Plan",
-                "source": "https://www.hvv.de/de/plaene"
-            },
-            {
-                "name": "Wikipedia U-Bahn Hamburg",
-                "source": "https://de.wikipedia.org/wiki/U-Bahn_Hamburg"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "hvv-db-sbhh",
-        "contributors": [
-            {
-                "github": "echtnurich"
-            }
-        ],
-        "sources": [
-            {
-                "name": "hvv USAR Plan",
-                "source": "https://www.hvv.de/de/plaene"
-            },
-            {
-                "name": "Wikipedia S-Bahn Hamburg",
-                "source": "https://de.wikipedia.org/wiki/S-Bahn_Hamburg"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "hvv-akn",
-        "contributors": [
-            {
-                "github": "echtnurich"
-            }
-        ],
-        "sources": [
-            {
-                "name": "hvv USAR Plan",
-                "source": "https://www.hvv.de/de/plaene"
+                "name": "Netzplan Stadtbahn Stuttgart",
+                "source": "https://download.vvs.de/Stadtbahn_Liniennetz.pdf"
             }
         ]
     }

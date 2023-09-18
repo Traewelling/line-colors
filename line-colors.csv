@@ -8,6 +8,19 @@ gaby,RE80,go-ahead-bayern-gmbh,re-80,#006da7,#ffffff,rectangle
 gaby,RE89,go-ahead-bayern-gmbh,re-89,#006da7,#ffffff,rectangle
 gaby,RE9,go-ahead-bayern-gmbh,re-9,#006da7,#ffffff,rectangle
 gaby,RE96,go-ahead-bayern-gmbh,re-96,#f9b000,#ffffff,rectangle
+hvv-akn,A1,akn-eisenbahn-gmbh,akn-a1,#f7931d,#ffffff,pill
+hvv-akn,A2,akn-eisenbahn-gmbh,akn-a2,#f7931d,#ffffff,pill
+hvv-akn,A3,akn-eisenbahn-gmbh,akn-a3,#f7931d,#ffffff,pill
+hvv-db-sbhh,S1,s-bahn-hamburg,4-0s-1,#36b64b,#ffffff,pill
+hvv-db-sbhh,S11,s-bahn-hamburg,4-0s-11,#36b64b,#ffffff,pill
+hvv-db-sbhh,S2,s-bahn-hamburg,4-0s-2,#c02a49,#ffffff,pill
+hvv-db-sbhh,S21,s-bahn-hamburg,4-0s-21,#c02a49,#ffffff,pill
+hvv-db-sbhh,S3,s-bahn-hamburg,4-0s-3,#4c2795,#ffffff,pill
+hvv-db-sbhh,S31,s-bahn-hamburg,4-0s-31,#4c2795,#ffffff,pill
+hvv-hha,U1,hvv001,7-hvv001-1,#0073c0,#ffffff,rectangle
+hvv-hha,U2,hvv001,7-hvv001-2,#ff2e17,#ffffff,rectangle
+hvv-hha,U3,hvv001,7-hvv001-3,#ffd939,#ffffff,rectangle
+hvv-hha,U4,hvv001,7-hvv001-4,#00b2c1,#ffffff,rectangle
 kvv-avg,S1,albtal-verkehrs-gesellschaft-mbh,4-a6s1-1,#00a76d,#ffffff,rectangle-rounded-corner
 kvv-avg,S2,albtal-verkehrs-gesellschaft-mbh,4-a6-2,#a066aa,#ffffff,rectangle-rounded-corner
 kvv-avg,S4,albtal-verkehrs-gesellschaft-mbh,4-a6s4-4,#ae4a63,#ffffff,rectangle-rounded-corner
@@ -96,6 +109,9 @@ vrs-stadtbahn,65,stadtwerke-bonn,8-s3-65,#c6cc2a,#ffffff,rectangle-rounded-corne
 vrs-stadtbahn,66,stadtwerke-bonn,8-s3-66,#d4417d,#ffffff,rectangle-rounded-corner
 vrs-stadtbahn,67,stadtwerke-bonn,8-s3-67,#e7a8c4,#ffffff,rectangle-rounded-corner
 vrs-stadtbahn,68,stadtwerke-bonn,8-s3-68,#cbaece,#ffffff,rectangle-rounded-corner
+vvo-db-sbd,S 1,db-regio-ag-sudost,4-800469-1,#4f9551,#ffffff,pill
+vvo-db-sbd,S 2,db-regio-ag-sudost,4-800469-2,#f58220,#ffffff,pill
+vvo-db-sbd,S 3,db-regio-ag-sudost,4-800469-3,#00b3ef,#ffffff,pill
 vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,rectangle
 vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,rectangle
 vvs-db-sbs,S2,db-regio-ag-s-bahn-stuttgart,4-800643-2,#ee1c28,#ffffff,rectangle
@@ -105,20 +121,19 @@ vvs-db-sbs,S5,db-regio-ag-s-bahn-stuttgart,4-800643-5,#00acdd,#ffffff,rectangle
 vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,rectangle
 vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,rectangle
 vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,rectangle
-hvv-hha,U1,hvv001,7-hvv001-1,#0073c0,#ffffff,rectangle
-hvv-hha,U2,hvv001,7-hvv001-2,#ff2e17,#ffffff,rectangle
-hvv-hha,U3,hvv001,7-hvv001-3,#ffd939,#ffffff,rectangle
-hvv-hha,U4,hvv001,7-hvv001-4,#00b2c1,#ffffff,rectangle
-hvv-hha,U5,hvv001,7-hvv001-5,#a26118,#ffffff,rectangle
-hvv-db-sbhh,S1,s-bahn-hamburg,4-0s-1,#36b64b,#ffffff,pill
-hvv-db-sbhh,S11,s-bahn-hamburg,4-0s-11,#36b64b,#ffffff,pill
-hvv-db-sbhh,S2,s-bahn-hamburg,4-0s-2,#c02a49,#ffffff,pill
-hvv-db-sbhh,S21,s-bahn-hamburg,4-0s-21,#c02a49,#ffffff,pill
-hvv-db-sbhh,S3,s-bahn-hamburg,4-0s-3,#4c2795,#ffffff,pill
-hvv-db-sbhh,S31,s-bahn-hamburg,4-0s-31,#4c2795,#ffffff,pill
-hvv-db-sbhh,S4,s-bahn-hamburg,4-0s-4,#ec0068,#ffffff,pill
-hvv-db-sbhh,S5,s-bahn-hamburg,4-0s-5,#0195c5,#ffffff,pill
-hvv-db-sbhh,S6,s-bahn-hamburg,4-0s-6,#cfd41d,#ffffff,pill
-hvv-akn,A1,akn-eisenbahn-gmbh,akn-a1,#ff9027,#ffffff,pill
-hvv-akn,A2,akn-eisenbahn-gmbh,akn-a2,#ff9027,#ffffff,pill
-hvv-akn,A3,akn-eisenbahn-gmbh,akn-a3,#ff9027,#ffffff,pill
+vvs-ssb-stadtbahn,U1,,8-vvs020-u1,#cd9c72,#000000,rectangle
+vvs-ssb-stadtbahn,U11,,8-vvs020-u11,#939598,#ffffff,rectangle
+vvs-ssb-stadtbahn,U12,,8-vvs020-u12,#85bbe5,#000000,rectangle
+vvs-ssb-stadtbahn,U13,,8-vvs020-u13,#f59eb2,#000000,rectangle
+vvs-ssb-stadtbahn,U14,,8-vvs020-u14,#69bd51,#000000,rectangle
+vvs-ssb-stadtbahn,U15,,8-vvs020-u15,#015aaa,#ffffff,rectangle
+vvs-ssb-stadtbahn,U2,,8-vvs020-u2,#f36e31,#ffffff,rectangle
+vvs-ssb-stadtbahn,U29,,8-vvs020-u29,#fed304,#000000,rectangle
+vvs-ssb-stadtbahn,U3,,8-vvs020-u3,#946241,#ffffff,rectangle
+vvs-ssb-stadtbahn,U34,,8-vvs020-u34,#69bd51,#000000,rectangle
+vvs-ssb-stadtbahn,U4,,8-vvs020-u4,#7a67ae,#ffffff,rectangle
+vvs-ssb-stadtbahn,U5,,8-vvs020-u5,#00baf1,#000000,rectangle
+vvs-ssb-stadtbahn,U6,,8-vvs020-u6,#ed028c,#ffffff,rectangle
+vvs-ssb-stadtbahn,U7,,8-vvs020-u7,#0ab38d,#ffffff,rectangle
+vvs-ssb-stadtbahn,U8,,8-vvs020-u8,#fed304,#000000,rectangle
+vvs-ssb-stadtbahn,U9,,8-vvs020-u9,#bfb678,#000000,rectangle
