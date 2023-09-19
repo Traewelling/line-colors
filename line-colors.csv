@@ -106,6 +106,20 @@ vbb-db-sbahn,S75,s-bahn-berlin,4-08-75,#764d9a,#ffffff,,pill
 vbb-db-sbahn,S8,s-bahn-berlin,4-08-8,#4fa433,#ffffff,,pill
 vbb-db-sbahn,S85,s-bahn-berlin,4-08-85,#4fa433,#ffffff,,pill
 vbb-db-sbahn,S9,s-bahn-berlin,4-08-9,#951732,#ffffff,,pill
+vgn-db-sbn,S 1,db-regio-ag-bayern,4-800721-1,#92292e,#ffffff,,rectangle
+vgn-db-sbn,S 2,db-regio-ag-bayern,4-800721-2,#4dbd38,#ffffff,,rectangle
+vgn-db-sbn,S 3,db-regio-ag-bayern,4-800721-3,#f1471d,#ffffff,,rectangle
+vgn-db-sbn,S 4,db-regio-ag-bayern,4-800721-4,#2c3797,#ffffff,,rectangle
+vgn-db-sbn,S 5,db-regio-ag-bayern,4-800721-5,#0c7bc1,#ffffff,,rectangle
+vgn-db-sbn,S 6,db-regio-ag-bayern,4-800721-6,#95af33,#ffffff,,rectangle
+vgn-vag-tram,4,,8-vanstr-4,#f46989,#ffffff,,rectangle
+vgn-vag-tram,5,,8-vanstr-5,#8a3ea3,#ffffff,,rectangle
+vgn-vag-tram,6,,8-vanstr-6,#fcf105,#151515,,rectangle
+vgn-vag-tram,7,,8-vanstr-7,#9ba1d9,#ffffff,,rectangle
+vgn-vag-tram,8,,8-vanstr-8,#32bdf2,#ffffff,,rectangle
+vgn-vag-ubahn,U 1,,7-vanuba-1,#1c62aa,#ffffff,,rectangle
+vgn-vag-ubahn,U 2,,7-vanuba-2,#ed1c24,#ffffff,,rectangle
+vgn-vag-ubahn,U 3,,7-vanuba-3,#4dc2bb,#ffffff,,rectangle
 vor-oebb,S1,osterreichische-bundesbahnen,4-81-1-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-oebb,S2,osterreichische-bundesbahnen,4-81-2-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-oebb,S3,osterreichische-bundesbahnen,4-81-3-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner

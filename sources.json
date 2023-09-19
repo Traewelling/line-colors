@@ -212,6 +212,48 @@
         ]
     },
     {
+        "shortOperatorName": "vgn-db-sbn",
+        "contributors": [
+            {
+                "github": "tomabrafix"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VGN Schienennetzplan Gesamtraum",
+                "source": "https://www.vgn.de/liniennetze/schienennetz_gesamtraum/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vgn-vag-tram",
+        "contributors": [
+            {
+                "github": "tomabrafix"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VGN Schienennetzplan Nürnberg-Fürth",
+                "source": "https://www.vgn.de/liniennetze/schienennetz_nuernberg_furth/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vgn-vag-ubahn",
+        "contributors": [
+            {
+                "github": "tomabrafix"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VGN Schienennetzplan Nürnberg-Fürth",
+                "source": "https://www.vgn.de/liniennetze/schienennetz_nuernberg_furth/"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vor-oebb",
         "contributors": [
             {
