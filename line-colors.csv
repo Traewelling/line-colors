@@ -66,11 +66,11 @@ nah-sh,RE 83,erixx,erx-re83,#2d53a0,#ffffff,rectangle
 nah-sh,RB 84,erixx,erx-rb84,#e4afd2,#000000,rectangle
 nah-sh,RB 85,db-regio-ag-nord,rb-85,#fbb902,#000000,rectangle
 nah-sh,X 85,db-regio-ag-nord,3-b1-x85,#fbb902,#000000,rectangle
-vag-stadtbahn,STR 1,,8-vag011-1,#e8001b,#ffffff,rectangle-rounded-corner
-vag-stadtbahn,STR 2,,8-vag011-2,#13a538,#ffffff,rectangle-rounded-corner
-vag-stadtbahn,STR 3,,8-vag011-3,#f59e00,#ffffff,rectangle-rounded-corner
-vag-stadtbahn,STR 4,,8-vag011-4,#ea5297,#ffffff,rectangle-rounded-corner
-vag-stadtbahn,STR 5,,8-vag011-5,#008bc5,#ffffff,rectangle-rounded-corner
+rvf-vag-stadtbahn,STR 1,,8-vag011-1,#e8001b,#ffffff,rectangle-rounded-corner
+rvf-vag-stadtbahn,STR 2,,8-vag011-2,#13a538,#ffffff,rectangle-rounded-corner
+rvf-vag-stadtbahn,STR 3,,8-vag011-3,#f59e00,#ffffff,rectangle-rounded-corner
+rvf-vag-stadtbahn,STR 4,,8-vag011-4,#ea5297,#ffffff,rectangle-rounded-corner
+rvf-vag-stadtbahn,STR 5,,8-vag011-5,#008bc5,#ffffff,rectangle-rounded-corner
 vbb-db-sbahn,S1,s-bahn-berlin,4-08-1,#eb588f,#ffffff,pill
 vbb-db-sbahn,S2,s-bahn-berlin,4-08-2,#047939,#ffffff,pill
 vbb-db-sbahn,S25,s-bahn-berlin,4-08-25,#047939,#ffffff,pill
