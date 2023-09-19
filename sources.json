@@ -14,6 +14,89 @@
         ]
     },
     {
+        "shortOperatorName": "hvv-akn",
+        "contributors": [
+            {
+                "github": "echtnurich"
+            },
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "hvv USAR-Plan",
+                "source": "https://www.hvv.de/de/plaene"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hvv-db-sbhh",
+        "contributors": [
+            {
+                "github": "echtnurich"
+            },
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "hvv USAR-Plan",
+                "source": "https://www.hvv.de/de/plaene"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hvv-hha",
+        "contributors": [
+            {
+                "github": "echtnurich"
+            },
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "hvv USAR-Plan",
+                "source": "https://www.hvv.de/de/plaene"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "kvv-avg",
+        "contributors": [
+            {
+                "github": "MrKrisKrisu"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVV Liniennetzplan Schiene 2023",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Schiene/2023/KVV-Liniennetzplan_Schiene1.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "kvv-vbk",
+        "contributors": [
+            {
+                "github": "MrKrisKrisu"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVV Liniennetzplan Schiene 2023",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Schiene/2023/KVV-Liniennetzplan_Schiene1.pdf"
+            },
+            {
+                "name": "KVV Liniennetzplan Nightliner 2023",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Schiene/2023/KVV-Liniennetzplan_Nightliner.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mvv-db-sbm",
         "contributors": [
             {
@@ -24,6 +107,93 @@
             {
                 "name": "MVV Gesamtfahrplan",
                 "source": "https://www.mvv-muenchen.de/fahrplanauskunft/index.html#c30293"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "nah-sh",
+        "contributors": [
+            {
+                "github": "asraelvudogel"
+            },
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "NAH.SH Bahnlinienplan",
+                "source": "https://www.nah.sh/assets/2023/nahsh_bahnlinienSH_2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ooevv-linz-linien",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Linz AG Linien",
+                "source": "https://www.linzag.at/media/dokumente/linien_1/infomaterial_1/linien-linienfahrplan.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ooevv-oebb",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan OÖVV",
+                "source": "https://www.oebb.at/dam/jcr:562c11c9-4da3-4253-8623-28601d77e346/liniennetz_ooe.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ooevv-stern-hafferl",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan OÖVV",
+                "source": "https://www.oebb.at/dam/jcr:562c11c9-4da3-4253-8623-28601d77e346/liniennetz_ooe.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "svv-oebb",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan SVV",
+                "source": "https://salzburg-verkehr.at/download/bahnnetz-land-salzburg/?wpdmdl=32234&refresh=6501827b0c3a01694597755"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "svv-slb",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan SVV",
+                "source": "https://salzburg-verkehr.at/download/bahnnetz-land-salzburg/?wpdmdl=32234&refresh=6501827b0c3a01694597755"
             }
         ]
     },
@@ -42,30 +212,58 @@
         ]
     },
     {
-        "shortOperatorName": "vgn-spnv",
+        "shortOperatorName": "vor-oebb",
         "contributors": [
             {
-                "github": "tomabrafix"
+                "github": "rnewhost"
             }
         ],
         "sources": [
             {
-                "name": "VGN Schienennetz Gesamtraum",
-                "source": "https://www.vgn.de/liniennetze/schienennetz_gesamtraum/"
+                "name": "Netzplan VOR",
+                "source": "https://www.vor.at/fileadmin/CONTENT/Downloads/Plaene/Bahnnetz_Plaene/Bahnnetz_Wien_NOE_BGLD_2023.pdf"
             }
         ]
     },
     {
-        "shortOperatorName": "vgn-soepnv",
+        "shortOperatorName": "vor-wl",
         "contributors": [
             {
-                "github": "tomabrafix"
+                "github": "rnewhost"
             }
         ],
         "sources": [
             {
-                "name": "VGN Schienennetz Nürnberg-Fürth",
-                "source": "https://www.vgn.de/liniennetze/schienennetz_nuernberg_furth/"
+                "name": "Netzplan Wiener Linien",
+                "source": "https://www.wienerlinien.at/media/files/2016/gesamtnetzplan_wien_176236.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrs-stadtbahn",
+        "contributors": [
+            {
+                "github": "jeyemwey"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz VRS",
+                "source": "https://www.vrs.de/fahren/liniennetz/liniennetz-interaktiv"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvo-db-sbd",
+        "contributors": [
+            {
+                "github": "Unterwerk"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan S-Bahn Dresden",
+                "source": "https://assets.static-bahn.de/dam/jcr:5b9c05ce-1bd8-46f7-9b99-4445807baa48/246507-327552.pdf"
             }
         ]
     },
@@ -80,6 +278,20 @@
             {
                 "name": "Netzplan S-Bahn Stuttgart",
                 "source": "https://download.vvs.de/SBahn_Liniennetz.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-ssb-stadtbahn",
+        "contributors": [
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Stadtbahn Stuttgart",
+                "source": "https://download.vvs.de/Stadtbahn_Liniennetz.pdf"
             }
         ]
     }
