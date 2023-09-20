@@ -189,5 +189,5 @@ mvv-mvg-ubahn,U3,swm001,7-swm001-3,#ED6720,#ffffff,,rectangle
 mvv-mvg-ubahn,U4,swm001,7-swm001-4,#00AA85,#ffffff,,rectangle
 mvv-mvg-ubahn,U5,swm001,7-swm001-5,#BD7B00,#ffffff,,rectangle
 mvv-mvg-ubahn,U6,swm001,7-swm001-6,#0065AF,#ffffff,,rectangle
-mvv-mvg-ubahn,U7,swm001,7-swm001-7,"linear-gradient(to top left, #51832B 50%, #C3022D 50%)",#ffffff,,rectangle
+mvv-mvg-ubahn,U7,swm001,7-swm001-7,"linear-gradient(to top left, #C3022D 50%, #51832B 50%)",#ffffff,,rectangle
 mvv-mvg-ubahn,U8,swm001,7-swm001-8,"linear-gradient(to top left, #ED6720 50%, #C3022D 50%);",#ffffff,,rectangle
