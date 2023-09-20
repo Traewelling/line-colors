@@ -27,7 +27,7 @@ function toggleDetails(event) {
             const textColor = this.getAttribute("textColor");
 
             let style = document.createElement("style");
-            style.textContent = `div { background-color: ${backgroundColor}; color: ${textColor}}; }`;
+            style.textContent = `div { background: ${backgroundColor}; color: ${textColor}}; }`;
 
             shadowRoot.appendChild(style);
 

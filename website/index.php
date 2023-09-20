@@ -120,7 +120,7 @@ include_once "../validation/common.php";
                                         <dd class="<?= in_array($key, ["backgroundColor", "textColor", "shape"]) ? "monospace" : "" ?>">
                                             <?php if (in_array($key, ["backgroundColor", "textColor"])): ?>
                                                 <span class="color-preview"
-                                                      style="background-color: <?= $value ?>"></span>
+                                                      style="background: <?= $value ?>"></span>
                                             <?php endif ?>
                                             <?= $value ?>
                                         </dd>

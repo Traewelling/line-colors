@@ -183,3 +183,11 @@ vvs-ssb-stadtbahn,U6,,8-vvs020-u6,#ed028c,#ffffff,,rectangle
 vvs-ssb-stadtbahn,U7,,8-vvs020-u7,#0ab38d,#ffffff,,rectangle
 vvs-ssb-stadtbahn,U8,,8-vvs020-u8,#fed304,#000000,,rectangle
 vvs-ssb-stadtbahn,U9,,8-vvs020-u9,#bfb678,#000000,,rectangle
+mvv-mvg-ubahn,U1,swm001,7-swm001-1,#3C7333,#ffffff,,rectangle
+mvv-mvg-ubahn,U2,swm001,7-swm001-2,#C3022D,#ffffff,,rectangle
+mvv-mvg-ubahn,U3,swm001,7-swm001-3,#ED6720,#ffffff,,rectangle
+mvv-mvg-ubahn,U4,swm001,7-swm001-4,#00AA85,#ffffff,,rectangle
+mvv-mvg-ubahn,U5,swm001,7-swm001-5,#BD7B00,#ffffff,,rectangle
+mvv-mvg-ubahn,U6,swm001,7-swm001-6,#0065AF,#ffffff,,rectangle
+mvv-mvg-ubahn,U7,swm001,7-swm001-7,"linear-gradient(to top left, #51832B 50%, #C3022D 50%)",#ffffff,,rectangle
+mvv-mvg-ubahn,U8,swm001,7-swm001-8,"linear-gradient(to top left, #ED6720 50%, #C3022D 50%);",#ffffff,,rectangle
