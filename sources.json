@@ -281,6 +281,20 @@
             }
         ]
     },
+        {
+        "shortOperatorName": "vrn-sbahn-rn",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz S-Bahn Rhein-Neckar",
+                "source": "https://www.s-bahn-rheinneckar.de/fahrplan/streckenfpl"
+            }
+        ]
+    },
     {
         "shortOperatorName": "vrs-stadtbahn",
         "contributors": [
