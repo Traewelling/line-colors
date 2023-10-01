@@ -114,8 +114,6 @@ vbb-db-sbahn,S75,s-bahn-berlin,4-08-75,#764d9a,#ffffff,,pill
 vbb-db-sbahn,S8,s-bahn-berlin,4-08-8,#4fa433,#ffffff,,pill
 vbb-db-sbahn,S85,s-bahn-berlin,4-08-85,#4fa433,#ffffff,,pill
 vbb-db-sbahn,S9,s-bahn-berlin,4-08-9,#951732,#ffffff,,pill
-vms-mrb,RB 30,mitteldeutsche-regiobahn,8010397,#ed9126,#ffffff,,rectangle
-vms-mrb,RE 3,mitteldeutsche-regiobahn,8010085,#0093d4,#ffffff,,rectangle
 vgn-db-sbn,S 1,db-regio-ag-bayern,4-800721-1,#92292e,#ffffff,,rectangle
 vgn-db-sbn,S 2,db-regio-ag-bayern,4-800721-2,#4dbd38,#ffffff,,rectangle
 vgn-db-sbn,S 3,db-regio-ag-bayern,4-800721-3,#f1471d,#ffffff,,rectangle
@@ -130,6 +128,8 @@ vgn-vag-tram,8,,8-vanstr-8,#32bdf2,#ffffff,,rectangle
 vgn-vag-ubahn,U 1,,7-vanuba-1,#1c62aa,#ffffff,,rectangle
 vgn-vag-ubahn,U 2,,7-vanuba-2,#ed1c24,#ffffff,,rectangle
 vgn-vag-ubahn,U 3,,7-vanuba-3,#4dc2bb,#ffffff,,rectangle
+vms-mrb,RB 30,mitteldeutsche-regiobahn,8010397,#ed9126,#ffffff,,rectangle
+vms-mrb,RE 3,mitteldeutsche-regiobahn,8010085,#0093d4,#ffffff,,rectangle
 vor-oebb,S1,osterreichische-bundesbahnen,4-81-1-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-oebb,S2,osterreichische-bundesbahnen,4-81-2-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-oebb,S3,osterreichische-bundesbahnen,4-81-3-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
