@@ -82,6 +82,10 @@ kvv-vbk,E,,8-kvv021-e,#ffffff,#000000,,rectangle
 kvv-vbk,NL1,,8-kvv021-nl1,#ed1c24,#ffffff,,rectangle
 kvv-vbk,NL2,,8-kvv021-nl2,#0071bc,#ffffff,,rectangle
 mitteldeutsche-regiobahn,RB45,mitteldeutsche-regiobahn,rb-45,#ffd502,#000000,,rectangle
+mobiel,1,mobiel-gmbh,8-owl031-1,#009fe0,#ffffff,,rectangle
+mobiel,2,mobiel-gmbh,8-owl031-2,#008f36,#ffffff,,rectangle
+mobiel,3,mobiel-gmbh,8-owl031-3,#ffed00,#00264f,,rectangle
+mobiel,4,mobiel-gmbh,8-owl031-4,#e3001b,#ffffff,,rectangle
 mvv-db-sbm,S1,db-regio-ag-s-bahn-munchen,4-800725-1,#1fbce6,#ffffff,,pill
 mvv-db-sbm,S2,db-regio-ag-s-bahn-munchen,4-800725-2,#79b833,#ffffff,,pill
 mvv-db-sbm,S20,db-regio-ag-s-bahn-munchen,4-800725-20,#f05972,#ffffff,,pill
@@ -90,6 +94,20 @@ mvv-db-sbm,S4,db-regio-ag-s-bahn-munchen,4-800725-4,#e41f28,#ffffff,,pill
 mvv-db-sbm,S6,db-regio-ag-s-bahn-munchen,4-800725-6,#008f5c,#ffffff,,pill
 mvv-db-sbm,S7,db-regio-ag-s-bahn-munchen,4-800725-7,#8a372f,#ffffff,,pill
 mvv-db-sbm,S8,db-regio-ag-s-bahn-munchen,4-800725-8,#2d2b29,#ffcd01,,pill
+mvv-mvg-tram,12,swm002,8-swm002-12,#903f97,#ffffff,,rectangle
+mvv-mvg-tram,16,swm002,8-swm002-16,#006cb3,#ffffff,,rectangle
+mvv-mvg-tram,17,swm002,8-swm002-17,#875a46,#ffffff,,rectangle
+mvv-mvg-tram,18,swm002,8-swm002-18,#20b14a,#ffffff,,rectangle
+mvv-mvg-tram,19,swm002,8-swm002-19,#ee1c25,#ffffff,,rectangle
+mvv-mvg-tram,20,swm002,8-swm002-20,#16c0e9,#ffffff,,rectangle
+mvv-mvg-tram,21,swm002,8-swm002-21,#16c0e9,#ffffff,,rectangle
+mvv-mvg-tram,23,swm002,8-swm002-23,#b3d235,#ffffff,,rectangle
+mvv-mvg-tram,25,swm002,8-swm002-25,#f48f99,#ffffff,,rectangle
+mvv-mvg-tram,27,swm002,8-swm002-27,#903f97,#ffffff,,rectangle
+mvv-mvg-tram,27,swm002,8-swm002-27,#fba61c,#ffffff,,rectangle
+mvv-mvg-tram,28,swm002,8-swm002-28,#ffffff,#fba822,#fba822,rectangle
+mvv-mvg-tram,29,swm002,8-swm002-29,#ffffff,#ec1622,#ec1622,rectangle
+mvv-mvg-tram,E7,swm002,8-swm002-e7,#ffffff,#000000,#ffffff,rectangle
 nah-sh,RE 6,db-regio-ag-nord,re-6,#00975f,#ffffff,,rectangle
 nah-sh,RB 61,nordbahn-eisenbahngesellschaft,nbe-rb61,#174094,#ffffff,,rectangle
 nah-sh,RB 62,db-regio-ag-nord,rb-62,#00aeca,#000000,,rectangle

@@ -139,6 +139,34 @@
         ]
     },
     {
+        "shortOperatorName": "mitteldeutsche-regiobahn",
+        "contributors": [
+            {
+                "github": "jeyemwey"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VBB Liniennetz Regionalverkehr",
+                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "mobiel",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan 2023",
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mvv-db-sbm",
         "contributors": [
             {
@@ -153,18 +181,13 @@
         ]
     },
     {
-        "shortOperatorName": "mitteldeutsche-regiobahn",
+        "shortOperatorName": "mvv-mvg-tram",
         "contributors": [
             {
-                "github": "jeyemwey"
+                "github": "DRSchlaubi"
             }
         ],
-        "sources": [
-            {
-                "name": "VBB Liniennetz Regionalverkehr",
-                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
-            }
-        ]
+        "sources": []
     },
     {
         "shortOperatorName": "nah-sh",
