@@ -14,6 +14,57 @@
         ]
     },
     {
+        "shortOperatorName": "hvv-akn",
+        "contributors": [
+            {
+                "github": "echtnurich"
+            },
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "hvv USAR-Plan",
+                "source": "https://www.hvv.de/de/plaene"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hvv-db-sbhh",
+        "contributors": [
+            {
+                "github": "echtnurich"
+            },
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "hvv USAR-Plan",
+                "source": "https://www.hvv.de/de/plaene"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hvv-hha",
+        "contributors": [
+            {
+                "github": "echtnurich"
+            },
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "hvv USAR-Plan",
+                "source": "https://www.hvv.de/de/plaene"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "kvv-avg",
         "contributors": [
             {
@@ -77,6 +128,76 @@
         ]
     },
     {
+        "shortOperatorName": "ooevv-linz-linien",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Linz AG Linien",
+                "source": "https://www.linzag.at/media/dokumente/linien_1/infomaterial_1/linien-linienfahrplan.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ooevv-oebb",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan OÖVV",
+                "source": "https://www.oebb.at/dam/jcr:562c11c9-4da3-4253-8623-28601d77e346/liniennetz_ooe.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ooevv-stern-hafferl",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan OÖVV",
+                "source": "https://www.oebb.at/dam/jcr:562c11c9-4da3-4253-8623-28601d77e346/liniennetz_ooe.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "svv-oebb",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan SVV",
+                "source": "https://salzburg-verkehr.at/download/bahnnetz-land-salzburg/?wpdmdl=32234&refresh=6501827b0c3a01694597755"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "svv-slb",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan SVV",
+                "source": "https://salzburg-verkehr.at/download/bahnnetz-land-salzburg/?wpdmdl=32234&refresh=6501827b0c3a01694597755"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vbb-db-sbahn",
         "contributors": [
             {
@@ -91,6 +212,104 @@
         ]
     },
     {
+        "shortOperatorName": "vgn-db-sbn",
+        "contributors": [
+            {
+                "github": "tomabrafix"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VGN Schienennetzplan Gesamtraum",
+                "source": "https://www.vgn.de/liniennetze/schienennetz_gesamtraum/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vgn-vag-tram",
+        "contributors": [
+            {
+                "github": "tomabrafix"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VGN Schienennetzplan Nürnberg-Fürth",
+                "source": "https://www.vgn.de/liniennetze/schienennetz_nuernberg_furth/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vgn-vag-ubahn",
+        "contributors": [
+            {
+                "github": "tomabrafix"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VGN Schienennetzplan Nürnberg-Fürth",
+                "source": "https://www.vgn.de/liniennetze/schienennetz_nuernberg_furth/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vms-mrb",
+        "contributors": [
+            {
+                "github": "hoolycrash"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan",
+                "source": "https://download.transdev.de/transdev/uploads/mdr/media_document/26/original.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vor-oebb",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan VOR",
+                "source": "https://www.vor.at/fileadmin/CONTENT/Downloads/Plaene/Bahnnetz_Plaene/Bahnnetz_Wien_NOE_BGLD_2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vor-wl",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Wiener Linien",
+                "source": "https://www.wienerlinien.at/media/files/2016/gesamtnetzplan_wien_176236.pdf"
+            }
+        ]
+    },
+        {
+        "shortOperatorName": "vrn-sbahn-rn",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz S-Bahn Rhein-Neckar",
+                "source": "https://www.s-bahn-rheinneckar.de/fahrplan/streckenfpl"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrs-stadtbahn",
         "contributors": [
             {
@@ -101,6 +320,20 @@
             {
                 "name": "Liniennetz VRS",
                 "source": "https://www.vrs.de/fahren/liniennetz/liniennetz-interaktiv"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvo-db-regio",
+        "contributors": [
+            {
+                "github": "hoolycrash"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan",
+                "source": "https://assets.static-bahn.de/dam/jcr:6780b540-43a7-4c03-8e02-2d64231667c1/Streckennetz%20DB%20Regio%20rund%20um%20Dresden_.pdf"
             }
         ]
     },
@@ -133,6 +366,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvo-tram",
+        "contributors": [
+            {
+                "github": "hoolycrash"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan",
+                "source": "https://www.dvb.de/-/media/files/liniennetz/2023-09-04/dvblnp040923bauwebpdf.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-ssb-stadtbahn",
         "contributors": [
             {
@@ -143,6 +390,34 @@
             {
                 "name": "Netzplan Stadtbahn Stuttgart",
                 "source": "https://download.vvs.de/Stadtbahn_Liniennetz.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "zvon-odeg",
+        "contributors": [
+            {
+                "github": "hoolycrash"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan",
+                "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "zvon-tl",
+        "contributors": [
+            {
+                "github": "hoolycrash"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan",
+                "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
             }
         ]
     }
