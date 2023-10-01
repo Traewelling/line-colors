@@ -229,6 +229,11 @@ vrn-sbahn-rn,S33,db-regio-ag-mitte,4-801539-33,#833aa1,#ffffff,,pill
 vrn-sbahn-rn,S39,db-regio-ag-mitte,4-801539-39,#ffffff,#bf5810,#bf5810,pill
 vrn-sbahn-rn,S44,db-regio-ag-mitte,4-801539-44,#ffffff,#00a650,#00a650,pill
 vrn-sbahn-rn,S51,db-regio-ag-mitte,4-801518-51,#f68a25,#ffffff,,pill
+vrr-rrx-regional,RE 1,national-express,re-1,#ef7c00,#fffff,,rectangle-rounded-corner
+vrr-rrx-regional,RE 4,national-express,re-4,#ef7c00,#fffff,,rectangle-rounded-corner
+vrr-rrx-regional,RE 5,national-express,re-5,#ef7c00,#fffff,,rectangle-rounded-corner
+vrr-rrx-regional,RE 6,national-express,re-5,#ef7c00,#fffff,,rectangle-rounded-corner
+vrr-rrx-regional,RE 11,national-express,re-5,#ef7c00,#fffff,,rectangle-rounded-corner
 vrs-stadtbahn,1,,8-vrs001-1,#e1081c,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,3,,8-vrs001-3,#f29ec2,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,4,,8-vrs001-4,#eb72a5,#ffffff,,rectangle-rounded-corner
