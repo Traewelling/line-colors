@@ -128,6 +128,8 @@ vgn-vag-tram,8,,8-vanstr-8,#32bdf2,#ffffff,,rectangle
 vgn-vag-ubahn,U 1,,7-vanuba-1,#1c62aa,#ffffff,,rectangle
 vgn-vag-ubahn,U 2,,7-vanuba-2,#ed1c24,#ffffff,,rectangle
 vgn-vag-ubahn,U 3,,7-vanuba-3,#4dc2bb,#ffffff,,rectangle
+vms-mrb,RB 30,mitteldeutsche-regiobahn,8010397,#ed9126,#ffffff,,rectangle
+vms-mrb,RE 3,mitteldeutsche-regiobahn,8010085,#0093d4,#ffffff,,rectangle
 vor-oebb,S1,osterreichische-bundesbahnen,4-81-1-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-oebb,S2,osterreichische-bundesbahnen,4-81-2-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-oebb,S3,osterreichische-bundesbahnen,4-81-3-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
@@ -178,9 +180,32 @@ vrs-stadtbahn,65,stadtwerke-bonn,8-s3-65,#c6cc2a,#ffffff,,rectangle-rounded-corn
 vrs-stadtbahn,66,stadtwerke-bonn,8-s3-66,#d4417d,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,67,stadtwerke-bonn,8-s3-67,#e7a8c4,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,68,stadtwerke-bonn,8-s3-68,#cbaece,#ffffff,,rectangle-rounded-corner
+vvo-db-regio,RB U28,db-regio-ag-sudost,5400003,#014d6f,#ffffff,,pill
+vvo-db-regio,RB 31,db-regio-ag-nordost,8010089,#6ab023,#ffffff,,rectangle
+vvo-db-regio,RB 33,db-regio-ag-sudost,8010089,#ec7797,#ffffff,,rectangle
+vvo-db-regio,RB 71,db-regio-ag-sudost,8012959,#ad006f,#ffffff,,rectangle
+vvo-db-regio,RB 72,db-regio-ag-sudost,8010163,#9c321b,#ffffff,,rectangle
+vvo-db-regio,RE 15,db-regio-ag-nordost,8010177,#effd400,#000000,,rectangle
+vvo-db-regio,RE 18,db-regio-ag-nordost,8010073,#ec7404,#ffffff,,rectangle
+vvo-db-regio,RE 19,db-regio-ag-sudost,8010085,#00895d,#ffffff,,rectangle
+vvo-db-regio,RE 50,db-regio-ag-sudost,8010085,#b60d1c,#ffffff,,rectangle
 vvo-db-sbd,S 1,db-regio-ag-sudost,4-800469-1,#4f9551,#ffffff,,pill
 vvo-db-sbd,S 2,db-regio-ag-sudost,4-800469-2,#f58220,#ffffff,,pill
 vvo-db-sbd,S 3,db-regio-ag-sudost,4-800469-3,#00b3ef,#ffffff,,pill
+vvo-db-sbd,S 8,db-regio-ag-sudost,8010006,#2d92ad,#ffffff,,pill
+vvo-tram,1,,8-voe011-1,#e30018,#ffffff,,rectangle-rounded-corner
+vvo-tram,2,,8-voe011-2,#eb5b2d,#ffffff,,rectangle-rounded-corner
+vvo-tram,3,,8-voe011-3,#e5005a,#ffffff,,rectangle-rounded-corner
+vvo-tram,4,,8-voe011-4,#c9061a,#ffffff,,rectangle-rounded-corner
+vvo-tram,6,,8-voe011-6,#ffdd00,#000000,,rectangle-rounded-corner
+vvo-tram,7,,8-voe011-7,#9e0234,#ffffff,,rectangle-rounded-corner
+vvo-tram,8,,8-voe011-8,#229133,#ffffff,,rectangle-rounded-corner
+vvo-tram,9,,8-voe011-9,#93c355,#ffffff,,rectangle-rounded-corner
+vvo-tram,10,,8-voe011-10,#f9b000,#ffffff,,rectangle-rounded-corner
+vvo-tram,11,,8-voe011-11,#c2ddaf,#000000,,rectangle-rounded-corner
+vvo-tram,12,,8-voe011-12,#006b42,#ffffff,,rectangle-rounded-corner
+vvo-tram,13,,8-voe011-13,#fdc300,#000000,,rectangle-rounded-corner
+vvo-tram,20,,8-voe011-20,#000000,#ffffff,,rectangle-rounded-corner
 vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,,rectangle
 vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,,rectangle
 vvs-db-sbs,S2,db-regio-ag-s-bahn-stuttgart,4-800643-2,#ee1c28,#ffffff,,rectangle
@@ -206,3 +231,11 @@ vvs-ssb-stadtbahn,U6,,8-vvs020-u6,#ed028c,#ffffff,,rectangle
 vvs-ssb-stadtbahn,U7,,8-vvs020-u7,#0ab38d,#ffffff,,rectangle
 vvs-ssb-stadtbahn,U8,,8-vvs020-u8,#fed304,#000000,,rectangle
 vvs-ssb-stadtbahn,U9,,8-vvs020-u9,#bfb678,#000000,,rectangle
+zvon-odeg,RB 64,ostdeutsche-eisenbahn-gmbh,8010177,#006552,#ffffff,,rectangle
+zvon-odeg,RB 65,ostdeutsche-eisenbahn-gmbh,8010073,#005b94,#ffffff,,rectangle
+zvon-tl,TLX RE1,trilex-express-die-landerbahn-gmbh-dlb,8010085,#ec7404,,#ffffff,rectangle
+zvon-tl,TLX RE2,trilex-express-die-landerbahn-gmbh-dlb,8010085,#e2001a,,#ffffff,rectangle
+zvon-tl,TL RB60,trilex-die-landerbahn-gmbh-dlb,8010085,#38a962,#ffffff,,rectangle
+zvon-tl,TL RB61,trilex-die-landerbahn-gmbh-dlb,8010085,#00632e,#ffffff,,rectangle
+zvon-tl,TL L7,trilex-die-landerbahn-gmbh-dlb,8012979,#ec7404,#ffffff,,rectangle
+zvon-tl,TL L9,trilex-die-landerbahn-gmbh-dlb,5400198,#58585a,#ffffff,,rectangle
