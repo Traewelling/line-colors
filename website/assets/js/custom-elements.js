@@ -21,13 +21,15 @@ function toggleDetails(event) {
             let template = document.getElementById("template-for-line-logo-" + shape);
             let templateContent = template.content;
 
-            const shadowRoot = this.attachShadow({mode: "open"});
+            const shadowRoot = this.attachShadow({ mode: "open" });
 
             const backgroundColor = this.getAttribute("backgroundColor");
             const textColor = this.getAttribute("textColor");
+            const borderColor = this.getAttribute("borderColor");
 
             let style = document.createElement("style");
-            style.textContent = `div { background-color: ${backgroundColor}; color: ${textColor}}; }`;
+            const borderStyle = borderColor ? `border: 0.1em solid ${borderColor};` : "";
+            style.textContent = `div { background-color: ${backgroundColor}; color: ${textColor}; ${borderStyle} }`;
 
             shadowRoot.appendChild(style);
 
