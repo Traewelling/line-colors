@@ -26,6 +26,11 @@ db-regio-nordost,RE6,db-regio-ag-nordost,re-6,#da6ba2,#ffffff,,rectangle
 db-regio-nordost,RE66,db-regio-ag-nordost,re-66,#007734,#ffffff,,rectangle
 db-regio-nordost,RE7,db-regio-ag-nordost,re-7,#007734,#ffffff,,rectangle
 db-regio-sudost,RE14,db-regio-ag-sudost,re-14,#a98956,#ffffff,,rectangle
+gabw,IRE 1,go-ahead-baden-wurttemberg-gmbh,ire-1,#88c946,#ffffff,,rectangle
+gabw,MEX 13,go-ahead-baden-wurttemberg-gmbh,mex-13,#00b9f2,#ffffff,,rectangle
+gabw,MEX 16,go-ahead-baden-wurttemberg-gmbh,mex-16,#0073c0,#ffffff,,rectangle
+gabw,RE 8,go-ahead-baden-wurttemberg-gmbh,re-8,#b350a8,#ffffff,,rectangle
+gabw,RE 90,go-ahead-baden-wurttemberg-gmbh,re-90,#fd3083,#ffffff,,rectangle
 gaby,RB86,go-ahead-bayern-gmbh,rb-86,#77aed2,#ffffff,,rectangle
 gaby,RB87,go-ahead-bayern-gmbh,rb-87,#77aed2,#ffffff,,rectangle
 gaby,RB89,go-ahead-bayern-gmbh,rb-89,#006da7,#ffffff,,rectangle
@@ -157,6 +162,11 @@ ooevv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1589920-5372014,#342980,#fffff
 ooevv-oebb,S4,osterreichische-bundesbahnen,4-81-4-1589920-5372014,#a4ba00,#ffffff,,rectangle-rounded-corner
 ooevv-stern-hafferl,S5,stern-hafferl-verkehrs-gmbh,4-810008-5,#e2007a,#ffffff,,rectangle-rounded-corner
 polregio,RB91,polregio,r-91,#eb7405,#ffffff,,rectangle
+rvf-vag-stadtbahn,STR 1,,8-vag011-1,#e8001b,#ffffff,,rectangle-rounded-corner
+rvf-vag-stadtbahn,STR 2,,8-vag011-2,#13a538,#ffffff,,rectangle-rounded-corner
+rvf-vag-stadtbahn,STR 3,,8-vag011-3,#f59e00,#ffffff,,rectangle-rounded-corner
+rvf-vag-stadtbahn,STR 4,,8-vag011-4,#ea5297,#ffffff,,rectangle-rounded-corner
+rvf-vag-stadtbahn,STR 5,,8-vag011-5,#008bc5,#ffffff,,rectangle-rounded-corner
 svv-oebb,R3,osterreichische-bundesbahnen,r-3,#9dba3b,#ffffff,,rectangle-rounded-corner
 svv-oebb,R9,osterreichische-bundesbahnen,r-9,#dbbe2b,#ffffff,,rectangle-rounded-corner
 svv-oebb,R21,osterreichische-bundesbahnen,r-21,#42b3ca,#ffffff,,rectangle-rounded-corner

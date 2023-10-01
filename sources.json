@@ -28,6 +28,20 @@
         ]
     },
     {
+        "shortOperatorName": "gabw",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Go-Ahead BW Netzplan",
+                "source": "https://www.go-ahead-bw.de/fileadmin/user_upload/content/unterwegs/liniennetz/GABW_Netz_A4_220315_pr.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "gaby",
         "contributors": [
             {
@@ -203,6 +217,20 @@
             {
                 "name": "NAH.SH Bahnlinienplan",
                 "source": "https://www.nah.sh/assets/2023/nahsh_bahnlinienSH_2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "rvf-vag-stadtbahn",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Linienfahrpläne",
+                "source": "https://www.vag-freiburg.de/fahrplan/linien-fahrplaene"
             }
         ]
     },
