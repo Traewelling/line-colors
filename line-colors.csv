@@ -136,11 +136,6 @@ nah-sh,RE 83,erixx,erx-re83,#2d53a0,#ffffff,,rectangle
 nah-sh,RB 84,erixx,erx-rb84,#e4afd2,#000000,,rectangle
 nah-sh,RB 85,db-regio-ag-nord,rb-85,#fbb902,#000000,,rectangle
 nah-sh,X 85,db-regio-ag-nord,3-b1-x85,#fbb902,#000000,,rectangle
-rvf-vag-stadtbahn,STR 1,,8-vag011-1,#e8001b,#ffffff,,rectangle-rounded-corner
-rvf-vag-stadtbahn,STR 2,,8-vag011-2,#13a538,#ffffff,,rectangle-rounded-corner
-rvf-vag-stadtbahn,STR 3,,8-vag011-3,#f59e00,#ffffff,,rectangle-rounded-corner
-rvf-vag-stadtbahn,STR 4,,8-vag011-4,#ea5297,#ffffff,,rectangle-rounded-corner
-rvf-vag-stadtbahn,STR 5,,8-vag011-5,#008bc5,#ffffff,,rectangle-rounded-corner
 neb-niederbarnimer-eisenbahn,RB12,neb-niederbarnimer-eisenbahn,rb-12,#a5027d,#ffffff,,rectangle
 neb-niederbarnimer-eisenbahn,RB25,neb-niederbarnimer-eisenbahn,rb-25,#007cb0,#ffffff,,rectangle
 neb-niederbarnimer-eisenbahn,RB26,neb-niederbarnimer-eisenbahn,rb-26,#009686,#ffffff,,rectangle
@@ -167,6 +162,11 @@ ooevv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1589920-5372014,#342980,#fffff
 ooevv-oebb,S4,osterreichische-bundesbahnen,4-81-4-1589920-5372014,#a4ba00,#ffffff,,rectangle-rounded-corner
 ooevv-stern-hafferl,S5,stern-hafferl-verkehrs-gmbh,4-810008-5,#e2007a,#ffffff,,rectangle-rounded-corner
 polregio,RB91,polregio,r-91,#eb7405,#ffffff,,rectangle
+rvf-vag-stadtbahn,STR 1,,8-vag011-1,#e8001b,#ffffff,,rectangle-rounded-corner
+rvf-vag-stadtbahn,STR 2,,8-vag011-2,#13a538,#ffffff,,rectangle-rounded-corner
+rvf-vag-stadtbahn,STR 3,,8-vag011-3,#f59e00,#ffffff,,rectangle-rounded-corner
+rvf-vag-stadtbahn,STR 4,,8-vag011-4,#ea5297,#ffffff,,rectangle-rounded-corner
+rvf-vag-stadtbahn,STR 5,,8-vag011-5,#008bc5,#ffffff,,rectangle-rounded-corner
 svv-oebb,R3,osterreichische-bundesbahnen,r-3,#9dba3b,#ffffff,,rectangle-rounded-corner
 svv-oebb,R9,osterreichische-bundesbahnen,r-9,#dbbe2b,#ffffff,,rectangle-rounded-corner
 svv-oebb,R21,osterreichische-bundesbahnen,r-21,#42b3ca,#ffffff,,rectangle-rounded-corner
