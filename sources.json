@@ -282,6 +282,15 @@
         ]
     },
     {
+        "shortOperatorName": "vrr-rrx-regional",
+        "contributors": [
+            {
+                "github": "ChillLP"
+            }
+        ],
+        "sources": []
+    },
+    {
         "shortOperatorName": "vrs-stadtbahn",
         "contributors": [
             {
