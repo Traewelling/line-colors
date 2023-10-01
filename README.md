@@ -30,13 +30,18 @@ Local transport networks usually have line colors for:
 If a single line operates in **multiple** transport networks, the color communicated by the operator shall be preferred.
 
 I'd be very happy if this file could expand very fast, so please feel free to add more lines by opening a PR. <br>
+Please keep the PR's small. If possible, create a small PR for each operator. <br>
 
 **BUT FIRST**
 
 - Check that entries are sorted first by `shortOperatorName` and then `lineName`
 - Reference a source in your PR where data can be proved (somewhere from the internet, like a timetable PDF...)
-  - Don't add it to `sources.json`, just mention it in your PR
+    - Also add it to `sources.json`.
 - All entries in the CSV (except `lineName`) shall be in lower case
+
+**THEN**
+- Please checkout at the latest commit of the `main` branch and create a new branch from there
+- Ensure that the validation tests (after pr is created) pass
 
 ## Examples
 

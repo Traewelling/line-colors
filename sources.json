@@ -97,6 +97,20 @@
         ]
     },
     {
+        "shortOperatorName": "mobiel",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan 2023",
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mvv-db-sbm",
         "contributors": [
             {
@@ -109,6 +123,15 @@
                 "source": "https://www.mvv-muenchen.de/fahrplanauskunft/index.html#c30293"
             }
         ]
+    },
+    {
+        "shortOperatorName": "mvv-mvg-tram",
+        "contributors": [
+            {
+                "github": "DRSchlaubi"
+            }
+        ],
+        "sources": []
     },
     {
         "shortOperatorName": "nah-sh",
@@ -254,6 +277,20 @@
         ]
     },
     {
+        "shortOperatorName": "vms-mrb",
+        "contributors": [
+            {
+                "github": "hoolycrash"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan",
+                "source": "https://download.transdev.de/transdev/uploads/mdr/media_document/26/original.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vor-oebb",
         "contributors": [
             {
@@ -281,6 +318,20 @@
             }
         ]
     },
+        {
+        "shortOperatorName": "vrn-sbahn-rn",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz S-Bahn Rhein-Neckar",
+                "source": "https://www.s-bahn-rheinneckar.de/fahrplan/streckenfpl"
+            }
+        ]
+    },
     {
         "shortOperatorName": "vrr-rrx-regional",
         "contributors": [
@@ -301,6 +352,20 @@
             {
                 "name": "Liniennetz VRS",
                 "source": "https://www.vrs.de/fahren/liniennetz/liniennetz-interaktiv"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvo-db-regio",
+        "contributors": [
+            {
+                "github": "hoolycrash"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan",
+                "source": "https://assets.static-bahn.de/dam/jcr:6780b540-43a7-4c03-8e02-2d64231667c1/Streckennetz%20DB%20Regio%20rund%20um%20Dresden_.pdf"
             }
         ]
     },
@@ -333,6 +398,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvo-tram",
+        "contributors": [
+            {
+                "github": "hoolycrash"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan",
+                "source": "https://www.dvb.de/-/media/files/liniennetz/2023-09-04/dvblnp040923bauwebpdf.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-ssb-stadtbahn",
         "contributors": [
             {
@@ -343,6 +422,34 @@
             {
                 "name": "Netzplan Stadtbahn Stuttgart",
                 "source": "https://download.vvs.de/Stadtbahn_Liniennetz.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "zvon-odeg",
+        "contributors": [
+            {
+                "github": "hoolycrash"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan",
+                "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "zvon-tl",
+        "contributors": [
+            {
+                "github": "hoolycrash"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan",
+                "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
             }
         ]
     }
