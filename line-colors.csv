@@ -162,11 +162,6 @@ ooevv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1589920-5372014,#342980,#fffff
 ooevv-oebb,S4,osterreichische-bundesbahnen,4-81-4-1589920-5372014,#a4ba00,#ffffff,,rectangle-rounded-corner
 ooevv-stern-hafferl,S5,stern-hafferl-verkehrs-gmbh,4-810008-5,#e2007a,#ffffff,,rectangle-rounded-corner
 polregio,RB91,polregio,r-91,#eb7405,#ffffff,,rectangle
-rvf-vag-stadtbahn,STR 1,,8-vag011-1,#e8001b,#ffffff,,rectangle-rounded-corner
-rvf-vag-stadtbahn,STR 2,,8-vag011-2,#13a538,#ffffff,,rectangle-rounded-corner
-rvf-vag-stadtbahn,STR 3,,8-vag011-3,#f59e00,#ffffff,,rectangle-rounded-corner
-rvf-vag-stadtbahn,STR 4,,8-vag011-4,#ea5297,#ffffff,,rectangle-rounded-corner
-rvf-vag-stadtbahn,STR 5,,8-vag011-5,#008bc5,#ffffff,,rectangle-rounded-corner
 rmv-db-sbahn,S1,db-regio-ag-s-bahn-rhein-main,4-800528-1,#009edd,#ffffff,,pill
 rmv-db-sbahn,S2,db-regio-ag-s-bahn-rhein-main,4-800528-2,#ff2e17,#ffffff,,pill
 rmv-db-sbahn,S3,db-regio-ag-s-bahn-rhein-main,4-800528-3,#00b098,#ffffff,,pill
@@ -195,6 +190,11 @@ rmv-vgf-ubahn,U6,,7-rmv255-6,#0082ca,#ffffff,,pill
 rmv-vgf-ubahn,U7,,7-rmv255-7,#f19e2d,#ffffff,,pill
 rmv-vgf-ubahn,U8,,7-rmv255-8,#ca7fbe,#ffffff,,pill
 rmv-vgf-ubahn,U9,,7-rmv255-9,#ffd939,#2c2e35,#2c2e35,pill
+rvf-vag-stadtbahn,STR 1,,8-vag011-1,#e8001b,#ffffff,,rectangle-rounded-corner
+rvf-vag-stadtbahn,STR 2,,8-vag011-2,#13a538,#ffffff,,rectangle-rounded-corner
+rvf-vag-stadtbahn,STR 3,,8-vag011-3,#f59e00,#ffffff,,rectangle-rounded-corner
+rvf-vag-stadtbahn,STR 4,,8-vag011-4,#ea5297,#ffffff,,rectangle-rounded-corner
+rvf-vag-stadtbahn,STR 5,,8-vag011-5,#008bc5,#ffffff,,rectangle-rounded-corner
 svv-oebb,R3,osterreichische-bundesbahnen,r-3,#9dba3b,#ffffff,,rectangle-rounded-corner
 svv-oebb,R9,osterreichische-bundesbahnen,r-9,#dbbe2b,#ffffff,,rectangle-rounded-corner
 svv-oebb,R21,osterreichische-bundesbahnen,r-21,#42b3ca,#ffffff,,rectangle-rounded-corner
