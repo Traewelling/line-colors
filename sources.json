@@ -125,6 +125,15 @@
         ]
     },
     {
+        "shortOperatorName": "mvv-mvg-tram",
+        "contributors": [
+            {
+                "github": "DRSchlaubi"
+            }
+        ],
+        "sources": []
+    },
+    {
         "shortOperatorName": "nah-sh",
         "contributors": [
             {
