@@ -193,15 +193,6 @@ vvo-db-sbd,S 1,db-regio-ag-sudost,4-800469-1,#4f9551,#ffffff,,pill
 vvo-db-sbd,S 2,db-regio-ag-sudost,4-800469-2,#f58220,#ffffff,,pill
 vvo-db-sbd,S 3,db-regio-ag-sudost,4-800469-3,#00b3ef,#ffffff,,pill
 vvo-db-sbd,S 8,db-regio-ag-sudost,8010006,#2d92ad,#ffffff,,pill
-vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,,rectangle
-vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,,rectangle
-vvs-db-sbs,S2,db-regio-ag-s-bahn-stuttgart,4-800643-2,#ee1c28,#ffffff,,rectangle
-vvs-db-sbs,S3,db-regio-ag-s-bahn-stuttgart,4-800643-3,#f36e31,#ffffff,,rectangle
-vvs-db-sbs,S4,db-regio-ag-s-bahn-stuttgart,4-800643-4,#0166b3,#ffffff,,rectangle
-vvs-db-sbs,S5,db-regio-ag-s-bahn-stuttgart,4-800643-5,#00acdd,#ffffff,,rectangle
-vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,,rectangle
-vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectangle
-vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle
 vvo-tram,1,,8-voe011-1,#e30018,#ffffff,,rectangle-rounded-corner
 vvo-tram,2,,8-voe011-2,#eb5b2d,#ffffff,,rectangle-rounded-corner
 vvo-tram,3,,8-voe011-3,#e5005a,#ffffff,,rectangle-rounded-corner
@@ -215,6 +206,15 @@ vvo-tram,11,,8-voe011-11,#c2ddaf,#000000,,rectangle-rounded-corner
 vvo-tram,12,,8-voe011-12,#006b42,#ffffff,,rectangle-rounded-corner
 vvo-tram,13,,8-voe011-13,#fdc300,#000000,,rectangle-rounded-corner
 vvo-tram,20,,8-voe011-20,#000000,#ffffff,,rectangle-rounded-corner
+vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,,rectangle
+vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,,rectangle
+vvs-db-sbs,S2,db-regio-ag-s-bahn-stuttgart,4-800643-2,#ee1c28,#ffffff,,rectangle
+vvs-db-sbs,S3,db-regio-ag-s-bahn-stuttgart,4-800643-3,#f36e31,#ffffff,,rectangle
+vvs-db-sbs,S4,db-regio-ag-s-bahn-stuttgart,4-800643-4,#0166b3,#ffffff,,rectangle
+vvs-db-sbs,S5,db-regio-ag-s-bahn-stuttgart,4-800643-5,#00acdd,#ffffff,,rectangle
+vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,,rectangle
+vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectangle
+vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle
 vvs-ssb-stadtbahn,U1,,8-vvs020-u1,#cd9c72,#000000,,rectangle
 vvs-ssb-stadtbahn,U11,,8-vvs020-u11,#939598,#ffffff,,rectangle
 vvs-ssb-stadtbahn,U12,,8-vvs020-u12,#85bbe5,#000000,,rectangle
