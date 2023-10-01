@@ -319,6 +319,48 @@
         ]
     },
     {
+        "shortOperatorName": "rmv-db-sbahn",
+        "contributors": [
+            {
+                "github": "jonaes"
+            }
+        ],
+        "sources": [
+            {
+                "name": "RMV-Schnellbahnplan",
+                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV-Schnellbahnplan.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "rmv-heag-tram",
+        "contributors": [
+            {
+                "github": "jonaes"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HEAG/DADINA Liniennetzplan Straßenbahn",
+                "source": "https://www.dadina.de/fileadmin/user_upload/Dokumente/2023/Fahrplaene_Linien/Linienplaene/Liniennetzplan_Tram_2023_ab_2023-09-04.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "rmv-vgf-ubahn",
+        "contributors": [
+            {
+                "github": "jonaes"
+            }
+        ],
+        "sources": [
+            {
+                "name": "RMV-Schnellbahnplan",
+                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV-Schnellbahnplan.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "svv-oebb",
         "contributors": [
             {

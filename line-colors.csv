@@ -162,6 +162,34 @@ ooevv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1589920-5372014,#342980,#fffff
 ooevv-oebb,S4,osterreichische-bundesbahnen,4-81-4-1589920-5372014,#a4ba00,#ffffff,,rectangle-rounded-corner
 ooevv-stern-hafferl,S5,stern-hafferl-verkehrs-gmbh,4-810008-5,#e2007a,#ffffff,,rectangle-rounded-corner
 polregio,RB91,polregio,r-91,#eb7405,#ffffff,,rectangle
+rmv-db-sbahn,S1,db-regio-ag-s-bahn-rhein-main,4-800528-1,#009edd,#ffffff,,pill
+rmv-db-sbahn,S2,db-regio-ag-s-bahn-rhein-main,4-800528-2,#ff2e17,#ffffff,,pill
+rmv-db-sbahn,S3,db-regio-ag-s-bahn-rhein-main,4-800528-3,#00b098,#ffffff,,pill
+rmv-db-sbahn,S4,db-regio-ag-s-bahn-rhein-main,4-800528-4,#ffc734,#2c2e35,#2c2e35,pill
+rmv-db-sbahn,S5,db-regio-ag-s-bahn-rhein-main,4-800528-5,#95542a,#ffffff,,pill
+rmv-db-sbahn,S6,db-regio-ag-s-bahn-rhein-main,4-800528-6,#ff7322,#ffffff,,pill
+rmv-db-sbahn,S7,db-regio-ag-s-bahn-rhein-main,4-800528-7,#214d36,#ffffff,,pill
+rmv-db-sbahn,S8,db-regio-ag-s-bahn-rhein-main,4-800528-8,#88c946,#ffffff,,pill
+rmv-db-sbahn,S9,db-regio-ag-s-bahn-rhein-main,4-800528-9,#872996,#ffffff,,pill
+rmv-heag-tram,1,,8-rmvhtr-1,#f77893,#ffffff,,pill
+rmv-heag-tram,2,,8-rmvhtr-2,#00ab4f,#ffffff,,pill
+rmv-heag-tram,3,,8-rmvhtr-3,#ffbe3c,#ffffff,,pill
+rmv-heag-tram,4,,8-rmvhtr-4,#1e78c2,#ffffff,,pill
+rmv-heag-tram,5,,8-rmvhtr-5,#3ab5e6,#ffffff,,pill
+rmv-heag-tram,6,,8-rmvhtr-6,#fe782b,#ffffff,,pill
+rmv-heag-tram,7,,8-rmvhtr-7,#fb3199,#ffffff,,pill
+rmv-heag-tram,8,,8-rmvhtr-8,#f5381f,#ffffff,,pill
+rmv-heag-tram,9,,8-rmvhtr-9,#7ac64d,#ffffff,,pill
+rmv-heag-tram,10,,8-rmvhtr-10,#872996,#ffffff,,pill
+rmv-vgf-ubahn,U1,,7-rmv255-1,#c52b1e,#ffffff,,pill
+rmv-vgf-ubahn,U2,,7-rmv255-2,#00ab4f,#ffffff,,pill
+rmv-vgf-ubahn,U3,,7-rmv255-3,#345aaf,#ffffff,,pill
+rmv-vgf-ubahn,U4,,7-rmv255-4,#fc5cac,#ffffff,,pill
+rmv-vgf-ubahn,U5,,7-rmv255-5,#0c7d3e,#ffffff,,pill
+rmv-vgf-ubahn,U6,,7-rmv255-6,#0082ca,#ffffff,,pill
+rmv-vgf-ubahn,U7,,7-rmv255-7,#f19e2d,#ffffff,,pill
+rmv-vgf-ubahn,U8,,7-rmv255-8,#ca7fbe,#ffffff,,pill
+rmv-vgf-ubahn,U9,,7-rmv255-9,#ffd939,#2c2e35,#2c2e35,pill
 rvf-vag-stadtbahn,STR 1,,8-vag011-1,#e8001b,#ffffff,,rectangle-rounded-corner
 rvf-vag-stadtbahn,STR 2,,8-vag011-2,#13a538,#ffffff,,rectangle-rounded-corner
 rvf-vag-stadtbahn,STR 3,,8-vag011-3,#f59e00,#ffffff,,rectangle-rounded-corner
