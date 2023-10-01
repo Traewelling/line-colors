@@ -214,11 +214,6 @@ vor-wl,U2,wiener-linien,7-810009-2,#a862a4,#ffffff,,rectangle
 vor-wl,U3,wiener-linien,7-810009-3,#ef7c00,#ffffff,,rectangle
 vor-wl,U4,wiener-linien,7-810009-4,#00963f,#ffffff,,rectangle
 vor-wl,U6,wiener-linien,7-810009-6,#9d6830,#ffffff,,rectangle
-vrr-rrx-regional,RE 1,national-express,re-1,#ef7c00,#fffff,,rectangle-rounded-corner
-vrr-rrx-regional,RE 4,national-express,re-4,#ef7c00,#fffff,,rectangle-rounded-corner
-vrr-rrx-regional,RE 5,national-express,re-5,#ef7c00,#fffff,,rectangle-rounded-corner
-vrr-rrx-regional,RE 6,national-express,re-5,#ef7c00,#fffff,,rectangle-rounded-corner
-vrr-rrx-regional,RE 11,national-express,re-5,#ef7c00,#fffff,,rectangle-rounded-corner
 vrn-sbahn-rn,RE5,db-regio-ag-mitte,re-5,#f68a25,#ffffff,,pill
 vrn-sbahn-rn,RE9,db-regio-ag-mitte,re-9,#73c82c,#ffffff,,pill
 vrn-sbahn-rn,S1,db-regio-ag-mitte,4-801539-1,#ed1c24,#ffffff,,pill
@@ -234,6 +229,11 @@ vrn-sbahn-rn,S33,db-regio-ag-mitte,4-801539-33,#833aa1,#ffffff,,pill
 vrn-sbahn-rn,S39,db-regio-ag-mitte,4-801539-39,#ffffff,#bf5810,#bf5810,pill
 vrn-sbahn-rn,S44,db-regio-ag-mitte,4-801539-44,#ffffff,#00a650,#00a650,pill
 vrn-sbahn-rn,S51,db-regio-ag-mitte,4-801518-51,#f68a25,#ffffff,,pill
+vrr-rrx-regional,RE 1,national-express,re-1,#ef7c00,#fffff,,rectangle-rounded-corner
+vrr-rrx-regional,RE 4,national-express,re-4,#ef7c00,#fffff,,rectangle-rounded-corner
+vrr-rrx-regional,RE 5,national-express,re-5,#ef7c00,#fffff,,rectangle-rounded-corner
+vrr-rrx-regional,RE 6,national-express,re-5,#ef7c00,#fffff,,rectangle-rounded-corner
+vrr-rrx-regional,RE 11,national-express,re-5,#ef7c00,#fffff,,rectangle-rounded-corner
 vrs-stadtbahn,1,,8-vrs001-1,#e1081c,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,3,,8-vrs001-3,#f29ec2,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,4,,8-vrs001-4,#eb72a5,#ffffff,,rectangle-rounded-corner
