@@ -514,9 +514,17 @@
             
             }
         ]
-         "sources": [
+    },
+     {
+        "shortOperatorName": "vrr-rheinbahn-stadtbahn",
+        "contributors": [
             {
-                "name": "vrr-rheinbahn-stadtbahn",
+                "github": "ChillLP"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VRR Rheinbahn Rheinbahn Düsseldorf Stadtbahn",
                 "source": "https://www.rheinbahn.de/fahren/verbindungen/netzplaene"
             
             }
