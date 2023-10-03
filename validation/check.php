@@ -36,6 +36,28 @@ foreach ($csv as $line) {
     $i++;
 }
 
+echo "Checking that all colors are valid" . PHP_EOL;
+
+function valid_hex_color($line, $i, $key) {
+    $color = $line[$key];
+    
+    if (!(strlen($color) == 7 && ctype_xdigit(substr($color, 1)) && $color[0] === "#")) {
+        throw new Error("bad $key \"$color\" does not follow #<6 digit hex color> in row $i");
+    }
+}
+
+$i = 2;
+foreach ($csv as $line) {
+    if ($line["borderColor"] != "") {
+        valid_hex_color($line, $i, "borderColor");
+    }
+
+    valid_hex_color($line, $i, "textColor");
+    valid_hex_color($line, $i, "backgroundColor");
+
+    $i++;
+}
+
 $sources = json_decode(file_get_contents("../sources.json"), true);
 $opSources = array_map(fn($op) => $op["shortOperatorName"], $sources);
 echo "Checking that operators are present in sources.json" . PHP_EOL;
