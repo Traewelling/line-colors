@@ -30,22 +30,11 @@ foreach ($csv as $line) {
 echo "Checking that all shapes are valid and can be displayed on the website" . PHP_EOL;
 $i = 2;
 foreach ($csv as $line) {
-    if (!in_array($line["shape"], ["pill", "rectangle", "rectangle-rounded-corner"])) {
-        throw new Error("bad shape " . $line["shape"] . " in row $i");
-    }
+    valid_shape($line, $i);
     $i++;
 }
 
 echo "Checking that all colors are valid" . PHP_EOL;
-
-function valid_hex_color($line, $i, $key) {
-    $color = $line[$key];
-    
-    if (!(strlen($color) == 7 && ctype_xdigit(substr($color, 1)) && $color[0] === "#")) {
-        throw new Error("bad $key \"$color\" does not follow #<6 digit hex color> in row $i");
-    }
-}
-
 $i = 2;
 foreach ($csv as $line) {
     if ($line["borderColor"] != "") {
