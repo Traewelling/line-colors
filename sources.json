@@ -599,6 +599,58 @@
         ]
     },
     {
+        "shortOperatorName": "zvnl-bus",
+        "contributors": [
+            {
+                "github": "tomjschwanke"
+            }
+        ],
+        "sources": [
+            {
+                "name": "LVB-Liniennetzplan",
+                "source": "https://files.l.de/lde-typo3/Leipziger/Verkehrsbetriebe/Fahrplan/Netzplan/LVB-Liniennetzplan-Tag-ab-11-12-22.pdf"
+            },
+            {
+                "name": "LVB-Bau-Lininennetzplan",
+                "source": "https://files.l.de/lde-typo3/Leipziger/Verkehrsbetriebe/Fahrplan/Netzplan/LVB-Bau-Lininennetzplan-ab-02-10-2023.pdf"
+            },
+            {
+                "name": "LVB-Liniennetzplan-Nacht",
+                "source": "https://files.l.de/lde-typo3/Leipziger/Verkehrsbetriebe/Fahrplan/Netzplan/LVB-Liniennetzplan-Nacht-ab-11-12-22.pdf"
+            },
+            {
+                "name": "LVB_Veranstaltungs-Liniennetzplan",
+                "source": "https://files.l.de/lde-typo3/default_backend_upload/LVB_Veranstaltungs-Liniennetzplan-ab-02-10-2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "zvnl-tram",
+        "contributors": [
+            {
+                "github": "tomjschwanke"
+            }
+        ],
+        "sources": [
+            {
+                "name": "LVB-Liniennetzplan",
+                "source": "https://files.l.de/lde-typo3/Leipziger/Verkehrsbetriebe/Fahrplan/Netzplan/LVB-Liniennetzplan-Tag-ab-11-12-22.pdf"
+            },
+            {
+                "name": "LVB-Bau-Lininennetzplan",
+                "source": "https://files.l.de/lde-typo3/Leipziger/Verkehrsbetriebe/Fahrplan/Netzplan/LVB-Bau-Lininennetzplan-ab-02-10-2023.pdf"
+            },
+            {
+                "name": "LVB-Liniennetzplan-Nacht",
+                "source": "https://files.l.de/lde-typo3/Leipziger/Verkehrsbetriebe/Fahrplan/Netzplan/LVB-Liniennetzplan-Nacht-ab-11-12-22.pdf"
+            },
+            {
+                "name": "LVB_Veranstaltungs-Liniennetzplan",
+                "source": "https://files.l.de/lde-typo3/default_backend_upload/LVB_Veranstaltungs-Liniennetzplan-ab-02-10-2023.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "zvon-odeg",
         "contributors": [
             {

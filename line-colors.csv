@@ -350,3 +350,46 @@ zvon-tl,TL RB60,trilex-die-landerbahn-gmbh-dlb,8010085,#38a962,#ffffff,,rectangl
 zvon-tl,TL RB61,trilex-die-landerbahn-gmbh-dlb,8010085,#00632e,#ffffff,,rectangle
 zvon-tl,TL L7,trilex-die-landerbahn-gmbh-dlb,8012979,#ec7404,#ffffff,,rectangle
 zvon-tl,TL L9,trilex-die-landerbahn-gmbh-dlb,5400198,#58585a,#ffffff,,rectangle
+zvnl-bus,60,,5-naslvb-60,#a61580,#ffffff,,pill
+zvnl-bus,65,,5-naslvb-65,#a61580,#ffffff,,pill
+zvnl-bus,70,,5-naslvb-70,#a61580,#ffffff,,pill
+zvnl-bus,72,,5-naslvb-72,#a61580,#ffffff,,pill
+zvnl-bus,73,,5-naslvb-73,#a61580,#ffffff,,pill
+zvnl-bus,74,,5-naslvb-74,#a61580,#ffffff,,pill
+zvnl-bus,80,,5-naslvb-80,#a61580,#ffffff,,pill
+zvnl-bus,81,,5-naslvb-81,#a61580,#ffffff,,pill
+zvnl-bus,82,,5-naslvb-82,#a61580,#ffffff,,pill
+zvnl-bus,89,,5-naslvb-89,#a61580,#ffffff,,pill
+zvnl-bus,90,,5-naslvb-90,#a61580,#ffffff,,pill
+zvnl-bus,N1,,5-naslvb-n1,#f5a522,#000000,,pill
+zvnl-bus,N2,,5-naslvb-n2,#fee38e,#000000,,pill
+zvnl-bus,N3,,5-naslvb-n3,#fed92bD,#000000,,pill
+zvnl-bus,N4,,5-naslvb-n4,#fed92b,#000000,,pill
+zvnl-bus,N5,,5-naslvb-n5,#f5a522,#000000,,pill
+zvnl-bus,N6,,5-naslvb-n6,#fed92b,#000000,,pill
+zvnl-bus,N7,,5-naslvb-n7,#fee38e,#000000,,pill
+zvnl-bus,N8,,5-naslvb-n8,#f5a522,#000000,,pill
+zvnl-bus,N9,,5-naslvb-n9,#fed92b,#000000,,pill
+zvnl-bus,N60,,5-naslvb-n60,#a61580,#000000,,pill
+zvnl-bus,SEV1,,5-naslvb-sev1,#ee8322,#ffffff,,pill
+zvnl-bus,SEV2,,5-naslvb-sev2,#ee8322,#ffffff,,pill
+zvnl-tram,1,,8-naslvt-1,#67b337,#ffffff,,rectangle
+zvnl-tram,2,,8-naslvt-2,#fecb29,#000000,,rectangle
+zvnl-tram,3,,8-naslvt-3,#67b337,#ffffff,,rectangle
+zvnl-tram,4,,8-naslvt-4,#233b8d,#ffffff,,rectangle
+zvnl-tram,7,,8-naslvt-7,#233b8d,#ffffff,,rectangle
+zvnl-tram,8,,8-naslvt-8,#fecb29,#000000,,rectangle
+zvnl-tram,9,,8-naslvt-9,#fecb29,#000000,,rectangle
+zvnl-tram,10,,8-naslvt-10,#e1001e,#ffffff,,rectangle
+zvnl-tram,11,,8-naslvt-11,#e1001e,#ffffff,,rectangle
+zvnl-tram,12,,8-naslvt-12,#233b8d,#ffffff,,rectangle
+zvnl-tram,14,,8-naslvt-14,#18a0e1,#ffffff,,rectangle
+zvnl-tram,15,,8-naslvt-15,#233b8d,#ffffff,,rectangle
+zvnl-tram,16,,8-naslvt-16,#e1001e,#ffffff,,rectangle
+zvnl-tram,34,,8-naslvt-34,#ee8322,#ffffff,,rectangle
+zvnl-tram,38,,8-naslvt-38,#e8591d,#ffffff,,rectangle
+zvnl-tram,39,,8-naslvt-39,#ee8322,#ffffff,,rectangle
+zvnl-tram,50,,8-naslvt-50,#ffffff,#000000,#000000,rectangle
+zvnl-tram,56,,8-naslvt-56,#ffffff,#000000,#000000,rectangle
+zvnl-tram,N10,,8-naslvt-n10,#e1001e,#ffffff,,rectangle
+zvnl-tram,N17,,8-naslvt-n17,#67b337,#ffffff,,rectangle
