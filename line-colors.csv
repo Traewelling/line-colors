@@ -267,11 +267,22 @@ vrn-sbahn-rn,S33,db-regio-ag-mitte,4-801539-33,#833aa1,#ffffff,,pill
 vrn-sbahn-rn,S39,db-regio-ag-mitte,4-801539-39,#ffffff,#bf5810,#bf5810,pill
 vrn-sbahn-rn,S44,db-regio-ag-mitte,4-801539-44,#ffffff,#00a650,#00a650,pill
 vrn-sbahn-rn,S51,db-regio-ag-mitte,4-801518-51,#f68a25,#ffffff,,pill
+vrr-rheinbahn-stadtbahn,U70,,7-vrr070-70,#71b2d0,#ffffff,,rectangle
+vrr-rheinbahn-stadtbahn,U71,,7-vrr070-71,#59c6f2,#ffffff,,rectangle
+vrr-rheinbahn-stadtbahn,U72,,7-vrr070-72,#25b8c5,#ffffff,,rectangle
+vrr-rheinbahn-stadtbahn,U73,,7-vrr070-73,#4465ad,#ffffff,,rectangle
+vrr-rheinbahn-stadtbahn,U74,,7-vrr070-74,#2c2276,#ffffff,,rectangle
+vrr-rheinbahn-stadtbahn,U75,,7-vrr070-75,#008fc2,#ffffff,,rectangle
+vrr-rheinbahn-stadtbahn,U76,,7-vrr070-76,#0063af,#ffffff,,rectangle
+vrr-rheinbahn-stadtbahn,U77,,7-vrr070-77,#7197cf,#ffffff,,rectangle
+vrr-rheinbahn-stadtbahn,U78,,7-vrr070-78,#009adf,#ffffff,,rectangle
+vrr-rheinbahn-stadtbahn,U79,,7-vrr070-79,#009a93,#ffffff,,rectangle
+vrr-rheinbahn-stadtbahn,U83,,7-vrr070-83,#1d3a8f,#ffffff,,rectangle
 vrr-rrx-regional,RE 1,national-express,re-1,#ef7c00,#ffffff,,rectangle-rounded-corner
 vrr-rrx-regional,RE 4,national-express,re-4,#ef7c00,#ffffff,,rectangle-rounded-corner
 vrr-rrx-regional,RE 5,national-express,re-5,#ef7c00,#ffffff,,rectangle-rounded-corner
-vrr-rrx-regional,RE 6,national-express,re-5,#ef7c00,#ffffff,,rectangle-rounded-corner
-vrr-rrx-regional,RE 11,national-express,re-5,#ef7c00,#ffffff,,rectangle-rounded-corner
+vrr-rrx-regional,RE 6,national-express,re-6,#ef7c00,#ffffff,,rectangle-rounded-corner
+vrr-rrx-regional,RE 11,national-express,re-11,#ef7c00,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,1,,8-vrs001-1,#e1081c,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,3,,8-vrs001-3,#f29ec2,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,4,,8-vrs001-4,#eb72a5,#ffffff,,rectangle-rounded-corner
@@ -296,7 +307,7 @@ vvo-db-regio,RB 31,db-regio-ag-nordost,8010089,#6ab023,#ffffff,,rectangle
 vvo-db-regio,RB 33,db-regio-ag-sudost,8010089,#ec7797,#ffffff,,rectangle
 vvo-db-regio,RB 71,db-regio-ag-sudost,8012959,#ad006f,#ffffff,,rectangle
 vvo-db-regio,RB 72,db-regio-ag-sudost,8010163,#9c321b,#ffffff,,rectangle
-vvo-db-regio,RE 15,db-regio-ag-nordost,8010177,#effd400,#000000,,rectangle
+vvo-db-regio,RE 15,db-regio-ag-nordost,8010177,#ffd400,#000000,,rectangle
 vvo-db-regio,RE 18,db-regio-ag-nordost,8010073,#ec7404,#ffffff,,rectangle
 vvo-db-regio,RE 19,db-regio-ag-sudost,8010085,#00895d,#ffffff,,rectangle
 vvo-db-regio,RE 50,db-regio-ag-sudost,8010085,#b60d1c,#ffffff,,rectangle
@@ -344,8 +355,8 @@ vvs-ssb-stadtbahn,U8,,8-vvs020-u8,#fed304,#000000,,rectangle
 vvs-ssb-stadtbahn,U9,,8-vvs020-u9,#bfb678,#000000,,rectangle
 zvon-odeg,RB 64,ostdeutsche-eisenbahn-gmbh,8010177,#006552,#ffffff,,rectangle
 zvon-odeg,RB 65,ostdeutsche-eisenbahn-gmbh,8010073,#005b94,#ffffff,,rectangle
-zvon-tl,TLX RE1,trilex-express-die-landerbahn-gmbh-dlb,8010085,#ec7404,,#ffffff,rectangle
-zvon-tl,TLX RE2,trilex-express-die-landerbahn-gmbh-dlb,8010085,#e2001a,,#ffffff,rectangle
+zvon-tl,TLX RE1,trilex-express-die-landerbahn-gmbh-dlb,8010085,#ec7404,#ffffff,,rectangle
+zvon-tl,TLX RE2,trilex-express-die-landerbahn-gmbh-dlb,8010085,#e2001a,#ffffff,,rectangle
 zvon-tl,TL RB60,trilex-die-landerbahn-gmbh-dlb,8010085,#38a962,#ffffff,,rectangle
 zvon-tl,TL RB61,trilex-die-landerbahn-gmbh-dlb,8010085,#00632e,#ffffff,,rectangle
 zvon-tl,TL L7,trilex-die-landerbahn-gmbh-dlb,8012979,#ec7404,#ffffff,,rectangle
