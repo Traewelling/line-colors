@@ -281,8 +281,8 @@ vrr-rheinbahn-stadtbahn,U83,,7-vrr070-83,#1d3a8f,#ffffff,,rectangle
 vrr-rrx-regional,RE 1,national-express,re-1,#ef7c00,#ffffff,,rectangle-rounded-corner
 vrr-rrx-regional,RE 4,national-express,re-4,#ef7c00,#ffffff,,rectangle-rounded-corner
 vrr-rrx-regional,RE 5,national-express,re-5,#ef7c00,#ffffff,,rectangle-rounded-corner
-vrr-rrx-regional,RE 6,national-express,re-5,#ef7c00,#ffffff,,rectangle-rounded-corner
-vrr-rrx-regional,RE 11,national-express,re-5,#ef7c00,#ffffff,,rectangle-rounded-corner
+vrr-rrx-regional,RE 6,national-express,re-6,#ef7c00,#ffffff,,rectangle-rounded-corner
+vrr-rrx-regional,RE 11,national-express,re-11,#ef7c00,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,1,,8-vrs001-1,#e1081c,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,3,,8-vrs001-3,#f29ec2,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,4,,8-vrs001-4,#eb72a5,#ffffff,,rectangle-rounded-corner
