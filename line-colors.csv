@@ -353,14 +353,6 @@ vvs-ssb-stadtbahn,U6,,8-vvs020-u6,#ed028c,#ffffff,,rectangle
 vvs-ssb-stadtbahn,U7,,8-vvs020-u7,#0ab38d,#ffffff,,rectangle
 vvs-ssb-stadtbahn,U8,,8-vvs020-u8,#fed304,#000000,,rectangle
 vvs-ssb-stadtbahn,U9,,8-vvs020-u9,#bfb678,#000000,,rectangle
-zvon-odeg,RB 64,ostdeutsche-eisenbahn-gmbh,8010177,#006552,#ffffff,,rectangle
-zvon-odeg,RB 65,ostdeutsche-eisenbahn-gmbh,8010073,#005b94,#ffffff,,rectangle
-zvon-tl,TLX RE1,trilex-express-die-landerbahn-gmbh-dlb,8010085,#ec7404,#ffffff,,rectangle
-zvon-tl,TLX RE2,trilex-express-die-landerbahn-gmbh-dlb,8010085,#e2001a,#ffffff,,rectangle
-zvon-tl,TL RB60,trilex-die-landerbahn-gmbh-dlb,8010085,#38a962,#ffffff,,rectangle
-zvon-tl,TL RB61,trilex-die-landerbahn-gmbh-dlb,8010085,#00632e,#ffffff,,rectangle
-zvon-tl,TL L7,trilex-die-landerbahn-gmbh-dlb,8012979,#ec7404,#ffffff,,rectangle
-zvon-tl,TL L9,trilex-die-landerbahn-gmbh-dlb,5400198,#58585a,#ffffff,,rectangle
 zvnl-bus,60,,5-naslvb-60,#a61580,#ffffff,,pill
 zvnl-bus,65,,5-naslvb-65,#a61580,#ffffff,,pill
 zvnl-bus,70,,5-naslvb-70,#a61580,#ffffff,,pill
@@ -404,3 +396,11 @@ zvnl-tram,50,,8-naslvt-50,#ffffff,#000000,#000000,rectangle
 zvnl-tram,56,,8-naslvt-56,#ffffff,#000000,#000000,rectangle
 zvnl-tram,N10,,8-naslvt-n10,#e1001e,#ffffff,,rectangle
 zvnl-tram,N17,,8-naslvt-n17,#67b337,#ffffff,,rectangle
+zvon-odeg,RB 64,ostdeutsche-eisenbahn-gmbh,8010177,#006552,#ffffff,,rectangle
+zvon-odeg,RB 65,ostdeutsche-eisenbahn-gmbh,8010073,#005b94,#ffffff,,rectangle
+zvon-tl,TLX RE1,trilex-express-die-landerbahn-gmbh-dlb,8010085,#ec7404,#ffffff,,rectangle
+zvon-tl,TLX RE2,trilex-express-die-landerbahn-gmbh-dlb,8010085,#e2001a,#ffffff,,rectangle
+zvon-tl,TL RB60,trilex-die-landerbahn-gmbh-dlb,8010085,#38a962,#ffffff,,rectangle
+zvon-tl,TL RB61,trilex-die-landerbahn-gmbh-dlb,8010085,#00632e,#ffffff,,rectangle
+zvon-tl,TL L7,trilex-die-landerbahn-gmbh-dlb,8012979,#ec7404,#ffffff,,rectangle
+zvon-tl,TL L9,trilex-die-landerbahn-gmbh-dlb,5400198,#58585a,#ffffff,,rectangle
