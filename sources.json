@@ -1,5 +1,19 @@
 [
     {
+        "shortOperatorName": "ams",
+        "contributors": [
+            {
+                "github": "tomjschwanke"
+            }
+        ],
+        "sources": [
+            {
+                "name": "MDV Liniennetzplan",
+                "source": "https://www.mdv.de/site/uploads/lnp_plusbus.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "db-regio-nordost",
         "contributors": [
             {
