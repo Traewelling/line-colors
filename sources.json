@@ -18,12 +18,19 @@
         "contributors": [
             {
                 "github": "jeyemwey"
+            },
+            {
+                "github": "tomjschwanke"
             }
         ],
         "sources": [
             {
                 "name": "VBB Liniennetz Regionalverkehr",
                 "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
+            },
+            {
+                "name": "MDV Liniennetzplan",
+                "source": "https://www.mdv.de/site/uploads/lnp_plusbus.pdf"
             }
         ]
     },
