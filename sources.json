@@ -389,6 +389,20 @@
         ]
     },
     {
+        "shortOperatorName": "vbb-bvg-ubahn",
+        "contributors": [
+            {
+                "github": "laugengebaeck"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VBB Open Data Linienfarben",
+                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/API-Datensaetze/Linienfarben.zip"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vbb-db-sbahn",
         "contributors": [
             {
@@ -527,6 +541,20 @@
                 "name": "VRR Rheinbahn Rheinbahn Düsseldorf Stadtbahn",
                 "source": "https://www.rheinbahn.de/fahren/verbindungen/netzplaene"
             
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrr-rheinbahn-stadtbahn",
+        "contributors": [
+            {
+                "github": "ChillLP"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VRR Rheinbahn Rheinbahn Düsseldorf Stadtbahn",
+                "source": "https://www.rheinbahn.de/fahren/verbindungen/netzplaene"
             }
         ]
     },

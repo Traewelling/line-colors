@@ -204,6 +204,15 @@ svv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1451275-5318936,#28ab48,#ffffff,
 svv-slb,R33,salzburger-lokalbahnen,,#b93146,#ffffff,,rectangle-rounded-corner
 svv-slb,S1,salzburger-lokalbahnen,4-810007-1,#b4193c,#ffffff,,rectangle-rounded-corner
 svv-slb,S11,salzburger-lokalbahnen,4-810007-11,#b4193c,#ffffff,,rectangle-rounded-corner
+vbb-bvg-ubahn,U1,,7-vbbbvu-1,#7dad4c,#ffffff,,rectangle
+vbb-bvg-ubahn,U2,,7-vbbbvu-2,#da421e,#ffffff,,rectangle
+vbb-bvg-ubahn,U3,,7-vbbbvu-3,#16683d,#ffffff,,rectangle
+vbb-bvg-ubahn,U4,,7-vbbbvu-4,#f0d722,#ffffff,,rectangle
+vbb-bvg-ubahn,U5,,7-vbbbvu-5,#7e5330,#ffffff,,rectangle
+vbb-bvg-ubahn,U6,,7-vbbbvu-6,#8c6dab,#ffffff,,rectangle
+vbb-bvg-ubahn,U7,,7-vbbbvu-7,#009bd5,#ffffff,,rectangle
+vbb-bvg-ubahn,U8,,7-vbbbvu-8,#224f86,#ffffff,,rectangle
+vbb-bvg-ubahn,U9,,7-vbbbvu-9,#f3791d,#ffffff,,rectangle
 vbb-db-sbahn,S1,s-bahn-berlin,4-08-1,#eb588f,#ffffff,,pill
 vbb-db-sbahn,S2,s-bahn-berlin,4-08-2,#047939,#ffffff,,pill
 vbb-db-sbahn,S25,s-bahn-berlin,4-08-25,#047939,#ffffff,,pill
@@ -307,7 +316,7 @@ vvo-db-regio,RB 31,db-regio-ag-nordost,8010089,#6ab023,#ffffff,,rectangle
 vvo-db-regio,RB 33,db-regio-ag-sudost,8010089,#ec7797,#ffffff,,rectangle
 vvo-db-regio,RB 71,db-regio-ag-sudost,8012959,#ad006f,#ffffff,,rectangle
 vvo-db-regio,RB 72,db-regio-ag-sudost,8010163,#9c321b,#ffffff,,rectangle
-vvo-db-regio,RE 15,db-regio-ag-nordost,8010177,#effd400,#000000,,rectangle
+vvo-db-regio,RE 15,db-regio-ag-nordost,8010177,#ffd400,#000000,,rectangle
 vvo-db-regio,RE 18,db-regio-ag-nordost,8010073,#ec7404,#ffffff,,rectangle
 vvo-db-regio,RE 19,db-regio-ag-sudost,8010085,#00895d,#ffffff,,rectangle
 vvo-db-regio,RE 50,db-regio-ag-sudost,8010085,#b60d1c,#ffffff,,rectangle
@@ -355,8 +364,8 @@ vvs-ssb-stadtbahn,U8,,8-vvs020-u8,#fed304,#000000,,rectangle
 vvs-ssb-stadtbahn,U9,,8-vvs020-u9,#bfb678,#000000,,rectangle
 zvon-odeg,RB 64,ostdeutsche-eisenbahn-gmbh,8010177,#006552,#ffffff,,rectangle
 zvon-odeg,RB 65,ostdeutsche-eisenbahn-gmbh,8010073,#005b94,#ffffff,,rectangle
-zvon-tl,TLX RE1,trilex-express-die-landerbahn-gmbh-dlb,8010085,#ec7404,,#ffffff,rectangle
-zvon-tl,TLX RE2,trilex-express-die-landerbahn-gmbh-dlb,8010085,#e2001a,,#ffffff,rectangle
+zvon-tl,TLX RE1,trilex-express-die-landerbahn-gmbh-dlb,8010085,#ec7404,#ffffff,,rectangle
+zvon-tl,TLX RE2,trilex-express-die-landerbahn-gmbh-dlb,8010085,#e2001a,#ffffff,,rectangle
 zvon-tl,TL RB60,trilex-die-landerbahn-gmbh-dlb,8010085,#38a962,#ffffff,,rectangle
 zvon-tl,TL RB61,trilex-die-landerbahn-gmbh-dlb,8010085,#00632e,#ffffff,,rectangle
 zvon-tl,TL L7,trilex-die-landerbahn-gmbh-dlb,8012979,#ec7404,#ffffff,,rectangle
