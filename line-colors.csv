@@ -204,6 +204,15 @@ svv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1451275-5318936,#28ab48,#ffffff,
 svv-slb,R33,salzburger-lokalbahnen,,#b93146,#ffffff,,rectangle-rounded-corner
 svv-slb,S1,salzburger-lokalbahnen,4-810007-1,#b4193c,#ffffff,,rectangle-rounded-corner
 svv-slb,S11,salzburger-lokalbahnen,4-810007-11,#b4193c,#ffffff,,rectangle-rounded-corner
+vbb-bvg-ubahn,U1,,7-vbbbvu-1,#7dad4c,#ffffff,,rectangle
+vbb-bvg-ubahn,U2,,7-vbbbvu-2,#da421e,#ffffff,,rectangle
+vbb-bvg-ubahn,U3,,7-vbbbvu-3,#16683d,#ffffff,,rectangle
+vbb-bvg-ubahn,U4,,7-vbbbvu-4,#f0d722,#ffffff,,rectangle
+vbb-bvg-ubahn,U5,,7-vbbbvu-5,#7e5330,#ffffff,,rectangle
+vbb-bvg-ubahn,U6,,7-vbbbvu-6,#8c6dab,#ffffff,,rectangle
+vbb-bvg-ubahn,U7,,7-vbbbvu-7,#009bd5,#ffffff,,rectangle
+vbb-bvg-ubahn,U8,,7-vbbbvu-8,#224f86,#ffffff,,rectangle
+vbb-bvg-ubahn,U9,,7-vbbbvu-9,#f3791d,#ffffff,,rectangle
 vbb-db-sbahn,S1,s-bahn-berlin,4-08-1,#eb588f,#ffffff,,pill
 vbb-db-sbahn,S2,s-bahn-berlin,4-08-2,#047939,#ffffff,,pill
 vbb-db-sbahn,S25,s-bahn-berlin,4-08-25,#047939,#ffffff,,pill
