@@ -27,6 +27,21 @@
             }
         ]
     },
+    
+    {
+        "shortOperatorName": "db-regionetz-westfrankenbahn",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Barrierefrei WFB-Streckenkarte 2022",
+                "source": "https://assets.static-bahn.de/dam/jcr:b2f152ae-ba8a-4454-9466-e4c713472de8/Barrierefrei-WFB-Streckenkarte_2022.pdf"
+            }
+        ]
+    },
     {
         "shortOperatorName": "gabw",
         "contributors": [
