@@ -375,6 +375,20 @@
         ]
     },
     {
+        "shortOperatorName": "sweg-sudwest",
+        "contributors": [
+            {
+                "github": "oneriricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Gesamtnetz Zollern-Alb und Ulmer Stern",
+                "source": "https://www.sweg.de/fileadmin//user_upload/pdf/liniennetzplaene/zollernalb/2021_11_22_SWEG_bwegt_GesamtNetz.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "svv-slb",
         "contributors": [
             {
