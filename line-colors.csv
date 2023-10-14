@@ -162,6 +162,13 @@ ooevv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1589920-5372014,#342980,#fffff
 ooevv-oebb,S4,osterreichische-bundesbahnen,4-81-4-1589920-5372014,#a4ba00,#ffffff,,rectangle-rounded-corner
 ooevv-stern-hafferl,S5,stern-hafferl-verkehrs-gmbh,4-810008-5,#e2007a,#ffffff,,rectangle-rounded-corner
 polregio,RB91,polregio,r-91,#eb7405,#ffffff,,rectangle
+regio-s-bahn-donau-iller,RS 2,db-regio-ag-baden-wurttemberg,rs2,#901411,#ffffff,,pill
+regio-s-bahn-donau-iller,RS 21,db-regio-ag-baden-wurttemberg,rs21,#e92a1c,#ffffff,,pill
+regio-s-bahn-donau-iller,RS 3,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rs3,#62358a,#ffffff,,pill
+regio-s-bahn-donau-iller,RS 5,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rs5,#00622e,#ffffff,,pill
+regio-s-bahn-donau-iller,RS 51,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rs51,#43aa2c,#ffffff,,pill
+regio-s-bahn-donau-iller,RS 7,db-regio-ag-bayern,rs7,#234997,#ffffff,,pill
+regio-s-bahn-donau-iller,RS 71,db-regio-ag-bayern,rs71,#1398d3,#ffffff,,pill
 rmv-db-sbahn,S1,db-regio-ag-s-bahn-rhein-main,4-800528-1,#009edd,#ffffff,,pill
 rmv-db-sbahn,S2,db-regio-ag-s-bahn-rhein-main,4-800528-2,#ff2e17,#ffffff,,pill
 rmv-db-sbahn,S3,db-regio-ag-s-bahn-rhein-main,4-800528-3,#00b098,#ffffff,,pill
