@@ -625,6 +625,20 @@
                 "source": "https://download.vvs.de/Stadtbahn_Liniennetz.pdf"
             }
         ]
+    }, 
+    {
+        "shortOperatorName": "westfalenbahn",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Linienübersicht Westfalenbahn",
+                "source": "https://www.westfalenbahn.de/fahrplaene/linienuebersicht/"
+            }
+        ]
     },
     {
         "shortOperatorName": "zvon-odeg",
