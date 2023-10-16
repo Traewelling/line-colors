@@ -1,4 +1,9 @@
 shortOperatorName,lineName,hafasOperatorCode,hafasLineId,backgroundColor,textColor,borderColor,shape
+db-regio-mitte,RE 40,db-regio-ag-mitte,re-40,#ff9027,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RB 41,db-regio-ag-mitte,rb-41,#00ab4f,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RB 44,db-regio-ag-mitte,rb-44,#7ac547,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RE 45,db-regio-ag-mitte,re-45,#cf631a,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RE 73,db-regio-ag-mitte,re-73,#ff2e17,#ffffff,,rectangle-rounded-corner
 db-regio-nordost,FEX,db-regio-ag-nordost,fex19829,#79122f,#ffffff,,rectangle
 db-regio-nordost,RB10,db-regio-ag-nordost,rb-10,#66aa22,#ffffff,,rectangle
 db-regio-nordost,RB14,db-regio-ag-nordost,rb-14,#a5027d,#ffffff,,rectangle
@@ -195,6 +200,16 @@ rvf-vag-stadtbahn,STR 2,,8-vag011-2,#13a538,#ffffff,,rectangle-rounded-corner
 rvf-vag-stadtbahn,STR 3,,8-vag011-3,#f59e00,#ffffff,,rectangle-rounded-corner
 rvf-vag-stadtbahn,STR 4,,8-vag011-4,#ea5297,#ffffff,,rectangle-rounded-corner
 rvf-vag-stadtbahn,STR 5,,8-vag011-5,#008bc5,#ffffff,,rectangle-rounded-corner
+s-bahn-hannover-transdev,S 1,s-bahn-hannover-transdev,4-tdhs-1,#846daa,#ffffff,,rectangle-rounded-corner
+s-bahn-hannover-transdev,S 2,s-bahn-hannover-transdev,4-tdhs-2,#007a3d,#ffffff,,rectangle-rounded-corner
+s-bahn-hannover-transdev,S 21,s-bahn-hannover-transdev,4-tdhs-21,#007a3d,#ffffff,,rectangle-rounded-corner
+s-bahn-hannover-transdev,S 3,s-bahn-hannover-transdev,4-tdhs-3,#cc69a6,#ffffff,,rectangle-rounded-corner
+s-bahn-hannover-transdev,S 4,s-bahn-hannover-transdev,4-tdhs-4,#9b2b48,#ffffff,,rectangle-rounded-corner
+s-bahn-hannover-transdev,S 5,s-bahn-hannover-transdev,4-tdhs-5,#f18700,#ffffff,,rectangle-rounded-corner
+s-bahn-hannover-transdev,S 51,s-bahn-hannover-transdev,4-tdhs-51,#f18700,#ffffff,,rectangle-rounded-corner
+s-bahn-hannover-transdev,S 6,s-bahn-hannover-transdev,4-tdhs-6,#004f9f,#ffffff,,rectangle-rounded-corner
+s-bahn-hannover-transdev,S 7,s-bahn-hannover-transdev,4-tdhs-7,#afcb27,#ffffff,,rectangle-rounded-corner
+s-bahn-hannover-transdev,S 4,s-bahn-hannover-transdev,4-tdhs-8,#1794ca,#ffffff,,rectangle-rounded-corner
 svv-oebb,R3,osterreichische-bundesbahnen,r-3,#9dba3b,#ffffff,,rectangle-rounded-corner
 svv-oebb,R9,osterreichische-bundesbahnen,r-9,#dbbe2b,#ffffff,,rectangle-rounded-corner
 svv-oebb,R21,osterreichische-bundesbahnen,r-21,#42b3ca,#ffffff,,rectangle-rounded-corner
@@ -240,6 +255,12 @@ vbb-db-sbahn,S75,s-bahn-berlin,4-08-75,#764d9a,#ffffff,,pill
 vbb-db-sbahn,S8,s-bahn-berlin,4-08-8,#4fa433,#ffffff,,pill
 vbb-db-sbahn,S85,s-bahn-berlin,4-08-85,#4fa433,#ffffff,,pill
 vbb-db-sbahn,S9,s-bahn-berlin,4-08-9,#951732,#ffffff,,pill
+vbn-nwb-regio-s-bahn,RS 1,nordwestbahn,4-n1-rs1,#00448b,#ffffff,,rectangle-rounded-corner
+vbn-nwb-regio-s-bahn,RS 2,nordwestbahn,4-n1-rs2,#e89023,#ffffff,,rectangle-rounded-corner
+vbn-nwb-regio-s-bahn,RS 3,nordwestbahn,4-n1-rs3,#93bf30,#ffffff,,rectangle-rounded-corner
+vbn-nwb-regio-s-bahn,RS 30,nordwestbahn,4-n1-rs30,#4faf3b,#ffffff,,rectangle-rounded-corner
+vbn-nwb-regio-s-bahn,RS 4,nordwestbahn,4-n1-rs4,#e2000b,#ffffff,,rectangle-rounded-corner
+vbn-nwb-regio-s-bahn,RS 6,nordwestbahn,4-n1-rs6,#899bb9,#ffffff,,rectangle-rounded-corner
 vgn-db-sbn,S 1,db-regio-ag-bayern,4-800721-1,#92292e,#ffffff,,rectangle
 vgn-db-sbn,S 2,db-regio-ag-bayern,4-800721-2,#4dbd38,#ffffff,,rectangle
 vgn-db-sbn,S 3,db-regio-ag-bayern,4-800721-3,#f1471d,#ffffff,,rectangle
@@ -373,6 +394,9 @@ vvs-ssb-stadtbahn,U6,,8-vvs020-u6,#ed028c,#ffffff,,rectangle
 vvs-ssb-stadtbahn,U7,,8-vvs020-u7,#0ab38d,#ffffff,,rectangle
 vvs-ssb-stadtbahn,U8,,8-vvs020-u8,#fed304,#000000,,rectangle
 vvs-ssb-stadtbahn,U9,,8-vvs020-u9,#bfb678,#000000,,rectangle
+westfalenbahn,RE 15,westfalenbahn,wfb-re15,#ea9d22,#ffffff,,rectangle
+westfalenbahn,RE 60,westfalenbahn,wfb-re60,#00a3de,#ffffff,,rectangle
+westfalenbahn,RE 70,westfalenbahn,wfb-re70,#005174,#ffffff,,rectangle
 zvon-odeg,RB 64,ostdeutsche-eisenbahn-gmbh,8010177,#006552,#ffffff,,rectangle
 zvon-odeg,RB 65,ostdeutsche-eisenbahn-gmbh,8010073,#005b94,#ffffff,,rectangle
 zvon-tl,TLX RE1,trilex-express-die-landerbahn-gmbh-dlb,8010085,#ec7404,#ffffff,,rectangle
