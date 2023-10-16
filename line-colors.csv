@@ -239,6 +239,12 @@ vbb-db-sbahn,S75,s-bahn-berlin,4-08-75,#764d9a,#ffffff,,pill
 vbb-db-sbahn,S8,s-bahn-berlin,4-08-8,#4fa433,#ffffff,,pill
 vbb-db-sbahn,S85,s-bahn-berlin,4-08-85,#4fa433,#ffffff,,pill
 vbb-db-sbahn,S9,s-bahn-berlin,4-08-9,#951732,#ffffff,,pill
+vbn-nwb-regio-s-bahn,RS 1,nordwestbahn,4-n1-rs1,#00448b,#ffffff,,rectangle-rounded-corner
+vbn-nwb-regio-s-bahn,RS 2,nordwestbahn,4-n1-rs2,#e89023,#ffffff,,rectangle-rounded-corner
+vbn-nwb-regio-s-bahn,RS 3,nordwestbahn,4-n1-rs3,#93bf30,#ffffff,,rectangle-rounded-corner
+vbn-nwb-regio-s-bahn,RS 30,nordwestbahn,4-n1-rs30,#4faf3b,#ffffff,,rectangle-rounded-corner
+vbn-nwb-regio-s-bahn,RS 4,nordwestbahn,4-n1-rs4,#e2000b,#ffffff,,rectangle-rounded-corner
+vbn-nwb-regio-s-bahn,RS 6,nordwestbahn,4-n1-rs6,#899bb9,#ffffff,,rectangle-rounded-corner
 vgn-db-sbn,S 1,db-regio-ag-bayern,4-800721-1,#92292e,#ffffff,,rectangle
 vgn-db-sbn,S 2,db-regio-ag-bayern,4-800721-2,#4dbd38,#ffffff,,rectangle
 vgn-db-sbn,S 3,db-regio-ag-bayern,4-800721-3,#f1471d,#ffffff,,rectangle

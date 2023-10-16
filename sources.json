@@ -431,6 +431,20 @@
         ]
     },
     {
+        "shortOperatorName": "vbn-nwb-regio-s-bahn",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Regio-S-Bahn Bremen Niedersachsen",
+                "source": "https://download.transdev.de/transdev/uploads/nwb/pictures/item_paragraph/43/s1200.jpg"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vgn-db-sbn",
         "contributors": [
             {
