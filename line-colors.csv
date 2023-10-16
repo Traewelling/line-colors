@@ -1,4 +1,9 @@
 shortOperatorName,lineName,hafasOperatorCode,hafasLineId,backgroundColor,textColor,borderColor,shape
+db-regio-mitte,RE 40,db-regio-ag-mitte,re-40,#ff9027,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RB 41,db-regio-ag-mitte,rb-41,#00ab4f,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RB 44,db-regio-ag-mitte,rb-44,#7ac547,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RE 45,db-regio-ag-mitte,re-45,#cf631a,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RE 73,db-regio-ag-mitte,re-73,#ff2e17,#ffffff,,rectangle-rounded-corner
 db-regio-nordost,FEX,db-regio-ag-nordost,fex19829,#79122f,#ffffff,,rectangle
 db-regio-nordost,RB10,db-regio-ag-nordost,rb-10,#66aa22,#ffffff,,rectangle
 db-regio-nordost,RB14,db-regio-ag-nordost,rb-14,#a5027d,#ffffff,,rectangle
