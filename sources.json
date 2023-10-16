@@ -374,6 +374,20 @@
                 "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV-Schnellbahnplan.pdf"
             }
         ]
+    },    
+    {
+        "shortOperatorName": "regio-s-bahn-donau-iller",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "RSB Liniennetz",
+                "source": "https://rsb-di.de/wp-content/uploads/2023/02/RSB-Liniennetz.pdff"
+            }
+        ]
     },
     {
         "shortOperatorName": "s-bahn-hannover-transdev",
