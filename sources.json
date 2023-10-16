@@ -1,4 +1,19 @@
 [
+    
+    {
+        "shortOperatorName": "db-regio-mitte",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "bwegt Netz 7b Liniennetz Regionalverkehr",
+                "source": "https://assets.static-bahn.de/dam/jcr:25a7e259-1c4f-45c5-ac0f-b257daf118a8/220825_Netz_7b_bwegt_CD_800x350_ET.pdf"
+            }
+        ]
+    },
     {
         "shortOperatorName": "db-regio-nordost",
         "contributors": [
@@ -375,6 +390,20 @@
         ]
     },
     {
+        "shortOperatorName": "s-bahn-hannover-transdev",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan S-Bahn Hannover Transdev",
+                "source": "https://download.transdev.de/transdev/uploads/sbahn_hannover/media_document/18/original.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "svv-oebb",
         "contributors": [
             {
@@ -403,6 +432,20 @@
         ]
     },
     {
+        "shortOperatorName": "sweg-stuttgart",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Stuttgart-Neckartal 2023",
+                "source": "https://www.sweg.de/fileadmin//user_upload/pdf/liniennetzplaene/stuttgart-neckartal/Liniennetzplan-SBS-2023.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vbb-bvg-ubahn",
         "contributors": [
             {
@@ -427,6 +470,20 @@
             {
                 "name": "Netzplan S-Bahn Berlin",
                 "source": "https://sbahn.berlin/liniennetz/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vbn-nwb-regio-s-bahn",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Regio-S-Bahn Bremen Niedersachsen",
+                "source": "https://download.transdev.de/transdev/uploads/nwb/pictures/item_paragraph/43/s1200.jpg"
             }
         ]
     },
@@ -637,6 +694,20 @@
             {
                 "name": "Netzplan Stadtbahn Stuttgart",
                 "source": "https://download.vvs.de/Stadtbahn_Liniennetz.pdf"
+            }
+        ]
+    }, 
+    {
+        "shortOperatorName": "westfalenbahn",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Linienübersicht Westfalenbahn",
+                "source": "https://www.westfalenbahn.de/fahrplaene/linienuebersicht/"
             }
         ]
     },
