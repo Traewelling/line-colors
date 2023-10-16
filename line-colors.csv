@@ -219,6 +219,17 @@ svv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1451275-5318936,#28ab48,#ffffff,
 svv-slb,R33,salzburger-lokalbahnen,,#b93146,#ffffff,,rectangle-rounded-corner
 svv-slb,S1,salzburger-lokalbahnen,4-810007-1,#b4193c,#ffffff,,rectangle-rounded-corner
 svv-slb,S11,salzburger-lokalbahnen,4-810007-11,#b4193c,#ffffff,,rectangle-rounded-corner
+sweg-stuttgart,IRE 6,sweg-bahn-stuttgart-gmbh,ire-6,#ebaf2d,#ffffff,,rectangle
+sweg-stuttgart,MEX 12,sweg-bahn-stuttgart-gmbh,mex-12,#f27320,#ffffff,,rectangle
+sweg-stuttgart,MEX 17a,sweg-bahn-stuttgart-gmbh,mex-17a,#00a9df,#ffffff,,rectangle
+sweg-stuttgart,MEX 17c,sweg-bahn-stuttgart-gmbh,mex-17c,#ec2933,#ffffff,,rectangle
+sweg-stuttgart,MEX 18,sweg-bahn-stuttgart-gmbh,mex-18,#009c48,#ffffff,,rectangle
+sweg-stuttgart,RB 17a,sweg-bahn-stuttgart-gmbh,rb-17a,#00a9df,#ffffff,,rectangle
+sweg-stuttgart,RB 17c,sweg-bahn-stuttgart-gmbh,rb-17c,#ec2933,#ffffff,,rectangle
+sweg-stuttgart,RB 18,sweg-bahn-stuttgart-gmbh,rb-18,#009c48,#ffffff,,rectangle
+sweg-stuttgart,RE 10a,sweg-bahn-stuttgart-gmbh,re-10a,#014f9f,#ffffff,,rectangle
+sweg-stuttgart,RE 10b,sweg-bahn-stuttgart-gmbh,re-10b,#014f9f,#ffffff,,rectangle
+sweg-stuttgart,RE 17b,sweg-bahn-stuttgart-gmbh,re-17b,#7db83f,#ffffff,,rectangle
 vbb-bvg-ubahn,U1,,7-vbbbvu-1,#7dad4c,#ffffff,,rectangle
 vbb-bvg-ubahn,U2,,7-vbbbvu-2,#da421e,#ffffff,,rectangle
 vbb-bvg-ubahn,U3,,7-vbbbvu-3,#16683d,#ffffff,,rectangle

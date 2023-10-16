@@ -418,6 +418,20 @@
         ]
     },
     {
+        "shortOperatorName": "sweg-stuttgart",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Stuttgart-Neckartal 2023",
+                "source": "https://www.sweg.de/fileadmin//user_upload/pdf/liniennetzplaene/stuttgart-neckartal/Liniennetzplan-SBS-2023.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vbb-bvg-ubahn",
         "contributors": [
             {
