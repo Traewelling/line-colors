@@ -27,11 +27,11 @@ db-regio-nordost,RE66,db-regio-ag-nordost,re-66,#007734,#ffffff,,rectangle
 db-regio-nordost,RE7,db-regio-ag-nordost,re-7,#007734,#ffffff,,rectangle
 db-regio-sudost,RE14,db-regio-ag-sudost,re-14,#a98956,#ffffff,,rectangle
 db-regionetz-westfrankenbahn,RB 56,db-regionetz-verkehrs-gmbh-westfrankenbahn,rb-56,#fab23c,#ffffff,,rectangle
+db-regionetz-westfrankenbahn,RE 80,db-regionetz-verkehrs-gmbh-westfrankenbahn,re-80,#423f41,#ffffff,,rectangle
 db-regionetz-westfrankenbahn,RB 83,db-regionetz-verkehrs-gmbh-westfrankenbahn,rb-83,#fdd245,#000000,,rectangle
 db-regionetz-westfrankenbahn,RB 84,db-regionetz-verkehrs-gmbh-westfrankenbahn,rb-84,#e29c57,#ffffff,,rectangle
-db-regionetz-westfrankenbahn,RB 88,db-regionetz-verkehrs-gmbh-westfrankenbahn,rb-88,#47359c,#ffffff,,rectangle
-db-regionetz-westfrankenbahn,RE 80,db-regionetz-verkehrs-gmbh-westfrankenbahn,re-80,#423f41,#ffffff,,rectangle
 db-regionetz-westfrankenbahn,RE 87,db-regionetz-verkehrs-gmbh-westfrankenbahn,re-87,#ff2e17,#ffffff,,rectangle
+db-regionetz-westfrankenbahn,RB 88,db-regionetz-verkehrs-gmbh-westfrankenbahn,rb-88,#47359c,#ffffff,,rectangle
 gabw,IRE 1,go-ahead-baden-wurttemberg-gmbh,ire-1,#88c946,#ffffff,,rectangle
 gabw,MEX 13,go-ahead-baden-wurttemberg-gmbh,mex-13,#00b9f2,#ffffff,,rectangle
 gabw,MEX 16,go-ahead-baden-wurttemberg-gmbh,mex-16,#0073c0,#ffffff,,rectangle
