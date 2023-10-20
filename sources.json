@@ -610,11 +610,12 @@
             {
                 "name": "VRR Schienenschnellverkehrsplan",
                 "source": "https://www.vrr.de/fileadmin/user_upload/pdf/fahrplan_und_mobilitaet/Schienenschnellverkehrsplan.pdf"
+            
             }
         ]
     },
-    {
-        "shortOperatorName": "vrr-rheinbahn-stadtbahn",
+     {
+        "shortOperatorName": "vrr-rheinbahn",
         "contributors": [
             {
                 "github": "ChillLP"
@@ -622,8 +623,9 @@
         ],
         "sources": [
             {
-                "name": "VRR Rheinbahn Rheinbahn Düsseldorf Stadtbahn",
+                "name": "VRR Rheinbahn Düsseldorf",
                 "source": "https://www.rheinbahn.de/fahren/verbindungen/netzplaene"
+            
             }
         ]
     },

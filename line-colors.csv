@@ -320,17 +320,24 @@ vrn-sbahn-rn,S33,db-regio-ag-mitte,4-801539-33,#833aa1,#ffffff,,pill
 vrn-sbahn-rn,S39,db-regio-ag-mitte,4-801539-39,#ffffff,#bf5810,#bf5810,pill
 vrn-sbahn-rn,S44,db-regio-ag-mitte,4-801539-44,#ffffff,#00a650,#00a650,pill
 vrn-sbahn-rn,S51,db-regio-ag-mitte,4-801518-51,#f68a25,#ffffff,,pill
-vrr-rheinbahn-stadtbahn,U70,,7-vrr070-70,#71b2d0,#ffffff,,rectangle
-vrr-rheinbahn-stadtbahn,U71,,7-vrr070-71,#59c6f2,#ffffff,,rectangle
-vrr-rheinbahn-stadtbahn,U72,,7-vrr070-72,#25b8c5,#ffffff,,rectangle
-vrr-rheinbahn-stadtbahn,U73,,7-vrr070-73,#4465ad,#ffffff,,rectangle
-vrr-rheinbahn-stadtbahn,U74,,7-vrr070-74,#2c2276,#ffffff,,rectangle
-vrr-rheinbahn-stadtbahn,U75,,7-vrr070-75,#008fc2,#ffffff,,rectangle
-vrr-rheinbahn-stadtbahn,U76,,7-vrr070-76,#0063af,#ffffff,,rectangle
-vrr-rheinbahn-stadtbahn,U77,,7-vrr070-77,#7197cf,#ffffff,,rectangle
-vrr-rheinbahn-stadtbahn,U78,,7-vrr070-78,#009adf,#ffffff,,rectangle
-vrr-rheinbahn-stadtbahn,U79,,7-vrr070-79,#009a93,#ffffff,,rectangle
-vrr-rheinbahn-stadtbahn,U83,,7-vrr070-83,#1d3a8f,#ffffff,,rectangle
+vrr-rheinbahn,U70,,7-vrr070-70,#71b2d0,#ffffff,,rectangle
+vrr-rheinbahn,U71,,7-vrr070-71,#59c6f2,#ffffff,,rectangle
+vrr-rheinbahn,U72,,7-vrr070-72,#25b8c5,#ffffff,,rectangle
+vrr-rheinbahn,U73,,7-vrr070-73,#4465ad,#ffffff,,rectangle
+vrr-rheinbahn,U74,,7-vrr070-74,#2c2276,#ffffff,,rectangle
+vrr-rheinbahn,U75,,7-vrr070-75,#008fc2,#ffffff,,rectangle
+vrr-rheinbahn,U76,,7-vrr070-76,#0063af,#ffffff,,rectangle
+vrr-rheinbahn,U77,,7-vrr070-77,#7197cf,#ffffff,,rectangle
+vrr-rheinbahn,U78,,7-vrr070-78,#009adf,#ffffff,,rectangle
+vrr-rheinbahn,U79,,7-vrr070-79,#009a93,#ffffff,,rectangle
+vrr-rheinbahn,U83,,7-vrr070-83,#1d3a8f,#ffffff,,rectangle
+vrr-rheinbahn,701,,8-vrr071-701,#f07d00,#ffffff,,rectangle
+vrr-rheinbahn,704,,8-vrr071-704,#bd1616,#ffffff,,rectangle
+vrr-rheinbahn,705,,8-vrr071-705,#c0087f,#ffffff,,rectangle
+vrr-rheinbahn,706,,8-vrr071-706,#e30613,#ffffff,,rectangle
+vrr-rheinbahn,707,,8-vrr071-707,#7e1974,#ffffff,,rectangle
+vrr-rheinbahn,708,,8-vrr071-708,#f29eb7,#ffffff,,rectangle
+vrr-rheinbahn,709,,8-vrr071-709,#e94190,#ffffff,,rectangle
 vrr-rrx-regional,RE 1,national-express,re-1,#ef7c00,#ffffff,,rectangle-rounded-corner
 vrr-rrx-regional,RE 4,national-express,re-4,#ef7c00,#ffffff,,rectangle-rounded-corner
 vrr-rrx-regional,RE 5,national-express,re-5,#ef7c00,#ffffff,,rectangle-rounded-corner
