@@ -43,6 +43,20 @@
         ]
     },
     {
+        "shortOperatorName": "ding-swu",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "SWU Liniennetz Bus und Tram 2023",
+                "source": "https://www.swu.de/fileadmin/content/mobilitaet/karten/2023/Liniennetzplan_2023-05-27.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "gabw",
         "contributors": [
             {
