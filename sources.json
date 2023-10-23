@@ -404,6 +404,34 @@
         ]
     },
     {
+        "shortOperatorName": "s-bahn-bern-bls",
+        "contributors": [
+            {
+                "github": "sinsa92"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan S-Bahn Bern",
+                "source": "https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-s-bahn-bern.pdf?la=de&vs=1"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "s-bahn-bern-rbs",
+        "contributors": [
+            {
+                "github": "sinsa92"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan S-Bahn Bern",
+                "source": "https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-s-bahn-bern.pdf?la=de&vs=1"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "s-bahn-hannover-transdev",
         "contributors": [
             {
