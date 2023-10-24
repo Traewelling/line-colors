@@ -1,5 +1,4 @@
 [
-    
     {
         "shortOperatorName": "db-regio-mitte",
         "contributors": [
@@ -39,6 +38,20 @@
             {
                 "name": "VBB Liniennetz Regionalverkehr",
                 "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "db-regionetz-westfrankenbahn",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Barrierefrei WFB-Streckenkarte 2022",
+                "source": "https://assets.static-bahn.de/dam/jcr:b2f152ae-ba8a-4454-9466-e4c713472de8/Barrierefrei-WFB-Streckenkarte_2022.pdf"
             }
         ]
     },
@@ -388,7 +401,7 @@
                 "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV-Schnellbahnplan.pdf"
             }
         ]
-    },    
+    },
     {
         "shortOperatorName": "regio-s-bahn-donau-iller",
         "contributors": [
@@ -652,11 +665,10 @@
             {
                 "name": "VRR Schienenschnellverkehrsplan",
                 "source": "https://www.vrr.de/fileadmin/user_upload/pdf/fahrplan_und_mobilitaet/Schienenschnellverkehrsplan.pdf"
-            
             }
         ]
     },
-     {
+    {
         "shortOperatorName": "vrr-rheinbahn",
         "contributors": [
             {
@@ -667,7 +679,6 @@
             {
                 "name": "VRR Rheinbahn Düsseldorf",
                 "source": "https://www.rheinbahn.de/fahren/verbindungen/netzplaene"
-            
             }
         ]
     },
@@ -754,7 +765,7 @@
                 "source": "https://download.vvs.de/Stadtbahn_Liniennetz.pdf"
             }
         ]
-    }, 
+    },
     {
         "shortOperatorName": "westfalenbahn",
         "contributors": [
