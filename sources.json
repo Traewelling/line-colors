@@ -459,6 +459,48 @@
         ]
     },
     {
+        "shortOperatorName": "s-bahn-zentralschweiz-bls",
+        "contributors": [
+            {
+                "github": "sinsa92"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Regionalverkehr Zentralschweiz",
+                "source": "https://www.vvl.ch/application/files/9616/8129/0865/SBB_RV_S-Bahn_LUZERN_A2_2022.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "s-bahn-zentralschweiz-sbb",
+        "contributors": [
+            {
+                "github": "sinsa92"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Regionalverkehr Zentralschweiz",
+                "source": "https://www.vvl.ch/application/files/9616/8129/0865/SBB_RV_S-Bahn_LUZERN_A2_2022.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "s-bahn-zentralschweiz-zb",
+        "contributors": [
+            {
+                "github": "sinsa92"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Regionalverkehr Zentralschweiz",
+                "source": "https://www.vvl.ch/application/files/9616/8129/0865/SBB_RV_S-Bahn_LUZERN_A2_2022.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "svv-oebb",
         "contributors": [
             {
