@@ -291,6 +291,34 @@
         ]
     },
     {
+        "shortOperatorName": "nrw-regional",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "NRW-Regionalverkehrsplan 2023",
+                "source": "https://www.kcitf-nrw.de/fileadmin/03_KC_Seiten/KCITF/Regionalverkehrsplan/Regionalverkehrsplan_NRW_2023_Web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "nrw-sbahn",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "NRW-Fahrplanbuch 2023",
+                "source": "https://infoportal.mobil.nrw/information-service/fahrplanbuch-nrw.html"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "odeg",
         "contributors": [
             {
@@ -696,21 +724,7 @@
             }
         ]
     },
-    {
-        "shortOperatorName": "vrr-rrx-regional",
-        "contributors": [
-            {
-                "github": "ChillLP"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VRR Schienenschnellverkehrsplan",
-                "source": "https://www.vrr.de/fileadmin/user_upload/pdf/fahrplan_und_mobilitaet/Schienenschnellverkehrsplan.pdf"
-            }
-        ]
-    },
-    {
+{
         "shortOperatorName": "vrr-rheinbahn",
         "contributors": [
             {

@@ -160,6 +160,105 @@ neb-niederbarnimer-eisenbahn,RB60,neb-niederbarnimer-eisenbahn,rb-60,#66aa22,#ff
 neb-niederbarnimer-eisenbahn,RB61,neb-niederbarnimer-eisenbahn,rb-61,#992746,#ffffff,,rectangle
 neb-niederbarnimer-eisenbahn,RB62,neb-niederbarnimer-eisenbahn,rb-62,#da6ba2,#ffffff,,rectangle
 neb-niederbarnimer-eisenbahn,RB63,neb-niederbarnimer-eisenbahn,rb-63,#ffd502,#000000,,rectangle
+nrw-regional,RE 1,national-express,re-1,#ff2d16,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 2,db-regio-ag-nrw,re-2,#00b8f1,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 3,eurobahn,re-3,#e46e25,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 4,national-express,re-4,#e88f24,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 5,national-express,re-5,#0182ba,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 6,national-express,re-6,#9e2a96,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 7,national-express,re-7,#052e69,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 8,db-regio-ag-nrw,re-8,#006bbb,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 9,db-regio-ag-nrw,re-9,#401446,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 10,rheinruhrbahn-transdev,rrb-re10,#e66caf,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 11,national-express,re-11,#5accc2,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 12,db-regio-ag-nrw,re-12,#ad294c,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 13,eurobahn,re-13,#7f5c1e,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 14,rheinruhrbahn-transdev,rrb-re14,#003328,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 16,db-regio-ag-nrw,re-16,#0e5778,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 17,db-regio-ag-nrw,re-17,#489b40,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 18,db-arriva,re-18,#10b3b4,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 19,vias-rail-gmbh,via-re19,#2f652b,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 20,db-regio-ag-nrw,rb-20,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 21,rurtalbahn,rtb-rb21,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 22,db-regio-ag-nrw,re-22,#ffad3e,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 23,db-regio-ag-nrw,rb-23,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 24,db-regio-ag-nrw,rb-24,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 25,db-regio-ag-nrw,rb-25,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 26,mittelrheinbahn-trans-regio,rb-26,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 27,db-regio-ag-nrw,rb-27,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 28,rurtalbahn,rtb-rb28,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 29,sncb,re-29,#d594c8,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 30,db-regio-ag-nrw,rb-30,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 31,rheinruhrbahn-transdev,rrb-rb31,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 32,db-regio-ag-nrw,rb-32,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 33,db-regio-ag-nrw,rb-33,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 34,db-fernverkehr-ag,re-34,#8c467d,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 34,db-regio-ag-nrw,re-34,#8c467d,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 34,hlb-hessenbahn-gmbh,hlb-re34,#8c467d,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 34,vias-rail-gmbh,via-rb34,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 35,vias-rail-gmbh,via-rb35,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 36,rheinruhrbahn-transdev,rrb-rb36,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 38,db-regio-ag-nrw,rb-38,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 39,vias-rail-gmbh,via-rb39,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 40,db-regio-ag-nrw,rb-40,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 42,db-regio-ag-nrw,re-42,#d9bf13,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 43,db-regio-ag-nrw,rb-43,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 44,rheinruhrbahn-transdev,rrb-re44,#6294b0,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 46,db-regio-ag-nrw,rb-46,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 47,regiobahn,r-re-47,#66cdec,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 48,national-express,rb-48,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 49,db-regio-ag-nrw,re-49,#c4836b,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 50,eurobahn,rb-50,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 51,db-regio-ag-nrw,rb-51,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 52,db-regio-ag-nrw,rb-52,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 53,db-regio-ag-nrw,rb-53,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 54,db-regio-ag-nrw,rb-54,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 57,db-regio-ag-nrw,rb-57,#2e6da6,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 58,nordwestbahn,nwb-rb58,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 59,eurobahn,rb-59,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 61,eurobahn,rb-61,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 63,db-regio-ag-nrw,rb-63,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 64,db-regio-ag-nrw,rb-64,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 65,eurobahn,rb-65,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 66,eurobahn,rb-66,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 67,eurobahn,rb-67,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 69,eurobahn,rb-69,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 71,eurobahn,rb-71,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 72,eurobahn,rb-72,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 73,eurobahn,rb-73,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 74,nordwestbahn,nwb-rb74,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 75,nordwestbahn,nwb-rb75,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 77,regionalverkehre-start-deutschland-gmbh-start-niedersachsen-mitte,rb-77,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 78,eurobahn,re-78,#52b9ce,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 82,eurobahn,re-82,#489b40,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 84,nordwestbahn,nwb-rb84,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 85,nordwestbahn,nwb-rb85,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 89,eurobahn,rb-89,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 90,hlb-hessenbahn-gmbh,hlb-rb90,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 91,db-regio-ag-nrw,rb-91,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 91,hlb-hessenbahn-gmbh,hlb-rb91,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 92,hlb-hessenbahn-gmbh,hlb-rb92,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 93,hlb-hessenbahn-gmbh,hlb-rb93,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 94,db-regionetz-verkehrs-gmbh-kurhessenbahn,rb-94,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 95,hlb-hessenbahn-gmbh,hlb-rb95,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 96,hlb-hessenbahn-gmbh,hlb-rb96,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 97,db-regionetz-verkehrs-gmbh-kurhessenbahn,rb-97,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 99,hlb-hessenbahn-gmbh,hlb-re99,#28b34c,#ffffff,,rectangle-rounded-corner
+nrw-sbahn,S 1,db-regio-ag-nrw,4-800337-1,#0b9a33,#ffffff,,pill
+nrw-sbahn,S 2,db-regio-ag-nrw,4-8003l1-2,#006db6,#ffffff,,pill
+nrw-sbahn,S 3,db-regio-ag-nrw,4-8003l1-3,#ffff00,#000000,,pill
+nrw-sbahn,S 4,db-regio-ag-nrw,4-800337-4,#ef7c00,#ffffff,,pill
+nrw-sbahn,S 5,db-regio-ag-nrw,4-800354-5,#98c60f,#ffffff,,pill
+nrw-sbahn,S 6,db-regio-ag-nrw,4-8003rl-6,#dc052d,#ffffff,,pill
+nrw-sbahn,S 7,vias-rail-gmbh,4-r4s7-s7,#14bae6,#ffffff,,pill
+nrw-sbahn,S 8,db-regio-ag-nrw,4-800354-8,#b03303,#ffffff,,pill
+nrw-sbahn,S 9,db-regio-ag-nrw,4-8003l1-9,#c7007f,#ffffff,,pill
+nrw-sbahn,S 11,db-regio-ag-nrw,4-8003s-11,#ef7c00,#ffffff,,pill
+nrw-sbahn,S 12,db-regio-ag-nrw,4-8003s-12,#61af20,#ffffff,,pill
+nrw-sbahn,S 19,db-regio-ag-nrw,4-8003s-19,#2d6c7e,#ffffff,,pill
+nrw-sbahn,S 23,db-regio-ag-nrw,4-800352-23,#8b3c59,#ffffff,,pill
+nrw-sbahn,S 28,regiobahn,4-m2-28,#717676,#ffffff,,pill
+nrw-sbahn,S 68,db-regio-ag-nrw,4-8003s-68,#14bae6,#ffffff,,pill
 odeg,RB33,ostdeutsche-eisenbahn-gmbh,rb-33,#a5027d,#ffffff,,rectangle
 odeg,RB37,ostdeutsche-eisenbahn-gmbh,rb-37,#ad5937,#ffffff,,rectangle
 odeg,RB46,ostdeutsche-eisenbahn-gmbh,rb-46,#da6ba2,#ffffff,,rectangle
@@ -372,11 +471,6 @@ vrr-rheinbahn,706,,8-vrr071-706,#e30613,#ffffff,,rectangle
 vrr-rheinbahn,707,,8-vrr071-707,#7e1974,#ffffff,,rectangle
 vrr-rheinbahn,708,,8-vrr071-708,#f29eb7,#ffffff,,rectangle
 vrr-rheinbahn,709,,8-vrr071-709,#e94190,#ffffff,,rectangle
-vrr-rrx-regional,RE 1,national-express,re-1,#ef7c00,#ffffff,,rectangle-rounded-corner
-vrr-rrx-regional,RE 4,national-express,re-4,#ef7c00,#ffffff,,rectangle-rounded-corner
-vrr-rrx-regional,RE 5,national-express,re-5,#ef7c00,#ffffff,,rectangle-rounded-corner
-vrr-rrx-regional,RE 6,national-express,re-6,#ef7c00,#ffffff,,rectangle-rounded-corner
-vrr-rrx-regional,RE 11,national-express,re-11,#ef7c00,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,1,,8-vrs001-1,#e1081c,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,3,,8-vrs001-3,#f29ec2,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,4,,8-vrs001-4,#eb72a5,#ffffff,,rectangle-rounded-corner
