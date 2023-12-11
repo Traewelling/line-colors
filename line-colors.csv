@@ -415,6 +415,8 @@ vgn-vag-tram,5,,8-vanstr-5,#8a3ea3,#ffffff,,rectangle
 vgn-vag-tram,6,,8-vanstr-6,#fcf105,#151515,,rectangle
 vgn-vag-tram,7,,8-vanstr-7,#9ba1d9,#ffffff,,rectangle
 vgn-vag-tram,8,,8-vanstr-8,#32bdf2,#ffffff,,rectangle
+vgn-vag-tram,11,,8-vanstr-11,#e19b4f,#ffffff,,rectangle
+vgn-vag-tram,10,,8-vanstr-10,#c94f82,#ffffff,,rectangle
 vgn-vag-ubahn,U 1,,7-vanuba-1,#1c62aa,#ffffff,,rectangle
 vgn-vag-ubahn,U 2,,7-vanuba-2,#ed1c24,#ffffff,,rectangle
 vgn-vag-ubahn,U 3,,7-vanuba-3,#4dc2bb,#ffffff,,rectangle
