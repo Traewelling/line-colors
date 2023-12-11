@@ -59,12 +59,10 @@ hans,RB74,hanseatische-eisenbahn-gmbh,rb-74,#0066ad,#ffffff,,rectangle
 hvv-akn,A 1,akn-eisenbahn-gmbh,akn-a1,#f7931d,#ffffff,,pill
 hvv-akn,A 2,akn-eisenbahn-gmbh,akn-a2,#f7931d,#ffffff,,pill
 hvv-akn,A 3,akn-eisenbahn-gmbh,akn-a3,#f7931d,#ffffff,,pill
-hvv-db-sbhh,S 1,s-bahn-hamburg,4-0s-1,#23b24b,#ffffff,,pill
-hvv-db-sbhh,S 11,s-bahn-hamburg,4-0s-11,#ffffff,#23b24b,#23b24b,pill
-hvv-db-sbhh,S 2,s-bahn-hamburg,4-0s-2,#ffffff,#b62750,#b62750,pill
-hvv-db-sbhh,S 21,s-bahn-hamburg,4-0s-21,#b62750,#ffffff,,pill
-hvv-db-sbhh,S 3,s-bahn-hamburg,4-0s-3,#652d91,#ffffff,,pill
-hvv-db-sbhh,S 31,s-bahn-hamburg,4-0s-31,#652d91,#ffffff,,pill
+hvv-db-sbhh,S 1,s-bahn-hamburg,4-0s-1,#4da553,#ffffff,,pill
+hvv-db-sbhh,S 2,s-bahn-hamburg,4-0s-2,#95334a,#ffffff,,pill
+hvv-db-sbhh,S 3,s-bahn-hamburg,4-0s-3,#512c75,#ffffff,,pill
+hvv-db-sbhh,S 5,s-bahn-hamburg,4-0s-5,#3b87a9,#ffffff,,pill
 hvv-hha,U 1,,7-hvv001-1,#0072bc,#ffffff,,rectangle
 hvv-hha,U 2,,7-hvv001-2,#ee1d23,#ffffff,,rectangle
 hvv-hha,U 3,,7-hvv001-3,#ffdc01,#ffffff,,rectangle
