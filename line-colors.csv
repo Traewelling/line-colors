@@ -420,7 +420,7 @@ vbn-nwb-regio-s-bahn,RS 3,nordwestbahn,4-n1-rs3,#93bf30,#ffffff,,rectangle-round
 vbn-nwb-regio-s-bahn,RS 30,nordwestbahn,4-n1-rs30,#4faf3b,#ffffff,,rectangle-rounded-corner
 vbn-nwb-regio-s-bahn,RS 4,nordwestbahn,4-n1-rs4,#e2000b,#ffffff,,rectangle-rounded-corner
 vbn-nwb-regio-s-bahn,RS 6,nordwestbahn,4-n1-rs6,#899bb9,#ffffff,,rectangle-rounded-corner
-vgn-infra-bus,171,,5-fuebus-171,bB61a58,#ffffff,,pill
+vgn-infra-bus,171,,5-fuebus-171,#b61a58,#ffffff,,pill
 vgn-infra-bus,172,,5-fuebus-172,#d57536,#ffffff,,pill
 vgn-infra-bus,173,,5-fuebus-173,#a6c2e7,#ffffff,,pill
 vgn-infra-bus,174,,5-fuebus-174,#94622f,#ffffff,,pill
