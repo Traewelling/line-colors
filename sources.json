@@ -585,6 +585,20 @@
         ]
     },
     {
+        "shortOperatorName": "uestra",
+        "contributors": [
+            {
+                "github": "vainamov"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Stadtbahn Hannover (PDF) ab dem 10. Dezember 2023",
+                "source": "https://www.uestra.de/fileadmin/Material/Fahrgast/Linieplaene/GVH_Stadtbahn_2024.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vbb-bvg-ubahn",
         "contributors": [
             {
