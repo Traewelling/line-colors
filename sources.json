@@ -1,5 +1,110 @@
 [
     {
+        "shortOperatorName": "db-regio-mitte",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "bwegt Netz 7b Liniennetz Regionalverkehr",
+                "source": "https://assets.static-bahn.de/dam/jcr:25a7e259-1c4f-45c5-ac0f-b257daf118a8/220825_Netz_7b_bwegt_CD_800x350_ET.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ams",
+        "contributors": [
+            {
+                "github": "tomjschwanke"
+            }
+        ],
+        "sources": [
+            {
+                "name": "MDV Liniennetzplan",
+                "source": "https://www.mdv.de/site/uploads/lnp_plusbus.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "db-regio-nordost",
+        "contributors": [
+            {
+                "github": "jeyemwey"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VBB Liniennetz Regionalverkehr",
+                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "db-regio-sudost",
+        "contributors": [
+            {
+                "github": "jeyemwey"
+            },
+            {
+                "github": "tomjschwanke"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VBB Liniennetz Regionalverkehr",
+                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
+            },
+            {
+                "name": "MDV Liniennetzplan",
+                "source": "https://www.mdv.de/site/uploads/lnp_plusbus.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "db-regionetz-westfrankenbahn",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Barrierefrei WFB-Streckenkarte 2022",
+                "source": "https://assets.static-bahn.de/dam/jcr:b2f152ae-ba8a-4454-9466-e4c713472de8/Barrierefrei-WFB-Streckenkarte_2022.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ding-swu",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "SWU Liniennetz Bus und Tram 2023",
+                "source": "https://www.swu.de/fileadmin/content/mobilitaet/karten/2023/Liniennetzplan_2023-05-27.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "gabw",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Go-Ahead BW Netzplan",
+                "source": "https://www.go-ahead-bw.de/fileadmin/user_upload/content/unterwegs/liniennetz/GABW_Netz_A4_220315_pr.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "gaby",
         "contributors": [
             {
@@ -10,6 +115,20 @@
             {
                 "name": "Go-Ahead Bayern Linienübersicht",
                 "source": "https://www.go-ahead.bayern/unterwegs-mit-go-ahead/fahrplaene"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hans",
+        "contributors": [
+            {
+                "github": "jeyemwey"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VBB Liniennetz Regionalverkehr",
+                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
             }
         ]
     },
@@ -97,6 +216,34 @@
         ]
     },
     {
+        "shortOperatorName": "mitteldeutsche-regiobahn",
+        "contributors": [
+            {
+                "github": "jeyemwey"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VBB Liniennetz Regionalverkehr",
+                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "mobiel",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan 2023",
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mvv-db-sbm",
         "contributors": [
             {
@@ -109,6 +256,15 @@
                 "source": "https://www.mvv-muenchen.de/fahrplanauskunft/index.html#c30293"
             }
         ]
+    },
+    {
+        "shortOperatorName": "mvv-mvg-tram",
+        "contributors": [
+            {
+                "github": "DRSchlaubi"
+            }
+        ],
+        "sources": []
     },
     {
         "shortOperatorName": "nah-sh",
@@ -124,6 +280,76 @@
             {
                 "name": "NAH.SH Bahnlinienplan",
                 "source": "https://www.nah.sh/assets/2023/nahsh_bahnlinienSH_2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "rvf-vag-stadtbahn",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Linienfahrpläne",
+                "source": "https://www.vag-freiburg.de/fahrplan/linien-fahrplaene"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "neb-niederbarnimer-eisenbahn",
+        "contributors": [
+            {
+                "github": "jeyemwey"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VBB Liniennetz Regionalverkehr",
+                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "nrw-regional",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "NRW-Fahrplanbuch 2024",
+                "source": "https://www.vrs.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MDE3OTA4MTcsImV4cCI6MTcwMTgyMDgwMCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vRGF0ZWllbi9Eb3dubG9hZGNlbnRlci9GYWhycGxhbm1lZGllbi9OUldfRmFocnBsYW4yMDI0LlBERiIsInBhZ2UiOjEwODZ9.G9r0FkuaYSG-eIyqkKUkS_3HCX_FuVVE0C5ZV6Yf2nM/NRW_Fahrplan2024.PDF"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "nrw-sbahn",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "NRW-Fahrplanbuch 2024",
+                "source": "https://www.vrs.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MDE3OTA4MTcsImV4cCI6MTcwMTgyMDgwMCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vRGF0ZWllbi9Eb3dubG9hZGNlbnRlci9GYWhycGxhbm1lZGllbi9OUldfRmFocnBsYW4yMDI0LlBERiIsInBhZ2UiOjEwODZ9.G9r0FkuaYSG-eIyqkKUkS_3HCX_FuVVE0C5ZV6Yf2nM/NRW_Fahrplan2024.PDF"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "odeg",
+        "contributors": [
+            {
+                "github": "jeyemwey"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VBB Liniennetz Regionalverkehr",
+                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
             }
         ]
     },
@@ -170,6 +396,160 @@
         ]
     },
     {
+        "shortOperatorName": "polregio",
+        "contributors": [
+            {
+                "github": "jeyemwey"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VBB Liniennetz Regionalverkehr",
+                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "rmv-db-sbahn",
+        "contributors": [
+            {
+                "github": "jonaes"
+            }
+        ],
+        "sources": [
+            {
+                "name": "RMV-Schnellbahnplan",
+                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV-Schnellbahnplan.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "rmv-heag-tram",
+        "contributors": [
+            {
+                "github": "jonaes"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HEAG/DADINA Liniennetzplan Straßenbahn",
+                "source": "https://www.dadina.de/fileadmin/user_upload/Dokumente/2023/Fahrplaene_Linien/Linienplaene/Liniennetzplan_Tram_2023_ab_2023-09-04.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "rmv-vgf-ubahn",
+        "contributors": [
+            {
+                "github": "jonaes"
+            }
+        ],
+        "sources": [
+            {
+                "name": "RMV-Schnellbahnplan",
+                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV-Schnellbahnplan.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "regio-s-bahn-donau-iller",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "RSB Liniennetz",
+                "source": "https://rsb-di.de/wp-content/uploads/2023/02/RSB-Liniennetz.pdff"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "s-bahn-bern-bls",
+        "contributors": [
+            {
+                "github": "sinsa92"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan S-Bahn Bern",
+                "source": "https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-s-bahn-bern.pdf?la=de&vs=1"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "s-bahn-bern-rbs",
+        "contributors": [
+            {
+                "github": "sinsa92"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan S-Bahn Bern",
+                "source": "https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-s-bahn-bern.pdf?la=de&vs=1"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "s-bahn-hannover-transdev",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan S-Bahn Hannover Transdev",
+                "source": "https://download.transdev.de/transdev/uploads/sbahn_hannover/media_document/18/original.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "s-bahn-zentralschweiz-bls",
+        "contributors": [
+            {
+                "github": "sinsa92"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Regionalverkehr Zentralschweiz",
+                "source": "https://www.vvl.ch/application/files/9616/8129/0865/SBB_RV_S-Bahn_LUZERN_A2_2022.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "s-bahn-zentralschweiz-sbb",
+        "contributors": [
+            {
+                "github": "sinsa92"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Regionalverkehr Zentralschweiz",
+                "source": "https://www.vvl.ch/application/files/9616/8129/0865/SBB_RV_S-Bahn_LUZERN_A2_2022.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "s-bahn-zentralschweiz-zb",
+        "contributors": [
+            {
+                "github": "sinsa92"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Regionalverkehr Zentralschweiz",
+                "source": "https://www.vvl.ch/application/files/9616/8129/0865/SBB_RV_S-Bahn_LUZERN_A2_2022.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "svv-oebb",
         "contributors": [
             {
@@ -180,6 +560,20 @@
             {
                 "name": "Netzplan SVV",
                 "source": "https://salzburg-verkehr.at/download/bahnnetz-land-salzburg/?wpdmdl=32234&refresh=6501827b0c3a01694597755"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "sweg-sudwest",
+        "contributors": [
+            {
+                "github": "oneriricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Gesamtnetz Zollern-Alb und Ulmer Stern",
+                "source": "https://www.sweg.de/fileadmin//user_upload/pdf/liniennetzplaene/zollernalb/2021_11_22_SWEG_bwegt_GesamtNetz.pdf"
             }
         ]
     },
@@ -198,6 +592,48 @@
         ]
     },
     {
+        "shortOperatorName": "sweg-stuttgart",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Stuttgart-Neckartal 2023",
+                "source": "https://www.sweg.de/fileadmin//user_upload/pdf/liniennetzplaene/stuttgart-neckartal/Liniennetzplan-SBS-2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "uestra",
+        "contributors": [
+            {
+                "github": "vainamov"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Stadtbahn Hannover (PDF) ab dem 10. Dezember 2023",
+                "source": "https://www.uestra.de/fileadmin/Material/Fahrgast/Linieplaene/GVH_Stadtbahn_2024.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vbb-bvg-ubahn",
+        "contributors": [
+            {
+                "github": "laugengebaeck"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VBB Open Data Linienfarben",
+                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/API-Datensaetze/Linienfarben.zip"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vbb-db-sbahn",
         "contributors": [
             {
@@ -208,6 +644,20 @@
             {
                 "name": "Netzplan S-Bahn Berlin",
                 "source": "https://sbahn.berlin/liniennetz/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vbn-nwb-regio-s-bahn",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Regio-S-Bahn Bremen Niedersachsen",
+                "source": "https://download.transdev.de/transdev/uploads/nwb/pictures/item_paragraph/43/s1200.jpg"
             }
         ]
     },
@@ -254,6 +704,20 @@
         ]
     },
     {
+        "shortOperatorName": "vms-mrb",
+        "contributors": [
+            {
+                "github": "hoolycrash"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan",
+                "source": "https://download.transdev.de/transdev/uploads/mdr/media_document/26/original.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vor-oebb",
         "contributors": [
             {
@@ -282,6 +746,34 @@
         ]
     },
     {
+        "shortOperatorName": "vrn-sbahn-rn",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz S-Bahn Rhein-Neckar",
+                "source": "https://www.s-bahn-rheinneckar.de/fahrplan/streckenfpl"
+            }
+        ]
+    },
+{
+        "shortOperatorName": "vrr-rheinbahn",
+        "contributors": [
+            {
+                "github": "ChillLP"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VRR Rheinbahn Düsseldorf",
+                "source": "https://www.rheinbahn.de/fahren/verbindungen/netzplaene"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrs-stadtbahn",
         "contributors": [
             {
@@ -292,6 +784,20 @@
             {
                 "name": "Liniennetz VRS",
                 "source": "https://www.vrs.de/fahren/liniennetz/liniennetz-interaktiv"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvo-db-regio",
+        "contributors": [
+            {
+                "github": "hoolycrash"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan",
+                "source": "https://assets.static-bahn.de/dam/jcr:6780b540-43a7-4c03-8e02-2d64231667c1/Streckennetz%20DB%20Regio%20rund%20um%20Dresden_.pdf"
             }
         ]
     },
@@ -324,6 +830,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvo-tram",
+        "contributors": [
+            {
+                "github": "hoolycrash"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan",
+                "source": "https://www.dvb.de/-/media/files/liniennetz/2023-09-04/dvblnp040923bauwebpdf.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-ssb-stadtbahn",
         "contributors": [
             {
@@ -334,6 +854,92 @@
             {
                 "name": "Netzplan Stadtbahn Stuttgart",
                 "source": "https://download.vvs.de/Stadtbahn_Liniennetz.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "westfalenbahn",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Linienübersicht Westfalenbahn",
+                "source": "https://www.westfalenbahn.de/fahrplaene/linienuebersicht/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "zvnl-bus",
+        "contributors": [
+            {
+                "github": "tomjschwanke"
+            }
+        ],
+        "sources": [
+            {
+                "name": "LVB-Liniennetzplan",
+                "source": "https://files.l.de/lde-typo3/Leipziger/Verkehrsbetriebe/Fahrplan/Netzplan/LVB-Liniennetzplan-Tag-ab-11-12-22.pdf"
+            },
+            {
+                "name": "LVB-Liniennetzplan-Nacht",
+                "source": "https://files.l.de/lde-typo3/Leipziger/Verkehrsbetriebe/Fahrplan/Netzplan/LVB-Liniennetzplan-Nacht-ab-11-12-22.pdf"
+            },
+            {
+                "name": "LVB_Veranstaltungs-Liniennetzplan",
+                "source": "https://files.l.de/lde-typo3/default_backend_upload/LVB_Veranstaltungs-Liniennetzplan-ab-02-10-2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "zvnl-tram",
+        "contributors": [
+            {
+                "github": "tomjschwanke"
+            }
+        ],
+        "sources": [
+            {
+                "name": "LVB-Liniennetzplan",
+                "source": "https://files.l.de/lde-typo3/Leipziger/Verkehrsbetriebe/Fahrplan/Netzplan/LVB-Liniennetzplan-Tag-ab-11-12-22.pdf"
+            },
+            {
+                "name": "LVB-Liniennetzplan-Nacht",
+                "source": "https://files.l.de/lde-typo3/Leipziger/Verkehrsbetriebe/Fahrplan/Netzplan/LVB-Liniennetzplan-Nacht-ab-11-12-22.pdf"
+            },
+            {
+                "name": "LVB_Veranstaltungs-Liniennetzplan",
+                "source": "https://files.l.de/lde-typo3/default_backend_upload/LVB_Veranstaltungs-Liniennetzplan-ab-02-10-2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "zvon-odeg",
+        "contributors": [
+            {
+                "github": "hoolycrash"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan",
+                "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "zvon-tl",
+        "contributors": [
+            {
+                "github": "hoolycrash"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan",
+                "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
             }
         ]
     }
