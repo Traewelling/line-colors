@@ -116,9 +116,10 @@ include_once "../validation/common.php";
 
                                 <dl>
                                     <?php foreach ($line as $key => $value): ?>
+                                        <?php if ($key === "borderColor" && $value === "") continue; ?>
                                         <dt><?= $key ?></dt>
-                                        <dd class="<?= in_array($key, ["backgroundColor", "textColor", "shape"]) ? "monospace" : "" ?>">
-                                            <?php if (in_array($key, ["backgroundColor", "textColor"])): ?>
+                                        <dd class="<?= in_array($key, ["backgroundColor", "textColor", "borderColor", "shape"]) ? "monospace" : "" ?>">
+                                            <?php if (in_array($key, ["backgroundColor", "textColor", "borderColor"])): ?>
                                                 <span class="color-preview"
                                                       style="background-color: <?= $value ?>"></span>
                                             <?php endif ?>
