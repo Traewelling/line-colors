@@ -466,6 +466,28 @@
         ]
     },
     {
+        "shortOperatorName": "regiobus-hannover",
+        "contributors": [
+            {
+                "github": "vainamov"
+            }
+        ],
+        "sources": [
+            {
+                "name": "GVH Bus Hannover",
+                "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplan-bus-hannover-2023-2024.pdf"
+            },
+            {
+                "name": "GVH Plan Stadt Hannover",
+                "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplaene-faltplan-stadt-2023-2024.pdf"
+            },
+            {
+                "name": "GVH Plan Region Hannover",
+                "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplaene-faltplan-region-2023-2024.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "s-bahn-bern-bls",
         "contributors": [
             {
@@ -616,6 +638,10 @@
             {
                 "name": "Liniennetzplan Stadtbahn Hannover (PDF) ab dem 10. Dezember 2023",
                 "source": "https://www.uestra.de/fileadmin/Material/Fahrgast/Linieplaene/GVH_Stadtbahn_2024.pdf"
+            },
+            {
+                "name": "GVH Bus Hannover",
+                "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplan-bus-hannover-2023-2024.pdf"
             }
         ]
     },
