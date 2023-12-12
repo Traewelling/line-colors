@@ -1,5 +1,4 @@
 [
-    
     {
         "shortOperatorName": "db-regio-mitte",
         "contributors": [
@@ -60,6 +59,20 @@
             {
                 "name": "MDV Liniennetzplan",
                 "source": "https://www.mdv.de/site/uploads/lnp_plusbus.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "db-regionetz-westfrankenbahn",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Barrierefrei WFB-Streckenkarte 2022",
+                "source": "https://assets.static-bahn.de/dam/jcr:b2f152ae-ba8a-4454-9466-e4c713472de8/Barrierefrei-WFB-Streckenkarte_2022.pdf"
             }
         ]
     },
@@ -299,6 +312,34 @@
         ]
     },
     {
+        "shortOperatorName": "nrw-regional",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "NRW-Fahrplanbuch 2024",
+                "source": "https://www.vrs.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MDE3OTA4MTcsImV4cCI6MTcwMTgyMDgwMCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vRGF0ZWllbi9Eb3dubG9hZGNlbnRlci9GYWhycGxhbm1lZGllbi9OUldfRmFocnBsYW4yMDI0LlBERiIsInBhZ2UiOjEwODZ9.G9r0FkuaYSG-eIyqkKUkS_3HCX_FuVVE0C5ZV6Yf2nM/NRW_Fahrplan2024.PDF"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "nrw-sbahn",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "NRW-Fahrplanbuch 2024",
+                "source": "https://www.vrs.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MDE3OTA4MTcsImV4cCI6MTcwMTgyMDgwMCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vRGF0ZWllbi9Eb3dubG9hZGNlbnRlci9GYWhycGxhbm1lZGllbi9OUldfRmFocnBsYW4yMDI0LlBERiIsInBhZ2UiOjEwODZ9.G9r0FkuaYSG-eIyqkKUkS_3HCX_FuVVE0C5ZV6Yf2nM/NRW_Fahrplan2024.PDF"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "odeg",
         "contributors": [
             {
@@ -409,7 +450,7 @@
                 "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV-Schnellbahnplan.pdf"
             }
         ]
-    },    
+    },
     {
         "shortOperatorName": "regio-s-bahn-donau-iller",
         "contributors": [
@@ -425,6 +466,34 @@
         ]
     },
     {
+        "shortOperatorName": "s-bahn-bern-bls",
+        "contributors": [
+            {
+                "github": "sinsa92"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan S-Bahn Bern",
+                "source": "https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-s-bahn-bern.pdf?la=de&vs=1"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "s-bahn-bern-rbs",
+        "contributors": [
+            {
+                "github": "sinsa92"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan S-Bahn Bern",
+                "source": "https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-s-bahn-bern.pdf?la=de&vs=1"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "s-bahn-hannover-transdev",
         "contributors": [
             {
@@ -435,6 +504,48 @@
             {
                 "name": "Liniennetzplan S-Bahn Hannover Transdev",
                 "source": "https://download.transdev.de/transdev/uploads/sbahn_hannover/media_document/18/original.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "s-bahn-zentralschweiz-bls",
+        "contributors": [
+            {
+                "github": "sinsa92"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Regionalverkehr Zentralschweiz",
+                "source": "https://www.vvl.ch/application/files/9616/8129/0865/SBB_RV_S-Bahn_LUZERN_A2_2022.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "s-bahn-zentralschweiz-sbb",
+        "contributors": [
+            {
+                "github": "sinsa92"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Regionalverkehr Zentralschweiz",
+                "source": "https://www.vvl.ch/application/files/9616/8129/0865/SBB_RV_S-Bahn_LUZERN_A2_2022.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "s-bahn-zentralschweiz-zb",
+        "contributors": [
+            {
+                "github": "sinsa92"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Regionalverkehr Zentralschweiz",
+                "source": "https://www.vvl.ch/application/files/9616/8129/0865/SBB_RV_S-Bahn_LUZERN_A2_2022.pdf"
             }
         ]
     },
@@ -491,6 +602,20 @@
             {
                 "name": "Liniennetzplan Stuttgart-Neckartal 2023",
                 "source": "https://www.sweg.de/fileadmin//user_upload/pdf/liniennetzplaene/stuttgart-neckartal/Liniennetzplan-SBS-2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "uestra",
+        "contributors": [
+            {
+                "github": "vainamov"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Stadtbahn Hannover (PDF) ab dem 10. Dezember 2023",
+                "source": "https://www.uestra.de/fileadmin/Material/Fahrgast/Linieplaene/GVH_Stadtbahn_2024.pdf"
             }
         ]
     },
@@ -634,22 +759,7 @@
             }
         ]
     },
-    {
-        "shortOperatorName": "vrr-rrx-regional",
-        "contributors": [
-            {
-                "github": "ChillLP"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VRR Schienenschnellverkehrsplan",
-                "source": "https://www.vrr.de/fileadmin/user_upload/pdf/fahrplan_und_mobilitaet/Schienenschnellverkehrsplan.pdf"
-            
-            }
-        ]
-    },
-     {
+{
         "shortOperatorName": "vrr-rheinbahn",
         "contributors": [
             {
@@ -660,7 +770,6 @@
             {
                 "name": "VRR Rheinbahn Düsseldorf",
                 "source": "https://www.rheinbahn.de/fahren/verbindungen/netzplaene"
-            
             }
         ]
     },
@@ -747,7 +856,7 @@
                 "source": "https://download.vvs.de/Stadtbahn_Liniennetz.pdf"
             }
         ]
-    }, 
+    },
     {
         "shortOperatorName": "westfalenbahn",
         "contributors": [
