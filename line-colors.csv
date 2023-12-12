@@ -420,6 +420,16 @@ vbn-nwb-regio-s-bahn,RS 3,nordwestbahn,4-n1-rs3,#93bf30,#ffffff,,rectangle-round
 vbn-nwb-regio-s-bahn,RS 30,nordwestbahn,4-n1-rs30,#4faf3b,#ffffff,,rectangle-rounded-corner
 vbn-nwb-regio-s-bahn,RS 4,nordwestbahn,4-n1-rs4,#e2000b,#ffffff,,rectangle-rounded-corner
 vbn-nwb-regio-s-bahn,RS 6,nordwestbahn,4-n1-rs6,#899bb9,#ffffff,,rectangle-rounded-corner
+vgn-infra-bus,171,,5-fuebus-171,bB61a58,#ffffff,,pill
+vgn-infra-bus,172,,5-fuebus-172,#d57536,#ffffff,,pill
+vgn-infra-bus,173,,5-fuebus-173,#a6c2e7,#ffffff,,pill
+vgn-infra-bus,174,,5-fuebus-174,#94622f,#ffffff,,pill
+vgn-infra-bus,175,,5-fuebus-175,#d15b89,#ffffff,,pill
+vgn-infra-bus,176,,5-fuebus-176,#f0db61,#ffffff,,pill
+vgn-infra-bus,177,,5-fuebus-177,#6b8eb2,#ffffff,,pill
+vgn-infra-bus,178,,5-fuebus-178,#b189b5,#ffffff,,pill
+vgn-infra-bus,179,,5-fuebus-179,#728239,#ffffff,,pill
+vgn-infra-bus,189,,5-fuebus-189,#7c2b1a,#ffffff,,pill
 vgn-db-sbn,S 1,db-regio-ag-bayern,4-800721-1,#92292e,#ffffff,,rectangle
 vgn-db-sbn,S 2,db-regio-ag-bayern,4-800721-2,#4dbd38,#ffffff,,rectangle
 vgn-db-sbn,S 3,db-regio-ag-bayern,4-800721-3,#f1471d,#ffffff,,rectangle

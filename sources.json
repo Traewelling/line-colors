@@ -669,6 +669,20 @@
         ]
     },
     {
+        "shortOperatorName": "vgn-infra-bus",
+        "contributors": [
+            {
+                "github": "Aidaprima"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VGN Netzplan Fürth",
+                "source": "https://www.vgn.de/liniennetze/stadtverkehr_fuerth_stilisiert/"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vgn-vag-ubahn",
         "contributors": [
             {
