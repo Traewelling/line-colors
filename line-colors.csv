@@ -721,6 +721,16 @@ vvs-db-sbs,S5,db-regio-ag-s-bahn-stuttgart,4-800643-5,#00acdd,#ffffff,,rectangle
 vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,,rectangle
 vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectangle
 vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle
+vvs-ssb-nachtbus,N 1,,5-vvs033-n1,#3c389e,#ffffff,,rectangle
+vvs-ssb-nachtbus,N 2,,5-vvs033-n2,#6fdaf8,#ffffff,,rectangle
+vvs-ssb-nachtbus,N 3,,5-vvs033-n3,#6fdaf8,#06429a,,rectangle
+vvs-ssb-nachtbus,N 4,,5-vvs033-n4,#00ad70,#ffffff,,rectangle
+vvs-ssb-nachtbus,N 5,,5-vvs033-n5,#ffb530,#06429a,,rectangle
+vvs-ssb-nachtbus,N 6,,5-vvs033-n6,#db711d,#ffffff,,rectangle
+vvs-ssb-nachtbus,N 7,,5-vvs033-n7,#ff2e1d,#ffffff,,rectangle
+vvs-ssb-nachtbus,N 8,,5-vvs033-n8,#2c2e35,#ffffff,,rectangle
+vvs-ssb-nachtbus,N 9,,5-vvs033-n9,#bb298a,#ffffff,,rectangle
+vvs-ssb-nachtbus,N 10,,5-vvs033-n10,#ff8ea5,#06429a,,rectangle
 vvs-ssb-stadtbahn,SB,,3-vvs021-20,#ffb530,#24629d,,rectangle
 vvs-ssb-stadtbahn,U 1,,8-vvs020-u1,#d39d70,#000000,,rectangle
 vvs-ssb-stadtbahn,U 11,,8-vvs020-u11,#9b9c9f,#ffffff,,rectangle
