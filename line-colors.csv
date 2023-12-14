@@ -1,5 +1,10 @@
 shortOperatorName,lineName,hafasOperatorCode,hafasLineId,backgroundColor,textColor,borderColor,shape
 ams,S7,abellio-rail-mitteldeutschland-gmbh,4-ams-7,#0a579b,#ffffff,,pill
+db-regio-bayern,RE 14,db-regio-ag-bayern,re-14,#e50000,#ffffff,,rectangle
+db-regio-bayern,RE 20,db-regio-ag-bayern,re-20,#e50000,#ffffff,,rectangle
+db-regio-bayern,RE 28,db-regio-ag-bayern,re-28,#e50000,#ffffff,,rectangle
+db-regio-bayern,RE 19,db-regio-ag-bayern,re-19,#ff6600,#ffffff,,rectangle
+db-regio-bayern,RB 25,db-regio-ag-bayern,rb-25,#ffa0a0,#ffffff,,rectangle
 db-regio-mitte,RE 40,db-regio-ag-mitte,re-40,#ff9027,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB 41,db-regio-ag-mitte,rb-41,#00ab4f,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB 44,db-regio-ag-mitte,rb-44,#7ac547,#ffffff,,rectangle-rounded-corner
