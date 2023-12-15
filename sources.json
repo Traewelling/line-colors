@@ -28,6 +28,21 @@
         ]
     },
     {
+        "shortOperatorName": "db-regio-bayern",
+        "contributors": [
+            {
+                "github": "Aidaprima"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Bayern 2024",
+                "source": "https://assets.static-bahn.de/dam/jcr:bb360a26-c64c-4e3c-a6e2-71b57a1745d3/bayern-liniennetzplan-2024.pdf"
+            }
+        ]
+    },
+  {
+ 
         "shortOperatorName": "db-regio-nordost",
         "contributors": [
             {
