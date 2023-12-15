@@ -899,6 +899,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-ssb-nachtbus",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Nachtverkehr Stadtgebiet Stuttgart",
+                "source": "https://download.vvs.de/Nachtverkehr_Stadtgebiet_Stuttgart.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-ssb-stadtbahn",
         "contributors": [
             {
