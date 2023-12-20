@@ -141,6 +141,12 @@ mvv-mvg-tram,27,swm002,8-swm002-27,#fba61c,#ffffff,,rectangle
 mvv-mvg-tram,28,swm002,8-swm002-28,#ffffff,#fba822,#fba822,rectangle
 mvv-mvg-tram,29,swm002,8-swm002-29,#ffffff,#ec1622,#ec1622,rectangle
 mvv-mvg-tram,E7,swm002,8-swm002-e7,#ffffff,#000000,#ffffff,rectangle
+mvv-mvg-ubahn,U1,swm001,7-swm001-1,#52822f,#ffffff,,rectangle
+mvv-mvg-ubahn,U2,swm001,7-swm001-2,#c20831,#ffffff,,rectangle
+mvv-mvg-ubahn,U3,swm001,7-swm001-3,#ec6725,#ffffff,,rectangle
+mvv-mvg-ubahn,U4,swm001,7-swm001-4,#00a984,#ffffff,,rectangle
+mvv-mvg-ubahn,U5,swm001,7-swm001-5,#bc7a00,#ffffff,,rectangle
+mvv-mvg-ubahn,U6,swm001,7-swm001-6,#0065ae,#ffffff,,rectangle
 nah-sh,RE 6,db-regio-ag-nord,re-6,#00975f,#ffffff,,rectangle
 nah-sh,RB 61,nordbahn-eisenbahngesellschaft,nbe-rb61,#174094,#ffffff,,rectangle
 nah-sh,RB 62,db-regio-ag-nord,rb-62,#00aeca,#000000,,rectangle
