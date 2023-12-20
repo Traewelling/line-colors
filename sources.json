@@ -282,6 +282,20 @@
         "sources": []
     },
     {
+        "shortOperatorName": "mvv-mvg-ubahn",
+        "contributors": [
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "MVG Jahresnetzplan",
+                "source": "https://www.mvg.de/dam/jcr:d3dc64ec-f1b3-4019-a5fb-23e09884b5c9/netz-tarifplan-vre-12.2023_SURTX_Zone_M.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "nah-sh",
         "contributors": [
             {
