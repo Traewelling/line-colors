@@ -828,6 +828,20 @@
             }
         ]
     },
+    {
+    "shortOperatorName": "vrr-hst",
+    "contributors": [
+        {
+            "github": "metrophil"
+        }
+    ],
+    "sources": [
+        {
+            "name": "Netzplan Hagener Straßenbahn",
+            "source": "https://www.hst-hagen.de/netzplan"
+        }
+    ]
+},
 {
         "shortOperatorName": "vrr-rheinbahn",
         "contributors": [
