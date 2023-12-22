@@ -282,6 +282,20 @@
         "sources": []
     },
     {
+        "shortOperatorName": "mvv-mvg-ubahn",
+        "contributors": [
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "MVG Jahresnetzplan",
+                "source": "https://www.mvg.de/dam/jcr:d3dc64ec-f1b3-4019-a5fb-23e09884b5c9/netz-tarifplan-vre-12.2023_SURTX_Zone_M.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "nah-sh",
         "contributors": [
             {
@@ -801,6 +815,20 @@
         ]
     },
     {
+        "shortOperatorName": "vrn-rnv-tram",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz regulär Schiene RNV",
+                "source": "https://www.rnv-online.de/media/rnv-online.de/Fahrtinfo/Liniennetzplaene/regulaer/Liniennetzplan_Schiene.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrn-sbahn-rn",
         "contributors": [
             {
@@ -814,6 +842,20 @@
             }
         ]
     },
+    {
+    "shortOperatorName": "vrr-hst",
+    "contributors": [
+        {
+            "github": "metrophil"
+        }
+    ],
+    "sources": [
+        {
+            "name": "Netzplan Hagener Straßenbahn",
+            "source": "https://www.hst-hagen.de/netzplan"
+        }
+    ]
+},
 {
         "shortOperatorName": "vrr-rheinbahn",
         "contributors": [
@@ -895,6 +937,20 @@
             {
                 "name": "Netzplan",
                 "source": "https://www.dvb.de/-/media/files/liniennetz/2023-09-04/dvblnp040923bauwebpdf.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-ssb-nachtbus",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Nachtverkehr Stadtgebiet Stuttgart",
+                "source": "https://download.vvs.de/Nachtverkehr_Stadtgebiet_Stuttgart.pdf"
             }
         ]
     },
