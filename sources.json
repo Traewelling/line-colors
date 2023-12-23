@@ -1,19 +1,5 @@
 [
     {
-        "shortOperatorName": "db-regio-mitte",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "bwegt Netz 7b Liniennetz Regionalverkehr",
-                "source": "https://assets.static-bahn.de/dam/jcr:25a7e259-1c4f-45c5-ac0f-b257daf118a8/220825_Netz_7b_bwegt_CD_800x350_ET.pdf"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "ams",
         "contributors": [
             {
@@ -41,6 +27,20 @@
             {
                 "name": "Liniennetzplan Bayern 2024",
                 "source": "https://assets.static-bahn.de/dam/jcr:bb360a26-c64c-4e3c-a6e2-71b57a1745d3/bayern-liniennetzplan-2024.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "db-regio-mitte",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "bwegt Netz 7b Liniennetz Regionalverkehr",
+                "source": "https://assets.static-bahn.de/dam/jcr:25a7e259-1c4f-45c5-ac0f-b257daf118a8/220825_Netz_7b_bwegt_CD_800x350_ET.pdf"
             }
         ]
     },
@@ -81,7 +81,7 @@
         ]
     },
     {
-        "shortOperatorName": "db-regionetz-westfrankenbahn",
+        "shortOperatorName": "db-wfb",
         "contributors": [
             {
                 "github": "oneiricbotcelot"
@@ -316,20 +316,6 @@
         ]
     },
     {
-        "shortOperatorName": "rvf-vag-stadtbahn",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Linienfahrpläne",
-                "source": "https://www.vag-freiburg.de/fahrplan/linien-fahrplaene"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "neb-niederbarnimer-eisenbahn",
         "contributors": [
             {
@@ -442,6 +428,28 @@
         ]
     },
     {
+        "shortOperatorName": "regiobus-hannover",
+        "contributors": [
+            {
+                "github": "vainamov"
+            }
+        ],
+        "sources": [
+            {
+                "name": "GVH Bus Hannover",
+                "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplan-bus-hannover-2023-2024.pdf"
+            },
+            {
+                "name": "GVH Plan Stadt Hannover",
+                "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplaene-faltplan-stadt-2023-2024.pdf"
+            },
+            {
+                "name": "GVH Plan Region Hannover",
+                "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplaene-faltplan-region-2023-2024.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "rmv-db-sbahn",
         "contributors": [
             {
@@ -484,7 +492,7 @@
         ]
     },
     {
-        "shortOperatorName": "regio-s-bahn-donau-iller",
+        "shortOperatorName": "rsb-di",
         "contributors": [
             {
                 "github": "oneiricbotcelot"
@@ -498,24 +506,16 @@
         ]
     },
     {
-        "shortOperatorName": "regiobus-hannover",
+        "shortOperatorName": "rvf-vag-stadtbahn",
         "contributors": [
             {
-                "github": "vainamov"
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
             {
-                "name": "GVH Bus Hannover",
-                "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplan-bus-hannover-2023-2024.pdf"
-            },
-            {
-                "name": "GVH Plan Stadt Hannover",
-                "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplaene-faltplan-stadt-2023-2024.pdf"
-            },
-            {
-                "name": "GVH Plan Region Hannover",
-                "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplaene-faltplan-region-2023-2024.pdf"
+                "name": "Linienfahrpläne",
+                "source": "https://www.vag-freiburg.de/fahrplan/linien-fahrplaene"
             }
         ]
     },
@@ -618,20 +618,6 @@
         ]
     },
     {
-        "shortOperatorName": "sweg-sudwest",
-        "contributors": [
-            {
-                "github": "oneriricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Gesamtnetz Zollern-Alb und Ulmer Stern",
-                "source": "https://www.sweg.de/fileadmin//user_upload/pdf/liniennetzplaene/zollernalb/2021_11_22_SWEG_bwegt_GesamtNetz.pdf"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "svv-slb",
         "contributors": [
             {
@@ -646,13 +632,17 @@
         ]
     },
     {
-        "shortOperatorName": "sweg-stuttgart",
+        "shortOperatorName": "sweg",
         "contributors": [
             {
-                "github": "oneiricbotcelot"
+                "github": "oneriricbotcelot"
             }
         ],
         "sources": [
+            {
+                "name": "Gesamtnetz Zollern-Alb und Ulmer Stern",
+                "source": "https://www.sweg.de/fileadmin//user_upload/pdf/liniennetzplaene/zollernalb/2021_11_22_SWEG_bwegt_GesamtNetz.pdf"
+            },
             {
                 "name": "Liniennetzplan Stuttgart-Neckartal 2023",
                 "source": "https://www.sweg.de/fileadmin//user_upload/pdf/liniennetzplaene/stuttgart-neckartal/Liniennetzplan-SBS-2023.pdf"
@@ -734,20 +724,6 @@
         ]
     },
     {
-        "shortOperatorName": "vgn-vag-tram",
-        "contributors": [
-            {
-                "github": "tomabrafix"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VGN Schienennetzplan Nürnberg-Fürth",
-                "source": "https://www.vgn.de/liniennetze/schienennetz_nuernberg_furth/"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "vgn-infra-bus",
         "contributors": [
             {
@@ -758,6 +734,20 @@
             {
                 "name": "VGN Netzplan Fürth",
                 "source": "https://www.vgn.de/liniennetze/stadtverkehr_fuerth_stilisiert/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vgn-vag-tram",
+        "contributors": [
+            {
+                "github": "tomabrafix"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VGN Schienennetzplan Nürnberg-Fürth",
+                "source": "https://www.vgn.de/liniennetze/schienennetz_nuernberg_furth/"
             }
         ]
     },
@@ -916,20 +906,6 @@
         ]
     },
     {
-        "shortOperatorName": "vvs-db-sbs",
-        "contributors": [
-            {
-                "github": "jheubuch"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan S-Bahn Stuttgart",
-                "source": "https://download.vvs.de/SBahn_Liniennetz.pdf"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "vvo-tram",
         "contributors": [
             {
@@ -940,6 +916,20 @@
             {
                 "name": "Netzplan",
                 "source": "https://www.dvb.de/-/media/files/liniennetz/2023-09-04/dvblnp040923bauwebpdf.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-db-sbs",
+        "contributors": [
+            {
+                "github": "jheubuch"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan S-Bahn Stuttgart",
+                "source": "https://download.vvs.de/SBahn_Liniennetz.pdf"
             }
         ]
     },
