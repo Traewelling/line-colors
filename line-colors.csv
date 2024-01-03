@@ -715,11 +715,11 @@ vrr-dsw21,U45,,7-vrr036-45,#ed1c24,#ffffff,,rectangle
 vrr-dsw21,U46,,7-vrr036-46,#7264b8,#ffffff,,rectangle
 vrr-dsw21,U47,,7-vrr036-47,#80cc28,#ffffff,,rectangle
 vrr-dsw21,U49,,7-vrr036-49,#f799be,#ffffff,,rectangle
-vrr-dsw21,HB1,,8-vrr039-hb1,#ec008c,#ffffff,,rectangle
-vrr-dsw21,HB2,,8-vrr039-hb2,#ec008c,#ffffff,,rectangle
-vrr-dsw21,HB5,,8-vrr039-hb5,#ec008c,#ffffff,,rectangle
-vrr-dsw21,HB3,,8-vrr039-hb3,#ec008c,#ffffff,,rectangle
-vrr-dsw21,HB7,,8-vrr039-hb7,#ec008c,#ffffff,,rectangle
+vrr-dsw21,H1,,8-vrr039-hb1,#ec008c,#ffffff,,rectangle
+vrr-dsw21,H2,,8-vrr039-hb2,#ec008c,#ffffff,,rectangle
+vrr-dsw21,H3,,8-vrr039-hb3,#ec008c,#ffffff,,rectangle
+vrr-dsw21,H5,,8-vrr039-hb5,#ec008c,#ffffff,,rectangle
+vrr-dsw21,H7,,8-vrr039-hb7,#ec008c,#ffffff,,rectangle
 vrr-dvg,901,,8-vrr020-901,#009adf,#ffffff,,rectangle
 vrr-dvg,903,,8-vrr020-903,#009adf,#ffffff,,rectangle
 vrr-hst,CE51,,5-vrr050-ce51,#c10004,#ffffff,,rectangle-rounded-corner
