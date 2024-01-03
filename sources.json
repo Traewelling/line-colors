@@ -846,20 +846,62 @@
         ]
     },
     {
-    "shortOperatorName": "vrr-hst",
-    "contributors": [
-        {
-            "github": "metrophil"
-        }
-    ],
-    "sources": [
-        {
-            "name": "Netzplan Hagener Straßenbahn",
-            "source": "https://www.hst-hagen.de/netzplan"
-        }
-    ]
-},
-{
+        "shortOperatorName": "vrr-bogestra",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bogestra-Schienennetzplan",
+                "source": "https://bogestra-cdn.s3.amazonaws.com/webseite/Schienennetzplaene/BOGESTRA_Schienennetzplan_09-01-2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrr-dsw21",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Schienennetzplan Dortmund",
+                "source": "https://www.bus-und-bahn.de/fileadmin/user_upload/schienennetzplan_januar2023_a4_print_x3.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrr-dvg",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DVG-Liniennetzplan Tag (groß)",
+                "source": "https://www.dvg-duisburg.de/fileadmin/Media/Downloads/Linienplaene/Liniennetzplan/DVG_Liniennetzplan_Tag.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrr-hst",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Hagener Straßenbahn",
+                "source": "https://www.hst-hagen.de/netzplan"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrr-rheinbahn",
         "contributors": [
             {
@@ -870,6 +912,34 @@
             {
                 "name": "VRR Rheinbahn Düsseldorf",
                 "source": "https://www.rheinbahn.de/fahren/verbindungen/netzplaene"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrr-ruhrbahn",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Schienennetzplan der Ruhrbahn",
+                "source": "https://www.ruhrbahn.de/fileadmin/ruhrbahn_media/downloads/Netzplaene/Ruhrbahn-Netz-Barrierefrei-2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrr-swk",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Stadt Krefeld",
+                "source": "http://karteplan.com/deutschland/stadt/krefeld/liniennetzplan-krefeld.html"
             }
         ]
     },
