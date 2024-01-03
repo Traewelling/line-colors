@@ -943,6 +943,20 @@
             }
         ]
     },
+        {
+        "shortOperatorName": "vrr-wsw",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Stadt Wuppertal",
+                "source": "https://www.wsw-online.de/fileadmin/Mobil/Dokumente/Fahrplan/Linienplan/Linienplan_Wuppertal.pdf"
+            }
+        ]
+    },
     {
         "shortOperatorName": "vrs-stadtbahn",
         "contributors": [
