@@ -234,6 +234,24 @@
         ]
     },
     {
+        "shortOperatorName": "lavv-swl"
+        "contributors": [
+            {
+                "github": "connectingwings"
+            }
+        ],
+        "sources": [
+            {
+                "name": "StadtLinie grafisch Tarifzone 100 im LAVV",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-grafisch-Stadtlinie-2023.pdf"
+            },
+            {
+                "name": "AbendLinie grafisch Tarifzone 100 im LAVV"
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-grafisch-Abendlinie-2023.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mitteldeutsche-regiobahn",
         "contributors": [
             {
