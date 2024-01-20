@@ -990,6 +990,57 @@
         ]
     },
     {
+        "shortOperatorName": "vst-oebb",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            },
+            {
+                "github": "devkanza"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz S-Bahn-Steiermark",
+                "source": "https://www.oebb.at/dam/jcr:c1836cc4-d920-45d4-bf04-7a113a8337a1/netzplan-s-bahn-steiermark.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vst-stb",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            },
+            {
+                "github": "devkanza"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz S-Bahn-Steiermark",
+                "source": "https://www.oebb.at/dam/jcr:c1836cc4-d920-45d4-bf04-7a113a8337a1/netzplan-s-bahn-steiermark.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvk-oebb",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            },
+            {
+                "github": "devkanza"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Kärnten",
+                "source": "https://www.oebb.at/dam/jcr:e05a0037-0c1c-4e3f-b24f-931d55d71a0e/liniennetz_kaernten.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvo-db-regio",
         "contributors": [
             {
@@ -1070,6 +1121,74 @@
             {
                 "name": "Netzplan Stadtbahn Stuttgart",
                 "source": "https://download.vvs.de/Stadtbahn_Liniennetz.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvt-db-regio-bayern",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            },
+            {
+                "github": "devkanza"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Schiene Tirol",
+                "source": "https://www.oebb.at/dam/jcr:dca525b7-241b-424e-be99-de42a9c3bb62/liniennetz-tirol.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvt-oebb",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            },
+            {
+                "github": "devkanza"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Schiene Tirol",
+                "source": "https://www.oebb.at/dam/jcr:dca525b7-241b-424e-be99-de42a9c3bb62/liniennetz-tirol.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvv-oebb",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            },
+            {
+                "github": "devkanza"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bahnnetz Vorarlberg",
+                "source": "https://www.oebb.at/dam/jcr:19c51cee-43ec-485d-befc-395902088b8f/liniennetz-vorarlberg.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvv-montafoner-bahn",
+        "contributors": [
+            {
+                "github": "rnewhost"
+            },
+            {
+                "github": "devkanza"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bahnnetz Vorarlberg",
+                "source": "https://www.oebb.at/dam/jcr:19c51cee-43ec-485d-befc-395902088b8f/liniennetz-vorarlberg.pdf"
             }
         ]
     },
