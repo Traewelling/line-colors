@@ -527,11 +527,10 @@ s-bahn-zentralschweiz-zb,S 41,zentralbahn,4-850086-41,#055d80,#ffffff,,rectangle
 s-bahn-zentralschweiz-zb,S 44,zentralbahn,4-850086-44,#d35d68,#ffffff,,rectangle-rounded-corner
 s-bahn-zentralschweiz-zb,S 5,zentralbahn,4-850086-5,#fb47a3,#ffffff,,rectangle-rounded-corner
 s-bahn-zentralschweiz-zb,S 55,zentralbahn,4-850086-55,#fc87bf,#ffffff,,rectangle-rounded-corner
-svv-oebb,R3,osterreichische-bundesbahnen,r-3,#9dba3b,#ffffff,,rectangle-rounded-corner
 svv-oebb,R9,osterreichische-bundesbahnen,r-9,#dbbe2b,#ffffff,,rectangle-rounded-corner
 svv-oebb,R21,osterreichische-bundesbahnen,r-21,#42b3ca,#ffffff,,rectangle-rounded-corner
-svv-oebb,REX3,osterreichische-bundesbahnen,rex-3,#78c257,#ffffff,,rectangle-rounded-corner
 svv-oebb,REX21,osterreichische-bundesbahnen,rex-21,#f6861f,#ffffff,,rectangle-rounded-corner
+svv-oebb,S2,osterreichische-bundesbahnen,4-81-2-1451275-5318936,#0074b9,#ffffff,,rectangle-rounded-corner
 svv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1451275-5318936,#28ab48,#ffffff,,rectangle-rounded-corner
 svv-slb,R33,salzburger-lokalbahnen,,#b93146,#ffffff,,rectangle-rounded-corner
 svv-slb,S1,salzburger-lokalbahnen,4-810007-1,#b4193c,#ffffff,,rectangle-rounded-corner
@@ -671,10 +670,10 @@ vor-oebb,S1,osterreichische-bundesbahnen,4-81-1-1821578-5360392,#0097d5,#ffffff,
 vor-oebb,S2,osterreichische-bundesbahnen,4-81-2-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-oebb,S3,osterreichische-bundesbahnen,4-81-3-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-oebb,S4,osterreichische-bundesbahnen,4-81-4-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
-vor-oebb,S7,osterreichische-bundesbahnen,4-81-7-1822664-5362609,#0097d5,#ffffff,,rectangle-rounded-corner
+vor-oebb,S7,osterreichische-bundesbahnen,4-81-7,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-oebb,S40,osterreichische-bundesbahnen,4-81-40,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-oebb,S45,osterreichische-bundesbahnen,4-81-45,#c8d200,#ffffff,,rectangle-rounded-corner
-vor-oebb,S50,osterreichische-bundesbahnen,4-81-50-1817428-5361639,#0097d5,#ffffff,,rectangle-rounded-corner
+vor-oebb,S50,osterreichische-bundesbahnen,4-81-50,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-oebb,S60,osterreichische-bundesbahnen,4-81-60,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-oebb,S80,osterreichische-bundesbahnen,4-81-80,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-wl,18,wiener-linien,8-810009-18,#c00808,#ffffff,,rectangle
@@ -826,6 +825,19 @@ vrs-stadtbahn,65,stadtwerke-bonn,8-s3-65,#c6cc2a,#ffffff,,rectangle-rounded-corn
 vrs-stadtbahn,66,stadtwerke-bonn,8-s3-66,#d4417d,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,67,stadtwerke-bonn,8-s3-67,#e7a8c4,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,68,stadtwerke-bonn,8-s3-68,#cbaece,#ffffff,,rectangle-rounded-corner
+vst-oebb,S1,osterreichische-bundesbahnen,4-81-1-1714993-5236532,#0fa14a,#ffffff,,rectangle-rounded-corner
+vst-oebb,S3,osterreichische-bundesbahnen,4-81-3-1714993-5236532,#ed028c,#ffffff,,rectangle-rounded-corner
+vst-oebb,S5,osterreichische-bundesbahnen,4-81-5-1714993-5236532,#892890,#ffffff,,rectangle-rounded-corner
+vst-oebb,S51,osterreichische-bundesbahnen,4-81-51,#892890,#ffffff,,rectangle-rounded-corner
+vst-oebb,S8,osterreichische-bundesbahnen,4-81-8-1699752-5274525,#4fc4cf,#ffffff,,rectangle-rounded-corner
+vst-oebb,S9,osterreichische-bundesbahnen,4-81-9,#957cb9,#ffffff,,rectangle-rounded-corner
+vst-stb,S11,steiermarkbahn-und-bus-gmbh,4-3613-11,#0fa14a,#ffffff,,rectangle-rounded-corner
+vst-stb,S31,steiermarkbahn-und-bus-gmbh,4-3613-31,#ed028c,#ffffff,,rectangle-rounded-corner
+vvk-oebb,S1,osterreichische-bundesbahnen,4-81-1-1540573-5186063,#16489f,#ffffff,,rectangle-rounded-corner
+vvk-oebb,S2,osterreichische-bundesbahnen,4-81-2-1540573-5186063,#3b8475,#ffffff,,rectangle-rounded-corner
+vvk-oebb,S3,osterreichische-bundesbahnen,4-81-3-1592305-5185725,#e36f27,#ffffff,,rectangle-rounded-corner
+vvk-oebb,S4,osterreichische-bundesbahnen,4-81-4-1540573-5186063,#ee1c25,#ffffff,,rectangle-rounded-corner
+vvk-oebb,S5,osterreichische-bundesbahnen,4-81-5-1540573-5186063,#f3c836,#ffffff,,rectangle-rounded-corner
 vvo-db-regio,RB U28,db-regio-ag-sudost,5400003,#014d6f,#ffffff,,pill
 vvo-db-regio,RB 31,db-regio-ag-nordost,8010089,#6ab023,#ffffff,,rectangle
 vvo-db-regio,RB 33,db-regio-ag-sudost,8010089,#ec7797,#ffffff,,rectangle
@@ -889,6 +901,19 @@ vvs-ssb-stadtbahn,U 7,,8-vvs020-u7,#2bbb8f,#ffffff,,rectangle
 vvs-ssb-stadtbahn,U 8,,8-vvs020-u8,#c8b97b,#000000,,rectangle
 vvs-ssb-stadtbahn,U 9,,8-vvs020-u9,#ffd036,#000000,,rectangle
 vvs-ssb-stadtbahn,Zacke,,8-vvs021-10,#ffb530,#24629d,,rectangle
+vvt-db-regio-bayern,S7,db-regio-ag-bayern,4-800790-7,#d09eba,#ffffff,,rectangle
+vvt-oebb,cjx1,osterreichische-bundesbahnen,cjx-1,#48c9f2,#ffffff,,rectangle
+vvt-oebb,S2,osterreichische-bundesbahnen,4-81-2-1365196-5198757,#f45f98,#ffffff,,rectangle
+vvt-oebb,S3,osterreichische-bundesbahnen,4-81-3-1268243-5257783,#b0b6c8,#ffffff,,rectangle
+vvt-oebb,S4,osterreichische-bundesbahnen,4-81-4-1268243-5257783,#4a205d,#ffffff,,rectangle
+vvt-oebb,S6,osterreichische-bundesbahnen,4-81-6,#b01319,#ffffff,,rectangle
+vvt-oebb,S8,osterreichische-bundesbahnen,4-81-8-1341673-5283199,#25aae1,#ffffff,,rectangle
+vvv-montafoner-bahn,S4,montafoner-bahn,4-810003-4,#ffcb06,#ffffff,,rectangle
+vvv-oebb,S1,osterreichische-bundesbahnen,4-81-1-1079437-5289939,#dd1936,#ffffff,,rectangle
+vvv-oebb,S2,osterreichische-bundesbahnen,4-81-2-1054446-5247224,#dd1936,#ffffff,,rectangle
+vvv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1072203-5278907,#dd1936,#ffffff,,rectangle
+vvv-oebb,R2,osterreichische-bundesbahnen,r-2,#dd1936,#ffffff,,rectangle
+vvv-oebb,R5,osterreichische-bundesbahnen,r-5,#dd1936,#ffffff,,rectangle
 westfalenbahn,RE 15,westfalenbahn,wfb-re15,#ea9d22,#ffffff,,rectangle
 westfalenbahn,RE 60,westfalenbahn,wfb-re60,#00a3de,#ffffff,,rectangle
 westfalenbahn,RE 70,westfalenbahn,wfb-re70,#005174,#ffffff,,rectangle
