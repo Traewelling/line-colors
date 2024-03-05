@@ -317,6 +317,24 @@
         ]
     },
     {
+        "shortOperatorName": "mvv-stadtwerke-dachau",
+        "contributors": [
+            {
+                "github": "sebiIO"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Stadtverkehrsplan Dachau",
+                "source": "https://www.stadtwerke-dachau.de/fileadmin/Media/Downloads/Downloads_Tarife_Angebote/Downloads_Mobilitaet/Dachau_SVP_2024.pdf"
+            },
+            {
+                "name": "Übersichtsseite - Busverkehr in Dachau",
+                "source": "https://www.stadtwerke-dachau.de/tarife-angebote/mobilitaet/busverkehr-in-dachau"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "nah-sh",
         "contributors": [
             {

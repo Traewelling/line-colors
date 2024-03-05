@@ -185,6 +185,14 @@ mvv-mvg-ubahn,U3,,7-swm001-3,#ec6725,#ffffff,,rectangle
 mvv-mvg-ubahn,U4,,7-swm001-4,#00a984,#ffffff,,rectangle
 mvv-mvg-ubahn,U5,,7-swm001-5,#bc7a00,#ffffff,,rectangle
 mvv-mvg-ubahn,U6,,7-swm001-6,#0065ae,#ffffff,,rectangle
+mvv-stadtwerke-dachau,716,,5-mvvrbu-716,#235798,#ffffff,,rectangle
+mvv-stadtwerke-dachau,717,,5-mvvrbu-717,#000080,#ffffff,,rectangle
+mvv-stadtwerke-dachau,718,,5-mvvrbu-718,#ffcc00,#ffffff,,rectangle
+mvv-stadtwerke-dachau,719,,5-mvvrbu-719,#00adef,#ffffff,,rectangle
+mvv-stadtwerke-dachau,720,,5-mvvrbu-720,#ef3120,#ffffff,,rectangle
+mvv-stadtwerke-dachau,722,,5-mvvrbu-722,#ef3120,#ffffff,,rectangle
+mvv-stadtwerke-dachau,726,,5-mvvrbu-726,#00a880,#ffffff,,rectangle
+mvv-stadtwerke-dachau,744,,5-mvvrbu-744,#91c900,#ffffff,,rectangle
 nah-sh,RE 6,db-regio-ag-nord,re-6,#00975f,#ffffff,,rectangle
 nah-sh,RB 61,nordbahn-eisenbahngesellschaft,nbe-rb61,#174094,#ffffff,,rectangle
 nah-sh,RB 62,db-regio-ag-nord,rb-62,#00aeca,#000000,,rectangle
