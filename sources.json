@@ -342,12 +342,19 @@
             },
             {
                 "github": "jheubuch"
+            },
+            {
+                "github": "laugengebaeck"
             }
         ],
         "sources": [
             {
-                "name": "NAH.SH Bahnlinienplan",
+                "name": "NAH.SH Bahnlinienplan 2023",
                 "source": "https://www.nah.sh/assets/2023/nahsh_bahnlinienSH_2023.pdf"
+            },
+            {
+                "name": "NAH.SH Bahnlinienplan 2024",
+                "source": "https://www.nah.sh/assets/05-Karten/BahnlinienSH_A3_2024_5.pdf"
             }
         ]
     },

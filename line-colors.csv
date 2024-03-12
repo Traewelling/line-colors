@@ -194,28 +194,28 @@ mvv-stadtwerke-dachau,722,,5-mvvrbu-722,#ef3120,#ffffff,,rectangle
 mvv-stadtwerke-dachau,726,,5-mvvrbu-726,#00a880,#ffffff,,rectangle
 mvv-stadtwerke-dachau,744,,5-mvvrbu-744,#91c900,#ffffff,,rectangle
 nah-sh,RE 6,db-regio-ag-nord,re-6,#00975f,#ffffff,,rectangle
-nah-sh,RB 61,nordbahn-eisenbahngesellschaft,nbe-rb61,#174094,#ffffff,,rectangle
+nah-sh,RB 61,nordbahn,nbe-rb61,#174094,#ffffff,,rectangle
 nah-sh,RB 62,db-regio-ag-nord,rb-62,#00aeca,#000000,,rectangle
-nah-sh,RB 63,nordbahn-eisenbahngesellschaft,nbe-rb63,#ffdc00,#000000,,rectangle
-nah-sh,RB 64,db-regio-ag-nord,rb-64,#c2d0eb,#000000,,rectangle
+nah-sh,RB 63,nordbahn,nbe-rb63,#ffdc00,#000000,,rectangle
+nah-sh,RB 64,nordbahn,nbe-rb64,#ea899a,#000000,,rectangle
 nah-sh,RB 65,norddeutsche-eisenbahn-gesellschaft,neg-rb65,#dedd00,#000000,,rectangle
 nah-sh,RB 66,norddeutsche-eisenbahn-gesellschaft,neg-rb66,#798e0e,#ffffff,,rectangle
 nah-sh,RE 7,db-regio-ag-nord,re-7,#ef7c00,#000000,,rectangle
 nah-sh,RE 70,db-regio-ag-nord,re-70,#c30732,#ffffff,,rectangle
-nah-sh,RB 71,nordbahn-eisenbahngesellschaft,nbe-rb71,#008bd2,#ffffff,,rectangle
-nah-sh,RE 72,db-regio-ag-nord,re-72,#adce6d,#000000,,rectangle
-nah-sh,RB 73,db-regio-ag-nord,rb-73,#008c57,#ffffff,,rectangle
-nah-sh,RE 74,db-regio-ag-nord,re-74,#0069b4,#ffffff,,rectangle
-nah-sh,RB 75,db-regio-ag-nord,rb-75,#ba731a,#ffffff,,rectangle
+nah-sh,RB 71,nordbahn,nbe-rb71,#008bd2,#ffffff,,rectangle
+nah-sh,RE 72,nordbahn,nbe-re72,#adce6d,#000000,,rectangle
+nah-sh,RB 73,nordbahn,nbe-rb73,#008c57,#ffffff,,rectangle
+nah-sh,RE 74,nordbahn,nbe-re74,#693b58,#ffffff,,rectangle
+nah-sh,RB 75,nordbahn,nbe-rb75,#ba731a,#ffffff,,rectangle
 nah-sh,RB 76,erixx,erx-rb76,#ffdc00,#000000,,rectangle
 nah-sh,RE 8,db-regio-ag-nord,re-8,#a3d9f0,#000000,,rectangle
 nah-sh,RE 80,db-regio-ag-nord,re-80,#d9338a,#ffffff,,rectangle
 nah-sh,RB 81,db-regio-ag-nord,rb-81,#798e0e,#ffffff,,rectangle
-nah-sh,RB 82,nordbahn-eisenbahngesellschaft,nbe-rb82,#9c9c9c,#ffffff,,rectangle
+nah-sh,RB 82,nordbahn,nbe-rb82,#9c9c9c,#ffffff,,rectangle
 nah-sh,RE 83,erixx,erx-re83,#2d53a0,#ffffff,,rectangle
 nah-sh,RB 84,erixx,erx-rb84,#e4afd2,#000000,,rectangle
 nah-sh,RB 85,db-regio-ag-nord,rb-85,#fbb902,#000000,,rectangle
-nah-sh,X 85,db-regio-ag-nord,3-b1-x85,#fbb902,#000000,,rectangle
+nah-sh,X 85,db-regio-ag-nord,3-b1-x85,#a9b85d,#ffffff,,rectangle
 neb-niederbarnimer-eisenbahn,RB12,neb-niederbarnimer-eisenbahn,rb-12,#a5027d,#ffffff,,rectangle
 neb-niederbarnimer-eisenbahn,RB25,neb-niederbarnimer-eisenbahn,rb-25,#007cb0,#ffffff,,rectangle
 neb-niederbarnimer-eisenbahn,RB26,neb-niederbarnimer-eisenbahn,rb-26,#009686,#ffffff,,rectangle
