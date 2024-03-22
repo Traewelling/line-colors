@@ -485,6 +485,15 @@ rmv-heag-tram,7,,8-rmvhtr-7,#fb3199,#ffffff,,pill
 rmv-heag-tram,8,,8-rmvhtr-8,#f5381f,#ffffff,,pill
 rmv-heag-tram,9,,8-rmvhtr-9,#7ac64d,#ffffff,,pill
 rmv-heag-tram,10,,8-rmvhtr-10,#872996,#ffffff,,pill
+rmv-vgf-tram,11,,8-rmv254-11,#fec10c,#ffffff,,pill
+rmv-vgf-tram,12,,8-rmv254-12,#c64a1a,#ffffff,,pill
+rmv-vgf-tram,14,,8-rmv254-14,#f05a22,#ffffff,,pill
+rmv-vgf-tram,15,,8-rmv254-15,#fec10c,#ffffff,,pill
+rmv-vgf-tram,16,,8-rmv254-16,#f5821f,#ffffff,,pill
+rmv-vgf-tram,17,,8-rmv254-17,#f05a22,#ffffff,,pill
+rmv-vgf-tram,18,,8-rmv254-18,#faa519,#ffffff,,pill
+rmv-vgf-tram,20,,8-rmv254-20,#ffffff,#faa519,,pill
+rmv-vgf-tram,21,,8-rmv254-21,#faa519,#ffffff,,pill
 rmv-vgf-ubahn,U1,,7-rmv255-1,#c52b1e,#ffffff,,pill
 rmv-vgf-ubahn,U2,,7-rmv255-2,#00ab4f,#ffffff,,pill
 rmv-vgf-ubahn,U3,,7-rmv255-3,#345aaf,#ffffff,,pill

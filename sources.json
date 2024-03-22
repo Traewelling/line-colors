@@ -513,6 +513,20 @@
         ]
     },
     {
+        "shortOperatorName": "rmv-vgf-tram",
+        "contributors": [
+            {
+                "github": "techtoto"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Frankfurt am Main",
+                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/Liniennetzplan_Frankfurt.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "rmv-vgf-ubahn",
         "contributors": [
             {
