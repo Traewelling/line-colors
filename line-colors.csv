@@ -265,6 +265,7 @@ nrw-regional,RE 34,hlb-hessenbahn-gmbh,hlb-re34,#8c467d,#ffffff,,rectangle-round
 nrw-regional,RB 34,vias-rail-gmbh,via-rb34,#7a7c80,#ffffff,,rectangle-rounded-corner
 nrw-regional,RB 35,vias-rail-gmbh,via-rb35,#7a7c80,#ffffff,,rectangle-rounded-corner
 nrw-regional,RB 36,rheinruhrbahn-transdev,rrb-rb36,#7a7c80,#ffffff,,rectangle-rounded-corner
+nrw-regional,RB 37,tri-train-rental-gmbh,tri-rb37,#7a7c80,#ffffff,,rectangle-rounded-corner
 nrw-regional,RB 38,db-regio-ag-nrw,rb-38,#7a7c80,#ffffff,,rectangle-rounded-corner
 nrw-regional,RB 39,vias-rail-gmbh,via-rb39,#7a7c80,#ffffff,,rectangle-rounded-corner
 nrw-regional,RB 40,db-regio-ag-nrw,rb-40,#7a7c80,#ffffff,,rectangle-rounded-corner
@@ -761,6 +762,7 @@ vrr-dsw21,H5,,8-vrr039-hb5,#ec008c,#ffffff,,rectangle
 vrr-dsw21,H7,,8-vrr039-hb7,#ec008c,#ffffff,,rectangle
 vrr-dvg,901,,8-vrr020-901,#009adf,#ffffff,,rectangle
 vrr-dvg,903,,8-vrr020-903,#009adf,#ffffff,,rectangle
+vrr-dvg,U79,,7-vrr020-79,#009a93,#ffffff,,rectangle
 vrr-hst,CE51,,5-vrr050-ce51,#c10004,#ffffff,,rectangle-rounded-corner
 vrr-hst,CE52,,5-vrr050-ce52,#e63758,#ffffff,,rectangle-rounded-corner
 vrr-hst,510,,5-vrr050-510,#b06520,#ffffff,,rectangle-rounded-corner
