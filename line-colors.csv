@@ -934,6 +934,10 @@ vvv-oebb,R5,osterreichische-bundesbahnen,r-5,#dd1936,#ffffff,,rectangle
 westfalenbahn,RE 15,westfalenbahn,wfb-re15,#ea9d22,#ffffff,,rectangle
 westfalenbahn,RE 60,westfalenbahn,wfb-re60,#00a3de,#ffffff,,rectangle
 westfalenbahn,RE 70,westfalenbahn,wfb-re70,#005174,#ffffff,,rectangle
+wt-mobiel,1,,8-owl031-1,#009ee0,#ffffff,,rectangle
+wt-mobiel,2,,8-owl031-2,#009037,#ffffff,,rectangle
+wt-mobiel,3,,8-owl031-3,#ffed00,#000000,,rectangle
+wt-mobiel,4,,8-owl031-4,#e2001a,#ffffff,,rectangle
 zvnl-bus,60,,5-naslvb-60,#a61580,#ffffff,,pill
 zvnl-bus,65,,5-naslvb-65,#a61580,#ffffff,,pill
 zvnl-bus,70,,5-naslvb-70,#a61580,#ffffff,,pill

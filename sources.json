@@ -1246,6 +1246,20 @@
         ]
     },
     {
+        "shortOperatorName": "wt-mobiel",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Schematischer Netzplan Bielefeld",
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "zvnl-bus",
         "contributors": [
             {
