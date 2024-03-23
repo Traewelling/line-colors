@@ -216,6 +216,28 @@
         ]
     },
     {
+        "shortOperatorName": "kvv-regionalbus",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVV Liniennetzplan Bus Nördlicher Landkreis Karlsruhe 2024",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz-Noerdlicher-Landkreis-Karlsruhe.pdf"
+            },
+            {
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Karlsruhe und Nördlicher Landkreis Rastatt 2024",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-LK-Karlsruhe-und-noerdlicher-LK-Rastatt.pdf"
+            },
+            {
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Rastatt und Baden-Baden 2024",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-Landkreis-Rastatt-und-Baden-Baden.pdf"
+            },    
+        ]
+    },
+    {
         "shortOperatorName": "kvv-vbk",
         "contributors": [
             {
@@ -230,6 +252,10 @@
             {
                 "name": "KVV Liniennetzplan Nightliner 2023",
                 "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Schiene/2023/KVV-Liniennetzplan_Nightliner.pdf"
+            },
+            {
+                "name": "KVV Liniennetzplan Bus und Schiene Karlsruhe 2024",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Bus-und-Schiene-Karlsruhe.pdf"
             }
         ]
     },
