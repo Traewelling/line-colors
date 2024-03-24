@@ -543,6 +543,20 @@
         ]
     },
     {
+        "shortOperatorName": "rmv-heag-bus",
+        "contributors": [
+            {
+                "github": "techtoto"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HEAG/DADINA Liniennetzplan Stadt Darmstadt",
+                "source": "https://heagmobilo.de/sites/default/files/media/DADINA_Liniennetzplan_Darmstadt_2024.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "rmv-heag-tram",
         "contributors": [
             {
