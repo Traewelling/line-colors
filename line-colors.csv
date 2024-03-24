@@ -750,6 +750,12 @@ vgn-vag-ubahn,U 2,,7-vanuba-2,#ed1c24,#ffffff,,rectangle
 vgn-vag-ubahn,U 3,,7-vanuba-3,#4dc2bb,#ffffff,,rectangle
 vms-mrb,RB 30,mitteldeutsche-regiobahn,8010397,#ed9126,#ffffff,,rectangle
 vms-mrb,RE 3,mitteldeutsche-regiobahn,8010085,#0093d4,#ffffff,,rectangle
+vmt-evag-tram,1,,8-rmteva-1,#f18700,#ffffff,,rectangle
+vmt-evag-tram,2,,8-rmteva-2,#e3000b,#ffffff,,rectangle
+vmt-evag-tram,3,,8-rmteva-3,#67095f,#ffffff,,rectangle
+vmt-evag-tram,4,,8-rmteva-4,#007ac3,#ffffff,,rectangle
+vmt-evag-tram,5,,8-rmteva-5,#00883c,#ffffff,,rectangle
+vmt-evag-tram,6,,8-rmteva-6,#78ac28,#ffffff,,rectangle
 vor-oebb,S1,osterreichische-bundesbahnen,4-81-1-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-oebb,S2,osterreichische-bundesbahnen,4-81-2-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-oebb,S3,osterreichische-bundesbahnen,4-81-3-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
