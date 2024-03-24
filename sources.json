@@ -761,6 +761,20 @@
         ]
     },
     {
+        "shortOperatorName": "vbb-bvg-tram",
+        "contributors": [
+            {
+                "github": "techtoto"
+            }
+        ],
+        "sources": [
+            {
+                "name": "BVG Straßenbahnnetz",
+                "source": "https://www.bvg.de/dam/jcr:d45105f2-6752-4ec5-b882-8936572053c3/TramMetro_09_2023-Internetversion.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vbb-bvg-ubahn",
         "contributors": [
             {
