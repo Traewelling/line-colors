@@ -789,6 +789,20 @@
         ]
     },
     {
+        "shortOperatorName": "vbb-bvg-tram",
+        "contributors": [
+            {
+                "github": "techtoto"
+            }
+        ],
+        "sources": [
+            {
+                "name": "BVG Straßenbahnnetz",
+                "source": "https://www.bvg.de/dam/jcr:d45105f2-6752-4ec5-b882-8936572053c3/TramMetro_09_2023-Internetversion.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vbb-bvg-ubahn",
         "contributors": [
             {
@@ -897,6 +911,20 @@
             {
                 "name": "Netzplan",
                 "source": "https://download.transdev.de/transdev/uploads/mdr/media_document/26/original.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vmt-evag-tram",
+        "contributors": [
+            {
+                "github": "techtoto"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Erfurt",
+                "source": "https://www.evag-erfurt.de/site/evag/get/documents_E-256148826/evag/documents/Pl%C3%A4ne/2023/EVAG-Netzplan-Erfurt.pdf"
             }
         ]
     },

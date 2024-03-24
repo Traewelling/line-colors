@@ -706,6 +706,26 @@ uestra,610,,5-webueb-610,#ffffff,#2c2e35,#3ebc6d,pill
 uestra,611,,5-webueb-611,#ffffff,#2c2e35,#af2a21,pill
 uestra,631,,5-webueb-631,#ffffff,#2c2e35,#95cc45,pill
 uestra,800,,5-webueb-800,#ffffff,#2c2e35,#35ccf6,pill
+vbb-bvg-tram,M1,,8-vbbbvt-m1,#63b9e9,#ffffff,,rectangle
+vbb-bvg-tram,M2,,8-vbbbvt-m2,#7ab929,#ffffff,,rectangle
+vbb-bvg-tram,M4,,8-vbbbvt-m4,#ca1214,#ffffff,,rectangle
+vbb-bvg-tram,M5,,8-vbbbvt-m5,#c8893b,#ffffff,,rectangle
+vbb-bvg-tram,M6,,8-vbbbvt-m6,#005695,#ffffff,,rectangle
+vbb-bvg-tram,M8,,8-vbbbvt-m8,#ee7203,#ffffff,,rectangle
+vbb-bvg-tram,M10,,8-vbbbvt-m10,#007b3d,#ffffff,,rectangle
+vbb-bvg-tram,M13,,8-vbbbvt-m13,#00a092,#ffffff,,rectangle
+vbb-bvg-tram,M17,,8-vbbbvt-m17,#a6422a,#ffffff,,rectangle
+vbb-bvg-tram,16,,8-vbbbvt-16,#007fab,#ffffff,,rectangle
+vbb-bvg-tram,18,,8-vbbbvt-18,#d6ad00,#ffffff,,rectangle
+vbb-bvg-tram,21,,8-vbbbvt-21,#bc90c1,#ffffff,,rectangle
+vbb-bvg-tram,27,,8-vbbbvt-27,#cb621a,#ffffff,,rectangle
+vbb-bvg-tram,37,,8-vbbbvt-37,#815238,#ffffff,,rectangle
+vbb-bvg-tram,50,,8-vbbbvt-50,#eb9000,#ffffff,,rectangle
+vbb-bvg-tram,60,,8-vbbbvt-60,#009bd9,#ffffff,,rectangle
+vbb-bvg-tram,61,,8-vbbbvt-61,#e30613,#ffffff,,rectangle
+vbb-bvg-tram,62,,8-vbbbvt-62,#00512d,#ffffff,,rectangle
+vbb-bvg-tram,63,,8-vbbbvt-63,#ee7203,#ffffff,,rectangle
+vbb-bvg-tram,67,,8-vbbbvt-68,#65b32e,#ffffff,,rectangle
 vbb-bvg-ubahn,U1,,7-vbbbvu-1,#7dad4c,#ffffff,,rectangle
 vbb-bvg-ubahn,U2,,7-vbbbvu-2,#da421e,#ffffff,,rectangle
 vbb-bvg-ubahn,U3,,7-vbbbvu-3,#16683d,#ffffff,,rectangle
@@ -765,6 +785,12 @@ vgn-vag-ubahn,U 2,,7-vanuba-2,#ed1c24,#ffffff,,rectangle
 vgn-vag-ubahn,U 3,,7-vanuba-3,#4dc2bb,#ffffff,,rectangle
 vms-mrb,RB 30,mitteldeutsche-regiobahn,8010397,#ed9126,#ffffff,,rectangle
 vms-mrb,RE 3,mitteldeutsche-regiobahn,8010085,#0093d4,#ffffff,,rectangle
+vmt-evag-tram,1,,8-rmteva-1,#f18700,#ffffff,,rectangle
+vmt-evag-tram,2,,8-rmteva-2,#e3000b,#ffffff,,rectangle
+vmt-evag-tram,3,,8-rmteva-3,#67095f,#ffffff,,rectangle
+vmt-evag-tram,4,,8-rmteva-4,#007ac3,#ffffff,,rectangle
+vmt-evag-tram,5,,8-rmteva-5,#00883c,#ffffff,,rectangle
+vmt-evag-tram,6,,8-rmteva-6,#78ac28,#ffffff,,rectangle
 vor-oebb,S1,osterreichische-bundesbahnen,4-81-1-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-oebb,S2,osterreichische-bundesbahnen,4-81-2-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
 vor-oebb,S3,osterreichische-bundesbahnen,4-81-3-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner
