@@ -525,6 +525,24 @@
         ]
     },
     {
+        "shortOperatorName": "rmv-eswe-bus",
+        "contributors": [
+            {
+                "github": "techtoto"
+            }
+        ],
+        "sources": [
+            {
+                "name": "ESWE Netzplan Tag",
+                "source": "https://eswe-wiesbaden.nahverkehrsdaten.com/download/ESWE_SLNP-Tag_2023.pdf"
+            },
+            {
+                "name": "ESWE Netzplan Nacht",
+                "source": "https://eswe-wiesbaden.nahverkehrsdaten.com/download/ESWE_SLNP-Nacht_2023.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "rmv-heag-tram",
         "contributors": [
             {
