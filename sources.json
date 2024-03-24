@@ -539,6 +539,34 @@
         ]
     },
     {
+        "shortOperatorName": "rmv-mm-bus",
+        "contributors": [
+            {
+                "github": "techtoto"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Linienplan Mainzer Mobilität",
+                "source": "https://www.mainzer-mobilitaet.de/-/media/project/mainzer-stadtwerke/websites/mainzer-mobilitaet/fahrplaene/liniennetzplaene/web_mvg_mainz_slnp_tag_a3.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "rmv-mm-tram",
+        "contributors": [
+            {
+                "github": "techtoto"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Linienplan Mainzer Mobilität",
+                "source": "https://www.mainzer-mobilitaet.de/-/media/project/mainzer-stadtwerke/websites/mainzer-mobilitaet/fahrplaene/liniennetzplaene/web_mvg_mainz_slnp_tag_a3.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "rmv-vgf-tram",
         "contributors": [
             {
