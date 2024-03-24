@@ -873,6 +873,20 @@
         ]
     },
     {
+        "shortOperatorName": "vmt-evag-tram",
+        "contributors": [
+            {
+                "github": "techtoto"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Erfurt",
+                "source": "https://www.evag-erfurt.de/site/evag/get/documents_E-256148826/evag/documents/Pl%C3%A4ne/2023/EVAG-Netzplan-Erfurt.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vor-oebb",
         "contributors": [
             {
