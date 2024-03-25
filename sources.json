@@ -497,6 +497,76 @@
         ]
     },
     {
+        "shortOperatorName": "ostalb-mobil-ovg-goeppingen",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan OAM",
+                "source": "https://www.ostalbmobil.de/wp-content/uploads/2023/12/Liniennetzplan_OAM_2023_12_10.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ostalb-mobil-ovk-betz",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan OAM",
+                "source": "https://www.ostalbmobil.de/wp-content/uploads/2023/12/Liniennetzplan_OAM_2023_12_10.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ostalb-mobil-ovk-dannenmann",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan OAM",
+                "source": "https://www.ostalbmobil.de/wp-content/uploads/2023/12/Liniennetzplan_OAM_2023_12_10.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ostalb-mobil-ovk-domhan",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan OAM",
+                "source": "https://www.ostalbmobil.de/wp-content/uploads/2023/12/Liniennetzplan_OAM_2023_12_10.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ostalb-mobil-stadtbus-gmuend",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan OAM",
+                "source": "https://www.ostalbmobil.de/wp-content/uploads/2023/12/Liniennetzplan_OAM_2023_12_10.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "polregio",
         "contributors": [
             {
