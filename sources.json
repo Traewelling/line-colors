@@ -496,6 +496,7 @@
             }
         ]
     },
+    {
         "shortOperatorName": "ostalb-mobil-ovg-goeppingen",
         "contributors": [
             {
@@ -509,6 +510,7 @@
             }
         ]
     },
+    {
         "shortOperatorName": "ostalb-mobil-ovk-betz",
         "contributors": [
             {
@@ -522,6 +524,7 @@
             }
         ]
     },
+    {
         "shortOperatorName": "ostalb-mobil-ovk-dannenmann",
         "contributors": [
             {
@@ -535,6 +538,7 @@
             }
         ]
     },
+    {
         "shortOperatorName": "ostalb-mobil-ovk-domhan",
         "contributors": [
             {
@@ -548,6 +552,7 @@
             }
         ]
     },
+    {
         "shortOperatorName": "ostalb-mobil-stadtbus-gmuend",
         "contributors": [
             {
