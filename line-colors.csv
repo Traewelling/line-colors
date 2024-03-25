@@ -389,6 +389,25 @@ ooevv-oebb,S2,osterreichische-bundesbahnen,4-81-2-1589920-5372014,#0098a1,#fffff
 ooevv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1589920-5372014,#342980,#ffffff,,rectangle-rounded-corner
 ooevv-oebb,S4,osterreichische-bundesbahnen,4-81-4-1589920-5372014,#a4ba00,#ffffff,,rectangle-rounded-corner
 ooevv-stern-hafferl,S5,stern-hafferl-verkehrs-gmbh,4-810008-5,#e2007a,#ffffff,,rectangle-rounded-corner
+ostalb-mobil-ovg-goeppingen,931,,5-vvs031-931,#fbc707,#000000,,rectangle
+ostalb-mobil-ovg-goeppingen,932,,5-vvs031-932,#785f42,#ffffff,,rectangle
+ostalb-mobil-ovk-betz,21,,5-ova050-21,#2e3192,#ffffff,,rectangle
+ostalb-mobil-ovk-dannenmann,266,,5-vvs031-266,#0994dc,#ffffff,,rectangle
+ostalb-mobil-ovk-dannenmann,268,,5-vvs031-268,#f47216,#ffffff,,rectangle
+ostalb-mobil-ovk-domhan,71,,5-ova002-71,#2e3192,#ffffff,,rectangle
+ostalb-mobil-stadtbus-gmuend,1,,5-ova002-1,#ed1c24,#ffffff,,rectangle
+ostalb-mobil-stadtbus-gmuend,2,,5-ova002-2,#6e87cd,#ffffff,,rectangle
+ostalb-mobil-stadtbus-gmuend,3,,5-ova002-3,#fff200,#000000,,rectangle
+ostalb-mobil-stadtbus-gmuend,4,,5-ova002-4,#00adef,#ffffff,,rectangle
+ostalb-mobil-stadtbus-gmuend,5,,5-ova002-5,#f47216,#ffffff,,rectangle
+ostalb-mobil-stadtbus-gmuend,5b,,5-ova002-5b,#f47216,#ffffff,,rectangle
+ostalb-mobil-stadtbus-gmuend,6,,5-ova002-6,#99d420,#ffffff,,rectangle
+ostalb-mobil-stadtbus-gmuend,7,,5-ova002-7,#ca93d0,#ffffff,,rectangle
+ostalb-mobil-stadtbus-gmuend,40,,5-ova002-40,#00adef,#ffffff,,rectangle
+ostalb-mobil-stadtbus-gmuend,50,,5-ova002-50,#f47216,#ffffff,,rectangle
+ostalb-mobil-stadtbus-gmuend,66,,5-ova002-66,#00a650,#ffffff,,rectangle
+ostalb-mobil-stadtbus-gmuend,70,,5-ova002-70,#2e3192,#ffffff,,rectangle
+ostalb-mobil-stadtbus-gmuend,73,,5-ova002-73,#00adef,#ffffff,,rectangle
 polregio,RB91,polregio,r-91,#eb7405,#ffffff,,rectangle
 regio-s-bahn-donau-iller,RS 2,db-regio-ag-baden-wurttemberg,rs2,#901411,#ffffff,,pill
 regio-s-bahn-donau-iller,RS 21,db-regio-ag-baden-wurttemberg,rs21,#e92a1c,#ffffff,,pill
