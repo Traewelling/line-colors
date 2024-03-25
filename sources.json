@@ -989,6 +989,20 @@
         ]
     },
     {
+        "shortOperatorName": "vrn-regionalbus",
+        "contributors": [
+            {
+                "github": "klukas144"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Ladenburg-Schriesheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/ladenburg-schriesheim_schematisch.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrn-rnv-tram",
         "contributors": [
             {
