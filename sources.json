@@ -1,33 +1,5 @@
 [
     {
-        "shortOperatorName": "db-regio-mitte",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "bwegt Netz 7b Liniennetz Regionalverkehr",
-                "source": "https://assets.static-bahn.de/dam/jcr:25a7e259-1c4f-45c5-ac0f-b257daf118a8/220825_Netz_7b_bwegt_CD_800x350_ET.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "db-regio-mitte",
-        "contributors": [
-            {
-                "github": "klukas144"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Streckenkarte Main-Neckar-Ried-Express",
-                "source": "https://assets.static-bahn.de/dam/jcr:27c125bc-7bab-4eae-88c6-08d18285b46b/20220222_SK_MNR.pdf"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "ams",
         "contributors": [
             {
@@ -55,6 +27,27 @@
             {
                 "name": "Liniennetzplan Bayern 2024",
                 "source": "https://assets.static-bahn.de/dam/jcr:bb360a26-c64c-4e3c-a6e2-71b57a1745d3/bayern-liniennetzplan-2024.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "db-regio-mitte",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            },
+            {
+                "github": "klukas144"
+            }
+        ],
+        "sources": [
+            {
+                "name": "bwegt Netz 7b Liniennetz Regionalverkehr",
+                "source": "https://assets.static-bahn.de/dam/jcr:25a7e259-1c4f-45c5-ac0f-b257daf118a8/220825_Netz_7b_bwegt_CD_800x350_ET.pdf"
+            },
+            {
+                "name": "Streckenkarte Main-Neckar-Ried-Express",
+                "source": "https://assets.static-bahn.de/dam/jcr:27c125bc-7bab-4eae-88c6-08d18285b46b/20220222_SK_MNR.pdf"
             }
         ]
     },
@@ -1097,7 +1090,7 @@
             {
                 "name": "Liniennetzplan Mannheim/Ludwigshafen regulär",
                 "source": "https://www.rnv-online.de/media/rnv-online.de/Fahrtinfo/Liniennetzplaene/regulaer/Liniennetzplan_MA-LU_regulaer.pdf"
-            }
+            },
             {
                 "name": "Liniennetzplan Heidelberg regulär - Gültig ab 07. April 2024",
                 "source": "https://www.rnv-online.de/media/rnv-online.de/Fahrtinfo/Liniennetzplaene/regulaer/Liniennetzplan_HD_regulaer_ab_07._April_2024.pdf"
