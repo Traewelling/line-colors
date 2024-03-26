@@ -895,7 +895,7 @@ vrn-regionalbus,626,,5-vrn033-626,#509fc8,#ffffff,,pill
 vrn-regionalbus,627,,5-vrn033-627,#6e1430,#ffffff,,pill
 vrn-regionalbus,628,,5-vrn033-628,#007abe,#ffffff,,pill
 vrn-regionalbus,629,,5-vrn033-629,#034c53,#ffffff,,pill
-vrn-regionalbus,630,,5-rbgbrn-630,#ff2e17,#ffffff,,pill
+vrn-regionalbus,630,busverkehr-rhein-neckar,5-rbgbrn-630,#ff2e17,#ffffff,,pill
 vrn-rnv-tram,1,rhein-neckar-verkehr-gmbh,8-vrn008-1,#f39b9a,#ffffff,,rectangle
 vrn-rnv-tram,2,rhein-neckar-verkehr-gmbh,8-vrn008-2,#b00044,#ffffff,,rectangle
 vrn-rnv-tram,3,rhein-neckar-verkehr-gmbh,8-vrn008-3,#d5ad00,#ffffff,,rectangle
