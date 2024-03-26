@@ -14,6 +14,20 @@
         ]
     },
     {
+        "shortOperatorName": "db-regio-mitte",
+        "contributors": [
+            {
+                "github": "klukas144"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Streckenkarte Main-Neckar-Ried-Express",
+                "source": "https://assets.static-bahn.de/dam/jcr:27c125bc-7bab-4eae-88c6-08d18285b46b/20220222_SK_MNR.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "ams",
         "contributors": [
             {
@@ -1073,6 +1087,24 @@
         ]
     },
     {
+        "shortOperatorName": "vrn-rnv-bus",
+        "contributors": [
+            {
+                "github": "klukas144"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Mannheim/Ludwigshafen regulär",
+                "source": "https://www.rnv-online.de/media/rnv-online.de/Fahrtinfo/Liniennetzplaene/regulaer/Liniennetzplan_MA-LU_regulaer.pdf"
+            }
+            {
+                "name": "Liniennetzplan Heidelberg regulär - Gültig ab 07. April 2024",
+                "source": "https://www.rnv-online.de/media/rnv-online.de/Fahrtinfo/Liniennetzplaene/regulaer/Liniennetzplan_HD_regulaer_ab_07._April_2024.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrn-rnv-tram",
         "contributors": [
             {
@@ -1083,7 +1115,7 @@
             {
                 "name": "Liniennetz regulär Schiene RNV",
                 "source": "https://www.rnv-online.de/media/rnv-online.de/Fahrtinfo/Liniennetzplaene/regulaer/Liniennetzplan_Schiene.pdf"
-            }
+            },
         ]
     },
     {
