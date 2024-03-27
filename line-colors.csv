@@ -24,6 +24,10 @@ db-regio-mitte,RE 40,db-regio-ag-mitte,re-40,#ff9027,#ffffff,,rectangle-rounded-
 db-regio-mitte,RB 41,db-regio-ag-mitte,rb-41,#00ab4f,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB 44,db-regio-ag-mitte,rb-44,#7ac547,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RE 45,db-regio-ag-mitte,re-45,#cf631a,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RE 60,db-regio-ag-mitte,re-60,#d03831,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RB 67,db-regio-ag-mitte,rb-67,#406bb1,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RB 68,db-regio-ag-mitte,rb-68,#406bb1,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RE 70,db-regio-ag-mitte,re-70,#d03831,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RE 73,db-regio-ag-mitte,re-73,#ff2e17,#ffffff,,rectangle-rounded-corner
 db-regio-nordost,FEX,db-regio-ag-nordost,fex19829,#79122f,#ffffff,,rectangle
 db-regio-nordost,RB10,db-regio-ag-nordost,rb-10,#66aa22,#ffffff,,rectangle
@@ -896,6 +900,52 @@ vrn-regionalbus,627,,5-vrn033-627,#6e1430,#ffffff,,pill
 vrn-regionalbus,628,,5-vrn033-628,#007abe,#ffffff,,pill
 vrn-regionalbus,629,,5-vrn033-629,#034c53,#ffffff,,pill
 vrn-regionalbus,630,busverkehr-rhein-neckar,5-rbgbrn-630,#ff2e17,#ffffff,,pill
+vrn-rnv-bus,5,rhein-neckar-verkehr-gmbh-oberrheinische-eisenbahn,5-vrnoeg-5-967040-5496598,#00965e,#ffffff,,pill
+vrn-rnv-bus,20,,5-vrn019-20,#e07500,#ffffff,,pill
+vrn-rnv-bus,20A,,5-vrn019-20a,#e07500,#ffffff,,pill
+vrn-rnv-bus,27,,5-vrn019-21,#91c46d,#ffffff,,pill
+vrn-rnv-bus,28,,5-vrn019-28,#b09fcd,#ffffff,,pill
+vrn-rnv-bus,28A,,5-vrn019-28a,#b09fcd,#ffffff,,pill
+vrn-rnv-bus,29,,5-vrn019-29,#00bbef,#ffffff,,pill
+vrn-rnv-bus,30,,5-vrn019-30,#b2a0ce,#ffffff,,pill
+vrn-rnv-bus,31,,5-vrn019-31,#4794d1,#ffffff,,pill
+vrn-rnv-bus,32,,5-vrn019-32,#580600,#ffffff,,pill
+vrn-rnv-bus,33,,5-vrn019-33,#e3000b,#ffffff,,pill
+vrn-rnv-bus,34,,5-vrn019-34,#139cd9,#ffffff,,pill
+vrn-rnv-bus,35,,5-vrn019-35,#946b25,#ffffff,,pill
+vrn-rnv-bus,36,,5-vrn019-36,#008f88,#ffffff,,pill
+vrn-rnv-bus,36A,,5-vrn019-36a,#008f88,#ffffff,,pill
+vrn-rnv-bus,37,,5-vrn019-37,#91c46d,#ffffff,,pill
+vrn-rnv-bus,38,,5-vrn019-38,#0096b5,#ffffff,,pill
+vrn-rnv-bus,39,,5-vrn019-39,#4c2183,#ffffff,,pill
+vrn-rnv-bus,39A,,5-vrn019-39a,#4c2183,#ffffff,,pill
+vrn-rnv-bus,40,,5-vrn017-40,#4c2182,#ffffff,,pill
+vrn-rnv-bus,42,,5-vrn017-42,#a1c3d5,#ffffff,,pill
+vrn-rnv-bus,43,,5-vrn017-43,#4896d2,#ffffff,,pill
+vrn-rnv-bus,44,,5-vrn017-44,#009992,#ffffff,,pill
+vrn-rnv-bus,45,,5-vrn017-45,#0068b4,#ffffff,,pill
+vrn-rnv-bus,46,,5-vrn017-46,#a89ab1,#ffffff,,pill
+vrn-rnv-bus,47,,5-vrn017-47,#82d0f5,#ffffff,,pill
+vrn-rnv-bus,48,,5-vrn017-48,#009ee3,#ffffff,,pill
+vrn-rnv-bus,49,,5-vrn017-49,#ffffff,#00963e,#00963e,pill
+vrn-rnv-bus,50,,5-vrn017-50,#91c46d,#ffffff,,pill
+vrn-rnv-bus,51,,5-vrn017-51,#0068b4,#ffffff,,pill
+vrn-rnv-bus,52,,5-vrn017-52,#a89ab1,#ffffff,,pill
+vrn-rnv-bus,53,,5-vrn017-53,#00bbee,#ffffff,,pill
+vrn-rnv-bus,54,,5-vrn017-54,#b19fcd,#ffffff,,pill
+vrn-rnv-bus,55,,5-vrn017-55,#4c2182,#ffffff,,pill
+vrn-rnv-bus,56,,5-vrn017-56,#00bbee,#ffffff,,pill
+vrn-rnv-bus,57,,5-vrn017-57,#5ac5f2,#ffffff,,pill
+vrn-rnv-bus,58,,5-vrn017-58,#a1c3d5,#ffffff,,pill
+vrn-rnv-bus,59,,5-vrn017-59,#a89ab1,#ffffff,,pill
+vrn-rnv-bus,60,,5-vrn017-60,#4c2182,#ffffff,,pill
+vrn-rnv-bus,61,,5-vrn017-61,#4896d2,#ffffff,,pill
+vrn-rnv-bus,62,,5-vrn017-62,#a89ab1,#ffffff,,pill
+vrn-rnv-bus,63,,5-vrn017-63,#a1c3d5,#ffffff,,pill
+vrn-rnv-bus,64,,5-vrn017-64,#0090a5,#ffffff,,pill
+vrn-rnv-bus,65,,5-vrn017-65,#8ac5bd,#ffffff,,pill
+vrn-rnv-bus,66,,5-vrn017-66,#e5007c,#ffffff,,pill
+vrn-rnv-bus,67,,5-vrn017-67,#e17500,#ffffff,,pill
 vrn-rnv-tram,1,rhein-neckar-verkehr-gmbh,8-vrn008-1,#f39b9a,#ffffff,,rectangle
 vrn-rnv-tram,2,rhein-neckar-verkehr-gmbh,8-vrn008-2,#b00044,#ffffff,,rectangle
 vrn-rnv-tram,3,rhein-neckar-verkehr-gmbh,8-vrn008-3,#d5ad00,#ffffff,,rectangle
@@ -916,6 +966,7 @@ vrn-rnv-tram,21,rhein-neckar-verkehr-gmbh,8-vrn011-21,#e3000b,#ffffff,,rectangle
 vrn-rnv-tram,22,rhein-neckar-verkehr-gmbh,8-vrn011-22,#fdc300,#ffffff,,rectangle
 vrn-rnv-tram,23,rhein-neckar-verkehr-gmbh,8-vrn011-23,#e48e00,#ffffff,,rectangle
 vrn-rnv-tram,24,rhein-neckar-verkehr-gmbh,8-vrn011-24,#8c1d75,#ffffff,,rectangle
+vrn-rnv-tram,25,rhein-neckar-verkehr-gmbh,8-vrn011-25,#93c23b,#ffffff,,rectangle
 vrn-rnv-tram,26,rhein-neckar-verkehr-gmbh,8-vrn011-26,#f39b9a,#ffffff,,rectangle
 vrn-rnv-tram,X,rhein-neckar-verkehr-gmbh-rhein-haardtbahn,8-vrnrhb-4x,#9d9d9d,#ffffff,,rectangle
 vrn-sbahn-rn,RE5,db-regio-ag-mitte,re-5,#f68a25,#ffffff,,pill
