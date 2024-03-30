@@ -648,6 +648,20 @@
         ]
     },
     {
+        "shortOperatorName": "rmv-hsb-bus",
+        "contributors": [
+            {
+                "github": "techtoto"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Hanau 2024",
+                "source": "https://www.hsb.de/mam/static/dateien/liniennetzplan.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "rmv-mm-bus",
         "contributors": [
             {
