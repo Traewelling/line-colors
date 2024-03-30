@@ -1178,6 +1178,10 @@
             {
                 "name": "Netzplan Hagener Straßenbahn",
                 "source": "https://www.hst-hagen.de/netzplan"
+            },
+            {
+                "name": "Netzplan NachtExpress Hagen",
+                "source": "https://www.hst-hagen.de/fileadmin/user_upload/Netzplaene_als_Download/y24/NE-Netzplan_2024_ohneMinuten_web.pdf"
             }
         ]
     },
