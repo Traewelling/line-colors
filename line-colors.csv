@@ -202,7 +202,11 @@ lavv-swl,107,stadtwerke-landshut,5-swlbus-107,#00b2bb,#ffffff,,rectangle
 lavv-swl,108,stadtwerke-landshut,5-swlbus-108,#ffed00,#000000,,rectangle
 lavv-swl,109,stadtwerke-landshut,5-swlbus-109,#0b9a33,#ffffff,,rectangle
 lavv-swl,110,stadtwerke-landshut,5-swlbus-110,#9d1680,#ffffff,,rectangle
-mitteldeutsche-regiobahn,RB45,mitteldeutsche-regiobahn,rb-45,#ffd502,#000000,,rectangle
+mitteldeutsche-regiobahn,RE 3,mitteldeutsche-regiobahn,re-3,#0093d4,#ffffff,,rectangle-rounded-corner
+mitteldeutsche-regiobahn,RE 6,mitteldeutsche-regiobahn,re-6,#9e60a4,#ffffff,,rectangle-rounded-corner
+mitteldeutsche-regiobahn,RB 30,mitteldeutsche-regiobahn,rb-30,#ed9126,#ffffff,,rectangle-rounded-corner
+mitteldeutsche-regiobahn,RB 45,mitteldeutsche-regiobahn,rb-45,#ed694a,#ffffff,,rectangle-rounded-corner
+mitteldeutsche-regiobahn,RB 110,mitteldeutsche-regiobahn,rb-110,#a2cbba,#ffffff,,rectangle-rounded-corner
 mobiel,1,mobiel-gmbh,8-owl031-1,#009fe0,#ffffff,,rectangle
 mobiel,2,mobiel-gmbh,8-owl031-2,#008f36,#ffffff,,rectangle
 mobiel,3,mobiel-gmbh,8-owl031-3,#ffed00,#00264f,,rectangle
@@ -922,8 +926,6 @@ vgn-vag-tram,10,,8-vanstr-10,#c94f82,#ffffff,,rectangle
 vgn-vag-ubahn,U 1,,7-vanuba-1,#1c62aa,#ffffff,,rectangle
 vgn-vag-ubahn,U 2,,7-vanuba-2,#ed1c24,#ffffff,,rectangle
 vgn-vag-ubahn,U 3,,7-vanuba-3,#4dc2bb,#ffffff,,rectangle
-vms-mrb,RB 30,mitteldeutsche-regiobahn,8010397,#ed9126,#ffffff,,rectangle
-vms-mrb,RE 3,mitteldeutsche-regiobahn,8010085,#0093d4,#ffffff,,rectangle
 vmt-evag-tram,1,,8-rmteva-1,#f18700,#ffffff,,rectangle
 vmt-evag-tram,2,,8-rmteva-2,#e3000b,#ffffff,,rectangle
 vmt-evag-tram,3,,8-rmteva-3,#67095f,#ffffff,,rectangle
