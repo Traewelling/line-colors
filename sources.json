@@ -838,6 +838,20 @@
         ]
     },
     {
+        "shortOperatorName": "saarbahn",
+        "contributors": [
+            {
+                "github": "feuer1998"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Saarbahn GmbH",
+                "source": "https://www.saarbahn.de/media/download-5a2e252da77e1"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "svv-oebb",
         "contributors": [
             {
