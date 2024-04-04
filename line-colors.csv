@@ -725,6 +725,46 @@ s-bahn-zentralschweiz-zb,S 41,zentralbahn,4-850086-41,#055d80,#ffffff,,rectangle
 s-bahn-zentralschweiz-zb,S 44,zentralbahn,4-850086-44,#d35d68,#ffffff,,rectangle-rounded-corner
 s-bahn-zentralschweiz-zb,S 5,zentralbahn,4-850086-5,#fb47a3,#ffffff,,rectangle-rounded-corner
 s-bahn-zentralschweiz-zb,S 55,zentralbahn,4-850086-55,#fc87bf,#ffffff,,rectangle-rounded-corner
+saarbahn,S1,saarbahn,8-vgssbs-1,#f39200,#ffffff,,rectangle
+saarbahn,30,,5-vgssbb-30,#5c2483,#ffffff,,rectangle
+saarbahn,101,,5-vgssbb-101,#e30613,#ffffff,,rectangle
+saarbahn,102,,5-vgssbb-102,#e30613,#ffffff,,rectangle
+saarbahn,103,,5-vgssbb-103,#e30613,#ffffff,,rectangle
+saarbahn,104,,5-vgssbb-104,#e30613,#ffffff,,rectangle
+saarbahn,105,,5-vgssbb-105,#e30613,#ffffff,,rectangle
+saarbahn,106,,5-vgssbb-106,#e30613,#ffffff,,rectangle
+saarbahn,107,,5-vgssbb-107,#e30613,#ffffff,,rectangle
+saarbahn,108,,5-vgssbb-108,#e30613,#ffffff,,rectangle
+saarbahn,109,,5-vgssbb-109,#e30613,#ffffff,,rectangle
+saarbahn,110,,5-vgssbb-110,#5c2483,#ffffff,,rectangle
+saarbahn,111,,5-vgssbb-111,#5c2483,#ffffff,,rectangle
+saarbahn,112,,5-vgssbb-112,#5c2483,#ffffff,,rectangle
+saarbahn,121,,5-vgssbb-121,#00a13a,#ffffff,,rectangle
+saarbahn,122,,5-vgssbb-122,#00a13a,#ffffff,,rectangle
+saarbahn,123,,5-vgssbb-123,#00a13a,#ffffff,,rectangle
+saarbahn,124,,5-vgssbb-124,#00a13a,#ffffff,,rectangle
+saarbahn,125,,5-vgssbb-125,#00a13a,#ffffff,,rectangle
+saarbahn,126,,5-vgssbb-126,#00a13a,#ffffff,,rectangle
+saarbahn,128,,5-vgssbb-128,#00a13a,#ffffff,,rectangle
+saarbahn,129,,5-vgssbb-129,#00a13a,#ffffff,,rectangle
+saarbahn,130,,5-vgssbb-130,#008bd2,#ffffff,,rectangle
+saarbahn,131,,5-vgssbb-131,#008bd2,#ffffff,,rectangle
+saarbahn,133,,5-vgssbb-133,#008bd2,#ffffff,,rectangle
+saarbahn,134,,5-vgssbb-134,#008bd2,#ffffff,,rectangle
+saarbahn,135,,5-vgssbb-135,#008bd2,#ffffff,,rectangle
+saarbahn,136,,5-vgssbb-136,#008bd2,#ffffff,,rectangle
+saarbahn,137,,5-vgssbb-137,#008bd2,#ffffff,,rectangle
+saarbahn,138,,5-vgssbb-138,#008bd2,#ffffff,,rectangle
+saarbahn,139,,5-vgssbb-139,#008bd2,#ffffff,,rectangle
+saarbahn,151,,5-vgssbb-151,#008bd2,#ffffff,,rectangle
+saarbahn,152,,5-vgssbb-152,#008bd2,#ffffff,,rectangle
+saarbahn,153,,5-vgssbb-153,#008bd2,#ffffff,,rectangle
+saarbahn,154,,5-vgssbb-154,#008bd2,#ffffff,,rectangle
+saarbahn,161,,5-vgssbb-161,#008bd2,#ffffff,,rectangle
+saarbahn,163,,5-vgssbb-163,#008bd2,#ffffff,,rectangle
+saarbahn,164,,5-vgssbb-164,#008bd2,#ffffff,,rectangle
+saarbahn,165,,5-vgssbb-165,#008bd2,#ffffff,,rectangle
+saarbahn,168,,5-vgssbb-168,#008bd2,#ffffff,,rectangle
 svv-oebb,R9,osterreichische-bundesbahnen,r-9,#dbbe2b,#ffffff,,rectangle-rounded-corner
 svv-oebb,R21,osterreichische-bundesbahnen,r-21,#42b3ca,#ffffff,,rectangle-rounded-corner
 svv-oebb,REX21,osterreichische-bundesbahnen,rex-21,#f6861f,#ffffff,,rectangle-rounded-corner
