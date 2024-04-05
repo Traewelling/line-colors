@@ -288,13 +288,13 @@
         "shortOperatorName": "mitteldeutsche-regiobahn",
         "contributors": [
             {
-                "github": "jeyemwey"
+                "github": "hoolycrash"
             }
         ],
         "sources": [
             {
-                "name": "VBB Liniennetz Regionalverkehr",
-                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
+                "name": "Netzplan Mitteldeutsche Regiobahn",
+                "source": "https://download.transdev.de/transdev/uploads/mdr/media_document/26/original.pdf"
             }
         ]
     },
@@ -1034,20 +1034,6 @@
             {
                 "name": "VGN Schienennetzplan Nürnberg-Fürth",
                 "source": "https://www.vgn.de/liniennetze/schienennetz_nuernberg_furth/"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vms-mrb",
-        "contributors": [
-            {
-                "github": "hoolycrash"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan",
-                "source": "https://download.transdev.de/transdev/uploads/mdr/media_document/26/original.pdf"
             }
         ]
     },
