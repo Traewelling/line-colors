@@ -758,6 +758,20 @@
             }
         ]
     },
+ {
+        "shortOperatorName": "vgn-swh-bus",
+        "contributors": [
+            {
+                "github": "Aidaprima"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VGN Netzplan Hof",
+                "source": "https://www.vgn.de/liniennetze/stadtverkehr_hof/"
+            }
+        ]
+    },
     {
         "shortOperatorName": "vgn-vag-ubahn",
         "contributors": [
