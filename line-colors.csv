@@ -3,6 +3,7 @@ ams,S7,abellio-rail-mitteldeutschland-gmbh,4-ams-7,#0a579b,#ffffff,,pill
 db-regio-bayern,RB 11,db-regio-ag-bayern,rb-11,#00ace5,#ffffff,,rectangle
 db-regio-bayern,RB 12,db-regio-ag-bayern,rb-12,#6cc3d9,#ffffff,,rectangle
 db-regio-bayern,RB 16,db-regio-ag-bayern,rb-16,#ff9999,#ffffff,,rectangle
+db-regio-bayern,RB 21,db-regio-ag-bayern,rb-21,#d2a465,#ffffff,,rectangle
 db-regio-bayern,RB 25,db-regio-ag-bayern,rb-25,#ffa0a0,#ffffff,,rectangle
 db-regio-bayern,RB 30,db-regio-ag-bayern,rb-30,#bf73bf,#ffffff,,rectangle
 db-regio-bayern,RB 31,db-regio-ag-bayern,rb-31,#ff9999,#ffffff,,rectangle
@@ -16,7 +17,6 @@ db-regio-bayern,RE 14,db-regio-ag-bayern,re-14,#e50000,#ffffff,,rectangle
 db-regio-bayern,RE 16,db-regio-ag-bayern,re-16,#e50000,#ffffff,,rectangle
 db-regio-bayern,RE 19,db-regio-ag-bayern,re-19,#ff6600,#ffffff,,rectangle
 db-regio-bayern,RE 20,db-regio-ag-bayern,re-20,#e50000,#ffffff,,rectangle
-db-regio-bayern,RB 21,db-regio-ag-bayern,rb-21,#d2a465,#ffffff,,rectangle
 db-regio-bayern,RE 28,db-regio-ag-bayern,re-28,#e50000,#ffffff,,rectangle
 db-regio-bayern,RE 29,db-regio-ag-bayern,re-29,#ffffff,#ff6600,#ff6600,rectangle
 db-regio-bayern,RE 60,db-regio-ag-bayern,re-60,#ffffff,#800080,#800080,rectangle
