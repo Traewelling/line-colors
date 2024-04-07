@@ -794,6 +794,15 @@ sweg-sudwest,RB 66,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb66,#014f9f,#ff
 sweg-sudwest,RB 67,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb67,#00a9df,#ffffff,,rectangle
 sweg-sudwest,RB 68,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb68,#ec2933,#ffffff,,rectangle
 sweg-sudwest,RB 69,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb69,#f27320,#ffffff,,rectangle
+tlx,L2,trilex-express-die-landerbahn-gmbh-dlb,tl-l2,#0f7ec0,#ffffff,,rectangle-rounded-corner
+tlx,L4,trilex-express-die-landerbahn-gmbh-dlb,tl-l4,#242320,#ffffff,,rectangle-rounded-corner
+tlx,L7,trilex-express-die-landerbahn-gmbh-dlb,tl-l7,#ea7b09,#ffffff,,rectangle-rounded-corner
+tlx,L24,trilex-express-die-landerbahn-gmbh-dlb,tl-l24,#6eae47,#ffffff,,rectangle-rounded-corner
+tlx,RE1,trilex-express-die-landerbahn-gmbh-dlb,tlx-re1,#e97b3b,#ffffff,,rectangle-rounded-corner
+tlx,RE2,trilex-express-die-landerbahn-gmbh-dlb,tlx-re2,#db031c,#ffffff,,rectangle-rounded-corner
+tlx,RB60,trilex-express-die-landerbahn-gmbh-dlb,tl-rb60,#569b6d,#ffffff,,rectangle-rounded-corner
+tlx,RB61,trilex-express-die-landerbahn-gmbh-dlb,tl-rb61,#438577,#ffffff,,rectangle-rounded-corner
+tlx,T9,trilex-express-die-landerbahn-gmbh-dlb,tl-t9,#f6b90b,#ffffff,,rectangle-rounded-corner
 uestra,1,ustra-hannoversche-verkehrsbetriebe-ag,8-webuet-1,#ffffff,#2c2e35,#ff2e3e,rectangle
 uestra,2,ustra-hannoversche-verkehrsbetriebe-ag,8-webuet-2,#ffffff,#2c2e35,#ff2e3e,rectangle
 uestra,3,ustra-hannoversche-verkehrsbetriebe-ag,8-webuet-3,#ffffff,#2c2e35,#0073c0,rectangle
@@ -1312,9 +1321,3 @@ zvnl-tram,N10,,8-naslvt-n10,#e1001e,#ffffff,,rectangle
 zvnl-tram,N17,,8-naslvt-n17,#67b337,#ffffff,,rectangle
 zvon-odeg,RB 64,ostdeutsche-eisenbahn-gmbh,8010177,#006552,#ffffff,,rectangle
 zvon-odeg,RB 65,ostdeutsche-eisenbahn-gmbh,8010073,#005b94,#ffffff,,rectangle
-zvon-tl,TLX RE1,trilex-express-die-landerbahn-gmbh-dlb,8010085,#ec7404,#ffffff,,rectangle
-zvon-tl,TLX RE2,trilex-express-die-landerbahn-gmbh-dlb,8010085,#e2001a,#ffffff,,rectangle
-zvon-tl,TL RB60,trilex-die-landerbahn-gmbh-dlb,8010085,#38a962,#ffffff,,rectangle
-zvon-tl,TL RB61,trilex-die-landerbahn-gmbh-dlb,8010085,#00632e,#ffffff,,rectangle
-zvon-tl,TL L7,trilex-die-landerbahn-gmbh-dlb,8012979,#ec7404,#ffffff,,rectangle
-zvon-tl,TL L9,trilex-die-landerbahn-gmbh-dlb,5400198,#58585a,#ffffff,,rectangle
