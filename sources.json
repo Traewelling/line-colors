@@ -968,6 +968,20 @@
         ]
     },
     {
+        "shortOperatorName": "vbg",
+        "contributors": [
+            {
+                "github": "feuer1998"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Vogtlandbahn Dezember 2023",
+                "source": "https://www.laenderbahn.com/media/laenderbahn/downloads/vogtlandbahn/01-Fahrplan/Linienplan/2023_12_Linienplan-Vogtlandbahn-web.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vbn-nwb-regio-s-bahn",
         "contributors": [
             {
