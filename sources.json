@@ -908,7 +908,7 @@
         ]
     },
     {
-        "shortOperatorName": "trilex",
+        "shortOperatorName": "tlx",
         "contributors": [
             {
                 "github": "feuer1998"
