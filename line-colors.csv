@@ -901,6 +901,10 @@ vbn-nwb-regio-s-bahn,RS 3,nordwestbahn,4-n1-rs3,#93bf30,#ffffff,,rectangle-round
 vbn-nwb-regio-s-bahn,RS 30,nordwestbahn,4-n1-rs30,#4faf3b,#ffffff,,rectangle-rounded-corner
 vbn-nwb-regio-s-bahn,RS 4,nordwestbahn,4-n1-rs4,#e2000b,#ffffff,,rectangle-rounded-corner
 vbn-nwb-regio-s-bahn,RS 6,nordwestbahn,4-n1-rs6,#899bb9,#ffffff,,rectangle-rounded-corner
+vbg,RB 1,vogtlandbahn-die-landerbahn-gmbh-dlb,vbg-rb1,#e30613,#ffffff,,rectangle-rounded-corner
+vbg,RB 2,vogtlandbahn-die-landerbahn-gmbh-dlb,vbg-rb2,#0067b0,#ffffff,,rectangle-rounded-corner
+vbg,RB 4,vogtlandbahn-die-landerbahn-gmbh-dlb,vbg-rb4,#954b3f,#ffffff,,rectangle-rounded-corner
+vbg,RB 5,vogtlandbahn-die-landerbahn-gmbh-dlb,vbg-rb5,#009641,#ffffff,,rectangle-rounded-corner
 vgn-db-sbn,S 1,db-regio-ag-bayern,4-800721-1,#92292e,#ffffff,,rectangle
 vgn-db-sbn,S 2,db-regio-ag-bayern,4-800721-2,#4dbd38,#ffffff,,rectangle
 vgn-db-sbn,S 3,db-regio-ag-bayern,4-800721-3,#f1471d,#ffffff,,rectangle
