@@ -908,7 +908,7 @@
         ]
     },
     {
-        "shortOperatorName": "tlx",
+        "shortOperatorName": "trilex",
         "contributors": [
             {
                 "github": "feuer1998"
@@ -1599,19 +1599,5 @@
                 "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
             }
         ]
-    },
-    {
-        "shortOperatorName": "zvon-tl",
-        "contributors": [
-            {
-                "github": "hoolycrash"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan",
-                "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
-            }
-        ]
-    },
+    }
 ]
