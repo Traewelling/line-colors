@@ -795,9 +795,9 @@ sweg-sudwest,RB 67,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb67,#00a9df,#ff
 sweg-sudwest,RB 68,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb68,#ec2933,#ffffff,,rectangle
 sweg-sudwest,RB 69,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb69,#f27320,#ffffff,,rectangle
 tlx,L2,trilex-die-landerbahn-gmbh-dlb,tl-l2,#0f7ec0,#ffffff,,rectangle-rounded-corner
+tlx,L24,trilex-die-landerbahn-gmbh-dlb,tl-l24,#6eae47,#ffffff,,rectangle-rounded-corner
 tlx,L4,trilex-die-landerbahn-gmbh-dlb,tl-l4,#242320,#ffffff,,rectangle-rounded-corner
 tlx,L7,trilex-die-landerbahn-gmbh-dlb,tl-l7,#ea7b09,#ffffff,,rectangle-rounded-corner
-tlx,L24,trilex-die-landerbahn-gmbh-dlb,tl-l24,#6eae47,#ffffff,,rectangle-rounded-corner
 tlx,RB60,trilex-die-landerbahn-gmbh-dlb,tl-rb60,#569b6d,#ffffff,,rectangle-rounded-corner
 tlx,RB61,trilex-die-landerbahn-gmbh-dlb,tl-rb61,#438577,#ffffff,,rectangle-rounded-corner
 tlx,RE1,trilex-express-die-landerbahn-gmbh-dlb,tlx-re1,#e97b3b,#ffffff,,rectangle-rounded-corner
