@@ -911,7 +911,7 @@ vgn-db-sbn,S 3,db-regio-ag-bayern,4-800721-3,#f1471d,#ffffff,,rectangle
 vgn-db-sbn,S 4,db-regio-ag-bayern,4-800721-4,#2c3797,#ffffff,,rectangle
 vgn-db-sbn,S 5,db-regio-ag-bayern,4-800721-5,#0c7bc1,#ffffff,,rectangle
 vgn-db-sbn,S 6,db-regio-ag-bayern,4-800721-6,#95af33,#ffffff,,rectangle
-vgn-estw-bus,280,,5-estbus-280,#68709B,#ffffff,,pill
+vgn-estw-bus,280,,5-estbus-280,#68709b,#ffffff,,pill
 vgn-estw-bus,281,,5-estbus-281,#9b853c,#ffffff,,pill
 vgn-estw-bus,281T,,9-estbus-281t,#9b853c,#ffffff,,pill
 vgn-estw-bus,283,,5-estbus-283,#bfde47,#ffffff,,pill
