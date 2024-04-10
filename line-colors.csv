@@ -868,6 +868,7 @@ vbb-bvg-tram,M8,,8-vbbbvt-m8,#ee7203,#ffffff,,rectangle
 vbb-bvg-tram,M10,,8-vbbbvt-m10,#007b3d,#ffffff,,rectangle
 vbb-bvg-tram,M13,,8-vbbbvt-m13,#00a092,#ffffff,,rectangle
 vbb-bvg-tram,M17,,8-vbbbvt-m17,#a6422a,#ffffff,,rectangle
+vbb-bvg-tram,12,,8-vbbbvt-12,#8870ab,#ffffff,,rectangle
 vbb-bvg-tram,16,,8-vbbbvt-16,#007fab,#ffffff,,rectangle
 vbb-bvg-tram,18,,8-vbbbvt-18,#d6ad00,#ffffff,,rectangle
 vbb-bvg-tram,21,,8-vbbbvt-21,#bc90c1,#ffffff,,rectangle
@@ -878,7 +879,8 @@ vbb-bvg-tram,60,,8-vbbbvt-60,#009bd9,#ffffff,,rectangle
 vbb-bvg-tram,61,,8-vbbbvt-61,#e30613,#ffffff,,rectangle
 vbb-bvg-tram,62,,8-vbbbvt-62,#00512d,#ffffff,,rectangle
 vbb-bvg-tram,63,,8-vbbbvt-63,#ee7203,#ffffff,,rectangle
-vbb-bvg-tram,67,,8-vbbbvt-68,#65b32e,#ffffff,,rectangle
+vbb-bvg-tram,67,,8-vbbbvt-67,#dd6ca6,#ffffff,,rectangle
+vbb-bvg-tram,68,,8-vbbbvt-68,#65b32e,#ffffff,,rectangle
 vbb-bvg-ubahn,U1,,7-vbbbvu-1,#7dad4c,#ffffff,,rectangle
 vbb-bvg-ubahn,U2,,7-vbbbvu-2,#da421e,#ffffff,,rectangle
 vbb-bvg-ubahn,U3,,7-vbbbvu-3,#16683d,#ffffff,,rectangle
