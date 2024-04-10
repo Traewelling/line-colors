@@ -1037,6 +1037,20 @@
             }
         ]
     },
+   {
+        "shortOperatorName": "vgn-estw-bus",
+        "contributors": [
+            {
+                "github": "Aidaprima"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VGN Netzplan Erlangen",
+                "source": "https://www.vgn.de/liniennetze/stadtverkehr_erlangen_stilisiert/"
+            }
+        ]
+    },
  {
         "shortOperatorName": "vgn-swh-bus",
         "contributors": [

@@ -911,6 +911,26 @@ vgn-db-sbn,S 3,db-regio-ag-bayern,4-800721-3,#f1471d,#ffffff,,rectangle
 vgn-db-sbn,S 4,db-regio-ag-bayern,4-800721-4,#2c3797,#ffffff,,rectangle
 vgn-db-sbn,S 5,db-regio-ag-bayern,4-800721-5,#0c7bc1,#ffffff,,rectangle
 vgn-db-sbn,S 6,db-regio-ag-bayern,4-800721-6,#95af33,#ffffff,,rectangle
+vgn-estw-bus,280,,5-estbus-280,#68709B,#ffffff,,pill
+vgn-estw-bus,281,,5-estbus-281,#9b853c,#ffffff,,pill
+vgn-estw-bus,281T,,9-estbus-281t,#9b853c,#ffffff,,pill
+vgn-estw-bus,283,,5-estbus-283,#bfde47,#ffffff,,pill
+vgn-estw-bus,283T,,9-estbus-283t,#bfde47,#ffffff,,pill
+vgn-estw-bus,284,,5-estbus-284,#722671,#ffffff,,pill
+vgn-estw-bus,285,,5-estbus-285,#ca028c,#ffffff,,pill
+vgn-estw-bus,285T,,9-estbus-285t,#ca028c,#ffffff,,pill
+vgn-estw-bus,286,,5-estbus-286,#bf9e30,#ffffff,,pill
+vgn-estw-bus,287,,5-estbus-287,#f5ec42,#ffffff,,pill
+vgn-estw-bus,287T,,9-estbus-287t,#f5ec42,#ffffff,,pill
+vgn-estw-bus,289,,5-estbus-289,#6ca6c5,#ffffff,,pill
+vgn-estw-bus,290,,5-estbus-290,#405eaf,#ffffff,,pill
+vgn-estw-bus,293,,5-estbus-293,#1e0061,#ffffff,,pill
+vgn-estw-bus,293T,,9-estbus-293t,#1e0061,#ffffff,,pill
+vgn-estw-bus,294,,5-estbus-294,#b15f9e,#ffffff,,pill
+vgn-estw-bus,295,,5-estbus-295,#5b9ba3,#ffffff,,pill
+vgn-estw-bus,296,,5-estbus-296,#7bbfef,#ffffff,,pill
+vgn-estw-bus,298,,5-estbus-298,#4d8d50,#ffffff,,pill
+vgn-estw-bus,299,,5-estbus-299,#cb2e32,#ffffff,,pill
 vgn-infra-bus,171,,5-fuebus-171,#b61a58,#ffffff,,pill
 vgn-infra-bus,172,,5-fuebus-172,#d57536,#ffffff,,pill
 vgn-infra-bus,173,,5-fuebus-173,#a6c2e7,#ffffff,,pill
