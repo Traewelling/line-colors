@@ -908,6 +908,20 @@
         ]
     },
     {
+        "shortOperatorName": "tlx",
+        "contributors": [
+            {
+                "github": "feuer1998"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Trilex Dezember 2023",
+                "source": "https://www.laenderbahn.com/media/laenderbahn/bilder/2023-12_Linienplan_trilex_ERWEITERT_A3_WEB.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "uestra",
         "contributors": [
             {
@@ -1588,20 +1602,6 @@
     },
     {
         "shortOperatorName": "zvon-odeg",
-        "contributors": [
-            {
-                "github": "hoolycrash"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan",
-                "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "zvon-tl",
         "contributors": [
             {
                 "github": "hoolycrash"
