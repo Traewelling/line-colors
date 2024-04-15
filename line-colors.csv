@@ -688,11 +688,17 @@ rmv-vgf-ubahn,U6,,7-rmv255-6,#0082ca,#ffffff,,pill
 rmv-vgf-ubahn,U7,,7-rmv255-7,#f19e2d,#ffffff,,pill
 rmv-vgf-ubahn,U8,,7-rmv255-8,#ca7fbe,#ffffff,,pill
 rmv-vgf-ubahn,U9,,7-rmv255-9,#ffd939,#2c2e35,#2c2e35,pill
-rvf-vag-stadtbahn,STR 1,,8-vag011-1,#e8001b,#ffffff,,rectangle-rounded-corner
-rvf-vag-stadtbahn,STR 2,,8-vag011-2,#13a538,#ffffff,,rectangle-rounded-corner
-rvf-vag-stadtbahn,STR 3,,8-vag011-3,#f59e00,#ffffff,,rectangle-rounded-corner
-rvf-vag-stadtbahn,STR 4,,8-vag011-4,#ea5297,#ffffff,,rectangle-rounded-corner
-rvf-vag-stadtbahn,STR 5,,8-vag011-5,#008bc5,#ffffff,,rectangle-rounded-corner
+rvf-sbahn,S1,db-regio-ag-baden-wurttemberg,#00569e,#ffffff,,rectangle-rounded-corner
+rvf-sbahn,S2,sweg-sudwestdeutsche-landesverkehrs-gmbh,#009e3c,#ffffff,,rectangle-rounded-corner
+rvf-sbahn,S3,sweg-sudwestdeutsche-landesverkehrs-gmbh,#e83281,#ffffff,,rectangle-rounded-corner
+rvf-sbahn,S5,sweg-sudwestdeutsche-landesverkehrs-gmbh,#ac69a8,#ffffff,,rectangle-rounded-corner
+rvf-sbahn,S10,db-regio-ag-baden-wurttemberg,#008bd2,#ffffff,,rectangle-rounded-corner
+rvf-sbahn,S11,db-regio-ag-baden-wurttemberg,#71cbf4,#ffffff,,rectangle-rounded-corner
+rvf-vag-stadtbahn,1,,8-vag002-1,#ed1c24,#ffffff,,rectangle
+rvf-vag-stadtbahn,2,,8-vag002-2,#35af3f,#ffffff,,rectangle
+rvf-vag-stadtbahn,3,,8-vag002-3,#f79210,#ffffff,,rectangle
+rvf-vag-stadtbahn,4,,8-vag002-4,#f033a3,#ffffff,,rectangle
+rvf-vag-stadtbahn,5,,8-vag002-5,#0994ce,#ffffff,,rectangle
 s-bahn-bern-bls,S 1,bls-ag,4-850033-1,#50b447,#ffffff,,rectangle
 s-bahn-bern-bls,S 2,bls-ag,4-850033-2,#1cb1e6,#ffffff,,rectangle
 s-bahn-bern-bls,S 3,bls-ag,4-850033-3,#8868b3,#ffffff,,rectangle
