@@ -57,12 +57,19 @@
         "contributors": [
             {
                 "github": "jeyemwey"
+            },
+            {
+                "github": "jonasr97"
             }
         ],
         "sources": [
             {
                 "name": "VBB Liniennetz Regionalverkehr",
                 "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
+            },
+            {
+                "name": "Liniennetz Regionalverkehr MV",
+                "source": "https://www.dbregio-mecklenburg-vorpommern.de/resource/blob/9358376/afd1296b1188bbc883cc6527c35e30ad/Liniennetzplan_MV_17-12-2022-data.pdf"
             }
         ]
     },
@@ -148,12 +155,19 @@
         "contributors": [
             {
                 "github": "jeyemwey"
+            },
+            {
+                "github": "jonasr97"
             }
         ],
         "sources": [
             {
                 "name": "VBB Liniennetz Regionalverkehr",
                 "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
+            },
+            {
+                "name": "Liniennetz Regionalverkehr MV",
+                "source": "https://www.dbregio-mecklenburg-vorpommern.de/resource/blob/9358376/afd1296b1188bbc883cc6527c35e30ad/Liniennetzplan_MV_17-12-2022-data.pdf"
             }
         ]
     },
@@ -390,6 +404,19 @@
                 "source": "https://www.nah.sh/assets/05-Karten/BahnlinienSH_A3_2024_5.pdf"
             }
         ]
+    },    {
+        "shortOperatorName": "nvs",
+        "contributors": [
+            {
+                "github": "jonasr97"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Nahverkehr Schwerin",
+                "source": "https://www.nahverkehr-schwerin.de/_Resources/Persistent/5/9/d/5/59d5a5fd8655710d24f5ae6e26f6861f7dfac243/Liniennetz_2023-12-23.pdf"
+            }
+        ]
     },
      {
         "shortOperatorName": "rvf-sbahn",
@@ -473,12 +500,19 @@
         "contributors": [
             {
                 "github": "jeyemwey"
+            },
+            {
+                "github": "jonasr97"
             }
         ],
         "sources": [
             {
                 "name": "VBB Liniennetz Regionalverkehr",
                 "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
+            },
+            {
+                "name": "Liniennetz Regionalverkehr MV",
+                "source": "https://www.dbregio-mecklenburg-vorpommern.de/resource/blob/9358376/afd1296b1188bbc883cc6527c35e30ad/Liniennetzplan_MV_17-12-2022-data.pdf"
             }
         ]
     },
