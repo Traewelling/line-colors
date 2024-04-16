@@ -400,8 +400,8 @@ nrw-sbahn,S 68,db-regio-ag-nrw,4-8003s-68,#00bfe8,#ffffff,,pill
 nvs,1,,8-vwmstr-1,#e5007d,#ffffff,,rectangle
 nvs,1,,5-vwmbus-1,#e5007d,#ffffff,,pill
 nvs,2,,8-vwmstr-2,#e3000f,#ffffff,,rectangle
-nvs,3,,8-vwmstr-3,#e5007d,#ffffff,,rectangle
-nvs,4,,8-vwmstr-4,#f08481,#ffffff,,rectangle
+nvs,3,,8-vwmstr-3,#f08481,#ffffff,,rectangle
+nvs,4,,8-vwmstr-4,#e5007d,#ffffff,,rectangle
 nvs,5,,5-vwmbus-5,#ef7c00,#ffffff,,pill
 nvs,6,,5-vwmbus-6,#6f5b6f,#ffffff,,pill
 nvs,7,,5-vwmbus-7,#ffcc00,#ffffff,,pill
