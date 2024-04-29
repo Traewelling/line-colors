@@ -433,6 +433,20 @@
         ]
     },
     {
+        "shortOperatorName": "rvf-sweg-sudwest",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "RVF Linienplan Emmendingen 2023",
+                "source": "https://www.rvf.de/fileadmin/user_upload/techdocs/linien-zonen/teilnetzplan-staedte/rvf_23_lp_emmendingen_web.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "rvf-vag-stadtbahn",
         "contributors": [
             {
