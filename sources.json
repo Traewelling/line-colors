@@ -433,6 +433,20 @@
         ]
     },
     {
+        "shortOperatorName": "rvf-sweg-sudwest",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan 2023",
+                "source": "https://swe-emmendingen.de/wp-content/uploads/2022/12/Liniennetzplan_2023.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "rvf-vag-stadtbahn",
         "contributors": [
             {
@@ -450,20 +464,6 @@
              {
                 "name": "Freiburger Schienennetz (Stadtbahn) [PDF]",
                 "source": "https://www.rvf.de/fileadmin/user_upload/techdocs/linien-zonen/linien/vag_24_stadtbahnnetzplan_web.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "rvf-sweg-sudwest",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan 2023",
-                "source": "https://swe-emmendingen.de/wp-content/uploads/2022/12/Liniennetzplan_2023.pdf"
             }
         ]
     },
