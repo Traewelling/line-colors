@@ -14,6 +14,34 @@
         ]
     },
     {
+        "shortOperatorName": "avv-brb",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Schienennetzplan 2023/12",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_schienennetzplan_2023_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "brb",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "BRB Streckennetz 2024",
+                "source": "https://download.transdev.de/transdev/uploads/bb/media_document/500/original.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "db-regio-bayern",
         "contributors": [
             {
@@ -223,6 +251,20 @@
         ]
     },
     {
+        "shortOperatorName": "invg-brb",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "BRB Streckennetz 2024",
+                "source": "https://download.transdev.de/transdev/uploads/bb/media_document/500/original.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "kvv-avg",
         "contributors": [
             {
@@ -323,6 +365,20 @@
             {
                 "name": "Netzplan 2023",
                 "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "mvv-brb",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "MVV Netzplan 2024 Gesamtnetz",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2024/2024_layout_SUR_gesamtnetz_SCR.pdf"
             }
         ]
     },
