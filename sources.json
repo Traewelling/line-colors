@@ -921,16 +921,44 @@
         ]
     },
     {
-        "shortOperatorName": "svv-oebb",
+        "shortOperatorName": "svv-brb",
         "contributors": [
             {
-                "github": "rnewhost"
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
             {
-                "name": "Netzplan SVV",
-                "source": "https://salzburg-verkehr.at/download/bahnnetz-land-salzburg/?wpdmdl=32234&refresh=6501827b0c3a01694597755"
+                "name": "Liniennetz Zentralraum",
+                "source": "https://www.oebb.at/dam/jcr:69a41a9c-57a1-4c6d-9619-c67fd076d9a1/Liniennetz_Zentralraum.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "svv-oebb",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Zentralraum",
+                "source": "https://www.oebb.at/dam/jcr:69a41a9c-57a1-4c6d-9619-c67fd076d9a1/Liniennetz_Zentralraum.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "svv-slb",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Zentralraum",
+                "source": "https://www.oebb.at/dam/jcr:69a41a9c-57a1-4c6d-9619-c67fd076d9a1/Liniennetz_Zentralraum.pdf"
             }
         ]
     },
@@ -945,20 +973,6 @@
             {
                 "name": "Gesamtnetz Zollern-Alb und Ulmer Stern",
                 "source": "https://www.sweg.de/fileadmin//user_upload/pdf/liniennetzplaene/zollernalb/2021_11_22_SWEG_bwegt_GesamtNetz.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "svv-slb",
-        "contributors": [
-            {
-                "github": "rnewhost"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan SVV",
-                "source": "https://salzburg-verkehr.at/download/bahnnetz-land-salzburg/?wpdmdl=32234&refresh=6501827b0c3a01694597755"
             }
         ]
     },
