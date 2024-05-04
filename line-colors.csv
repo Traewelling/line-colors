@@ -1,5 +1,13 @@
 shortOperatorName,lineName,hafasOperatorCode,hafasLineId,backgroundColor,textColor,borderColor,shape
 ams,S7,abellio-rail-mitteldeutschland-gmbh,4-ams-7,#0a579b,#ffffff,,pill
+avv-brb,RB 83,bayerische-regiobahn,brb-rb83,#c794ac,#ffffff,,rectangle-rounded-corner
+brb,RB 13,bayerische-regiobahn,brb-rb13,#ffb530,#ffffff,,rectangle-rounded-corner
+brb,RB 53,bayerische-regiobahn,brb-rb53,#ffaa90,#ffffff,,rectangle-rounded-corner
+brb,RB 67,bayerische-regiobahn,brb-rb67,#cb8daa,#ffffff,,rectangle-rounded-corner
+brb,RB 68,bayerische-regiobahn,brb-rb68,#a0b050,#ffffff,,rectangle-rounded-corner
+brb,RB 69,bayerische-regiobahn,brb-rb69,#008ac7,#ffffff,,rectangle-rounded-corner
+brb,RB 77,bayerische-regiobahn,brb-rb77,#188e94,#ffffff,,rectangle-rounded-corner
+brb,RE 5,bayerische-regiobahn,brb-re5,#00416d,#ffffff,,rectangle-rounded-corner
 db-regio-bayern,RB 11,db-regio-ag-bayern,rb-11,#00ace5,#ffffff,,rectangle
 db-regio-bayern,RB 12,db-regio-ag-bayern,rb-12,#6cc3d9,#ffffff,,rectangle
 db-regio-bayern,RB 16,db-regio-ag-bayern,rb-16,#ff9999,#ffffff,,rectangle
@@ -225,6 +233,11 @@ mobiel,1,mobiel-gmbh,8-owl031-1,#009fe0,#ffffff,,rectangle
 mobiel,2,mobiel-gmbh,8-owl031-2,#008f36,#ffffff,,rectangle
 mobiel,3,mobiel-gmbh,8-owl031-3,#ffed00,#00264f,,rectangle
 mobiel,4,mobiel-gmbh,8-owl031-4,#e3001b,#ffffff,,rectangle
+mvv-brb,RB 54,bayerische-regiobahn,brb-rb54,#4263a8,#ffffff,,rectangle
+mvv-brb,RB 55,bayerische-regiobahn,brb-rb55,#b27a2a,#ffffff,,rectangle
+mvv-brb,RB 56,bayerische-regiobahn,brb-rb56,#b27a2a,#ffffff,,rectangle
+mvv-brb,RB 57,bayerische-regiobahn,brb-rb57,#b27a2a,#ffffff,,rectangle
+mvv-brb,RB 58,bayerische-regiobahn,brb-rb58,#ccb236,#ffffff,,rectangle
 mvv-db-sbm,S1,db-regio-ag-s-bahn-munchen,4-800725-1,#1fbce6,#ffffff,,pill
 mvv-db-sbm,S2,db-regio-ag-s-bahn-munchen,4-800725-2,#79b833,#ffffff,,pill
 mvv-db-sbm,S20,db-regio-ag-s-bahn-munchen,4-800725-20,#f05972,#ffffff,,pill
@@ -980,6 +993,7 @@ vbn-nwb-regio-s-bahn,RS 3,nordwestbahn,4-n1-rs3,#93bf30,#ffffff,,rectangle-round
 vbn-nwb-regio-s-bahn,RS 30,nordwestbahn,4-n1-rs30,#4faf3b,#ffffff,,rectangle-rounded-corner
 vbn-nwb-regio-s-bahn,RS 4,nordwestbahn,4-n1-rs4,#e2000b,#ffffff,,rectangle-rounded-corner
 vbn-nwb-regio-s-bahn,RS 6,nordwestbahn,4-n1-rs6,#899bb9,#ffffff,,rectangle-rounded-corner
+vgi-brb,RB 14,bayerische-regiobahn,brb-rb14,#ffb530,#ffffff,,rectangle-rounded-corner
 vgn-db-sbn,S 1,db-regio-ag-bayern,4-800721-1,#92292e,#ffffff,,rectangle
 vgn-db-sbn,S 2,db-regio-ag-bayern,4-800721-2,#4dbd38,#ffffff,,rectangle
 vgn-db-sbn,S 3,db-regio-ag-bayern,4-800721-3,#f1471d,#ffffff,,rectangle
