@@ -1436,7 +1436,25 @@
             }
         ]
     },
-        {
+    {
+        "shortOperatorName": "vrr-sws",
+        "contributors": [
+            {
+                "github": "jerzek55"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Stadtwerke Solingen - Netzplan",
+                "source": "https://www.netzplan-solingen.de/maps/tlnp"
+            },
+            {
+                "name": "Stadtwerke Solingen - Nachtnetz",
+                "source": "https://www.sobus.net/Netz/Nachtnetz.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrr-wsw",
         "contributors": [
             {
