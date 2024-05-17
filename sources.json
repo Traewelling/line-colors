@@ -1548,6 +1548,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvo-bus",
+        "contributors": [
+            {
+                "github": "schwamar"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz",
+                "source": "https://www.dvb.de/-/media/files/liniennetz/dvb_lnp_210524_bau_pdf.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvo-db-regio",
         "contributors": [
             {
@@ -1586,6 +1600,20 @@
             {
                 "name": "Netzplan S-Bahn Stuttgart",
                 "source": "https://download.vvs.de/SBahn_Liniennetz.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvo-ferry",
+        "contributors": [
+            {
+                "github": "schwamar"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz",
+                "source": "https://www.dvb.de/-/media/files/liniennetz/dvb_lnp_210524_bau_pdf.pdf"
             }
         ]
     },
