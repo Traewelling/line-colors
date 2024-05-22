@@ -94,6 +94,25 @@ db-regionetz-westfrankenbahn,RE 80,db-regionetz-verkehrs-gmbh-westfrankenbahn,re
 db-regionetz-westfrankenbahn,RE 87,db-regionetz-verkehrs-gmbh-westfrankenbahn,re-87,#ff2e17,#ffffff,,rectangle
 ding-swu,STR 1,,8-ald087-1,#e52329,#ffffff,,rectangle
 ding-swu,STR 2,,8-ald087-2,#3fad56,#ffffff,,rectangle
+dvg-dessau,1,,8-nasdvg-1,#F59C00,#ffffff,,rectangle
+dvg-dessau,3,,8-nasdvg-3,#F59C00,#ffffff,,rectangle
+dvg-dessau,10,,5-nas001-10,#2E76BB,#ffffff,,pill
+dvg-dessau,11,,5-nas001-11,#95D2F1,#ffffff,,pill
+dvg-dessau,12,,5-nas001-12,#529BB9,#ffffff,,pill
+dvg-dessau,13,,5-nas001-13,#9EC753,#ffffff,,pill
+dvg-dessau,14,,5-nas001-14,#E3000B,#ffffff,,pill
+dvg-dessau,15,,5-nas001-15,#A80126,#ffffff,,pill
+dvg-dessau,16,,5-nas001-16,#941680,#ffffff,,pill
+dvg-dessau,17,,5-nas001-16,#FFCC00,#ffffff,,pill
+dvg-dessau,21,,5-nas001-16,#EE722E,#ffffff,,pill
+dvg-dessau,22,,5-nas001-16,#0F3F93,#ffffff,,pill
+dvg-dessau,N1,,5-nas001-n1,#000000,#ffffff,,pill
+dvg-dessau,N2,,5-nas001-n2,#000000,#ffffff,,pill
+dvg-dessau,N3,,5-nas001-n3,#000000,#ffffff,,pill
+dvg-dessau,N4,,5-nas001-n4,#000000,#ffffff,,pill
+dvg-dessau,N5,,5-nas001-n5,#000000,#ffffff,,pill
+dvg-dessau,N6,,5-nas001-n6,#000000,#ffffff,,pill
+dwe-dessau,DWE,,dwe,#ffffff,#000000,#000000,rectangle
 gabw,IRE 1,go-ahead-baden-wurttemberg-gmbh,ire-1,#88c946,#ffffff,,rectangle
 gabw,MEX 13,go-ahead-baden-wurttemberg-gmbh,mex-13,#00b9f2,#ffffff,,rectangle
 gabw,MEX 16,go-ahead-baden-wurttemberg-gmbh,mex-16,#0073c0,#ffffff,,rectangle
