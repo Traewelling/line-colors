@@ -399,7 +399,7 @@ nrw-sbahn,S 2,db-regio-ag-nrw,4-8003l1-2,#0074bc,#ffffff,,pill
 nrw-sbahn,S 3,db-regio-ag-nrw,4-8003l1-3,#fff200,#000000,,pill
 nrw-sbahn,S 4,db-regio-ag-nrw,4-800337-4,#f5821f,#ffffff,,pill
 nrw-sbahn,S 5,db-regio-ag-nrw,4-800354-5,#80c342,#ffffff,,pill
-nrw-sbahn,S 6,db-regio-ag-nrw,4-8003rl-6,#e21d3c,#ffffff,,pill
+nrw-sbahn,S 6,db-regio-ag-nrw,4-8003s-6,#e21d3c,#ffffff,,pill
 nrw-sbahn,S 7,rheinruhrbahn-transdev,4-tdrr-s7,#00afb5,#ffffff,,pill
 nrw-sbahn,S 8,db-regio-ag-nrw,4-800354-8,#b23815,#ffffff,,pill
 nrw-sbahn,S 9,db-regio-ag-nrw,4-8003l1-9,#c6168d,#ffffff,,pill
@@ -1295,6 +1295,7 @@ vrr-sws,NE25,,5-vrr018-ne25,#0362ad,#ffffff,,rectangle
 vrr-sws,NE28,,5-vrr018-ne28,#004e9e,#ffffff,,rectangle
 vrr-wsw,Schwebebahn,,8-vrr064-60,#4896d2,#ffffff,,rectangle-rounded-corner
 vrs-bus,106,,5-vrs001-106,#097cc1,#ffffff,,rectangle
+vrs-bus,118,,5-vrs001-118,#85d1f5,#ffffff,,rectangle
 vrs-bus,120,,5-vrs001-120,#e30a18,#ffffff,,rectangle
 vrs-bus,121,,5-vrs001-121,#a2c61e,#ffffff,,rectangle
 vrs-bus,122,,5-vrs001-122,#0569b3,#ffffff,,rectangle
