@@ -993,16 +993,16 @@ vbn-nwb-regio-s-bahn,RS 3,nordwestbahn,4-n1-rs3,#93bf30,#ffffff,,rectangle-round
 vbn-nwb-regio-s-bahn,RS 30,nordwestbahn,4-n1-rs30,#4faf3b,#ffffff,,rectangle-rounded-corner
 vbn-nwb-regio-s-bahn,RS 4,nordwestbahn,4-n1-rs4,#e2000b,#ffffff,,rectangle-rounded-corner
 vbn-nwb-regio-s-bahn,RS 6,nordwestbahn,4-n1-rs6,#899bb9,#ffffff,,rectangle-rounded-corner
-vbn-bsag,1,,8-webbtr-1,#00A54F,#ffffff,,rectangle
-vbn-bsag,1S,,8-webbtr-1S,#00A54F,#ffffff,,rectangle
-vbn-bsag,2,,8-webbtr-2,#0166B3,#ffffff,,rectangle
-vbn-bsag,3,,8-webbtr-3,#00AEEF,#ffffff,,rectangle
-vbn-bsag,4,,8-webbtr-4,#EE1D23,#ffffff,,rectangle
-vbn-bsag,5,,8-webbtr-5,#00AAB8,#ffffff,,rectangle
-vbn-bsag,5S,,8-webbtr-5S,#00AAB8,#ffffff,,rectangle
-vbn-bsag,6,,8-webbtr-6,#FECA0A,#000000,,rectangle
-vbn-bsag,8,,8-webbtr-8,#8BC63E,#000000,,rectangle
-vbn-bsag,10,,8-webbtr-10,#00AAB8,#ffffff,,rectangle
+vbn-bsag,1,,8-webbtr-1,#00a54f,#ffffff,,rectangle
+vbn-bsag,1S,,8-webbtr-1S,#00a54f,#ffffff,,rectangle
+vbn-bsag,2,,8-webbtr-2,#0166b3,#ffffff,,rectangle
+vbn-bsag,3,,8-webbtr-3,#00aeef,#ffffff,,rectangle
+vbn-bsag,4,,8-webbtr-4,#ee1d23,#ffffff,,rectangle
+vbn-bsag,5,,8-webbtr-5,#00aab8,#ffffff,,rectangle
+vbn-bsag,5S,,8-webbtr-5S,#00aab8,#ffffff,,rectangle
+vbn-bsag,6,,8-webbtr-6,#feca0a,#000000,,rectangle
+vbn-bsag,8,,8-webbtr-8,#8bc63e,#000000,,rectangle
+vbn-bsag,10,,8-webbtr-10,#00aab8,#ffffff,,rectangle
 vgi-brb,RB 14,bayerische-regiobahn,brb-rb14,#ffb530,#ffffff,,rectangle-rounded-corner
 vgn-db-sbn,S 1,db-regio-ag-bayern,4-800721-1,#92292e,#ffffff,,rectangle
 vgn-db-sbn,S 2,db-regio-ag-bayern,4-800721-2,#4dbd38,#ffffff,,rectangle
