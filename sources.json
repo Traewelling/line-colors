@@ -137,6 +137,34 @@
         ]
     },
     {
+        "shortOperatorName": "dvg-dessau",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DVG-Dessau Netzplan",
+                "source": "https://www.dvv-dessau.de/wp-content/uploads/2021/08/DVG-Dessau_Liniennetzplan.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "dwe-dessau",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DVG-Dessau Netzplan",
+                "source": "https://www.dvv-dessau.de/wp-content/uploads/2021/08/DVG-Dessau_Liniennetzplan.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "ding-swu",
         "contributors": [
             {
