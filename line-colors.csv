@@ -1308,7 +1308,6 @@ vrr-rheinbahn,U70,,7-vrr070-70,#71b2d0,#ffffff,,rectangle
 vrr-rheinbahn,U71,,7-vrr070-71,#59c6f2,#ffffff,,rectangle
 vrr-rheinbahn,U72,,7-vrr070-72,#25b8c5,#ffffff,,rectangle
 vrr-rheinbahn,U73,,7-vrr070-73,#4465ad,#ffffff,,rectangle
-vrr-rheinbahn,U74,,7-vrr070-74,#2c2276,#ffffff,,rectangle
 vrr-rheinbahn,U75,,7-vrr070-75,#008fc2,#ffffff,,rectangle
 vrr-rheinbahn,U76,,7-vrr070-76,#0063af,#ffffff,,rectangle
 vrr-rheinbahn,U77,,7-vrr070-77,#7197cf,#ffffff,,rectangle
@@ -1322,6 +1321,7 @@ vrr-rheinbahn,706,,8-vrr071-706,#e30613,#ffffff,,rectangle
 vrr-rheinbahn,707,,8-vrr071-707,#7e1974,#ffffff,,rectangle
 vrr-rheinbahn,708,,8-vrr071-708,#f29eb7,#ffffff,,rectangle
 vrr-rheinbahn,709,,8-vrr071-709,#e94190,#ffffff,,rectangle
+vrr-rheinbahn,SkyTrain,,8-vrr077-skyt,#53b6ed,#ffffff,,rectangle
 vrr-ruhrbahn,U11,,7-vrr010-11,#313390,#ffffff,,rectangle
 vrr-ruhrbahn,U17,,7-vrr010-17,#6bb7e5,#ffffff,,rectangle
 vrr-ruhrbahn,U18,,7-vrr013-18,#1187d2,#ffffff,,rectangle
@@ -1364,6 +1364,16 @@ vrr-sws,NE24,,5-vrr018-ne24,#4896d2,#ffffff,,rectangle
 vrr-sws,NE25,,5-vrr018-ne25,#0362ad,#ffffff,,rectangle
 vrr-sws,NE28,,5-vrr018-ne28,#004e9e,#ffffff,,rectangle
 vrr-wsw,Schwebebahn,,8-vrr064-60,#4896d2,#ffffff,,rectangle-rounded-corner
+vrr-wsw,SB66,,5-vrr088-sb66,#3f8f9b,#ffffff,,rectangle
+vrr-wsw,SB67,,5-vrr045-sb67,#3f8f9b,#ffffff,,rectangle
+vrr-wsw,SB67,,5-vrr072-sb68,#3f8f9b,#ffffff,,rectangle
+vrr-wsw,SB68,,5-vrr072-sb68,#3f8f9b,#ffffff,,rectangle
+vrr-wsw,SB69,,5-vrr066-sb69,#3f8f9b,#ffffff,,rectangle
+vrr-wsw,CE61,,5-vrr066-ce61,#d12f2b,#ffffff,,rectangle
+vrr-wsw,CE62,,5-vrr066-ce62,#d12f2b,#ffffff,,rectangle
+vrr-wsw,CE64,,5-vrr066-ce64,#d12f2b,#ffffff,,rectangle
+vrr-wsw,CE65,,5-vrr066-ce65,#d12f2b,#ffffff,,rectangle
+vrr-wsw,UniExpress E800,,5-vrr066-uniex,#9c9d9d,#ffffff,,rectangle
 vrs-bus,106,,5-vrs001-106,#097cc1,#ffffff,,rectangle
 vrs-bus,118,,5-vrs001-118-779149-5669228,#85d1f5,#ffffff,,rectangle
 vrs-bus,120,,5-vrs001-120,#e30a18,#ffffff,,rectangle
