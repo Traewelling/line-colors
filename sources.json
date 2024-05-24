@@ -1507,7 +1507,10 @@
         "contributors": [
             {
                 "github": "metrophil"
-            }
+            },
+            {
+                "github": "lunas-bad-coding"
+            }            
         ],
         "sources": [
             {
