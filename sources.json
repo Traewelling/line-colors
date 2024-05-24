@@ -1166,6 +1166,20 @@
         ]
     },
     {
+        "shortOperatorName": "vbn-bsag",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz BSAG",
+                "source": "https://www.bsag.de/fileadmin/user_upload/Tagesnetz.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vgi-brb",
         "contributors": [
             {
