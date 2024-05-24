@@ -1444,6 +1444,9 @@
         "contributors": [
             {
                 "github": "ChillLP"
+            },
+            {
+                "github": "lunas-bad-coding"
             }
         ],
         "sources": [
@@ -1504,7 +1507,10 @@
         "contributors": [
             {
                 "github": "metrophil"
-            }
+            },
+            {
+                "github": "lunas-bad-coding"
+            }            
         ],
         "sources": [
             {
