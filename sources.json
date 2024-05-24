@@ -137,6 +137,34 @@
         ]
     },
     {
+        "shortOperatorName": "dvg-dessau",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DVG-Dessau Netzplan",
+                "source": "https://www.dvv-dessau.de/wp-content/uploads/2021/08/DVG-Dessau_Liniennetzplan.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "dwe-dessau",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DVG-Dessau Netzplan",
+                "source": "https://www.dvv-dessau.de/wp-content/uploads/2021/08/DVG-Dessau_Liniennetzplan.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "ding-swu",
         "contributors": [
             {
@@ -1134,6 +1162,20 @@
             {
                 "name": "Liniennetz Regio-S-Bahn Bremen Niedersachsen",
                 "source": "https://download.transdev.de/transdev/uploads/nwb/pictures/item_paragraph/43/s1200.jpg"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vbn-bsag",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz BSAG",
+                "source": "https://www.bsag.de/fileadmin/user_upload/Tagesnetz.pdf"
             }
         ]
     },
