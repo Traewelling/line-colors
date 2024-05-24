@@ -15,7 +15,7 @@ The `line-colors.csv` contains several columns:
   - `rectangle`: Just a rectangle
   - `pill`: Rectangle with rounded corners
   - `trapezoid`
-  - `hexagon`
+  - `hexagon` (not yet supported)
 
 ## Contributing
 
