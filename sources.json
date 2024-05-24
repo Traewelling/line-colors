@@ -1524,12 +1524,19 @@
         "contributors": [
             {
                 "github": "chloe-haj"
+            },
+            {
+                "github": "lunas-bad-coding"
             }
         ],
         "sources": [
             {
                 "name": "KVB Busse in Köln 2024 - gesamt",
                 "source": "https://www.kvb.koeln/fahrtinfo/liniennetzplaene.html?INCLUDEMODUL=dokumente_einzeln2.mod/inc.download.php&downDokument=5078"
+            },
+            {
+                "name": "SWB Liniennetz Busse linksrheinisch 2024",
+                "source": "https://www.swb-busundbahn.de/fileadmin/fahrplandateien/liniennetzplaene/SLNP_Bonn_LiRhein.pdf"
             }
         ]
     },
