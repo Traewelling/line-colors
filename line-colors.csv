@@ -326,6 +326,7 @@ neb-niederbarnimer-eisenbahn,RB60,neb-niederbarnimer-eisenbahn,rb-60,#66aa22,#ff
 neb-niederbarnimer-eisenbahn,RB61,neb-niederbarnimer-eisenbahn,rb-61,#992746,#ffffff,,rectangle
 neb-niederbarnimer-eisenbahn,RB62,neb-niederbarnimer-eisenbahn,rb-62,#da6ba2,#ffffff,,rectangle
 neb-niederbarnimer-eisenbahn,RB63,neb-niederbarnimer-eisenbahn,rb-63,#ffd502,#000000,,rectangle
+neb-niederbarnimer-eisenbahn,TES,neb-niederbarnimer-eisenbahn,rb-tes,#d70000,#000000,,rectangle
 nrw-regional,RE 1,national-express,re-1,#ff2d16,#ffffff,,rectangle-rounded-corner
 nrw-regional,RE 2,db-regio-ag-nrw,re-2,#00b8f1,#ffffff,,rectangle-rounded-corner
 nrw-regional,RE 3,eurobahn,re-3,#e46e25,#ffffff,,rectangle-rounded-corner
@@ -1209,6 +1210,9 @@ vrr-bogestra,309,,8-vrr033-309,#2e3192,#ffffff,,rectangle-rounded-corner
 vrr-bogestra,310,,8-vrr033-310,#aa3f7f,#ffffff,,rectangle-rounded-corner
 vrr-bogestra,316,,8-vrr030-316,#e08417,#ffffff,,rectangle-rounded-corner
 vrr-bogestra,318,,8-vrr033-318,#6aa99a,#ffffff,,rectangle-rounded-corner
+vrr-dsw21,490,,5-vrr038-490,#831f82,#ffffff,,rectangle
+vrr-dsw21,AirportExpress,,5-vrr038-airex,#53ae2e,#ffffff,,rectangle
+vrr-dsw21,AirportShuttle,,5-vrr038-airsh,#53ae2e,#ffffff,,rectangle
 vrr-dsw21,U41,,7-vrr036-41,#fee702,#7b7979,#7b7979,rectangle
 vrr-dsw21,U42,,7-vrr036-42,#fab20b,#ffffff,,rectangle
 vrr-dsw21,U43,,7-vrr036-43,#00a990,#ffffff,,rectangle
@@ -1445,6 +1449,7 @@ vrs-bus,637,,5-vrs006-637,#e86741,#ffffff,,rectangle
 vrs-bus,638,,5-vrs006-638,#e86741,#ffffff,,rectangle
 vrs-bus,639,,5-vrs006-637,#a65c41,#ffffff,,rectangle
 vrs-bus,AST 227,,9-vrs003-227,#f36e31,#ffffff,,rectangle
+vrs-bus,Berg. FahrradBus,,5-vrs016-bf,#000000,#ffffff,,rectangle
 vrs-bus,SB20,,5-vrs003-sb20,#f36e31,#ffffff,,rectangle
 vrs-bus,SB22,,5-vrs003-sb22,#a5612e,#ffffff,,rectangle
 vrs-bus,SB23,,5-vrs003-sb23,#00a54f,#ffffff,,rectangle
@@ -1611,6 +1616,8 @@ wt-mobiel,1,,8-owl031-1,#009ee0,#ffffff,,rectangle
 wt-mobiel,2,,8-owl031-2,#009037,#ffffff,,rectangle
 wt-mobiel,3,,8-owl031-3,#ffed00,#000000,,rectangle
 wt-mobiel,4,,8-owl031-4,#e2001a,#ffffff,,rectangle
+wt-rvm,R51,,5-vgm023-r51,#006fb9,#ffffff,,rectangle-rounded-corner
+wt-rvm,S50,,5-vgm020-s50,#c24636,#ffffff,,rectangle-rounded-corner
 zvnl-bus,60,,5-naslvb-60,#a61580,#ffffff,,pill
 zvnl-bus,65,,5-naslvb-65,#a61580,#ffffff,,pill
 zvnl-bus,70,,5-naslvb-70,#a61580,#ffffff,,pill

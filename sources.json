@@ -1398,12 +1398,19 @@
         "contributors": [
             {
                 "github": "metrophil"
+            },
+            {
+                "github": "lunas-bad-coding"
             }
         ],
         "sources": [
             {
                 "name": "Schienennetzplan Dortmund",
                 "source": "https://www.bus-und-bahn.de/fileadmin/user_upload/schienennetzplan_januar2023_a4_print_x3.pdf"
+            },
+            {
+                "name": "Interaktiver Netzplan Dortmund",
+                "source": "https://www.netzplan-dortmund.de/"
             }
         ]
     },
@@ -1541,6 +1548,10 @@
             {
                 "name": "wupsi Busnetz Leverusen 2024",
                 "source": "https://www.wupsi.de/fileadmin/user_upload/Busnetz_Leverkusen_2024.pdf"
+            },
+            {
+                "name": "Bergischer FahrradBus-Flyer",
+                "source": "https://www.dasbergische.de/aktiv-entspannen/radfahren/bergischer-fahrradbus"
             }
         ]
     },
@@ -1816,6 +1827,20 @@
                 "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
             }
         ]
+    },
+    {
+        "shortOperatorName": "wt-rvm",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+    "sources": [
+        {
+            "name": "Netzplan Steinfurt Süd",
+            "source": "https://www.rvm-online.de/fileadmin/startseite_rvm/fahrgast/fahrt_planen/liniennetzplan/steinfurt_sued_liniennetzplan_2021.pdf"
+        }
+    ]
     },
     {
         "shortOperatorName": "zvnl-bus",
