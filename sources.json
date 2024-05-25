@@ -262,6 +262,21 @@
         ]
     },
     {
+        "shortOperatorName": "hvv-had",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "hvv Hafenfährenplan",
+                "source": "https://www.hvv.de/de/plaene"
+            }
+        ]
+    },
+
+    {
         "shortOperatorName": "hvv-hha",
         "contributors": [
             {
@@ -269,11 +284,54 @@
             },
             {
                 "github": "jheubuch"
+            },
+            {
+                "github": "lunas-bad-coding"
             }
         ],
         "sources": [
             {
                 "name": "hvv USAR-Plan",
+                "source": "https://www.hvv.de/de/plaene"
+            },
+            {
+                "name": "hvv MetroBus Plan",
+                "source": "https://www.hvv.de/de/plaene"
+            },
+            {
+                "name": "hvv XpressBus Plan",
+                "source": "https://www.hvv.de/de/plaene"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hvv-kvi",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "hvv XpressBus Plan",
+                "source": "https://www.hvv.de/de/plaene"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hvv-vhh",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "hvv MetroBus Plan",
+                "source": "https://www.hvv.de/de/plaene"
+            },
+            {
+                "name": "hvv XpressBus Plan",
                 "source": "https://www.hvv.de/de/plaene"
             }
         ]
