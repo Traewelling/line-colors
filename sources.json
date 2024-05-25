@@ -1441,12 +1441,19 @@
         "contributors": [
             {
                 "github": "metrophil"
+            },
+            {
+                "github": "lunas-bad-coding"
             }
         ],
         "sources": [
             {
                 "name": "Schienennetzplan Dortmund",
                 "source": "https://www.bus-und-bahn.de/fileadmin/user_upload/schienennetzplan_januar2023_a4_print_x3.pdf"
+            },
+            {
+                "name": "Interaktiver Netzplan Dortmund",
+                "source": "https://www.netzplan-dortmund.de/"
             }
         ]
     },
@@ -1567,12 +1574,27 @@
         "contributors": [
             {
                 "github": "chloe-haj"
+            },
+            {
+                "github": "lunas-bad-coding"
             }
         ],
         "sources": [
             {
                 "name": "KVB Busse in Köln 2024 - gesamt",
                 "source": "https://www.kvb.koeln/fahrtinfo/liniennetzplaene.html?INCLUDEMODUL=dokumente_einzeln2.mod/inc.download.php&downDokument=5078"
+            },
+            {
+                "name": "SWB Liniennetz Busse linksrheinisch 2024",
+                "source": "https://www.swb-busundbahn.de/fileadmin/fahrplandateien/liniennetzplaene/SLNP_Bonn_LiRhein.pdf"
+            },
+            {
+                "name": "wupsi Busnetz Leverusen 2024",
+                "source": "https://www.wupsi.de/fileadmin/user_upload/Busnetz_Leverkusen_2024.pdf"
+            },
+            {
+                "name": "Bergischer FahrradBus-Flyer",
+                "source": "https://www.dasbergische.de/aktiv-entspannen/radfahren/bergischer-fahrradbus"
             }
         ]
     },
@@ -1848,6 +1870,20 @@
                 "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
             }
         ]
+    },
+    {
+        "shortOperatorName": "wt-rvm",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+    "sources": [
+        {
+            "name": "Netzplan Steinfurt Süd",
+            "source": "https://www.rvm-online.de/fileadmin/startseite_rvm/fahrgast/fahrt_planen/liniennetzplan/steinfurt_sued_liniennetzplan_2021.pdf"
+        }
+    ]
     },
     {
         "shortOperatorName": "zvnl-bus",

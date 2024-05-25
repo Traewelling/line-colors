@@ -367,6 +367,7 @@ neb-niederbarnimer-eisenbahn,RB60,neb-niederbarnimer-eisenbahn,rb-60,#66aa22,#ff
 neb-niederbarnimer-eisenbahn,RB61,neb-niederbarnimer-eisenbahn,rb-61,#992746,#ffffff,,rectangle
 neb-niederbarnimer-eisenbahn,RB62,neb-niederbarnimer-eisenbahn,rb-62,#da6ba2,#ffffff,,rectangle
 neb-niederbarnimer-eisenbahn,RB63,neb-niederbarnimer-eisenbahn,rb-63,#ffd502,#000000,,rectangle
+neb-niederbarnimer-eisenbahn,TES,neb-niederbarnimer-eisenbahn,rb-tes,#d70000,#000000,,rectangle
 nrw-regional,RE 1,national-express,re-1,#ff2d16,#ffffff,,rectangle-rounded-corner
 nrw-regional,RE 2,db-regio-ag-nrw,re-2,#00b8f1,#ffffff,,rectangle-rounded-corner
 nrw-regional,RE 3,eurobahn,re-3,#e46e25,#ffffff,,rectangle-rounded-corner
@@ -1250,6 +1251,9 @@ vrr-bogestra,309,,8-vrr033-309,#2e3192,#ffffff,,rectangle-rounded-corner
 vrr-bogestra,310,,8-vrr033-310,#aa3f7f,#ffffff,,rectangle-rounded-corner
 vrr-bogestra,316,,8-vrr030-316,#e08417,#ffffff,,rectangle-rounded-corner
 vrr-bogestra,318,,8-vrr033-318,#6aa99a,#ffffff,,rectangle-rounded-corner
+vrr-dsw21,490,,5-vrr038-490,#831f82,#ffffff,,rectangle
+vrr-dsw21,AirportExpress,,5-vrr038-airex,#53ae2e,#ffffff,,rectangle
+vrr-dsw21,AirportShuttle,,5-vrr038-airsh,#53ae2e,#ffffff,,rectangle
 vrr-dsw21,U41,,7-vrr036-41,#fee702,#7b7979,#7b7979,rectangle
 vrr-dsw21,U42,,7-vrr036-42,#fab20b,#ffffff,,rectangle
 vrr-dsw21,U43,,7-vrr036-43,#00a990,#ffffff,,rectangle
@@ -1435,6 +1439,68 @@ vrs-bus,193,,5-vrs001-193,#f39205,#ffffff,,rectangle
 vrs-bus,195,,5-vrs001-195,#f29ec4,#ffffff,,rectangle
 vrs-bus,196,,5-vrs001-196,#a85e24,#ffffff,,rectangle
 vrs-bus,197,,5-vrs001-197,#929292,#ffffff,,rectangle
+vrs-bus,201,,5-vrs003-201,#faad19,#ffffff,,rectangle
+vrs-bus,203,,5-vrs003-203,#f7abb2,#ffffff,,rectangle
+vrs-bus,204,,5-vrs003-204,#1b81c4,#ffffff,,rectangle
+vrs-bus,206,,5-vrs003-206,#00a956,#ffffff,,rectangle
+vrs-bus,207,,5-vrs003-207,#f79832,#ffffff,,rectangle
+vrs-bus,208,,5-vrs003-208,#d263a5,#ffffff,,rectangle
+vrs-bus,209,,5-vrs003-209,#d263a5,#ffffff,,rectangle
+vrs-bus,211,,5-vrs003-211,#ee1b2b,#ffffff,,rectangle
+vrs-bus,212,,5-vrs003-212,#1cbfdf,#ffffff,,rectangle
+vrs-bus,213,,5-vrs003-213,#aab2d9,#ffffff,,rectangle
+vrs-bus,214,,5-vrs003-214,#1b81c4,#ffffff,,rectangle
+vrs-bus,215,,5-vrs003-215,#835645,#ffffff,,rectangle
+vrs-bus,217,,5-vrs003-217,#b56d38,#ffffff,,rectangle
+vrs-bus,218,,5-vrs003-218,#7ea17b,#ffffff,,rectangle
+vrs-bus,222,,5-vrs003-222,#00aaad,#ffffff,,rectangle
+vrs-bus,227,,5-vrs003-227,#ac99c9,#ffffff,,rectangle
+vrs-bus,229,,5-vrs003-229,#fec70c,#9c9c9c,,rectangle
+vrs-bus,232,,5-vrs003-232,#f5864b,#ffffff,,rectangle
+vrs-bus,244,,5-vrs003-244,#0090c6,#ffffff,,rectangle
+vrs-bus,251,,5-vrs003-251,#c18ba5,#ffffff,,rectangle
+vrs-bus,253,,5-vrs003-253,#91ce9a,#ffffff,,rectangle
+vrs-bus,254,,5-vrs003-254,#faaa4a,#ffffff,,rectangle
+vrs-bus,255,,5-vrs003-255,#007dad,#ffffff,,rectangle
+vrs-bus,257,,5-vrs003-257,#a6565c,#ffffff,,rectangle
+vrs-bus,258,,5-vrs003-258,#1ca852,#ffffff,,rectangle
+vrs-bus,260,,5-vrs016-260,#86526b,#ffffff,,rectangle
+vrs-bus,600,,5-vrs006-600,#6d7eb8,#ffffff,,rectangle
+vrs-bus,601,,5-vrs006-601,#662d91,#ffffff,,rectangle
+vrs-bus,602,,5-vrs006-602,#d475b2,#ffffff,,rectangle
+vrs-bus,603,,5-vrs006-603,#e74696,#ffffff,,rectangle
+vrs-bus,604,,5-vrs006-604,#53b174,#ffffff,,rectangle
+vrs-bus,605,,5-vrs006-605,#3d864b,#ffffff,,rectangle
+vrs-bus,606,,5-vrs006-606,#9ac356,#ffffff,,rectangle
+vrs-bus,607,,5-vrs006-607,#72b554,#ffffff,,rectangle
+vrs-bus,608,,5-vrs006-608,#f4b94f,#ffffff,,rectangle
+vrs-bus,609,,5-vrs006-609,#ef8d40,#ffffff,,rectangle
+vrs-bus,610,,5-vrs006-610,#6fccf2,#ffffff,,rectangle
+vrs-bus,611,,5-vrs006-611,#4faee4,#ffffff,,rectangle
+vrs-bus,612,,5-vrs006-612,#c8985f,#ffffff,,rectangle
+vrs-bus,613,,5-vrs006-613,#703315,#ffffff,,rectangle
+vrs-bus,614,,5-vrs006-614,#766c45,#ffffff,,rectangle
+vrs-bus,630,,5-vrs006-630,#c33e58,#ffffff,,rectangle
+vrs-bus,632,,5-vrs006-632,#64b659,#ffffff,,rectangle
+vrs-bus,633,,5-vrs006-633,#8dd2c8,#ffffff,,rectangle
+vrs-bus,634,,5-vrs006-634,#db5b60,#ffffff,,rectangle
+vrs-bus,635,,5-vrs006-635,#c9c552,#ffffff,,rectangle
+vrs-bus,636,,5-vrs006-636,#af3031,#ffffff,,rectangle
+vrs-bus,637,,5-vrs006-637,#e86741,#ffffff,,rectangle
+vrs-bus,638,,5-vrs006-638,#e86741,#ffffff,,rectangle
+vrs-bus,639,,5-vrs006-637,#a65c41,#ffffff,,rectangle
+vrs-bus,AST 227,,9-vrs003-227,#f36e31,#ffffff,,rectangle
+vrs-bus,Berg. FahrradBus,,5-vrs016-bf,#000000,#ffffff,,rectangle
+vrs-bus,SB20,,5-vrs003-sb20,#f36e31,#ffffff,,rectangle
+vrs-bus,SB22,,5-vrs003-sb22,#a5612e,#ffffff,,rectangle
+vrs-bus,SB23,,5-vrs003-sb23,#00a54f,#ffffff,,rectangle
+vrs-bus,SB24,,5-vrs003-sb24,#008540,#ffffff,,rectangle
+vrs-bus,SB25,,5-vrs003-sb25,#00a9e2,#ffffff,,rectangle
+vrs-bus,SB33,,5-vrr076-sb33,#81c9ef,#ffffff,,rectangle
+vrs-bus,SB42,,5-vrs003-sb25,#176438,#ffffff,,rectangle
+vrs-bus,SB60,,5-vrs006-sb60,#859268,#ffffff,,rectangle
+vrs-bus,SB69,,5-vrs006-sb69,#df6a3c,#ffffff,,rectangle
+vrs-bus,X24,,5-vrs003-x24,#243d98,#ffffff,,rectangle
 vrs-stadtbahn,1,,8-vrs001-1,#e1081c,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,3,,8-vrs001-3,#f29ec2,#ffffff,,rectangle-rounded-corner
 vrs-stadtbahn,4,,8-vrs001-4,#eb72a5,#ffffff,,rectangle-rounded-corner
@@ -1591,6 +1657,8 @@ wt-mobiel,1,,8-owl031-1,#009ee0,#ffffff,,rectangle
 wt-mobiel,2,,8-owl031-2,#009037,#ffffff,,rectangle
 wt-mobiel,3,,8-owl031-3,#ffed00,#000000,,rectangle
 wt-mobiel,4,,8-owl031-4,#e2001a,#ffffff,,rectangle
+wt-rvm,R51,,5-vgm023-r51,#006fb9,#ffffff,,rectangle-rounded-corner
+wt-rvm,S50,,5-vgm020-s50,#c24636,#ffffff,,rectangle-rounded-corner
 zvnl-bus,60,,5-naslvb-60,#a61580,#ffffff,,pill
 zvnl-bus,65,,5-naslvb-65,#a61580,#ffffff,,pill
 zvnl-bus,70,,5-naslvb-70,#a61580,#ffffff,,pill
