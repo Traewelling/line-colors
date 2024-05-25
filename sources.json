@@ -774,6 +774,20 @@
         ]
     },
     {
+        "shortOperatorName": "pid-prague",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "PID network map",
+                "source": "https://pid.cz/en/transport-schemes/"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "polregio",
         "contributors": [
             {
