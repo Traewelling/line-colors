@@ -1537,6 +1537,10 @@
             {
                 "name": "SWB Liniennetz Busse linksrheinisch 2024",
                 "source": "https://www.swb-busundbahn.de/fileadmin/fahrplandateien/liniennetzplaene/SLNP_Bonn_LiRhein.pdf"
+            },
+            {
+                "name": "wupsi Busnetz Leverusen 2024",
+                "source": "https://www.wupsi.de/fileadmin/user_upload/Busnetz_Leverkusen_2024.pdf"
             }
         ]
     },
