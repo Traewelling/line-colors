@@ -539,11 +539,20 @@ ostalb-mobil-stadtbus-gmuend,70,,5-ova002-70,#2e3192,#ffffff,,rectangle
 ostalb-mobil-stadtbus-gmuend,73,,5-ova002-73,#00adef,#ffffff,,rectangle
 
 // pid prague
+pid-prague,1,,8-540001-1,#ffffff,#a2cf62,#a2cf62,rectangle
+
+
+
+
+
 
 pid-prague,A,,7-540001-a,#00a54f,#ffffff,,rectangle
 pid-prague,B,,7-540001-b,#feca0a,#293219,,rectangle
 pid-prague,C,,7-540001-c,#ee1d23,#ffffff,,rectangle
-pid-prague,1,,8-540001-1,#ffffff,#a2cf62,#a2cf62,rectangle
+
+
+
+
 
 
 polregio,RB91,polregio,r-91,#eb7405,#ffffff,,rectangle
