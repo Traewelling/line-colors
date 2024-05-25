@@ -140,6 +140,12 @@ hvv-db-sbhh,S 1,s-bahn-hamburg,4-0s-1,#4da553,#ffffff,,pill
 hvv-db-sbhh,S 2,s-bahn-hamburg,4-0s-2,#95334a,#ffffff,,pill
 hvv-db-sbhh,S 3,s-bahn-hamburg,4-0s-3,#512c75,#ffffff,,pill
 hvv-db-sbhh,S 5,s-bahn-hamburg,4-0s-5,#3b87a9,#ffffff,,pill
+hvv-had,61,,6-hvvhad-61,#009bb6,#ffffff,,trapezoid
+hvv-had,62,,6-hvvhad-62,#009bb6,#ffffff,,trapezoid
+hvv-had,64,,6-hvvhad-64,#009bb6,#ffffff,,trapezoid
+hvv-had,72,,6-hvvhad-72,#009bb6,#ffffff,,trapezoid
+hvv-had,73,,6-hvvhad-73,#009bb6,#ffffff,,trapezoid
+hvv-had,75,,6-hvvhad-75,#009bb6,#ffffff,,trapezoid
 hvv-hha,U 1,,7-hvv001-1,#0072bc,#ffffff,,rectangle
 hvv-hha,U 2,,7-hvv001-2,#ee1d23,#ffffff,,rectangle
 hvv-hha,U 3,,7-hvv001-3,#ffdc01,#ffffff,,rectangle

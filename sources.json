@@ -262,6 +262,21 @@
         ]
     },
     {
+        "shortOperatorName": "hvv-had",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "hvv Hafenfährenplan",
+                "source": "https://www.hvv.de/de/plaene"
+            }
+        ]
+    },
+
+    {
         "shortOperatorName": "hvv-hha",
         "contributors": [
             {
