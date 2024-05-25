@@ -13,7 +13,8 @@ The `line-colors.csv` contains several columns:
 - `textColor`: Color-Hexcode for the text color
 - `shape`: Specifies the shape of the icon --> see examples below
   - `rectangle`: Just a rectangle
-  - `pill`: Rectangle with rounded corners
+  - `pill`: Rectangle with completely rounded corners
+  - `rectangle-rounded-corner`: Rectangle with rounded corners
   - `trapezoid`
   - `hexagon` (not yet supported)
 
