@@ -1096,8 +1096,8 @@ vbn-bsag,5S,bremer-strassenbahn-ag,8-webbtr-5s,#00aab8,#ffffff,,rectangle
 vbn-bsag,6,bremer-strassenbahn-ag,8-webbtr-6,#feca0a,#000000,,rectangle
 vbn-bsag,8,bremer-strassenbahn-ag,8-webbtr-8,#8bc63e,#000000,,rectangle
 vbn-bsag,10,bremer-strassenbahn-ag,8-webbtr-10,#00aab8,#ffffff,,rectangle
-vbn-bsag,20,,5-webbbu-20,#94cs4d,#ffffff,,pill
-vbn-bsag,21,,5-webbbu-21,#94cs4d,#ffffff,,pill
+vbn-bsag,20,,5-webbbu-20,#8bc63e,#ffffff,,pill
+vbn-bsag,21,,5-webbbu-21,#00aeef,#ffffff,,pill
 vbn-bsag,22,,5-webbbu-22,#a69dcd,#ffffff,,pill
 vbn-bsag,24,,5-webbbu-24,#951b81,#ffffff,,pill
 vbn-bsag,25,,5-webbbu-25,#009640,#ffffff,,pill
