@@ -537,6 +537,35 @@ ostalb-mobil-stadtbus-gmuend,50,,5-ova002-50,#f47216,#ffffff,,rectangle
 ostalb-mobil-stadtbus-gmuend,66,,5-ova002-66,#00a650,#ffffff,,rectangle
 ostalb-mobil-stadtbus-gmuend,70,,5-ova002-70,#2e3192,#ffffff,,rectangle
 ostalb-mobil-stadtbus-gmuend,73,,5-ova002-73,#00adef,#ffffff,,rectangle
+pid-prague,1,,8-540001-1,#ffffff,#a2cf62,#a2cf62,rectangle
+pid-prague,2,,8-540001-2,#ffffff,#f6c955,#f6c955,rectangle
+pid-prague,3,,8-540001-3,#ffffff,#4ca859,#4ca859,rectangle
+pid-prague,4,,8-540001-4,#ffffff,#a5d7b4,#a5d7b4,rectangle
+pid-prague,5,,8-540001-5,#ffffff,#f3b1b3,#f3b1b3,rectangle
+pid-prague,6,,8-540001-6,#ffffff,#d6ae72,#d6ae72,rectangle
+pid-prague,7,,8-540001-7,#ffffff,#ee843e,#ee843e,rectangle
+pid-prague,8,,8-540001-8,#ffffff,#ec6575,#ec6575,rectangle
+pid-prague,9,,8-540001-9,#ffffff,#eb452e,#eb452e,rectangle
+pid-prague,10,,8-540001-10,#ffffff,#469cd8,#469cd8,rectangle
+pid-prague,11,,8-540001-11,#ffffff,#e74696,#e74696,rectangle
+pid-prague,12,,8-540001-12,#ffffff,#9278b7,#9278b7,rectangle
+pid-prague,13,,8-540001-13,#ffffff,#f0a0c7,#f0a0c7,rectangle
+pid-prague,14,,8-540001-14,#ffffff,#c27b63,#c27b63,rectangle
+pid-prague,15,,8-540001-15,#ffffff,#fae25d,#fae25d,rectangle
+pid-prague,16,,8-540001-16,#ffffff,#68c9f1,#68c9f1,rectangle
+pid-prague,17,,8-540001-17,#ffffff,#802015,#802015,rectangle
+pid-prague,18,,8-540001-18,#ffffff,#f2b3d3,#f2b3d3,rectangle
+pid-prague,19,,8-540001-19,#ffffff,#884d27,#884d27,rectangle
+pid-prague,20,,8-540001-20,#ffffff,#682678,#682678,rectangle
+pid-prague,21,,8-540001-21,#ffffff,#dec750,#dec750,rectangle
+pid-prague,22,,8-540001-22,#ffffff,#16268f,#16268f,rectangle
+pid-prague,23,,8-540001-23,#ffffff,#7c85bf,#7c85bf,rectangle
+pid-prague,24,,8-540001-24,#ffffff,#97989b,#97989b,rectangle
+pid-prague,25,,8-540001-25,#ffffff,#81c059,#81c059,rectangle
+pid-prague,26,,8-540001-26,#ffffff,#a0dff6,#a0dff6,rectangle
+pid-prague,A,,7-540001-a,#00a54f,#ffffff,,rectangle
+pid-prague,B,,7-540001-b,#feca0a,#293219,,rectangle
+pid-prague,C,,7-540001-c,#ee1d23,#ffffff,,rectangle
 polregio,RB91,polregio,r-91,#eb7405,#ffffff,,rectangle
 regio-s-bahn-donau-iller,RS 2,db-regio-ag-baden-wurttemberg,rs2,#901411,#ffffff,,pill
 regio-s-bahn-donau-iller,RS 21,db-regio-ag-baden-wurttemberg,rs21,#e92a1c,#ffffff,,pill
