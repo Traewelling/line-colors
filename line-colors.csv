@@ -112,7 +112,7 @@ dvg-dessau,N3,,5-nas001-n3,#000000,#ffffff,,pill
 dvg-dessau,Rufbus N4,,9-nas001-n4,#000000,#ffffff,,pill
 dvg-dessau,N5,,5-nas001-n5,#000000,#ffffff,,pill
 dvg-dessau,N6,,5-nas001-n6,#000000,#ffffff,,pill
-dwe-dessau,DWE,,dwe,#ffffff,#000000,#000000,rectangle
+dwe-dessau,DWE,dessau-worlitzer-eisenbahn,dwe,#ffffff,#000000,#000000,rectangle
 gabw,IRE 1,go-ahead-baden-wurttemberg-gmbh,ire-1,#88c946,#ffffff,,rectangle
 gabw,MEX 13,go-ahead-baden-wurttemberg-gmbh,mex-13,#00b9f2,#ffffff,,rectangle
 gabw,MEX 16,go-ahead-baden-wurttemberg-gmbh,mex-16,#0073c0,#ffffff,,rectangle
@@ -376,7 +376,7 @@ neb-niederbarnimer-eisenbahn,RB60,neb-niederbarnimer-eisenbahn,rb-60,#66aa22,#ff
 neb-niederbarnimer-eisenbahn,RB61,neb-niederbarnimer-eisenbahn,rb-61,#992746,#ffffff,,rectangle
 neb-niederbarnimer-eisenbahn,RB62,neb-niederbarnimer-eisenbahn,rb-62,#da6ba2,#ffffff,,rectangle
 neb-niederbarnimer-eisenbahn,RB63,neb-niederbarnimer-eisenbahn,rb-63,#ffd502,#000000,,rectangle
-neb-niederbarnimer-eisenbahn,TES,neb-niederbarnimer-eisenbahn,rb-tes,#d70000,#000000,,rectangle
+neb-niederbarnimer-eisenbahn,TES,neb-niederbarnimer-eisenbahn,rb-tes,#d70000,#ffffff,,rectangle
 nrw-regional,RE 1,national-express,re-1,#ff2d16,#ffffff,,rectangle-rounded-corner
 nrw-regional,RE 2,db-regio-ag-nrw,re-2,#00b8f1,#ffffff,,rectangle-rounded-corner
 nrw-regional,RE 3,eurobahn,re-3,#e46e25,#ffffff,,rectangle-rounded-corner
@@ -537,35 +537,35 @@ ostalb-mobil-stadtbus-gmuend,50,,5-ova002-50,#f47216,#ffffff,,rectangle
 ostalb-mobil-stadtbus-gmuend,66,,5-ova002-66,#00a650,#ffffff,,rectangle
 ostalb-mobil-stadtbus-gmuend,70,,5-ova002-70,#2e3192,#ffffff,,rectangle
 ostalb-mobil-stadtbus-gmuend,73,,5-ova002-73,#00adef,#ffffff,,rectangle
-pid-prague,1,,8-540001-1,#ffffff,#a2cf62,#a2cf62,rectangle
-pid-prague,2,,8-540001-2,#ffffff,#f6c955,#f6c955,rectangle
-pid-prague,3,,8-540001-3,#ffffff,#4ca859,#4ca859,rectangle
-pid-prague,4,,8-540001-4,#ffffff,#a5d7b4,#a5d7b4,rectangle
-pid-prague,5,,8-540001-5,#ffffff,#f3b1b3,#f3b1b3,rectangle
-pid-prague,6,,8-540001-6,#ffffff,#d6ae72,#d6ae72,rectangle
-pid-prague,7,,8-540001-7,#ffffff,#ee843e,#ee843e,rectangle
-pid-prague,8,,8-540001-8,#ffffff,#ec6575,#ec6575,rectangle
-pid-prague,9,,8-540001-9,#ffffff,#eb452e,#eb452e,rectangle
-pid-prague,10,,8-540001-10,#ffffff,#469cd8,#469cd8,rectangle
-pid-prague,11,,8-540001-11,#ffffff,#e74696,#e74696,rectangle
-pid-prague,12,,8-540001-12,#ffffff,#9278b7,#9278b7,rectangle
-pid-prague,13,,8-540001-13,#ffffff,#f0a0c7,#f0a0c7,rectangle
-pid-prague,14,,8-540001-14,#ffffff,#c27b63,#c27b63,rectangle
-pid-prague,15,,8-540001-15,#ffffff,#fae25d,#fae25d,rectangle
-pid-prague,16,,8-540001-16,#ffffff,#68c9f1,#68c9f1,rectangle
-pid-prague,17,,8-540001-17,#ffffff,#802015,#802015,rectangle
-pid-prague,18,,8-540001-18,#ffffff,#f2b3d3,#f2b3d3,rectangle
-pid-prague,19,,8-540001-19,#ffffff,#884d27,#884d27,rectangle
-pid-prague,20,,8-540001-20,#ffffff,#682678,#682678,rectangle
-pid-prague,21,,8-540001-21,#ffffff,#dec750,#dec750,rectangle
-pid-prague,22,,8-540001-22,#ffffff,#16268f,#16268f,rectangle
-pid-prague,23,,8-540001-23,#ffffff,#7c85bf,#7c85bf,rectangle
-pid-prague,24,,8-540001-24,#ffffff,#97989b,#97989b,rectangle
-pid-prague,25,,8-540001-25,#ffffff,#81c059,#81c059,rectangle
-pid-prague,26,,8-540001-26,#ffffff,#a0dff6,#a0dff6,rectangle
-pid-prague,A,,7-540001-a,#00a54f,#ffffff,,rectangle
-pid-prague,B,,7-540001-b,#feca0a,#293219,,rectangle
-pid-prague,C,,7-540001-c,#ee1d23,#ffffff,,rectangle
+pid-prague,1,dopravni-podnik-hl-m-prahy,8-540001-1,#ffffff,#a2cf62,#a2cf62,rectangle
+pid-prague,2,dopravni-podnik-hl-m-prahy,8-540001-2,#ffffff,#f6c955,#f6c955,rectangle
+pid-prague,3,dopravni-podnik-hl-m-prahy,8-540001-3,#ffffff,#4ca859,#4ca859,rectangle
+pid-prague,4,dopravni-podnik-hl-m-prahy,8-540001-4,#ffffff,#a5d7b4,#a5d7b4,rectangle
+pid-prague,5,dopravni-podnik-hl-m-prahy,8-540001-5,#ffffff,#f3b1b3,#f3b1b3,rectangle
+pid-prague,6,dopravni-podnik-hl-m-prahy,8-540001-6,#ffffff,#d6ae72,#d6ae72,rectangle
+pid-prague,7,dopravni-podnik-hl-m-prahy,8-540001-7,#ffffff,#ee843e,#ee843e,rectangle
+pid-prague,8,dopravni-podnik-hl-m-prahy,8-540001-8,#ffffff,#ec6575,#ec6575,rectangle
+pid-prague,9,dopravni-podnik-hl-m-prahy,8-540001-9,#ffffff,#eb452e,#eb452e,rectangle
+pid-prague,10,dopravni-podnik-hl-m-prahy,8-540001-10,#ffffff,#469cd8,#469cd8,rectangle
+pid-prague,11,dopravni-podnik-hl-m-prahy,8-540001-11,#ffffff,#e74696,#e74696,rectangle
+pid-prague,12,dopravni-podnik-hl-m-prahy,8-540001-12,#ffffff,#9278b7,#9278b7,rectangle
+pid-prague,13,dopravni-podnik-hl-m-prahy,8-540001-13,#ffffff,#f0a0c7,#f0a0c7,rectangle
+pid-prague,14,dopravni-podnik-hl-m-prahy,8-540001-14,#ffffff,#c27b63,#c27b63,rectangle
+pid-prague,15,dopravni-podnik-hl-m-prahy,8-540001-15,#ffffff,#fae25d,#fae25d,rectangle
+pid-prague,16,dopravni-podnik-hl-m-prahy,8-540001-16,#ffffff,#68c9f1,#68c9f1,rectangle
+pid-prague,17,dopravni-podnik-hl-m-prahy,8-540001-17,#ffffff,#802015,#802015,rectangle
+pid-prague,18,dopravni-podnik-hl-m-prahy,8-540001-18,#ffffff,#f2b3d3,#f2b3d3,rectangle
+pid-prague,19,dopravni-podnik-hl-m-prahy,8-540001-19,#ffffff,#884d27,#884d27,rectangle
+pid-prague,20,dopravni-podnik-hl-m-prahy,8-540001-20,#ffffff,#682678,#682678,rectangle
+pid-prague,21,dopravni-podnik-hl-m-prahy,8-540001-21,#ffffff,#dec750,#dec750,rectangle
+pid-prague,22,dopravni-podnik-hl-m-prahy,8-540001-22,#ffffff,#16268f,#16268f,rectangle
+pid-prague,23,dopravni-podnik-hl-m-prahy,8-540001-23,#ffffff,#7c85bf,#7c85bf,rectangle
+pid-prague,24,dopravni-podnik-hl-m-prahy,8-540001-24,#ffffff,#97989b,#97989b,rectangle
+pid-prague,25,dopravni-podnik-hl-m-prahy,8-540001-25,#ffffff,#81c059,#81c059,rectangle
+pid-prague,26,dopravni-podnik-hl-m-prahy,8-540001-26,#ffffff,#a0dff6,#a0dff6,rectangle
+pid-prague,A,dopravni-podnik-hl-m-prahy,7-540001-a,#00a54f,#ffffff,,rectangle
+pid-prague,B,dopravni-podnik-hl-m-prahy,7-540001-b,#feca0a,#293219,,rectangle
+pid-prague,C,dopravni-podnik-hl-m-prahy,7-540001-c,#ee1d23,#ffffff,,rectangle
 polregio,RB91,polregio,r-91,#eb7405,#ffffff,,rectangle
 regio-s-bahn-donau-iller,RS 2,db-regio-ag-baden-wurttemberg,rs2,#901411,#ffffff,,pill
 regio-s-bahn-donau-iller,RS 21,db-regio-ag-baden-wurttemberg,rs21,#e92a1c,#ffffff,,pill
@@ -1519,8 +1519,10 @@ vrs-bus,195,,5-vrs001-195,#f29ec4,#ffffff,,rectangle
 vrs-bus,196,,5-vrs001-196,#a85e24,#ffffff,,rectangle
 vrs-bus,197,,5-vrs001-197,#929292,#ffffff,,rectangle
 vrs-bus,201,,5-vrs003-201,#faad19,#ffffff,,rectangle
+vrs-bus,202,,5-vrs003-202,#b8427d,#ffffff,,rectangle
 vrs-bus,203,,5-vrs003-203,#f7abb2,#ffffff,,rectangle
 vrs-bus,204,,5-vrs003-204,#1b81c4,#ffffff,,rectangle
+vrs-bus,205,,5-vrs003-205,#1b81c4,#ffffff,,rectangle
 vrs-bus,206,,5-vrs003-206,#00a956,#ffffff,,rectangle
 vrs-bus,207,,5-vrs003-207,#f79832,#ffffff,,rectangle
 vrs-bus,208,,5-vrs003-208,#d263a5,#ffffff,,rectangle
