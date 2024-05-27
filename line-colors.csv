@@ -88,6 +88,19 @@ db-regio-sudost,S8,db-regio-ag-sudost,4-8004a9-8,#5c2582,#ffffff,,pill
 db-regio-sudost,S9,db-regio-ag-sudost,4-8004a9-9,#be006b,#ffffff,,pill
 db-regio-sudost,S10,db-regio-ag-sudost,4-800486-10,#ffffff,#000000,#f5de2b,pill
 db-regio-sudost,S47,db-regio-ag-sudost,4-8004a9-47,#53af4c,#ffffff,,pill
+db-regionetz-sudostbayernbahn,RE 4,db-regionetz-verkehrs-gmbh-sudostbayernbahn,re-4,#ffffff,#992e00,#992e00,rectangle
+db-regionetz-sudostbayernbahn,RB 32,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-32,#e5a05c,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 40,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-40,#e5a05c,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 41,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-41,#bf73bf,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 42,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-42,#00ace5,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 44,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-44,#90bf26,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 45,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-45,#6cc3d9,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 46,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-46,#24b27d,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 47,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-47,#ffb200,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 48,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-48,#bf73bf,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 49,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-49,#ffb200,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 52,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-52,#bf73bf,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 59,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-59,#e5a05c,#ffffff,,rectangle
 db-regionetz-westfrankenbahn,RB 56,db-regionetz-verkehrs-gmbh-westfrankenbahn,rb-56,#fab23c,#ffffff,,rectangle
 db-regionetz-westfrankenbahn,RB 83,db-regionetz-verkehrs-gmbh-westfrankenbahn,rb-83,#fdd245,#000000,,rectangle
 db-regionetz-westfrankenbahn,RB 84,db-regionetz-verkehrs-gmbh-westfrankenbahn,rb-84,#e29c57,#ffffff,,rectangle
