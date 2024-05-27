@@ -1,4 +1,6 @@
 shortOperatorName,lineName,hafasOperatorCode,hafasLineId,backgroundColor,textColor,borderColor,shape
+alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,alx-re23,#ffffff,#ffffff,#006666,rectangle
+alex-dlb,RE 25,alex-die-landerbahn-gmbh-dlb,alx-re25,#006666,#ffffff,,rectangle
 ams,S7,abellio-rail-mitteldeutschland-gmbh,4-ams-7,#0a579b,#ffffff,,pill
 avv-brb,RB 83,bayerische-regiobahn,brb-rb83,#c794ac,#ffffff,,rectangle-rounded-corner
 brb,RB 13,bayerische-regiobahn,brb-rb13,#ffb530,#ffffff,,rectangle-rounded-corner
@@ -8,6 +10,7 @@ brb,RB 68,bayerische-regiobahn,brb-rb68,#a0b050,#ffffff,,rectangle-rounded-corne
 brb,RB 69,bayerische-regiobahn,brb-rb69,#008ac7,#ffffff,,rectangle-rounded-corner
 brb,RB 77,bayerische-regiobahn,brb-rb77,#188e94,#ffffff,,rectangle-rounded-corner
 brb,RE 5,bayerische-regiobahn,brb-re5,#00416d,#ffffff,,rectangle-rounded-corner
+db-regio-bayern,RB 6,db-regio-ag-bayern,rb-6,#e50000,#ffffff,,rectangle
 db-regio-bayern,RB 11,db-regio-ag-bayern,rb-11,#00ace5,#ffffff,,rectangle
 db-regio-bayern,RB 12,db-regio-ag-bayern,rb-12,#6cc3d9,#ffffff,,rectangle
 db-regio-bayern,RB 16,db-regio-ag-bayern,rb-16,#ff9999,#ffffff,,rectangle
@@ -15,19 +18,40 @@ db-regio-bayern,RB 21,db-regio-ag-bayern,rb-21,#e5a05c,#ffffff,,rectangle
 db-regio-bayern,RB 25,db-regio-ag-bayern,rb-25,#ffa0a0,#ffffff,,rectangle
 db-regio-bayern,RB 30,db-regio-ag-bayern,rb-30,#bf73bf,#ffffff,,rectangle
 db-regio-bayern,RB 31,db-regio-ag-bayern,rb-31,#ff9999,#ffffff,,rectangle
+db-regio-bayern,RB 33,db-regio-ag-bayern,rb-33,#bf73bf,#ffffff,,rectangle
+db-regio-bayern,RB 60,db-regio-ag-bayern,rb-60,#e50000,#ffffff,,rectangle
 db-regio-bayern,RB 61,db-regio-ag-bayern,rb-61,#bf73bf,#ffffff,,rectangle
 db-regio-bayern,RB 62,db-regio-ag-bayern,rb-62,#90bf26,#ffffff,,rectangle
+db-regio-bayern,RB 63,db-regio-ag-bayern,rb-63,#ffb200,#ffffff,,rectangle
+db-regio-bayern,RB 65,db-regio-ag-bayern,rb-65,#ff9999,#ffffff,,rectangle
+db-regio-bayern,RB 66,db-regio-ag-bayern,rb-66,#ff9999,#ffffff,,rectangle
+db-regio-bayern,RB 73,db-regio-ag-bayern,rb-73,#6cc3d9,#ffffff,,rectangle
+db-regio-bayern,RB 78,db-regio-ag-bayern,rb-78,#ff9999,#ffffff,,rectangle
 db-regio-bayern,RB 81,db-regio-ag-bayern,rb-81,#24b27d,#ffffff,,rectangle
 db-regio-bayern,RB 82,db-regio-ag-bayern,rb-82,#00ace5,#ffffff,,rectangle
 db-regio-bayern,RB 91,db-regio-ag-bayern,rb-91,#6cc3d9,#ffffff,,rectangle
 db-regio-bayern,RE 1,db-regio-ag-bayern,re-1,#e50000,#ffffff,,rectangle
+db-regio-bayern,RE 2,db-regio-ag-bayern,re-2,#00b2b2,#ffffff,,rectangle
+db-regio-bayern,RE 3,db-regio-ag-bayern,re-3,#800080,#ffffff,,rectangle
+db-regio-bayern,RE 7,db-regio-ag-bayern,re-7,#992e00,#ffffff,,rectangle
 db-regio-bayern,RE 14,db-regio-ag-bayern,re-14,#e50000,#ffffff,,rectangle
 db-regio-bayern,RE 16,db-regio-ag-bayern,re-16,#e50000,#ffffff,,rectangle
+db-regio-bayern,RE 17,db-regio-ag-bayern,re-17,#992e00,#ffffff,,rectangle
 db-regio-bayern,RE 19,db-regio-ag-bayern,re-19,#ff6600,#ffffff,,rectangle
 db-regio-bayern,RE 20,db-regio-ag-bayern,re-20,#e50000,#ffffff,,rectangle
+db-regio-bayern,RE 22,db-regio-ag-bayern,re-22,#ff6600,#ffffff,,rectangle
 db-regio-bayern,RE 28,db-regio-ag-bayern,re-28,#e50000,#ffffff,,rectangle
 db-regio-bayern,RE 29,db-regio-ag-bayern,re-29,#ffffff,#ff6600,#ff6600,rectangle
+db-regio-bayern,RE 50,db-regio-ag-bayern,re-50,#804080,#ffffff,,rectangle
 db-regio-bayern,RE 60,db-regio-ag-bayern,re-60,#ffffff,#800080,#800080,rectangle
+db-regio-bayern,RE 61,db-regio-ag-bayern,re-61,#ffffff,#992e00,#992e00,rectangle
+db-regio-bayern,RE 62,db-regio-ag-bayern,re-62,#ffffff,#992e00,#992e00,rectangle
+db-regio-bayern,RE 70,db-regio-ag-bayern,re-70,#006629,#ffffff,,rectangle
+db-regio-bayern,RE 71,db-regio-ag-bayern,re-71,#e5a05c,#ffffff,,rectangle
+db-regio-bayern,RE 73,db-regio-ag-bayern,re-73,#e5a05c,#ffffff,,rectangle
+db-regio-bayern,RE 75,db-regio-ag-bayern,re-75,#e50000,#ffffff,,rectangle
+db-regio-bayern,RE 76,db-regio-ag-bayern,re-76,#006629,#ffffff,,rectangle
+db-regio-bayern,RE 79,db-regio-ag-bayern,re-79,#800080,#ffffff,,rectangle
 db-regio-mitte,RE 40,db-regio-ag-mitte,re-40,#ff9027,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB 41,db-regio-ag-mitte,rb-41,#00ab4f,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB 44,db-regio-ag-mitte,rb-44,#7ac547,#ffffff,,rectangle-rounded-corner
@@ -86,6 +110,19 @@ db-regio-sudost,S8,db-regio-ag-sudost,4-8004a9-8,#5c2582,#ffffff,,pill
 db-regio-sudost,S9,db-regio-ag-sudost,4-8004a9-9,#be006b,#ffffff,,pill
 db-regio-sudost,S10,db-regio-ag-sudost,4-800486-10,#ffffff,#000000,#f5de2b,pill
 db-regio-sudost,S47,db-regio-ag-sudost,4-8004a9-47,#53af4c,#ffffff,,pill
+db-regionetz-sudostbayernbahn,RE 4,db-regionetz-verkehrs-gmbh-sudostbayernbahn,re-4,#ffffff,#992e00,#992e00,rectangle
+db-regionetz-sudostbayernbahn,RB 32,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-32,#e5a05c,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 40,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-40,#e5a05c,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 41,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-41,#bf73bf,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 42,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-42,#00ace5,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 44,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-44,#90bf26,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 45,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-45,#6cc3d9,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 46,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-46,#24b27d,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 47,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-47,#ffb200,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 48,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-48,#bf73bf,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 49,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-49,#ffb200,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 52,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-52,#bf73bf,#ffffff,,rectangle
+db-regionetz-sudostbayernbahn,RB 59,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-59,#e5a05c,#ffffff,,rectangle
 db-regionetz-westfrankenbahn,RB 56,db-regionetz-verkehrs-gmbh-westfrankenbahn,rb-56,#fab23c,#ffffff,,rectangle
 db-regionetz-westfrankenbahn,RB 83,db-regionetz-verkehrs-gmbh-westfrankenbahn,rb-83,#fdd245,#000000,,rectangle
 db-regionetz-westfrankenbahn,RB 84,db-regionetz-verkehrs-gmbh-westfrankenbahn,rb-84,#e29c57,#ffffff,,rectangle
@@ -302,11 +339,11 @@ mobiel,1,mobiel-gmbh,8-owl031-1,#009fe0,#ffffff,,rectangle
 mobiel,2,mobiel-gmbh,8-owl031-2,#008f36,#ffffff,,rectangle
 mobiel,3,mobiel-gmbh,8-owl031-3,#ffed00,#00264f,,rectangle
 mobiel,4,mobiel-gmbh,8-owl031-4,#e3001b,#ffffff,,rectangle
-mvv-brb,RB 54,bayerische-regiobahn,brb-rb54,#4263a8,#ffffff,,rectangle
-mvv-brb,RB 55,bayerische-regiobahn,brb-rb55,#b27a2a,#ffffff,,rectangle
-mvv-brb,RB 56,bayerische-regiobahn,brb-rb56,#b27a2a,#ffffff,,rectangle
-mvv-brb,RB 57,bayerische-regiobahn,brb-rb57,#b27a2a,#ffffff,,rectangle
-mvv-brb,RB 58,bayerische-regiobahn,brb-rb58,#ccb236,#ffffff,,rectangle
+mvv-brb,RB 54,bayerische-regiobahn,brb-rb54,#00ace5,#ffffff,,rectangle
+mvv-brb,RB 55,bayerische-regiobahn,brb-rb55,#ff6600,#ffffff,,rectangle
+mvv-brb,RB 56,bayerische-regiobahn,brb-rb56,#ff6600,#ffffff,,rectangle
+mvv-brb,RB 57,bayerische-regiobahn,brb-rb57,#ff6600,#ffffff,,rectangle
+mvv-brb,RB 58,bayerische-regiobahn,brb-rb58,#ffb200,#ffffff,,rectangle
 mvv-db-sbm,S1,db-regio-ag-s-bahn-munchen,4-800725-1,#1fbce6,#ffffff,,pill
 mvv-db-sbm,S2,db-regio-ag-s-bahn-munchen,4-800725-2,#79b833,#ffffff,,pill
 mvv-db-sbm,S20,db-regio-ag-s-bahn-munchen,4-800725-20,#f05972,#ffffff,,pill
