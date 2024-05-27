@@ -339,11 +339,11 @@ mobiel,1,mobiel-gmbh,8-owl031-1,#009fe0,#ffffff,,rectangle
 mobiel,2,mobiel-gmbh,8-owl031-2,#008f36,#ffffff,,rectangle
 mobiel,3,mobiel-gmbh,8-owl031-3,#ffed00,#00264f,,rectangle
 mobiel,4,mobiel-gmbh,8-owl031-4,#e3001b,#ffffff,,rectangle
-mvv-brb,RB 54,bayerische-regiobahn,brb-rb54,#4263a8,#ffffff,,rectangle
-mvv-brb,RB 55,bayerische-regiobahn,brb-rb55,#b27a2a,#ffffff,,rectangle
-mvv-brb,RB 56,bayerische-regiobahn,brb-rb56,#b27a2a,#ffffff,,rectangle
-mvv-brb,RB 57,bayerische-regiobahn,brb-rb57,#b27a2a,#ffffff,,rectangle
-mvv-brb,RB 58,bayerische-regiobahn,brb-rb58,#ccb236,#ffffff,,rectangle
+mvv-brb,RB 54,bayerische-regiobahn,brb-rb54,#00ace5,#ffffff,,rectangle
+mvv-brb,RB 55,bayerische-regiobahn,brb-rb55,#ff6600,#ffffff,,rectangle
+mvv-brb,RB 56,bayerische-regiobahn,brb-rb56,#ff6600,#ffffff,,rectangle
+mvv-brb,RB 57,bayerische-regiobahn,brb-rb57,#ff6600,#ffffff,,rectangle
+mvv-brb,RB 58,bayerische-regiobahn,brb-rb58,#ffb200,#ffffff,,rectangle
 mvv-db-sbm,S1,db-regio-ag-s-bahn-munchen,4-800725-1,#1fbce6,#ffffff,,pill
 mvv-db-sbm,S2,db-regio-ag-s-bahn-munchen,4-800725-2,#79b833,#ffffff,,pill
 mvv-db-sbm,S20,db-regio-ag-s-bahn-munchen,4-800725-20,#f05972,#ffffff,,pill
