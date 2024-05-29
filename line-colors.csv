@@ -16,14 +16,21 @@ agilis,RE 18,agilis,ag-re18,#006428,#ffffff,,rectangle
 alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,alx-re23,#ffffff,#006666,#006666,rectangle
 alex-dlb,RE 25,alex-die-landerbahn-gmbh-dlb,alx-re25,#006666,#ffffff,,rectangle
 ams,S7,abellio-rail-mitteldeutschland-gmbh,4-ams-7,#0a579b,#ffffff,,pill
-avv-brb,RB 83,bayerische-regiobahn,brb-rb83,#c794ac,#ffffff,,rectangle-rounded-corner
-brb,RB 13,bayerische-regiobahn,brb-rb13,#ffb530,#ffffff,,rectangle-rounded-corner
-brb,RB 53,bayerische-regiobahn,brb-rb53,#ffaa90,#ffffff,,rectangle-rounded-corner
-brb,RB 67,bayerische-regiobahn,brb-rb67,#cb8daa,#ffffff,,rectangle-rounded-corner
-brb,RB 68,bayerische-regiobahn,brb-rb68,#a0b050,#ffffff,,rectangle-rounded-corner
-brb,RB 69,bayerische-regiobahn,brb-rb69,#008ac7,#ffffff,,rectangle-rounded-corner
-brb,RB 77,bayerische-regiobahn,brb-rb77,#188e94,#ffffff,,rectangle-rounded-corner
-brb,RE 5,bayerische-regiobahn,brb-re5,#00416d,#ffffff,,rectangle-rounded-corner
+brb,RB 13,bayerische-regiobahn,brb-rb13,#ffb530,#ffffff,,rectangle
+brb,RB 53,bayerische-regiobahn,brb-rb53,#ffaa90,#ffffff,,rectangle
+brb,RB 54,bayerische-regiobahn,brb-rb54,#00ace5,#ffffff,,rectangle
+brb,RB 55,bayerische-regiobahn,brb-rb55,#ff6600,#ffffff,,rectangle
+brb,RB 56,bayerische-regiobahn,brb-rb56,#ff6600,#ffffff,,rectangle
+brb,RB 57,bayerische-regiobahn,brb-rb57,#ff6600,#ffffff,,rectangle
+brb,RB 58,bayerische-regiobahn,brb-rb58,#ffb200,#ffffff,,rectangle
+brb,RB 67,bayerische-regiobahn,brb-rb67,#cb8daa,#ffffff,,rectangle
+brb,RB 68,bayerische-regiobahn,brb-rb68,#ffffff,#a0b050,#a0b050,rectangle
+brb,RB 69,bayerische-regiobahn,brb-rb69,#008ac7,#ffffff,,rectangle
+brb,RB 77,bayerische-regiobahn,brb-rb77,#188e94,#ffffff,,rectangle
+brb,RB 83,bayerische-regiobahn,brb-rb83,#ffffff,#c794ac,#c794ac,rectangle
+brb,RE 5,bayerische-regiobahn,brb-re5,#00416d,#ffffff,,rectangle
+brb,S3,bayerische-regiobahn,4-l8-s3,#2aa335,#ffffff,,pill
+brb,S4,bayerische-regiobahn,4-l8-s4,#a765a2,#ffffff,,pill
 db-regio-bayern,RB 6,db-regio-ag-bayern,rb-6,#e50000,#ffffff,,rectangle
 db-regio-bayern,RB 10,db-regio-ag-bayern,rb-10,#90bf26,#ffffff,,rectangle
 db-regio-bayern,RB 11,db-regio-ag-bayern,rb-11,#00ace5,#ffffff,,rectangle
@@ -375,11 +382,6 @@ mobiel,1,mobiel-gmbh,8-owl031-1,#009fe0,#ffffff,,rectangle
 mobiel,2,mobiel-gmbh,8-owl031-2,#008f36,#ffffff,,rectangle
 mobiel,3,mobiel-gmbh,8-owl031-3,#ffed00,#00264f,,rectangle
 mobiel,4,mobiel-gmbh,8-owl031-4,#e3001b,#ffffff,,rectangle
-mvv-brb,RB 54,bayerische-regiobahn,brb-rb54,#00ace5,#ffffff,,rectangle
-mvv-brb,RB 55,bayerische-regiobahn,brb-rb55,#ff6600,#ffffff,,rectangle
-mvv-brb,RB 56,bayerische-regiobahn,brb-rb56,#ff6600,#ffffff,,rectangle
-mvv-brb,RB 57,bayerische-regiobahn,brb-rb57,#ff6600,#ffffff,,rectangle
-mvv-brb,RB 58,bayerische-regiobahn,brb-rb58,#ffb200,#ffffff,,rectangle
 mvv-db-sbm,S1,db-regio-ag-s-bahn-munchen,4-800725-1,#1fbce6,#ffffff,,pill
 mvv-db-sbm,S2,db-regio-ag-s-bahn-munchen,4-800725-2,#79b833,#ffffff,,pill
 mvv-db-sbm,S20,db-regio-ag-s-bahn-munchen,4-800725-20,#f05972,#ffffff,,pill
