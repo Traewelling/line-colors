@@ -1043,6 +1043,9 @@ sweg-sudwest,RB 66,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb66,#014f9f,#ff
 sweg-sudwest,RB 67,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb67,#00a9df,#ffffff,,rectangle
 sweg-sudwest,RB 68,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb68,#ec2933,#ffffff,,rectangle
 sweg-sudwest,RB 69,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb69,#f27320,#ffffff,,rectangle
+sweg-sudwest,RS3,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rs3,#673a8d,#ffffff,,rectangle
+sweg-sudwest,RS5,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rs5,#026734,#ffffff,,rectangle
+sweg-sudwest,RS51,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rs51,#51ae36,#ffffff,,rectangle
 tlx,L2,trilex-die-landerbahn-gmbh-dlb,tl-l2,#0f7ec0,#ffffff,,rectangle-rounded-corner
 tlx,L24,trilex-die-landerbahn-gmbh-dlb,tl-l24,#6eae47,#ffffff,,rectangle-rounded-corner
 tlx,L4,trilex-die-landerbahn-gmbh-dlb,tl-l4,#242320,#ffffff,,rectangle-rounded-corner
