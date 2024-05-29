@@ -126,6 +126,9 @@
             },
             {
                 "github": "tomjschwanke"
+            },
+            {
+                "github": "verbuchselt"
             }
         ],
         "sources": [
@@ -136,6 +139,10 @@
             {
                 "name": "MDV Liniennetzplan",
                 "source": "https://www.mdv.de/site/uploads/lnp_plusbus.pdf"
+            },
+            {
+                "name": "BEG Liniennetzplan Bayern 2024",
+                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
             }
         ]
     },
