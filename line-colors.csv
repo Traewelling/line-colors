@@ -17,18 +17,19 @@ alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,alx-re23,#ffffff,#006666,#006666,rec
 alex-dlb,RE 25,alex-die-landerbahn-gmbh-dlb,alx-re25,#006666,#ffffff,,rectangle
 ams,S7,abellio-rail-mitteldeutschland-gmbh,4-ams-7,#0a579b,#ffffff,,pill
 bayerische-zugspitzbahn,RB 64,bayerische-zugspitzbahn,bzb-rb64,#6cc3d9,#ffffff,,rectangle
-brb,RB 13,bayerische-regiobahn,brb-rb13,#ffb530,#ffffff,,rectangle
-brb,RB 53,bayerische-regiobahn,brb-rb53,#ffaa90,#ffffff,,rectangle
+brb,RB 13,bayerische-regiobahn,brb-rb13,#ffb200,#ffffff,,rectangle
+brb,RB 14,bayerische-regiobahn,brb-rb14,#ffb200,#ffffff,,rectangle
+brb,RB 53,bayerische-regiobahn,brb-rb53,#ff9999,#ffffff,,rectangle
 brb,RB 54,bayerische-regiobahn,brb-rb54,#00ace5,#ffffff,,rectangle
 brb,RB 55,bayerische-regiobahn,brb-rb55,#ff6600,#ffffff,,rectangle
 brb,RB 56,bayerische-regiobahn,brb-rb56,#ff6600,#ffffff,,rectangle
 brb,RB 57,bayerische-regiobahn,brb-rb57,#ff6600,#ffffff,,rectangle
 brb,RB 58,bayerische-regiobahn,brb-rb58,#ffb200,#ffffff,,rectangle
-brb,RB 67,bayerische-regiobahn,brb-rb67,#cb8daa,#ffffff,,rectangle
-brb,RB 68,bayerische-regiobahn,brb-rb68,#ffffff,#a0b050,#a0b050,rectangle
-brb,RB 69,bayerische-regiobahn,brb-rb69,#008ac7,#ffffff,,rectangle
-brb,RB 77,bayerische-regiobahn,brb-rb77,#188e94,#ffffff,,rectangle
-brb,RB 83,bayerische-regiobahn,brb-rb83,#ffffff,#c794ac,#c794ac,rectangle
+brb,RB 67,bayerische-regiobahn,brb-rb67,#bf73bf,#ffffff,,rectangle
+brb,RB 68,bayerische-regiobahn,brb-rb68,#ffffff,#90bf26,#90bf26,rectangle
+brb,RB 69,bayerische-regiobahn,brb-rb69,#00ace5,#ffffff,,rectangle
+brb,RB 77,bayerische-regiobahn,brb-rb77,#24b27d,#ffffff,,rectangle
+brb,RB 83,bayerische-regiobahn,brb-rb83,#ffffff,#bf73bf,#bf73bf,rectangle
 brb,RE 5,bayerische-regiobahn,brb-re5,#00416d,#ffffff,,rectangle
 brb,S3,bayerische-regiobahn,4-l8-s3,#2aa335,#ffffff,,pill
 brb,S4,bayerische-regiobahn,4-l8-s4,#a765a2,#ffffff,,pill
