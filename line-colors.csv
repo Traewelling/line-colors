@@ -1,14 +1,18 @@
 shortOperatorName,lineName,hafasOperatorCode,hafasLineId,backgroundColor,textColor,borderColor,shape
+agilis,RB 15,agilis,ag-rb15,#24b27d,#ffffff,,rectangle
+agilis,RB 17,agilis,ag-rb17,#90bf26,#ffffff,,rectangle
 agilis,RB 18,agilis,ag-rb18,#ff9999,#ffffff,,rectangle
 agilis,RB 21,agilis,ag-rb21,#e5a05c,#ffffff,,rectangle
 agilis,RB 24,agilis,ag-rb24,#00ace5,#ffffff,,rectangle
 agilis,RB 26,agilis,ag-rb26,#6cc3d9,#ffffff,,rectangle
 agilis,RB 34,agilis,ag-rb34,#bf73bf,#ffffff,,rectangle
+agilis,RB 51,agilis,ag-rb51,#bf73bf,#ffffff,,rectangle
 agilis,RB 95,agilis,ag-rb95,#ff6600,#ffffff,,rectangle
 agilis,RB 96,agilis,ag-rb96,#ff6600,#ffffff,,rectangle
 agilis,RB 97,agilis,ag-rb97,#90bf26,#ffffff,,rectangle
 agilis,RB 98,agilis,ag-rb98,#24b27d,#ffffff,,rectangle
 agilis,RB 99,agilis,ag-rb99,#ffb200,#ffffff,,rectangle
+agilis,RE 18,agilis,ag-re18,#006428,#ffffff,,rectangle
 alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,alx-re23,#ffffff,#006666,#006666,rectangle
 alex-dlb,RE 25,alex-die-landerbahn-gmbh-dlb,alx-re25,#006666,#ffffff,,rectangle
 ams,S7,abellio-rail-mitteldeutschland-gmbh,4-ams-7,#0a579b,#ffffff,,pill
