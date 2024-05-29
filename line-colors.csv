@@ -1,5 +1,5 @@
 shortOperatorName,lineName,hafasOperatorCode,hafasLineId,backgroundColor,textColor,borderColor,shape
-alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,alx-re23,#ffffff,#ffffff,#006666,rectangle
+alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,alx-re23,#ffffff,#006666,#006666,rectangle
 alex-dlb,RE 25,alex-die-landerbahn-gmbh-dlb,alx-re25,#006666,#ffffff,,rectangle
 ams,S7,abellio-rail-mitteldeutschland-gmbh,4-ams-7,#0a579b,#ffffff,,pill
 avv-brb,RB 83,bayerische-regiobahn,brb-rb83,#c794ac,#ffffff,,rectangle-rounded-corner
