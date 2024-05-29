@@ -28,6 +28,20 @@
         ]
     },
     {
+        "shortOperatorName": "alex-dlb",
+        "contributors": [
+            {
+                "github": "verbuchselt"
+            }
+        ],
+        "sources": [
+            {
+                "name": "BEG Liniennetzplan Bayern 2024",
+                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "ams",
         "contributors": [
             {
@@ -161,6 +175,20 @@
                 "name": "MDV Liniennetzplan",
                 "source": "https://www.mdv.de/site/uploads/lnp_plusbus.pdf"
             },
+            {
+                "name": "BEG Liniennetzplan Bayern 2024",
+                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "db-regionetz-sudostbayernbahn",
+        "contributors": [
+            {
+                "github": "verbuchselt"
+            }
+        ],
+        "sources": [
             {
                 "name": "BEG Liniennetzplan Bayern 2024",
                 "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
