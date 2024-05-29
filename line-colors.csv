@@ -193,6 +193,9 @@ dvg-dessau,Rufbus N4,,9-nas001-n4,#000000,#ffffff,,pill
 dvg-dessau,N5,,5-nas001-n5,#000000,#ffffff,,pill
 dvg-dessau,N6,,5-nas001-n6,#000000,#ffffff,,pill
 dwe-dessau,DWE,dessau-worlitzer-eisenbahn,dwe,#ffffff,#000000,#000000,rectangle
+erfurter-bahn,RB 13,erfurter-bahn-gmbh,rb-13,#24b27d,#ffffff,,rectangle
+erfurter-bahn,RB 40,erfurter-bahn-gmbh,rb-40,#24b27d,#ffffff,,rectangle
+erfurter-bahn,RB 50,erfurter-bahn-gmbh,rb-50,#24b27d,#ffffff,,rectangle
 gabw,IRE 1,go-ahead-baden-wurttemberg-gmbh,ire-1,#88c946,#ffffff,,rectangle
 gabw,MEX 13,go-ahead-baden-wurttemberg-gmbh,mex-13,#00b9f2,#ffffff,,rectangle
 gabw,MEX 16,go-ahead-baden-wurttemberg-gmbh,mex-16,#0073c0,#ffffff,,rectangle
