@@ -565,6 +565,20 @@
         ]
     },
     {
+        "shortOperatorName": "mvv-regional-bus",
+        "contributors": [
+            {
+                "github": "verbuchselt"
+            }
+        ],
+        "sources": [
+            {
+                "name": "MVV Netzplan Gesamtnetz 2024",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2024/2024_layout_MVV_Regio_1_GESAMT_SCR.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mvv-stadtwerke-dachau",
         "contributors": [
             {
