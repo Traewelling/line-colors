@@ -3,6 +3,7 @@ agilis,RB 15,agilis,ag-rb15,#24b27d,#ffffff,,rectangle
 agilis,RB 17,agilis,ag-rb17,#90bf26,#ffffff,,rectangle
 agilis,RB 18,agilis,ag-rb18,#ff9999,#ffffff,,rectangle
 agilis,RB 21,agilis,ag-rb21,#e5a05c,#ffffff,,rectangle
+agilis,RB 22,agilis,ag-rb22,#90bf26,#ffffff,,rectangle
 agilis,RB 24,agilis,ag-rb24,#00ace5,#ffffff,,rectangle
 agilis,RB 26,agilis,ag-rb26,#6cc3d9,#ffffff,,rectangle
 agilis,RB 34,agilis,ag-rb34,#bf73bf,#ffffff,,rectangle
@@ -15,22 +16,21 @@ agilis,RB 99,agilis,ag-rb99,#ffb200,#ffffff,,rectangle
 agilis,RE 18,agilis,ag-re18,#006428,#ffffff,,rectangle
 alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,alx-re23,#ffffff,#006666,#006666,rectangle
 alex-dlb,RE 25,alex-die-landerbahn-gmbh-dlb,alx-re25,#006666,#ffffff,,rectangle
-alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,alx-re23,#ffffff,#ffffff,#006666,rectangle
-alex-dlb,RE 25,alex-die-landerbahn-gmbh-dlb,alx-re25,#006666,#ffffff,,rectangle
 ams,S7,abellio-rail-mitteldeutschland-gmbh,4-ams-7,#0a579b,#ffffff,,pill
 bayerische-zugspitzbahn,RB 64,bayerische-zugspitzbahn,bzb-rb64,#6cc3d9,#ffffff,,rectangle
-brb,RB 13,bayerische-regiobahn,brb-rb13,#ffb530,#ffffff,,rectangle
-brb,RB 53,bayerische-regiobahn,brb-rb53,#ffaa90,#ffffff,,rectangle
+brb,RB 13,bayerische-regiobahn,brb-rb13,#ffb200,#ffffff,,rectangle
+brb,RB 14,bayerische-regiobahn,brb-rb14,#ffb200,#ffffff,,rectangle
+brb,RB 53,bayerische-regiobahn,brb-rb53,#ff9999,#ffffff,,rectangle
 brb,RB 54,bayerische-regiobahn,brb-rb54,#00ace5,#ffffff,,rectangle
 brb,RB 55,bayerische-regiobahn,brb-rb55,#ff6600,#ffffff,,rectangle
 brb,RB 56,bayerische-regiobahn,brb-rb56,#ff6600,#ffffff,,rectangle
 brb,RB 57,bayerische-regiobahn,brb-rb57,#ff6600,#ffffff,,rectangle
 brb,RB 58,bayerische-regiobahn,brb-rb58,#ffb200,#ffffff,,rectangle
-brb,RB 67,bayerische-regiobahn,brb-rb67,#cb8daa,#ffffff,,rectangle
-brb,RB 68,bayerische-regiobahn,brb-rb68,#ffffff,#a0b050,#a0b050,rectangle
-brb,RB 69,bayerische-regiobahn,brb-rb69,#008ac7,#ffffff,,rectangle
-brb,RB 77,bayerische-regiobahn,brb-rb77,#188e94,#ffffff,,rectangle
-brb,RB 83,bayerische-regiobahn,brb-rb83,#ffffff,#c794ac,#c794ac,rectangle
+brb,RB 67,bayerische-regiobahn,brb-rb67,#bf73bf,#ffffff,,rectangle
+brb,RB 68,bayerische-regiobahn,brb-rb68,#ffffff,#90bf26,#90bf26,rectangle
+brb,RB 69,bayerische-regiobahn,brb-rb69,#00ace5,#ffffff,,rectangle
+brb,RB 77,bayerische-regiobahn,brb-rb77,#24b27d,#ffffff,,rectangle
+brb,RB 83,bayerische-regiobahn,brb-rb83,#ffffff,#bf73bf,#bf73bf,rectangle
 brb,RE 5,bayerische-regiobahn,brb-re5,#00416d,#ffffff,,rectangle
 brb,S3,bayerische-regiobahn,4-l8-s3,#2aa335,#ffffff,,pill
 brb,S4,bayerische-regiobahn,4-l8-s4,#a765a2,#ffffff,,pill
@@ -94,8 +94,6 @@ db-regio-bayern,RE 73,db-regio-ag-bayern,re-73,#e5a05c,#ffffff,,rectangle
 db-regio-bayern,RE 75,db-regio-ag-bayern,re-75,#e50000,#ffffff,,rectangle
 db-regio-bayern,RE 76,db-regio-ag-bayern,re-76,#006629,#ffffff,,rectangle
 db-regio-bayern,RE 79,db-regio-ag-bayern,re-79,#800080,#ffffff,,rectangle
-db-regio-bayern,RS7,db-regio-ag-bayern,rs7,#294b9a,#ffffff,,pill
-db-regio-bayern,RS71,db-regio-ag-bayern,rs71,#009ee2,#ffffff,,pill
 db-regio-mitte,RE 40,db-regio-ag-mitte,re-40,#ff9027,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB 41,db-regio-ag-mitte,rb-41,#00ab4f,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB 44,db-regio-ag-mitte,rb-44,#7ac547,#ffffff,,rectangle-rounded-corner
@@ -1055,9 +1053,6 @@ sweg-sudwest,RB 66,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb66,#014f9f,#ff
 sweg-sudwest,RB 67,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb67,#00a9df,#ffffff,,rectangle
 sweg-sudwest,RB 68,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb68,#ec2933,#ffffff,,rectangle
 sweg-sudwest,RB 69,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb69,#f27320,#ffffff,,rectangle
-sweg-sudwest,RS3,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rs3,#673a8d,#ffffff,,rectangle
-sweg-sudwest,RS5,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rs5,#026734,#ffffff,,rectangle
-sweg-sudwest,RS51,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rs51,#51ae36,#ffffff,,rectangle
 tlx,L2,trilex-die-landerbahn-gmbh-dlb,tl-l2,#0f7ec0,#ffffff,,rectangle-rounded-corner
 tlx,L24,trilex-die-landerbahn-gmbh-dlb,tl-l24,#6eae47,#ffffff,,rectangle-rounded-corner
 tlx,L4,trilex-die-landerbahn-gmbh-dlb,tl-l4,#242320,#ffffff,,rectangle-rounded-corner
