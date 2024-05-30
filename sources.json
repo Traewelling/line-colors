@@ -583,6 +583,20 @@
         ]
     },
     {
+        "shortOperatorName": "mvv-stadtwerke-freising",
+        "contributors": [
+            {
+                "github": "verbuchselt"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Stadtbus Freising",
+                "source": "https://www.freisinger-stadtwerke.de/de/Stadtbus-Parkhaeuser/Stadtbus/Prefooter/Aushang-Liniennetz-Stadtbus-A4hoch-web.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "nah-sh",
         "contributors": [
             {
