@@ -413,6 +413,7 @@ mvv-mvg-ubahn,U3,,7-swm001-3,#ec6725,#ffffff,,rectangle
 mvv-mvg-ubahn,U4,,7-swm001-4,#00a984,#ffffff,,rectangle
 mvv-mvg-ubahn,U5,,7-swm001-5,#bc7a00,#ffffff,,rectangle
 mvv-mvg-ubahn,U6,,7-swm001-6,#0065ae,#ffffff,,rectangle
+mvv-regional-bus,501,,5-mvvrbu-501,#1b2645,#ffffff,,rectangle
 mvv-regional-bus,511,,5-mvvrbu-511,#979032,#ffffff,,rectangle
 mvv-regional-bus,601,,5-mvvrbu-601,#702e1a,#ffffff,,rectangle
 mvv-regional-bus,602,,5-mvvrbu-602,#839dbb,#ffffff,,rectangle
@@ -424,6 +425,13 @@ mvv-regional-bus,617,,5-mvvrbu-617,#49719a,#ffffff,,rectangle
 mvv-regional-bus,618,,5-mvvrbu-618,#49719a,#ffffff,,rectangle
 mvv-regional-bus,619,,5-mvvrbu-619,#4c7ec8,#ffffff,,rectangle
 mvv-regional-bus,635,,5-mvvrbu-635,#662a1c,#ffffff,,rectangle
+mvv-regional-bus,680,,5-mvvrbu-680,#6c6775,#ffffff,,rectangle
+mvv-regional-bus,681,,5-mvvrbu-681,#ab5479,#ffffff,,rectangle
+mvv-regional-bus,682,,5-mvvrbu-682,#c29a44,#ffffff,,rectangle
+mvv-regional-bus,683,,5-mvvrbu-683,#79312a,#ffffff,,rectangle
+mvv-regional-bus,684,,5-mvvrbu-684,#377a5d,#ffffff,,rectangle
+mvv-regional-bus,687,,5-mvvrbu-687,#6a6153,#ffffff,,rectangle
+mvv-regional-bus,688,,5-mvvrbu-688,#b8ae36,#ffffff,,rectangle
 mvv-regional-bus,691,,5-mvvrbu-691,#4d8240,#ffffff,,rectangle
 mvv-regional-bus,X660,,5-mvvrbu-x660,#8e5c2e,#ffffff,,rectangle
 mvv-stadtwerke-dachau,716,,5-mvvrbu-716,#235798,#ffffff,,rectangle
