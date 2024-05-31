@@ -1283,6 +1283,32 @@
         ]
     },
     {
+        "shortOperatorName": "uk-trains",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Northern Rail (Website)",
+                "source": "https://www.northernrailway.co.uk/"
+            },
+            {
+                "name": "Avanti West Coast",
+                "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplan-bus-hannover-2023-2024.pdf"
+            },
+            {
+                "name": "EMR",
+                "source": "https://www.eastmidlandsrailway.co.uk/"
+            },
+            {
+                "name": "London Northwestern Railway",
+                "source": "https://www.londonnorthwesternrailway.co.uk/"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vbb-bvg-tram",
         "contributors": [
             {

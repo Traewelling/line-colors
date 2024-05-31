@@ -1155,14 +1155,11 @@ uestra,610,,5-webueb-610,#ffffff,#2c2e35,#3ebc6d,pill
 uestra,611,,5-webueb-611,#ffffff,#2c2e35,#af2a21,pill
 uestra,631,,5-webueb-631,#ffffff,#2c2e35,#95cc45,pill
 uestra,800,,5-webueb-800,#ffffff,#2c2e35,#35ccf6,pill
-
-// UK trains
-uk-avanti,Avanti West Coast,avanti-west-coast,null,#014053,#ffffff,,rectangle
-uk-emr,EMR,east-midland,null,#4c2f48,#ffffff,,rectangle
-uk-lnwr,London Northwestern Railway,london-midland,null,#004c45,#ffffff,,rectangle
-uk-northern,northern,northern,null,#262262,#ffffff,,rectangle
+uk-trains,Avanti West Coast,avanti-west-coast,null,#014053,#ffffff,,rectangle
+uk-trains,EMR,east-midland,null,#4c2f48,#ffffff,,rectangle
+uk-trains,London Northwestern Railway,london-midland,null,#004c45,#ffffff,,rectangle
+uk-trains,northern,northern,null,#262262,#ffffff,,rectangle
 uk-tfw-wales-and-borders,TfW Wales&Borders,wales-borders,null,#ae1c0f,#ffffff,,rectangle
-
 vbb-bvg-tram,M1,,8-vbbbvt-m1,#63b9e9,#ffffff,,rectangle
 vbb-bvg-tram,M2,,8-vbbbvt-m2,#7ab929,#ffffff,,rectangle
 vbb-bvg-tram,M4,,8-vbbbvt-m4,#ca1214,#ffffff,,rectangle
