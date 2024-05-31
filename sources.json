@@ -1,5 +1,33 @@
 [
     {
+        "shortOperatorName": "agilis",
+        "contributors": [
+            {
+                "github": "verbuchselt"
+            }
+        ],
+        "sources": [
+            {
+                "name": "BEG Liniennetzplan Bayern 2024",
+                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "alex-dlb",
+        "contributors": [
+            {
+                "github": "verbuchselt"
+            }
+        ],
+        "sources": [
+            {
+                "name": "BEG Liniennetzplan Bayern 2024",
+                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "alex-dlb",
         "contributors": [
             {
@@ -28,16 +56,16 @@
         ]
     },
     {
-        "shortOperatorName": "avv-brb",
+        "shortOperatorName": "bayerische-zugspitzbahn",
         "contributors": [
             {
-                "github": "oneiricbotcelot"
+                "github": "verbuchselt"
             }
         ],
         "sources": [
             {
-                "name": "AVV Schienennetzplan 2023/12",
-                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_schienennetzplan_2023_12_web.pdf"
+                "name": "BEG Liniennetzplan Bayern 2024",
+                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
             }
         ]
     },
@@ -46,12 +74,19 @@
         "contributors": [
             {
                 "github": "oneiricbotcelot"
+            },
+            {
+                "github": "verbuchselt"
             }
         ],
         "sources": [
             {
                 "name": "BRB Streckennetz 2024",
                 "source": "https://download.transdev.de/transdev/uploads/bb/media_document/500/original.pdf"
+            },
+            {
+                "name": "BEG Liniennetzplan Bayern 2024",
+                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
             }
         ]
     },
@@ -126,6 +161,9 @@
             },
             {
                 "github": "tomjschwanke"
+            },
+            {
+                "github": "verbuchselt"
             }
         ],
         "sources": [
@@ -136,6 +174,10 @@
             {
                 "name": "MDV Liniennetzplan",
                 "source": "https://www.mdv.de/site/uploads/lnp_plusbus.pdf"
+            },
+            {
+                "name": "BEG Liniennetzplan Bayern 2024",
+                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
             }
         ]
     },
@@ -206,6 +248,20 @@
             {
                 "name": "SWU Liniennetz Bus und Tram 2023",
                 "source": "https://www.swu.de/fileadmin/content/mobilitaet/karten/2023/Liniennetzplan_2023-05-27.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "erfurter-bahn",
+        "contributors": [
+            {
+                "github": "verbuchselt"
+            }
+        ],
+        "sources": [
+            {
+                "name": "BEG Liniennetzplan Bayern 2024",
+                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
             }
         ]
     },
@@ -472,27 +528,6 @@
         ]
     },
     {
-        "shortOperatorName": "mvv-brb",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            },
-            {
-                "github": "verbuchselt"
-            }
-        ],
-        "sources": [
-            {
-                "name": "MVV Netzplan 2024 Gesamtnetz",
-                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2024/2024_layout_SUR_gesamtnetz_SCR.pdf"
-            },
-            {
-                "name": "BEG Liniennetzplan Bayern 2024",
-                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "mvv-db-sbm",
         "contributors": [
             {
@@ -530,6 +565,20 @@
         ]
     },
     {
+        "shortOperatorName": "mvv-regional-bus",
+        "contributors": [
+            {
+                "github": "verbuchselt"
+            }
+        ],
+        "sources": [
+            {
+                "name": "MVV Netzplan Gesamtnetz 2024",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2024/2024_layout_MVV_Regio_1_GESAMT_SCR.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mvv-stadtwerke-dachau",
         "contributors": [
             {
@@ -544,6 +593,20 @@
             {
                 "name": "Übersichtsseite - Busverkehr in Dachau",
                 "source": "https://www.stadtwerke-dachau.de/tarife-angebote/mobilitaet/busverkehr-in-dachau"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "mvv-stadtwerke-freising",
+        "contributors": [
+            {
+                "github": "verbuchselt"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Stadtbus Freising",
+                "source": "https://www.freisinger-stadtwerke.de/de/Stadtbus-Parkhaeuser/Stadtbus/Prefooter/Aushang-Liniennetz-Stadtbus-A4hoch-web.pdf"
             }
         ]
     },
@@ -675,6 +738,20 @@
             {
                 "name": "NRW-Fahrplanbuch 2024",
                 "source": "https://www.vrs.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MDE3OTA4MTcsImV4cCI6MTcwMTgyMDgwMCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vRGF0ZWllbi9Eb3dubG9hZGNlbnRlci9GYWhycGxhbm1lZGllbi9OUldfRmFocnBsYW4yMDI0LlBERiIsInBhZ2UiOjEwODZ9.G9r0FkuaYSG-eIyqkKUkS_3HCX_FuVVE0C5ZV6Yf2nM/NRW_Fahrplan2024.PDF"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "oberpfalzbahn-dlb",
+        "contributors": [
+            {
+                "github": "verbuchselt"
+            }
+        ],
+        "sources": [
+            {
+                "name": "BEG Liniennetzplan Bayern 2024",
+                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
             }
         ]
     },
@@ -1907,6 +1984,20 @@
             {
                 "name": "Bahnnetz Vorarlberg",
                 "source": "https://www.oebb.at/dam/jcr:19c51cee-43ec-485d-befc-395902088b8f/liniennetz-vorarlberg.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "waldbahn-dlb",
+        "contributors": [
+            {
+                "github": "verbuchselt"
+            }
+        ],
+        "sources": [
+            {
+                "name": "BEG Liniennetzplan Bayern 2024",
+                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
             }
         ]
     },
