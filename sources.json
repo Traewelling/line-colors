@@ -514,20 +514,6 @@
         ]
     },
     {
-        "shortOperatorName": "mobiel",
-        "contributors": [
-            {
-                "github": "KiloBravoBFE"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan 2023",
-                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "mvv-db-sbm",
         "contributors": [
             {
@@ -2018,6 +2004,9 @@
     {
         "shortOperatorName": "wt-mobiel",
         "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            },
             {
                 "github": "metrophil"
             }

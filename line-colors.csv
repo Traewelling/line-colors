@@ -412,10 +412,6 @@ mitteldeutsche-regiobahn,RE 6,mitteldeutsche-regiobahn,re-6,#9e60a4,#ffffff,,rec
 mitteldeutsche-regiobahn,RB 30,mitteldeutsche-regiobahn,rb-30,#ed9126,#ffffff,,rectangle-rounded-corner
 mitteldeutsche-regiobahn,RB 45,mitteldeutsche-regiobahn,rb-45,#ed694a,#ffffff,,rectangle-rounded-corner
 mitteldeutsche-regiobahn,RB 110,mitteldeutsche-regiobahn,rb-110,#a2cbba,#ffffff,,rectangle-rounded-corner
-mobiel,1,mobiel-gmbh,8-owl031-1,#009fe0,#ffffff,,rectangle
-mobiel,2,mobiel-gmbh,8-owl031-2,#008f36,#ffffff,,rectangle
-mobiel,3,mobiel-gmbh,8-owl031-3,#ffed00,#00264f,,rectangle
-mobiel,4,mobiel-gmbh,8-owl031-4,#e3001b,#ffffff,,rectangle
 mvv-db-sbm,S1,db-regio-ag-s-bahn-munchen,4-800725-1,#1fbce6,#ffffff,,pill
 mvv-db-sbm,S2,db-regio-ag-s-bahn-munchen,4-800725-2,#79b833,#ffffff,,pill
 mvv-db-sbm,S20,db-regio-ag-s-bahn-munchen,4-800725-20,#f05972,#ffffff,,pill
@@ -1976,10 +1972,10 @@ waldbahn-dlb,RB 38,waldbahn-die-landerbahn-gmbh-dlb,wba-rb38,#ff6600,#ffffff,,re
 westfalenbahn,RE 15,westfalenbahn,wfb-re15,#ea9d22,#ffffff,,rectangle
 westfalenbahn,RE 60,westfalenbahn,wfb-re60,#00a3de,#ffffff,,rectangle
 westfalenbahn,RE 70,westfalenbahn,wfb-re70,#005174,#ffffff,,rectangle
-wt-mobiel,1,,8-owl031-1,#009ee0,#ffffff,,rectangle
-wt-mobiel,2,,8-owl031-2,#009037,#ffffff,,rectangle
-wt-mobiel,3,,8-owl031-3,#ffed00,#000000,,rectangle
-wt-mobiel,4,,8-owl031-4,#e2001a,#ffffff,,rectangle
+wt-mobiel,1,mobiel-gmbh,8-owl031-1,#009fe0,#ffffff,,rectangle
+wt-mobiel,2,mobiel-gmbh,8-owl031-2,#008f36,#ffffff,,rectangle
+wt-mobiel,3,mobiel-gmbh,8-owl031-3,#ffed00,#00264f,,rectangle
+wt-mobiel,4,mobiel-gmbh,8-owl031-4,#e3001b,#ffffff,,rectangle
 wt-rvm,R51,,5-vgm023-r51,#006fb9,#ffffff,,rectangle-rounded-corner
 wt-rvm,S50,,5-vgm020-s50,#c24636,#ffffff,,rectangle-rounded-corner
 zvnl-bus,60,,5-naslvb-60,#a61580,#ffffff,,pill
