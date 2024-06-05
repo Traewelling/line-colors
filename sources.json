@@ -2100,5 +2100,19 @@
                 "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
             }
         ]
+    },
+    {
+        "shortOperatorName": "db-regio-ag-baden-wurttemberg",
+        "contributors": [
+            {
+                "github": "nxrvincent"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Regionalverkehr",
+                "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
+            }
+        ]
     }
 ]
