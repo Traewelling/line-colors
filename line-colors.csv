@@ -94,6 +94,12 @@ db-regio-bayern,RE 73,db-regio-ag-bayern,re-73,#e5a05c,#ffffff,,rectangle
 db-regio-bayern,RE 75,db-regio-ag-bayern,re-75,#e50000,#ffffff,,rectangle
 db-regio-bayern,RE 76,db-regio-ag-bayern,re-76,#006629,#ffffff,,rectangle
 db-regio-bayern,RE 79,db-regio-ag-bayern,re-79,#800080,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RE7,db-regio-ag-baden-wurttemberg,re-7,#ED6E19,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB28,db-regio-ag-baden-wurttemberg,rb-28,#724019,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB27,db-regio-ag-baden-wurttemberg,rb-27,#008c3c,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB26,db-regio-ag-baden-wurttemberg,rb-26,#009fe3,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,IRE3,db-regio-ag-baden-wurttemberg,ire-3,#e5007d,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB30,db-regio-ag-baden-wurttemberg,rb-30,#571d70,#ffffff,,rectangle
 db-regio-mitte,RE 40,db-regio-ag-mitte,re-40,#ff9027,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB 41,db-regio-ag-mitte,rb-41,#00ab4f,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB 44,db-regio-ag-mitte,rb-44,#7ac547,#ffffff,,rectangle-rounded-corner
@@ -982,14 +988,14 @@ rmv-vgf-ubahn,U6,,7-rmv255-6,#0082ca,#ffffff,,pill
 rmv-vgf-ubahn,U7,,7-rmv255-7,#f19e2d,#ffffff,,pill
 rmv-vgf-ubahn,U8,,7-rmv255-8,#ca7fbe,#ffffff,,pill
 rmv-vgf-ubahn,U9,,7-rmv255-9,#ffd939,#2c2e35,#2c2e35,pill
-rvf-sbahn,S1,db-regio-ag-baden-wurttemberg,4-8006c6-1,#00569e,#ffffff,,rectangle-rounded-corner
-rvf-sbahn,S1,db-regio-ag-baden-wurttemberg,4-8006c4-1,#00569e,#ffffff,,rectangle-rounded-corner
+rvf-sbahn,S1,db-regio-ag-baden-wurttemberg,4-8006c6-1,#d30630,#ffffff,,rectangle-rounded-corner
+rvf-sbahn,S1,db-regio-ag-baden-wurttemberg,4-8006c4-1,#d30630,#ffffff,,rectangle-rounded-corner
 rvf-sbahn,S2,sweg-sudwestdeutsche-landesverkehrs-gmbh,4-s6-s2,#009e3c,#ffffff,,rectangle-rounded-corner
 rvf-sbahn,S3,sweg-sudwestdeutsche-landesverkehrs-gmbh,4-s6-s3,#e83281,#ffffff,,rectangle-rounded-corner
 rvf-sbahn,S5,sweg-sudwestdeutsche-landesverkehrs-gmbh,4-s6-s5,#ac69a8,#ffffff,,rectangle-rounded-corner
-rvf-sbahn,S10,db-regio-ag-baden-wurttemberg,4-8006c6-10,#008bd2,#ffffff,,rectangle-rounded-corner
-rvf-sbahn,S11,db-regio-ag-baden-wurttemberg,4-8006c6-11,#71cbf4,#ffffff,,rectangle-rounded-corner
-rvf-sbahn,S11,db-regio-ag-baden-wurttemberg,4-8006c4-11,#71cbf4,#ffffff,,rectangle-rounded-corner
+rvf-sbahn,S10,db-regio-ag-baden-wurttemberg,4-8006c6-10,#d30630,#ffffff,,rectangle-rounded-corner
+rvf-sbahn,S11,db-regio-ag-baden-wurttemberg,4-8006c6-11,#f69795,#ffffff,,rectangle-rounded-corner
+rvf-sbahn,S11,db-regio-ag-baden-wurttemberg,4-8006c4-11,#f69795,#ffffff,,rectangle-rounded-corner
 rvf-sweg-sudwest,1,sweg-sudwestdeutsche-landesverkehrs-gmbh,5-swg099-sb1,#a3238e,#ffffff,,rectangle
 rvf-sweg-sudwest,1,sweg-sudwestdeutsche-landesverkehrs-gmbh,9-swg099-1,#a3238e,#ffffff,,rectangle
 rvf-sweg-sudwest,2,sweg-sudwestdeutsche-landesverkehrs-gmbh,5-swg099-sb2,#fab383,#ffffff,,rectangle
