@@ -34,6 +34,12 @@ brb,RB 83,bayerische-regiobahn,brb-rb83,#ffffff,#bf73bf,#bf73bf,rectangle
 brb,RE 5,bayerische-regiobahn,brb-re5,#00416d,#ffffff,,rectangle
 brb,S3,bayerische-regiobahn,4-l8-s3,#2aa335,#ffffff,,pill
 brb,S4,bayerische-regiobahn,4-l8-s4,#a765a2,#ffffff,,pill
+db-regio-ag-baden-wurttemberg,RE7,db-regio-ag-baden-wurttemberg,re-7,#ed6e19,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB28,db-regio-ag-baden-wurttemberg,rb-28,#724019,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB27,db-regio-ag-baden-wurttemberg,rb-27,#008c3c,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB26,db-regio-ag-baden-wurttemberg,rb-26,#009fe3,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,IRE3,db-regio-ag-baden-wurttemberg,ire-3,#e5007d,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB30,db-regio-ag-baden-wurttemberg,rb-30,#571d70,#ffffff,,rectangle
 db-regio-bayern,RB 6,db-regio-ag-bayern,rb-6,#e50000,#ffffff,,rectangle
 db-regio-bayern,RB 10,db-regio-ag-bayern,rb-10,#90bf26,#ffffff,,rectangle
 db-regio-bayern,RB 11,db-regio-ag-bayern,rb-11,#00ace5,#ffffff,,rectangle
@@ -94,12 +100,6 @@ db-regio-bayern,RE 73,db-regio-ag-bayern,re-73,#e5a05c,#ffffff,,rectangle
 db-regio-bayern,RE 75,db-regio-ag-bayern,re-75,#e50000,#ffffff,,rectangle
 db-regio-bayern,RE 76,db-regio-ag-bayern,re-76,#006629,#ffffff,,rectangle
 db-regio-bayern,RE 79,db-regio-ag-bayern,re-79,#800080,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RE7,db-regio-ag-baden-wurttemberg,re-7,#ed6e19,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RB28,db-regio-ag-baden-wurttemberg,rb-28,#724019,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RB27,db-regio-ag-baden-wurttemberg,rb-27,#008c3c,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RB26,db-regio-ag-baden-wurttemberg,rb-26,#009fe3,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,IRE3,db-regio-ag-baden-wurttemberg,ire-3,#e5007d,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RB30,db-regio-ag-baden-wurttemberg,rb-30,#571d70,#ffffff,,rectangle
 db-regio-mitte,RE 40,db-regio-ag-mitte,re-40,#ff9027,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB 41,db-regio-ag-mitte,rb-41,#00ab4f,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB 44,db-regio-ag-mitte,rb-44,#7ac547,#ffffff,,rectangle-rounded-corner
