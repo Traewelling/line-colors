@@ -157,6 +157,9 @@
         "shortOperatorName": "db-regio-sudost",
         "contributors": [
             {
+                "github": "lunas-bad-coding"
+            },
+            {
                 "github": "jeyemwey"
             },
             {
@@ -178,6 +181,10 @@
             {
                 "name": "BEG Liniennetzplan Bayern 2024",
                 "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+            },
+            {
+                "name": "NASA Netzplan - Sachsen-Anhalt",
+                "source": "https://www.mein-takt.de/fileadmin/content/mein-takt/fahrplan/landesnetz/Liniennetzplan_Mein-Takt.pdf"
             }
         ]
     },

@@ -126,6 +126,7 @@ db-regio-nordost,RB31,db-regio-ag-nordost,rb-31,#66aa22,#ffffff,,rectangle
 db-regio-nordost,RB32,db-regio-ag-nordost,rb-32,#697c8a,#ffffff,,rectangle
 db-regio-nordost,RB43,db-regio-ag-nordost,rb-43,#009bd5,#ffffff,,rectangle
 db-regio-nordost,RB49,db-regio-ag-nordost,rb-49,#992746,#ffffff,,rectangle
+db-regio-nordost,RB51,db-regio-ag-nordost,rb-51,#469cd7,#ffffff,,rectangle
 db-regio-nordost,RB55,db-regio-ag-nordost,rb-55,#eb7405,#ffffff,,rectangle
 db-regio-nordost,RB66,db-regio-ag-nordost,rb-66,#007734,#ffffff,,rectangle
 db-regio-nordost,RB92,db-regio-ag-nordost,rb-92,#eb7405,#ffffff,,rectangle
@@ -147,6 +148,7 @@ db-regio-nordost,S2,db-regio-ag-nordost,4-800156-2,#a0138e,#ffffff,,rectangle
 db-regio-nordost,S2X,db-regio-ag-nordost,4-800156-2x,#a0138e,#ffffff,,rectangle
 db-regio-nordost,S3,db-regio-ag-nordost,4-800156-3,#a64c35,#ffffff,,rectangle
 db-regio-sudost,RE 7,db-regio-ag-sudost,re-7,#992e00,#ffffff,,rectangle
+db-regio-sudost,RE13,db-regio-ag-sudost,re-13,#ebaa3b,#ffffff,,rectangle
 db-regio-sudost,RE14,db-regio-ag-sudost,re-14,#a98956,#ffffff,,rectangle
 db-regio-sudost,RE 57,db-regio-ag-sudost,re-57,#992e00,#ffffff,,rectangle
 db-regio-sudost,S1,db-regio-ag-sudost,4-800486-1,#f5de2b,#000000,,pill
