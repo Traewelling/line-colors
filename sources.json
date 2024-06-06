@@ -1493,6 +1493,20 @@
         ]
     },
     {
+        "shortOperatorName": "vos-osnabrueck",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan VOS Osnabrück",
+                "source": "https://www.vos.info/fileadmin/upload_data/Dokumente/Liniennetze/2024/VOS_OS_240205_SLNP_Tag_Web.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrn-regionalbus",
         "contributors": [
             {
