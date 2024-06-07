@@ -126,6 +126,7 @@ db-regio-nordost,RB31,db-regio-ag-nordost,rb-31,#66aa22,#ffffff,,rectangle
 db-regio-nordost,RB32,db-regio-ag-nordost,rb-32,#697c8a,#ffffff,,rectangle
 db-regio-nordost,RB43,db-regio-ag-nordost,rb-43,#009bd5,#ffffff,,rectangle
 db-regio-nordost,RB49,db-regio-ag-nordost,rb-49,#992746,#ffffff,,rectangle
+db-regio-nordost,RB51,db-regio-ag-nordost,rb-51,#469cd7,#ffffff,,rectangle
 db-regio-nordost,RB55,db-regio-ag-nordost,rb-55,#eb7405,#ffffff,,rectangle
 db-regio-nordost,RB66,db-regio-ag-nordost,rb-66,#007734,#ffffff,,rectangle
 db-regio-nordost,RB92,db-regio-ag-nordost,rb-92,#eb7405,#ffffff,,rectangle
@@ -147,6 +148,7 @@ db-regio-nordost,S2,db-regio-ag-nordost,4-800156-2,#a0138e,#ffffff,,rectangle
 db-regio-nordost,S2X,db-regio-ag-nordost,4-800156-2x,#a0138e,#ffffff,,rectangle
 db-regio-nordost,S3,db-regio-ag-nordost,4-800156-3,#a64c35,#ffffff,,rectangle
 db-regio-sudost,RE 7,db-regio-ag-sudost,re-7,#992e00,#ffffff,,rectangle
+db-regio-sudost,RE13,db-regio-ag-sudost,re-13,#ebaa3b,#ffffff,,rectangle
 db-regio-sudost,RE14,db-regio-ag-sudost,re-14,#a98956,#ffffff,,rectangle
 db-regio-sudost,RE 57,db-regio-ag-sudost,re-57,#992e00,#ffffff,,rectangle
 db-regio-sudost,S1,db-regio-ag-sudost,4-800486-1,#f5de2b,#000000,,pill
@@ -407,6 +409,11 @@ lavv-swl,107,,5-swlbus-107,#00b2bb,#ffffff,,rectangle
 lavv-swl,108,,5-swlbus-108,#ffed00,#000000,,rectangle
 lavv-swl,109,,5-swlbus-109,#0b9a33,#ffffff,,rectangle
 lavv-swl,110,,5-swlbus-110,#9d1680,#ffffff,,rectangle
+metronom,RB31,metronom,me-rb31,#752c77,#ffffff,,rectangle
+metronom,RB41,metronom,me-rb41,#5ab078,#ffffff,,rectangle
+metronom,RE2,metronom,me-re2,#a4313a,#ffffff,,rectangle
+metronom,RE3,metronom,me-re3,#f4b556,#ffffff,,rectangle
+metronom,RE4,metronom,me-re4,#5ab078,#ffffff,,rectangle
 mitteldeutsche-regiobahn,RE 3,mitteldeutsche-regiobahn,re-3,#0093d4,#ffffff,,rectangle-rounded-corner
 mitteldeutsche-regiobahn,RE 6,mitteldeutsche-regiobahn,re-6,#9e60a4,#ffffff,,rectangle-rounded-corner
 mitteldeutsche-regiobahn,RB 30,mitteldeutsche-regiobahn,rb-30,#ed9126,#ffffff,,rectangle-rounded-corner

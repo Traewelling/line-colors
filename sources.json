@@ -157,6 +157,9 @@
         "shortOperatorName": "db-regio-sudost",
         "contributors": [
             {
+                "github": "lunas-bad-coding"
+            },
+            {
                 "github": "jeyemwey"
             },
             {
@@ -178,6 +181,10 @@
             {
                 "name": "BEG Liniennetzplan Bayern 2024",
                 "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+            },
+            {
+                "name": "NASA Netzplan - Sachsen-Anhalt",
+                "source": "https://www.mein-takt.de/fileadmin/content/mein-takt/fahrplan/landesnetz/Liniennetzplan_Mein-Takt.pdf"
             }
         ]
     },
@@ -496,6 +503,20 @@
             {
                 "name": "AbendLinie grafisch Tarifzone 100 im LAVV",
                 "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-grafisch-Abendlinie-2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "metronom",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "metronom Netzplan",
+                "source": "https://www.der-metronom.de/media/metronom/downloads/Streckennetz-me-enno-ohne-Fuss-A4-ab-01-2022.pdf"
             }
         ]
     },
