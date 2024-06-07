@@ -500,6 +500,20 @@
         ]
     },
     {
+        "shortOperatorName": "metronom",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "metronom Netzplan",
+                "source": "https://www.der-metronom.de/media/metronom/downloads/Streckennetz-me-enno-ohne-Fuss-A4-ab-01-2022.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mitteldeutsche-regiobahn",
         "contributors": [
             {
