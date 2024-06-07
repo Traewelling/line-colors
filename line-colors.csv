@@ -409,6 +409,11 @@ lavv-swl,107,,5-swlbus-107,#00b2bb,#ffffff,,rectangle
 lavv-swl,108,,5-swlbus-108,#ffed00,#000000,,rectangle
 lavv-swl,109,,5-swlbus-109,#0b9a33,#ffffff,,rectangle
 lavv-swl,110,,5-swlbus-110,#9d1680,#ffffff,,rectangle
+metronom,RB31,metronom,me-rb31,#752c77,#ffffff,,rectangle
+metronom,RB41,metronom,me-rb41,#5ab078,#ffffff,,rectangle
+metronom,RE2,metronom,me-re2,#a4313a,#ffffff,,rectangle
+metronom,RE3,metronom,me-re3,#f4b556,#ffffff,,rectangle
+metronom,RE4,metronom,me-re4,#5ab078,#ffffff,,rectangle
 mitteldeutsche-regiobahn,RE 3,mitteldeutsche-regiobahn,re-3,#0093d4,#ffffff,,rectangle-rounded-corner
 mitteldeutsche-regiobahn,RE 6,mitteldeutsche-regiobahn,re-6,#9e60a4,#ffffff,,rectangle-rounded-corner
 mitteldeutsche-regiobahn,RB 30,mitteldeutsche-regiobahn,rb-30,#ed9126,#ffffff,,rectangle-rounded-corner
