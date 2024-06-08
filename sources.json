@@ -2054,6 +2054,20 @@
         ]
     },
     {
+        "shortOperatorName": "wt-padersprinter",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "PaderSprinter Netzplan",
+                "source": "https://www.padersprinter.de/?wpdmdl=92737"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "wt-rvm",
         "contributors": [
             {
