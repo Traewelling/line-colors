@@ -126,7 +126,6 @@ db-regio-nordost,RB31,db-regio-ag-nordost,rb-31,#66aa22,#ffffff,,rectangle
 db-regio-nordost,RB32,db-regio-ag-nordost,rb-32,#697c8a,#ffffff,,rectangle
 db-regio-nordost,RB43,db-regio-ag-nordost,rb-43,#009bd5,#ffffff,,rectangle
 db-regio-nordost,RB49,db-regio-ag-nordost,rb-49,#992746,#ffffff,,rectangle
-db-regio-nordost,RB51,db-regio-ag-nordost,rb-51,#469cd7,#ffffff,,rectangle
 db-regio-nordost,RB55,db-regio-ag-nordost,rb-55,#eb7405,#ffffff,,rectangle
 db-regio-nordost,RB66,db-regio-ag-nordost,rb-66,#007734,#ffffff,,rectangle
 db-regio-nordost,RB92,db-regio-ag-nordost,rb-92,#eb7405,#ffffff,,rectangle
@@ -147,6 +146,7 @@ db-regio-nordost,S1,db-regio-ag-nordost,4-800156-1,#00a998,#ffffff,,rectangle
 db-regio-nordost,S2,db-regio-ag-nordost,4-800156-2,#a0138e,#ffffff,,rectangle
 db-regio-nordost,S2X,db-regio-ag-nordost,4-800156-2x,#a0138e,#ffffff,,rectangle
 db-regio-nordost,S3,db-regio-ag-nordost,4-800156-3,#a64c35,#ffffff,,rectangle
+db-regio-sudost,RB 51,db-regio-ag-sudost,rb-51,#469cd7,#ffffff,,rectangle
 db-regio-sudost,RE 7,db-regio-ag-sudost,re-7,#992e00,#ffffff,,rectangle
 db-regio-sudost,RE13,db-regio-ag-sudost,re-13,#ebaa3b,#ffffff,,rectangle
 db-regio-sudost,RE14,db-regio-ag-sudost,re-14,#a98956,#ffffff,,rectangle
@@ -1240,6 +1240,7 @@ vbg,RB 2,vogtlandbahn-die-landerbahn-gmbh-dlb,vbg-rb2,#0067b0,#ffffff,,rectangle
 vbg,RB 4,vogtlandbahn-die-landerbahn-gmbh-dlb,vbg-rb4,#954b3f,#ffffff,,rectangle-rounded-corner
 vbg,RB 5,vogtlandbahn-die-landerbahn-gmbh-dlb,vbg-rb5,#009641,#ffffff,,rectangle-rounded-corner
 vbn-bsag,1,bremer-strassenbahn-ag,8-webbtr-1,#00a54f,#ffffff,,rectangle
+vbn-bsag,1E,bremer-strassenbahn-ag,8-webbtr-1e,#00a54f,#ffffff,,rectangle
 vbn-bsag,1S,bremer-strassenbahn-ag,8-webbtr-1s,#00a54f,#ffffff,,rectangle
 vbn-bsag,2,bremer-strassenbahn-ag,8-webbtr-2,#0166b3,#ffffff,,rectangle
 vbn-bsag,3,bremer-strassenbahn-ag,8-webbtr-3,#00aeef,#ffffff,,rectangle
@@ -1248,6 +1249,7 @@ vbn-bsag,4S,bremer-strassenbahn-ag,8-webbtr-4s,#ee1d23,#ffffff,,rectangle
 vbn-bsag,5,bremer-strassenbahn-ag,8-webbtr-5,#00aab8,#ffffff,,rectangle
 vbn-bsag,5S,bremer-strassenbahn-ag,8-webbtr-5s,#00aab8,#ffffff,,rectangle
 vbn-bsag,6,bremer-strassenbahn-ag,8-webbtr-6,#feca0a,#000000,,rectangle
+vbn-bsag,6E,bremer-strassenbahn-ag,8-webbtr-6e,#feca0a,#000000,,rectangle
 vbn-bsag,8,bremer-strassenbahn-ag,8-webbtr-8,#8bc63e,#ffffff,,rectangle
 vbn-bsag,10,bremer-strassenbahn-ag,8-webbtr-10,#15258e,#ffffff,,rectangle
 vbn-bsag,20,,5-webbbu-20,#8bc63e,#ffffff,,pill
@@ -1277,7 +1279,7 @@ vbn-bsag,58,,5-webbbu-58,#ef7d00,#ffffff,,pill
 vbn-bsag,61,,5-webbbu-61,#009fe3,#ffffff,,pill
 vbn-bsag,62,,5-webbbu-62,#009640,#ffffff,,pill
 vbn-bsag,63,,5-webbbu-63,#312783,#ffffff,,pill
-vbn-bsag,63S,,5-webbbu-63s,#312783,#ffffff,,pill
+vbn-bsag,63S,,5-webvol-63s,#312783,#ffffff,,pill
 vbn-bsag,65,,5-webbbu-65,#94c01f,#ffffff,,pill
 vbn-bsag,66,,5-webbbu-66,#94c01f,#ffffff,,pill
 vbn-bsag,80,,5-webbbu-80,#94c01f,#ffffff,,pill
