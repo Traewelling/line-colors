@@ -118,6 +118,9 @@
             },
             {
                 "github": "klukas144"
+            },
+            {
+                "github": "nxrvincent"
             }
         ],
         "sources": [
@@ -128,6 +131,14 @@
             {
                 "name": "Streckenkarte Main-Neckar-Ried-Express",
                 "source": "https://assets.static-bahn.de/dam/jcr:27c125bc-7bab-4eae-88c6-08d18285b46b/20220222_SK_MNR.pdf"
+            },
+            {
+                "name": "Liniennetzplan bwegt",
+                "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
+            },
+            {
+                "name": "Liniennetzplan Rheinland-Pfalz",
+                "source": "https://www.rolph.de/fileadmin/user_upload/Liniennetzplan_Rheinland-Pfalz_02-2024.pdf"
             }
         ]
     },
@@ -659,12 +670,19 @@
         "contributors": [
             {
                 "github": "metrophil"
+            },
+            {
+                "github": "nxrvincent"
             }
         ],
         "sources": [
              {
                 "name": "Schienennetz RVF [PDF]",
                 "source": "https://www.rvf.de/fileadmin/user_upload/techdocs/linien-zonen/schienennetz/rvf_24_schienennetz_web.pdf"
+            },
+            {
+                "name": "Liniennetzplan bwegt",
+                "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
             }
         ]
     },
@@ -673,12 +691,19 @@
         "contributors": [
             {
                 "github": "oneiricbotcelot"
+            },
+            {
+                "github": "nxrvincent"
             }
         ],
         "sources": [
             {
                 "name": "RVF Linienplan Emmendingen 2023",
                 "source": "https://www.rvf.de/fileadmin/user_upload/techdocs/linien-zonen/teilnetzplan-staedte/rvf_23_lp_emmendingen_web.pdf"
+            },
+            {
+                "name": "Liniennetzplan bwegt",
+                "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
             }
         ]
     },
@@ -2148,8 +2173,12 @@
         ],
         "sources": [
             {
-                "name": "Liniennetzplan Regionalverkehr",
+                "name": "Liniennetzplan bwegt",
                 "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
+            },
+            {
+                "name": "Liniennetzplan Rheinland-Pfalz",
+                "source": "https://www.rolph.de/fileadmin/user_upload/Liniennetzplan_Rheinland-Pfalz_02-2024.pdf"
             }
         ]
     }
