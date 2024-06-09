@@ -119,8 +119,10 @@ db-regio-nordost,RB18,db-regio-ag-nordost,3-800156-18,#399fdf,#ffffff,,rectangle
 db-regio-nordost,RB20,db-regio-ag-nordost,3-800165-20,#007734,#ffffff,,rectangle
 db-regio-nordost,RB21,db-regio-ag-nordost,3-800165-21,#501689,#ffffff,,rectangle
 db-regio-nordost,RB22,db-regio-ag-nordost,3-800165-22,#009bd5,#ffffff,,rectangle
-db-regio-nordost,RB23,db-regio-ag-nordost,3-800153-23,#eb7405,#ffffff,,rectangle
-db-regio-nordost,RB24,db-regio-ag-nordost,3-800153-24,#da6ba2,#ffffff,,rectangle
+db-regio-nordost,RB23,db-regio-ag-nordost,3-800165-23,#eb7405,#ffffff,,rectangle
+db-regio-nordost,RB23,db-regio-ag-nordost,3-800153-23,#0066ad,#ffffff,,rectangle
+db-regio-nordost,RB24,db-regio-ag-nordost,3-800165-24,#da6ba2,#ffffff,,rectangle
+db-regio-nordost,RB24,db-regio-ag-nordost,3-800153-24,#e2001a,#ffffff,,rectangle
 db-regio-nordost,RB25,db-regio-ag-nordost,3-800163-25,#00a998,#ffffff,,rectangle
 db-regio-nordost,RB31,db-regio-ag-nordost,3-800159-31,#66aa22,#ffffff,,rectangle
 db-regio-nordost,RB32,db-regio-ag-nordost,3-800165-32,#697c8a,#ffffff,,rectangle
