@@ -34,6 +34,7 @@ brb,RB 83,bayerische-regiobahn,brb-rb83,#ffffff,#bf73bf,#bf73bf,rectangle
 brb,RE 5,bayerische-regiobahn,brb-re5,#00416d,#ffffff,,rectangle
 brb,S3,bayerische-regiobahn,4-l8-s3,#2aa335,#ffffff,,pill
 brb,S4,bayerische-regiobahn,4-l8-s4,#a765a2,#ffffff,,pill
+db-regio-ag-baden-wurttemberg,RE2,db-regio-ag-baden-wurttemberg,re-2,#0069b4,#ffffff,,rectangle
 db-regio-ag-baden-wurttemberg,RE7,db-regio-ag-baden-wurttemberg,re-7,#ed6e19,#ffffff,,rectangle
 db-regio-ag-baden-wurttemberg,RB28,db-regio-ag-baden-wurttemberg,rb-28,#724019,#ffffff,,rectangle
 db-regio-ag-baden-wurttemberg,RB27,db-regio-ag-baden-wurttemberg,rb-27,#008c3c,#ffffff,,rectangle
@@ -100,6 +101,11 @@ db-regio-bayern,RE 73,db-regio-ag-bayern,re-73,#e5a05c,#ffffff,,rectangle
 db-regio-bayern,RE 75,db-regio-ag-bayern,re-75,#e50000,#ffffff,,rectangle
 db-regio-bayern,RE 76,db-regio-ag-bayern,re-76,#006629,#ffffff,,rectangle
 db-regio-bayern,RE 79,db-regio-ag-bayern,re-79,#800080,#ffffff,,rectangle
+db-regio-mitte,RE 1,db-regio-ag-mitte,3-800640-1,#be1b40,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RE 6,db-regio-ag-mitte,3-8005l2-6,#f15921,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RB 45,db-regio-ag-mitte,3-8015a6-45,#8bc63f,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RB 51,db-regio-ag-mitte,3-800520-51,#00805f,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RB 53,db-regio-ag-mitte,3-800520-53,#40ae49,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RE 40,db-regio-ag-mitte,re-40,#ff9027,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB 41,db-regio-ag-mitte,rb-41,#00ab4f,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB 44,db-regio-ag-mitte,rb-44,#7ac547,#ffffff,,rectangle-rounded-corner
@@ -999,9 +1005,9 @@ rmv-vgf-ubahn,U8,,7-rmv255-8,#ca7fbe,#ffffff,,pill
 rmv-vgf-ubahn,U9,,7-rmv255-9,#ffd939,#2c2e35,#2c2e35,pill
 rvf-sbahn,S1,db-regio-ag-baden-wurttemberg,4-8006c6-1,#d30630,#ffffff,,rectangle-rounded-corner
 rvf-sbahn,S1,db-regio-ag-baden-wurttemberg,4-8006c4-1,#d30630,#ffffff,,rectangle-rounded-corner
-rvf-sbahn,S2,sweg-sudwestdeutsche-landesverkehrs-gmbh,4-s6-s2,#009e3c,#ffffff,,rectangle-rounded-corner
-rvf-sbahn,S3,sweg-sudwestdeutsche-landesverkehrs-gmbh,4-s6-s3,#e83281,#ffffff,,rectangle-rounded-corner
-rvf-sbahn,S5,sweg-sudwestdeutsche-landesverkehrs-gmbh,4-s6-s5,#ac69a8,#ffffff,,rectangle-rounded-corner
+rvf-sbahn,S2,sweg-sudwestdeutsche-landesverkehrs-gmbh,4-s6-s2,#afca0b,#ffffff,,rectangle-rounded-corner
+rvf-sbahn,S3,sweg-sudwestdeutsche-landesverkehrs-gmbh,4-s6-s3,#b15a9e,#ffffff,,rectangle-rounded-corner
+rvf-sbahn,S5,sweg-sudwestdeutsche-landesverkehrs-gmbh,4-s6-s5,#0069b4,#ffffff,,rectangle-rounded-corner
 rvf-sbahn,S10,db-regio-ag-baden-wurttemberg,4-8006c6-10,#d30630,#ffffff,,rectangle-rounded-corner
 rvf-sbahn,S11,db-regio-ag-baden-wurttemberg,4-8006c6-11,#f69795,#ffffff,,rectangle-rounded-corner
 rvf-sbahn,S11,db-regio-ag-baden-wurttemberg,4-8006c4-11,#f69795,#ffffff,,rectangle-rounded-corner
@@ -1129,7 +1135,11 @@ sweg-sudwest,RB 66,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb66,#014f9f,#ff
 sweg-sudwest,RB 67,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb67,#00a9df,#ffffff,,rectangle
 sweg-sudwest,RB 68,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb68,#ec2933,#ffffff,,rectangle
 sweg-sudwest,RB 69,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb69,#f27320,#ffffff,,rectangle
-tlx,L2,trilex-die-landerbahn-gmbh-dlb,tl-l2,#0f7ec0,#ffffff,,rectangle-rounded-corner
+sweg-sudwest,RB25,sweg-sudwestdeutsche-landesverkehrs-gmbh,3-s6-rb25,#b6931d,#ffffff,,rectangle
+sweg-sudwest,RB20,sweg-sudwestdeutsche-landesverkehrs-gmbh,3-s6-rb20,#d30630,#ffffff,,rectangle
+sweg-sudwest,RB24,sweg-sudwestdeutsche-landesverkehrs-gmbh,3-s6-rb24,#afca0b,#ffffff,,rectangle
+sweg-sudwest,RB22,sweg-sudwestdeutsche-landesverkehrs-gmbh,3-s6-rb22,#b15a9e,#ffffff,,rectangle
+tlx,RB 3-s6-rb20,trilex-die-landerbahn-gmbh-dlb,tl-l2,#0f7ec0,#ffffff,,rectangle-rounded-corner
 tlx,L24,trilex-die-landerbahn-gmbh-dlb,tl-l24,#6eae47,#ffffff,,rectangle-rounded-corner
 tlx,L4,trilex-die-landerbahn-gmbh-dlb,tl-l4,#242320,#ffffff,,rectangle-rounded-corner
 tlx,L7,trilex-die-landerbahn-gmbh-dlb,tl-l7,#ea7b09,#ffffff,,rectangle-rounded-corner
