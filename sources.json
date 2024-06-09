@@ -2148,9 +2148,12 @@
         ],
         "sources": [
             {
-                "name": "Liniennetzplan Regionalverkehr",
+                "name": "Liniennetzplan bwegt",
                 "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
-            }
+            },
+            {
+                "name" "Liniennetzplan Rheinland-Pfalz",
+                "source": "https://www.rolph.de/fileadmin/user_upload/Liniennetzplan_Rheinland-Pfalz_02-2024.pdf"
         ]
     }
 ]
