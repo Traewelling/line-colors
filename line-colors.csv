@@ -423,6 +423,16 @@ lavv-swl,107,,5-swlbus-107,#00b2bb,#ffffff,,rectangle
 lavv-swl,108,,5-swlbus-108,#ffed00,#000000,,rectangle
 lavv-swl,109,,5-swlbus-109,#0b9a33,#ffffff,,rectangle
 lavv-swl,110,,5-swlbus-110,#9d1680,#ffffff,,rectangle
+mdv-swh-havag,1,,8-nashat-1,#f4b84f,#ffffff,,rectangle
+mdv-swh-havag,2,,8-nashat-2,#ee843e,#ffffff,,rectangle
+mdv-swh-havag,3,,8-nashat-3,#469cd8,#ffffff,,rectangle
+mdv-swh-havag,5,,8-nashat-5,#1d459f,#ffffff,,rectangle
+mdv-swh-havag,7,,8-nashat-7,#ea67aa,#ffffff,,rectangle
+mdv-swh-havag,8,,8-nashat-8,#7e471e,#ffffff,,rectangle
+mdv-swh-havag,9,,8-nashat-9,#a7b150,#ffffff,,rectangle
+mdv-swh-havag,10,,8-nashat-10,#3d682d,#ffffff,,rectangle
+mdv-swh-havag,12,,8-nashat-12,#96c75a,#ffffff,,rectangle
+mdv-swh-havag,16,,8-nashat-12,#a13671,#ffffff,,rectangle
 metronom,RB31,metronom,me-rb31,#752c77,#ffffff,,rectangle
 metronom,RB41,metronom,me-rb41,#5ab078,#ffffff,,rectangle
 metronom,RE2,metronom,me-re2,#a4313a,#ffffff,,rectangle
