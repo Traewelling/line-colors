@@ -518,6 +518,20 @@
         ]
     },
     {
+        "shortOperatorName": "mdv-swh-havag",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "SWH HAVAG Tagesnetzplan",
+                "source": "https://havag.com/69103?240516_LNP_Tag_BM_Pesta.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "metronom",
         "contributors": [
             {
