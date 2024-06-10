@@ -561,17 +561,17 @@ neb-niederbarnimer-eisenbahn,RB61,neb-niederbarnimer-eisenbahn,3-nbrb61-61,#9927
 neb-niederbarnimer-eisenbahn,RB62,neb-niederbarnimer-eisenbahn,3-nbrb62-62,#da6ba2,#ffffff,,rectangle
 neb-niederbarnimer-eisenbahn,RB63,neb-niederbarnimer-eisenbahn,3-nbrb63-63,#ffd502,#000000,,rectangle
 neb-niederbarnimer-eisenbahn,TES,neb-niederbarnimer-eisenbahn,3-nb-tes,#d70000,#ffffff,,rectangle
-nrw-regional,RRX 1,national-express,3-nxre-1,#ff2d16,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 1 (RRX),national-express,3-nxre-1,#ff2d16,#ffffff,,rectangle-rounded-corner
 nrw-regional,RE 2,db-regio-ag-nrw,re-2,#00b8f1,#ffffff,,rectangle-rounded-corner
 nrw-regional,RE 3,eurobahn,3-r2re-3,#e46e25,#ffffff,,rectangle-rounded-corner
 nrw-regional,RE 4,national-express,3-nxre-4,#e88f24,#ffffff,,rectangle-rounded-corner
-nrw-regional,RRX 5,national-express,3-nxre-5,#0182ba,#ffffff,,rectangle-rounded-corner
-nrw-regional,RRX 6 ,national-express,3-nxre-6,#9e2a96,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 5 (RRX),national-express,3-nxre-5,#0182ba,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 6 (RRX),national-express,3-nxre-6,#9e2a96,#ffffff,,rectangle-rounded-corner
 nrw-regional,RE 7,national-express,3-nxre-7,#052e69,#ffffff,,rectangle-rounded-corner
 nrw-regional,RE 8,db-regio-ag-nrw,re-8,#006bbb,#ffffff,,rectangle-rounded-corner
 nrw-regional,RE 9,db-regio-ag-nrw,re-9,#401446,#ffffff,,rectangle-rounded-corner
 nrw-regional,RE 10,rheinruhrbahn-transdev,rrb-re10,#e66caf,#ffffff,,rectangle-rounded-corner
-nrw-regional,RRX 11,national-express,3-nxre-11,#5accc2,#ffffff,,rectangle-rounded-corner
+nrw-regional,RE 11 (RRX),national-express,3-nxre-11,#5accc2,#ffffff,,rectangle-rounded-corner
 nrw-regional,RE 12,db-regio-ag-nrw,re-12,#ad294c,#ffffff,,rectangle-rounded-corner
 nrw-regional,RE 13,eurobahn,3-r2re-13,#7f5c1e,#ffffff,,rectangle-rounded-corner
 nrw-regional,RE 14,rheinruhrbahn-transdev,rrb-re14,#003328,#ffffff,,rectangle-rounded-corner
