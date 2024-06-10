@@ -34,13 +34,13 @@ brb,RB 83,bayerische-regiobahn,brb-rb83,#ffffff,#bf73bf,#bf73bf,rectangle
 brb,RE 5,bayerische-regiobahn,brb-re5,#00416d,#ffffff,,rectangle
 brb,S3,bayerische-regiobahn,4-l8-s3,#2aa335,#ffffff,,pill
 brb,S4,bayerische-regiobahn,4-l8-s4,#a765a2,#ffffff,,pill
-db-regio-ag-baden-wurttemberg,RE2,db-regio-ag-baden-wurttemberg,re-2,#0069b4,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RE7,db-regio-ag-baden-wurttemberg,re-7,#ed6e19,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RB28,db-regio-ag-baden-wurttemberg,rb-28,#724019,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RB27,db-regio-ag-baden-wurttemberg,rb-27,#008c3c,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RB26,db-regio-ag-baden-wurttemberg,rb-26,#009fe3,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,IRE3,db-regio-ag-baden-wurttemberg,ire-3,#e5007d,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RB30,db-regio-ag-baden-wurttemberg,rb-30,#571d70,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB26,db-regio-ag-baden-wurttemberg,3-8006c4-26,#009fe3,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB27,db-regio-ag-baden-wurttemberg,3-8006c4-27,#008c3c,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB28,db-regio-ag-baden-wurttemberg,3-8006c4-28,#724019,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RE2,db-regio-ag-baden-wurttemberg,3-800647-2,#0069b4,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RE7,db-regio-ag-baden-wurttemberg,3-8006c5-7,#ed6e19,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,IRE3,db-regio-ag-baden-wurttemberg,3-800693-3,#e5007d,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB30,db-regio-ag-baden-wurttemberg,3-800631-30,#571d70,#ffffff,,rectangle
 db-regio-bayern,RB 6,db-regio-ag-bayern,rb-6,#e50000,#ffffff,,rectangle
 db-regio-bayern,RB 10,db-regio-ag-bayern,rb-10,#90bf26,#ffffff,,rectangle
 db-regio-bayern,RB 11,db-regio-ag-bayern,rb-11,#00ace5,#ffffff,,rectangle
@@ -109,7 +109,7 @@ db-regio-mitte,RB51,db-regio-ag-mitte,3-800520-51,#00805f,#ffffff,,rectangle-rou
 db-regio-mitte,RB53,db-regio-ag-mitte,3-800520-53,#40ae49,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB55,db-regio-ag-mitte,3-800520-55,#005824,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RE40,db-regio-ag-mitte,re-40,#ff9027,#ffffff,,rectangle-rounded-corner
-db-regio-mitte,RB41,db-regio-ag-mitte,rb-41,#00ab4f,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RB41,db-regio-ag-mitte,3-800571-41,#00ab4f,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB44,db-regio-ag-mitte,rb-44,#7ac547,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RE45,db-regio-ag-mitte,re-45,#cf631a,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RE60,db-regio-ag-mitte,re-60,#d03831,#ffffff,,rectangle-rounded-corner
@@ -219,11 +219,11 @@ dwe-dessau,DWE,dessau-worlitzer-eisenbahn,dwe,#ffffff,#000000,#000000,rectangle
 erfurter-bahn,RB 13,erfurter-bahn-gmbh,rb-13,#24b27d,#ffffff,,rectangle
 erfurter-bahn,RB 40,erfurter-bahn-gmbh,rb-40,#24b27d,#ffffff,,rectangle
 erfurter-bahn,RB 50,erfurter-bahn-gmbh,rb-50,#24b27d,#ffffff,,rectangle
-gabw,IRE 1,go-ahead-baden-wurttemberg-gmbh,ire-1,#88c946,#ffffff,,rectangle
-gabw,MEX 13,go-ahead-baden-wurttemberg-gmbh,mex-13,#00b9f2,#ffffff,,rectangle
-gabw,MEX 16,go-ahead-baden-wurttemberg-gmbh,mex-16,#0073c0,#ffffff,,rectangle
-gabw,RE 8,go-ahead-baden-wurttemberg-gmbh,re-8,#b350a8,#ffffff,,rectangle
-gabw,RE 90,go-ahead-baden-wurttemberg-gmbh,re-90,#fd3083,#ffffff,,rectangle
+gabw,IRE 1,go-ahead-baden-wurttemberg-gmbh,3-gaire-1,#88c946,#ffffff,,rectangle
+gabw,MEX 13,go-ahead-baden-wurttemberg-gmbh,3-gamex-13,#00b9f2,#ffffff,,rectangle
+gabw,MEX 16,go-ahead-baden-wurttemberg-gmbh,3-gamex-16,#0073c0,#ffffff,,rectangle
+gabw,RE 8,go-ahead-baden-wurttemberg-gmbh,3-gare-8,#b350a8,#ffffff,,rectangle
+gabw,RE 90,go-ahead-baden-wurttemberg-gmbh,3-gare-90,#fd3083,#ffffff,,rectangle
 gaby,RB86,go-ahead-bayern-gmbh,rb-86,#77aed2,#ffffff,,rectangle
 gaby,RB87,go-ahead-bayern-gmbh,rb-87,#77aed2,#ffffff,,rectangle
 gaby,RB89,go-ahead-bayern-gmbh,rb-89,#006da7,#ffffff,,rectangle
@@ -1131,22 +1131,22 @@ svv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1451275-5318936,#3ab048,#ffffff,
 svv-slb,R33,salzburger-lokalbahnen,,#c22438,#ffffff,,rectangle-rounded-corner
 svv-slb,S1,salzburger-lokalbahnen,4-810007-1,#c22438,#ffffff,,rectangle-rounded-corner
 svv-slb,S11,salzburger-lokalbahnen,4-810007-11,#c22438,#ffffff,,rectangle-rounded-corner
-sweg-stuttgart,IRE 6,sweg-bahn-stuttgart-gmbh,ire-6,#ebaf2d,#ffffff,,rectangle
-sweg-stuttgart,MEX 12,sweg-bahn-stuttgart-gmbh,mex-12,#f27320,#ffffff,,rectangle
-sweg-stuttgart,MEX 17a,sweg-bahn-stuttgart-gmbh,mex-17a,#00a9df,#ffffff,,rectangle
-sweg-stuttgart,MEX 17c,sweg-bahn-stuttgart-gmbh,mex-17c,#ec2933,#ffffff,,rectangle
-sweg-stuttgart,MEX 18,sweg-bahn-stuttgart-gmbh,mex-18,#009c48,#ffffff,,rectangle
-sweg-stuttgart,RB 17a,sweg-bahn-stuttgart-gmbh,rb-17a,#00a9df,#ffffff,,rectangle
-sweg-stuttgart,RB 17c,sweg-bahn-stuttgart-gmbh,rb-17c,#ec2933,#ffffff,,rectangle
-sweg-stuttgart,RB 18,sweg-bahn-stuttgart-gmbh,rb-18,#009c48,#ffffff,,rectangle
-sweg-stuttgart,RE 10a,sweg-bahn-stuttgart-gmbh,re-10a,#014f9f,#ffffff,,rectangle
-sweg-stuttgart,RE 10b,sweg-bahn-stuttgart-gmbh,re-10b,#014f9f,#ffffff,,rectangle
-sweg-stuttgart,RE 17b,sweg-bahn-stuttgart-gmbh,re-17b,#7db83f,#ffffff,,rectangle
-sweg-sudwest,RB 59a,sweg-sudwestdeutsche-landesverkehrs-gmbh,swerb59a,#ffc734,#ffffff,,rectangle
-sweg-sudwest,RB 66,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb66,#014f9f,#ffffff,,rectangle
-sweg-sudwest,RB 67,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb67,#00a9df,#ffffff,,rectangle
-sweg-sudwest,RB 68,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb68,#ec2933,#ffffff,,rectangle
-sweg-sudwest,RB 69,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb69,#f27320,#ffffff,,rectangle
+sweg-stuttgart,IRE 6,sweg-bahn-stuttgart-gmbh,3-sbsire-6,#ebaf2d,#ffffff,,rectangle
+sweg-stuttgart,MEX 12,sweg-bahn-stuttgart-gmbh,3-sbsmex-12,#f27320,#ffffff,,rectangle
+sweg-stuttgart,MEX 17a,sweg-bahn-stuttgart-gmbh,3-sbsmex-17a,#00a9df,#ffffff,,rectangle
+sweg-stuttgart,MEX 17c,sweg-bahn-stuttgart-gmbh,3-sbsmex-17c,#ec2933,#ffffff,,rectangle
+sweg-stuttgart,MEX 18,sweg-bahn-stuttgart-gmbh,3-sbsmex-18,#009c48,#ffffff,,rectangle
+sweg-stuttgart,RB 17a,sweg-bahn-stuttgart-gmbh,3-sbsrb-17a,#00a9df,#ffffff,,rectangle
+sweg-stuttgart,RB 17c,sweg-bahn-stuttgart-gmbh,3-sbsrb-17c,#ec2933,#ffffff,,rectangle
+sweg-stuttgart,RB 18,sweg-bahn-stuttgart-gmbh,3-sbsrb-18,#009c48,#ffffff,,rectangle
+sweg-stuttgart,RE 10a,sweg-bahn-stuttgart-gmbh,3-sbsre-10a,#014f9f,#ffffff,,rectangle
+sweg-stuttgart,RE 10b,sweg-bahn-stuttgart-gmbh,3-sbsre-10b,#014f9f,#ffffff,,rectangle
+sweg-stuttgart,RE 17b,sweg-bahn-stuttgart-gmbh,3-sbsre-17b,#7db83f,#ffffff,,rectangle
+sweg-sudwest,RB 59a,sweg-sudwestdeutsche-landesverkehrs-gmbh,3-s6-rb59a,#ffc734,#ffffff,,rectangle
+sweg-sudwest,RB 66,sweg-sudwestdeutsche-landesverkehrs-gmbh,3-s6-rb66,#014f9f,#ffffff,,rectangle
+sweg-sudwest,RB 67,sweg-sudwestdeutsche-landesverkehrs-gmbh,3-s6-rb67,#00a9df,#ffffff,,rectangle
+sweg-sudwest,RB 68,sweg-sudwestdeutsche-landesverkehrs-gmbh,3-s6-rb68,#ec2933,#ffffff,,rectangle
+sweg-sudwest,RB 69,sweg-sudwestdeutsche-landesverkehrs-gmbh,3-s6-rb69,#f27320,#ffffff,,rectangle
 sweg-sudwest,RB25,sweg-sudwestdeutsche-landesverkehrs-gmbh,3-s6-rb25,#b6931d,#ffffff,,rectangle
 sweg-sudwest,RB20,sweg-sudwestdeutsche-landesverkehrs-gmbh,3-s6-rb20,#d30630,#ffffff,,rectangle
 sweg-sudwest,RB24,sweg-sudwestdeutsche-landesverkehrs-gmbh,3-s6-rb24,#afca0b,#ffffff,,rectangle
