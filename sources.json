@@ -4,6 +4,9 @@
         "contributors": [
             {
                 "github": "verbuchselt"
+            },
+            {
+                "github": "Nagiphaaa"
             }
         ],
         "sources": [
@@ -77,6 +80,9 @@
             },
             {
                 "github": "verbuchselt"
+            },
+            {
+                "github": "Nagiphaaa"
             }
         ],
         "sources": [
@@ -87,6 +93,41 @@
             {
                 "name": "BEG Liniennetzplan Bayern 2024",
                 "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "db-fernverkehr-ag",
+        "contributors": [
+            {
+                "github": "Nagiphaaa"
+            }
+        ],
+        "sources": [
+            {
+                "name": "ICE/IC Liniennetz 2024",
+                "source": "https://assets.static-bahn.de/dam/jcr:a2ed983a-36e1-4533-a4ee-8b85daf684c2/231127_Liniennetz%20ICE%20IC%202024.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "db-regio-ag-baden-wurttemberg",
+        "contributors": [
+            {
+                "github": "nxrvincent"
+            },
+            {
+                "github": "Nagiphaaa"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan bwegt",
+                "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
+            },
+            {
+                "name": "Liniennetzplan Rheinland-Pfalz",
+                "source": "https://www.rolph.de/fileadmin/user_upload/Liniennetzplan_Rheinland-Pfalz_02-2024.pdf"
             }
         ]
     },
@@ -302,6 +343,9 @@
         "contributors": [
             {
                 "github": "jheubuch"
+            },
+            {
+                "github": "Nagiphaaa"
             }
         ],
         "sources": [
@@ -514,6 +558,20 @@
             {
                 "name": "AbendLinie grafisch Tarifzone 100 im LAVV",
                 "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-grafisch-Abendlinie-2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "mdv-swh-havag",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "SWH HAVAG Tagesnetzplan",
+                "source": "https://havag.com/69103?240516_LNP_Tag_BM_Pesta.pdf"
             }
         ]
     },
@@ -747,12 +805,18 @@
         "contributors": [
             {
                 "github": "metrophil"
+            },
+            {
+                "github": "lunas-bad-coding"
+            },
+            {
+                "github": "marhei"
             }
         ],
         "sources": [
             {
                 "name": "NRW-Fahrplanbuch 2024",
-                "source": "https://www.vrs.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MDE3OTA4MTcsImV4cCI6MTcwMTgyMDgwMCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vRGF0ZWllbi9Eb3dubG9hZGNlbnRlci9GYWhycGxhbm1lZGllbi9OUldfRmFocnBsYW4yMDI0LlBERiIsInBhZ2UiOjEwODZ9.G9r0FkuaYSG-eIyqkKUkS_3HCX_FuVVE0C5ZV6Yf2nM/NRW_Fahrplan2024.PDF"
+                "source": "https://www.vrs.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTgwMDk4ODMsImV4cCI6MTcxODA1NjY4MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vRGF0ZWllbi9Eb3dubG9hZGNlbnRlci9GYWhycGxhbm1lZGllbi9OUldfRmFocnBsYW4yMDI0Xy5QREYiLCJwYWdlIjoxMDg2fQ.eqeSLrc-3uV-VsOrh4aTvIRNBDyLYXeh6kwBMD_znPo/NRW_Fahrplan2024_.PDF"
             }
         ]
     },
@@ -1928,12 +1992,19 @@
         "contributors": [
             {
                 "github": "jheubuch"
+            },
+            {
+                "github": "Nagiphaaa"
             }
         ],
         "sources": [
             {
                 "name": "Netzplan S-Bahn Stuttgart",
                 "source": "https://download.vvs.de/SBahn_Liniennetz.pdf"
+            },
+            {
+                "name": "Liniennetzplan bwegt",
+                "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
             }
         ]
     },
@@ -2189,24 +2260,6 @@
             {
                 "name": "Netzplan",
                 "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "db-regio-ag-baden-wurttemberg",
-        "contributors": [
-            {
-                "github": "nxrvincent"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan bwegt",
-                "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
-            },
-            {
-                "name": "Liniennetzplan Rheinland-Pfalz",
-                "source": "https://www.rolph.de/fileadmin/user_upload/Liniennetzplan_Rheinland-Pfalz_02-2024.pdf"
             }
         ]
     }
