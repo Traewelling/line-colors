@@ -1511,6 +1511,34 @@
         ]
     },
     {
+        "shortOperatorName": "vmt-jena-bus",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Jena",
+                "source": "https://www.stadtwerke-jena.de/dam/jcr:05b477be-daab-48d5-87ea-f1776d8cd747/Netzplan_Jena_A4_web_2024.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vmt-jena-tram",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Jena",
+                "source": "https://www.stadtwerke-jena.de/dam/jcr:05b477be-daab-48d5-87ea-f1776d8cd747/Netzplan_Jena_A4_web_2024.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vor-oebb",
         "contributors": [
             {
