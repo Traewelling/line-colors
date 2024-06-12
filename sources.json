@@ -562,6 +562,20 @@
         ]
     },
     {
+        "shortOperatorName": "mdv-lvb",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "LVB Leipzig Liniennetzplan",
+                "source": "https://files.l.de/lde-typo3/default_backend_upload/LVB-Liniennetzplan-Tag-ab-03-01-24.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mdv-swh-havag",
         "contributors": [
             {
