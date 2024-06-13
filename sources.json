@@ -618,6 +618,20 @@
         ]
     },
     {
+        "shortOperatorName": "mvb-magdeburg",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "MVB Tagesnetz",
+                "source": "https://www.mvbnet.de//files/2024/03/Web_A3-Netzplan-MVB_Maerz2024.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mvv-db-sbm",
         "contributors": [
             {

@@ -466,6 +466,28 @@ mitteldeutsche-regiobahn,RE 6,mitteldeutsche-regiobahn,re-6,#9e60a4,#ffffff,,rec
 mitteldeutsche-regiobahn,RB 30,mitteldeutsche-regiobahn,rb-30,#ed9126,#ffffff,,rectangle-rounded-corner
 mitteldeutsche-regiobahn,RB 45,mitteldeutsche-regiobahn,rb-45,#ed694a,#ffffff,,rectangle-rounded-corner
 mitteldeutsche-regiobahn,RB 110,mitteldeutsche-regiobahn,rb-110,#a2cbba,#ffffff,,rectangle-rounded-corner
+mvb-magdeburg,51,,5-nasmbb-51,#38529b,#ffffff,,pill
+mvb-magdeburg,52,,5-nasmbb-52,#e8a038,#ffffff,,pill
+mvb-magdeburg,53,,5-nasmbb-53,#f7ce46,#000000,,pill
+mvb-magdeburg,54,,5-nasmbb-54,#86b645,#ffffff,,pill
+mvb-magdeburg,56,,5-nasmbb-56,#d5bf3f,#ffffff,,pill
+mvb-magdeburg,57,,5-nasmbb-57,#cc2b7c,#ffffff,,pill
+mvb-magdeburg,58,,5-nasmbb-58,#44989b,#ffffff,,pill
+mvb-magdeburg,59,,5-nasmbb-59,#2b6552,#ffffff,,pill
+mvb-magdeburg,61,,5-nasmbb-61,#3880b9,#ffffff,,pill
+mvb-magdeburg,66,,5-nasmbb-66,#a33f1d,#ffffff,,pill
+mvb-magdeburg,69,,5-nasmbb-69,#43287e,#ffffff,,pill
+mvb-magdeburg,71,,5-nasmbb-71,#c32e37,#ffffff,,pill
+mvb-magdeburg,72,,5-nasmbb-72,#38529b,#ffffff,,pill
+mvb-magdeburg,73,,5-nasmbb-73,#383a33,#ffffff,,pill
+mvb-magdeburg,1,,8-nasmbt-1,#b72c5d,#ffffff,,rectangle
+mvb-magdeburg,2,,8-nasmbt-2,#38529b,#ffffff,,rectangle
+mvb-magdeburg,3,,8-nasmbt-3,#f7ce46,#000000,,rectangle
+mvb-magdeburg,4,,8-nasmbt-4,#86b645,#ffffff,,rectangle
+mvb-magdeburg,5,,8-nasmbt-5,#ae6f25,#ffffff,,rectangle
+mvb-magdeburg,6,,8-nasmbt-6,#43287e,#ffffff,,rectangle
+mvb-magdeburg,9,,8-nasmbt-9,#2b6552,#ffffff,,rectangle
+mvb-magdeburg,10,,8-nasmbt-10,#3880b9,#ffffff,,rectangle
 mvv-db-sbm,S1,db-regio-ag-s-bahn-munchen,4-800725-1,#1fbce6,#ffffff,,pill
 mvv-db-sbm,S2,db-regio-ag-s-bahn-munchen,4-800725-2,#79b833,#ffffff,,pill
 mvv-db-sbm,S20,db-regio-ag-s-bahn-munchen,4-800725-20,#f05972,#ffffff,,pill
