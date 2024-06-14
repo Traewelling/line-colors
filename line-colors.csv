@@ -718,8 +718,8 @@ nvs,18,,5-vwmbus-18,#00963f,#ffffff,,pill
 nvs,19,,5-vwmbus-19,#f7a940,#ffffff,,pill
 oberpfalzbahn-dlb,RB 23,oberpfalzbahn-die-landerbahn-gmbh-dlb,3-o9-rb23,#6cc3d9,#ffffff,,rectangle
 oberpfalzbahn-dlb,RB 27,oberpfalzbahn-die-landerbahn-gmbh-dlb,3-o9-rb27,#ffb200,#ffffff,,rectangle
-oberpfalzbahn-dlb,RB 28,oberpfalzbahn-die-landerbahn-gmbh-dlb,opb-rb28,#90bf26,#ffffff,,rectangle
-oberpfalzbahn-dlb,RB 29,oberpfalzbahn-die-landerbahn-gmbh-dlb,opb-rb29,#ff6600,#ffffff,,rectangle
+oberpfalzbahn-dlb,RB 28,oberpfalzbahn-die-landerbahn-gmbh-dlb,3-o9-rb28,#90bf26,#ffffff,,rectangle
+oberpfalzbahn-dlb,RB 29,oberpfalzbahn-die-landerbahn-gmbh-dlb,3-o9-rb29,#ff6600,#ffffff,,rectangle
 odeg,RB13,ostdeutsche-eisenbahn-gmbh,3-owrb-13,#3f4545,#ffffff,,rectangle
 odeg,RB14,ostdeutsche-eisenbahn-gmbh,3-owrb-14,#196e76,#ffffff,,rectangle
 odeg,RB15,ostdeutsche-eisenbahn-gmbh,3-owrb-15,#00a998,#ffffff,,rectangle
