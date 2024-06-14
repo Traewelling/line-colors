@@ -14,10 +14,10 @@ agilis,RB 97,agilis,3-a9-rb97,#90bf26,#ffffff,,rectangle
 agilis,RB 98,agilis,3-a9-rb98,#24b27d,#ffffff,,rectangle
 agilis,RB 99,agilis,3-a9-rb99,#ffb200,#ffffff,,rectangle
 agilis,RE 18,agilis,3-a9-re18,#006428,#ffffff,,rectangle
-alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,alx-re23,#ffffff,#006666,#006666,rectangle
-alex-dlb,RE 25,alex-die-landerbahn-gmbh-dlb,alx-re25,#006666,#ffffff,,rectangle
+alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,3-a8n-re23,#ffffff,#006666,#006666,rectangle
+alex-dlb,RE 25,alex-die-landerbahn-gmbh-dlb,3-a8n-re25,#006666,#ffffff,,rectangle
 ams,S7,abellio-rail-mitteldeutschland-gmbh,4-ams-7,#0a579b,#ffffff,,pill
-bayerische-zugspitzbahn,RB 64,bayerische-zugspitzbahn,bzb-rb64,#6cc3d9,#ffffff,,rectangle
+bayerische-zugspitzbahn,RB 64,bayerische-zugspitzbahn,3-z8-rb64,#6cc3d9,#ffffff,,rectangle
 brb,RB 13,bayerische-regiobahn,3-y8-rb13,#ffb200,#ffffff,,rectangle
 brb,RB 14,bayerische-regiobahn,3-y8-rb14,#ffb200,#ffffff,,rectangle
 brb,RB 53,bayerische-regiobahn,3-l8-rb53,#ff9999,#ffffff,,rectangle
@@ -120,15 +120,15 @@ db-regio-mitte,RB46,db-regio-ag-mitte,3-8015a6-46,#00805f,#ffffff,,rectangle-rou
 db-regio-mitte,RB51,db-regio-ag-mitte,3-800520-51,#00805f,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB53,db-regio-ag-mitte,3-800520-53,#40ae49,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB55,db-regio-ag-mitte,3-800520-55,#005824,#ffffff,,rectangle-rounded-corner
-db-regio-mitte,RE40,db-regio-ag-mitte,re-40,#ff9027,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RE40,db-regio-ag-mitte,3-800571-40,#ff9027,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB41,db-regio-ag-mitte,3-800571-41,#00ab4f,#ffffff,,rectangle-rounded-corner
-db-regio-mitte,RB44,db-regio-ag-mitte,rb-44,#7ac547,#ffffff,,rectangle-rounded-corner
-db-regio-mitte,RE45,db-regio-ag-mitte,re-45,#cf631a,#ffffff,,rectangle-rounded-corner
-db-regio-mitte,RE60,db-regio-ag-mitte,re-60,#d03831,#ffffff,,rectangle-rounded-corner
-db-regio-mitte,RB67,db-regio-ag-mitte,rb-67,#406bb1,#ffffff,,rectangle-rounded-corner
-db-regio-mitte,RB68,db-regio-ag-mitte,rb-68,#406bb1,#ffffff,,rectangle-rounded-corner
-db-regio-mitte,RE70,db-regio-ag-mitte,re-70,#d03831,#ffffff,,rectangle-rounded-corner
-db-regio-mitte,RE73,db-regio-ag-mitte,re-73,#ff2e17,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RB44,db-regio-ag-mitte,3-800571-44,#7ac547,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RE45,db-regio-ag-mitte,3-800571-45,#cf631a,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RE60,db-regio-ag-mitte,3-800574-60,#d03831,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RB67,db-regio-ag-mitte,3-800574-67,#406bb1,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RB68,db-regio-ag-mitte,3-800574-68,#406bb1,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RE70,db-regio-ag-mitte,3-800574-70,#d03831,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RE73,db-regio-ag-mitte,3-800572-73,#ff2e17,#ffffff,,rectangle-rounded-corner
 db-regio-nordost,FEX,db-regio-ag-nordost,fex19829,#79122f,#ffffff,,rectangle
 db-regio-nordost,RB10,db-regio-ag-nordost,3-800165-10,#66aa22,#ffffff,,rectangle
 db-regio-nordost,RB11,db-regio-ag-nordost,3-800156-11,#ed1c24,#ffffff,,rectangle
@@ -149,7 +149,6 @@ db-regio-nordost,RB32,db-regio-ag-nordost,3-800165-32,#697c8a,#ffffff,,rectangle
 db-regio-nordost,RB43,db-regio-ag-nordost,3-800166-43,#009bd5,#ffffff,,rectangle
 db-regio-nordost,RB49,db-regio-ag-nordost,3-800166-49,#992746,#ffffff,,rectangle
 db-regio-nordost,RB55,db-regio-ag-nordost,3-800161-55,#eb7405,#ffffff,,rectangle
-db-regio-nordost,RB66,db-regio-ag-nordost,rb-66,#007734,#ffffff,,rectangle
 db-regio-nordost,RB92,db-regio-ag-nordost,3-800151-92,#eb7405,#ffffff,,rectangle
 db-regio-nordost,RB93,db-regio-ag-nordost,3-800151-93,#eb7405,#ffffff,,rectangle
 db-regio-nordost,RE10,db-regio-ag-nordost,3-800166-10,#5e5e5d,#ffffff,,rectangle
@@ -164,7 +163,6 @@ db-regio-nordost,RE4,db-regio-ag-nordost,3-800158-4,#992746,#ffffff,,rectangle
 db-regio-nordost,RE4,db-regio-ag-nordost,3-800160-4,#66aa22,#ffffff,,rectangle
 db-regio-nordost,RE5,db-regio-ag-nordost,3-800158-5,#0066ad,#ffffff,,rectangle
 db-regio-nordost,RE6,db-regio-ag-nordost,3-800161-6,#da6ba2,#ffffff,,rectangle
-db-regio-nordost,RE66,db-regio-ag-nordost,re-66,#007734,#ffffff,,rectangle
 db-regio-nordost,RE7,db-regio-ag-nordost,3-800165-7,#007734,#ffffff,,rectangle
 db-regio-nordost,RE7,db-regio-ag-nordost,3-800158-7,#da6ba2,#ffffff,,rectangle
 db-regio-nordost,RE50,db-regio-ag-nordost,3-800156-50,#2785d0,#ffffff,,rectangle
@@ -172,11 +170,11 @@ db-regio-nordost,S1,db-regio-ag-nordost,4-800156-1,#00a998,#ffffff,,rectangle
 db-regio-nordost,S2,db-regio-ag-nordost,4-800156-2,#a0138e,#ffffff,,rectangle
 db-regio-nordost,S2X,db-regio-ag-nordost,4-800156-2x,#a0138e,#ffffff,,rectangle
 db-regio-nordost,S3,db-regio-ag-nordost,4-800156-3,#a64c35,#ffffff,,rectangle
-db-regio-sudost,RB 51,db-regio-ag-sudost,rb-51,#469cd7,#ffffff,,rectangle
-db-regio-sudost,RE 7,db-regio-ag-sudost,re-7,#992e00,#ffffff,,rectangle
-db-regio-sudost,RE13,db-regio-ag-sudost,re-13,#ebaa3b,#ffffff,,rectangle
-db-regio-sudost,RE14,db-regio-ag-sudost,re-14,#a98956,#ffffff,,rectangle
-db-regio-sudost,RE 57,db-regio-ag-sudost,re-57,#992e00,#ffffff,,rectangle
+db-regio-sudost,RB 51,db-regio-ag-sudost,3-8004a9-51,#469cd7,#ffffff,,rectangle
+db-regio-sudost,RE 7,db-regio-ag-sudost,3-8004nt-7,#992e00,#ffffff,,rectangle
+db-regio-sudost,RE13,db-regio-ag-sudost,3-8004a9-13,#ebaa3b,#ffffff,,rectangle
+db-regio-sudost,RE14,db-regio-ag-sudost,3-8004a9-14,#a98956,#ffffff,,rectangle
+db-regio-sudost,RE 57,db-regio-ag-sudost,3-8004nt-57,#992e00,#ffffff,,rectangle
 db-regio-sudost,S1,db-regio-ag-sudost,4-800486-1,#f5de2b,#000000,,pill
 db-regio-sudost,S2,db-regio-ag-sudost,4-8004a9-2,#18a2e3,#ffffff,,pill
 db-regio-sudost,S3,db-regio-ag-sudost,4-800486-3,#e1001e,#ffffff,,pill
@@ -718,10 +716,10 @@ nvs,16,,5-vwmbus-16,#a65a44,#ffffff,,pill
 nvs,17,,5-vwmbus-17,#afca05,#ffffff,,pill
 nvs,18,,5-vwmbus-18,#00963f,#ffffff,,pill
 nvs,19,,5-vwmbus-19,#f7a940,#ffffff,,pill
-oberpfalzbahn-dlb,RB 23,oberpfalzbahn-die-landerbahn-gmbh-dlb,opb-rb23,#6cc3d9,#ffffff,,rectangle
-oberpfalzbahn-dlb,RB 27,oberpfalzbahn-die-landerbahn-gmbh-dlb,opb-rb27,#ffb200,#ffffff,,rectangle
-oberpfalzbahn-dlb,RB 28,oberpfalzbahn-die-landerbahn-gmbh-dlb,opb-rb28,#90bf26,#ffffff,,rectangle
-oberpfalzbahn-dlb,RB 29,oberpfalzbahn-die-landerbahn-gmbh-dlb,opb-rb29,#ff6600,#ffffff,,rectangle
+oberpfalzbahn-dlb,RB 23,oberpfalzbahn-die-landerbahn-gmbh-dlb,3-o9-rb23,#6cc3d9,#ffffff,,rectangle
+oberpfalzbahn-dlb,RB 27,oberpfalzbahn-die-landerbahn-gmbh-dlb,3-o9-rb27,#ffb200,#ffffff,,rectangle
+oberpfalzbahn-dlb,RB 28,oberpfalzbahn-die-landerbahn-gmbh-dlb,3-o9-rb28,#90bf26,#ffffff,,rectangle
+oberpfalzbahn-dlb,RB 29,oberpfalzbahn-die-landerbahn-gmbh-dlb,3-o9-rb29,#ff6600,#ffffff,,rectangle
 odeg,RB13,ostdeutsche-eisenbahn-gmbh,3-owrb-13,#3f4545,#ffffff,,rectangle
 odeg,RB14,ostdeutsche-eisenbahn-gmbh,3-owrb-14,#196e76,#ffffff,,rectangle
 odeg,RB15,ostdeutsche-eisenbahn-gmbh,3-owrb-15,#00a998,#ffffff,,rectangle
@@ -792,13 +790,13 @@ pid-prague,A,dopravni-podnik-hl-m-prahy,7-540001-a,#00a54f,#ffffff,,rectangle
 pid-prague,B,dopravni-podnik-hl-m-prahy,7-540001-b,#feca0a,#293219,,rectangle
 pid-prague,C,dopravni-podnik-hl-m-prahy,7-540001-c,#ee1d23,#ffffff,,rectangle
 polregio,RB91,polregio,r-91,#eb7405,#ffffff,,rectangle
-regio-s-bahn-donau-iller,RS 2,db-regio-ag-baden-wurttemberg,rs2,#901411,#ffffff,,pill
-regio-s-bahn-donau-iller,RS 21,db-regio-ag-baden-wurttemberg,rs21,#e92a1c,#ffffff,,pill
-regio-s-bahn-donau-iller,RS 3,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rs3,#62358a,#ffffff,,pill
-regio-s-bahn-donau-iller,RS 5,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rs5,#00622e,#ffffff,,pill
-regio-s-bahn-donau-iller,RS 51,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rs51,#43aa2c,#ffffff,,pill
-regio-s-bahn-donau-iller,RS 7,db-regio-ag-bayern,rs7,#234997,#ffffff,,pill
-regio-s-bahn-donau-iller,RS 71,db-regio-ag-bayern,rs71,#1398d3,#ffffff,,pill
+regio-s-bahn-donau-iller,RS 2,db-regio-ag-baden-wurttemberg,3-800622-rs2,#901411,#ffffff,,pill
+regio-s-bahn-donau-iller,RS 21,db-regio-ag-baden-wurttemberg,3-800622-rs21,#e92a1c,#ffffff,,pill
+regio-s-bahn-donau-iller,RS 3,sweg-sudwestdeutsche-landesverkehrs-gmbh,3-s6-rs3,#62358a,#ffffff,,pill
+regio-s-bahn-donau-iller,RS 5,sweg-sudwestdeutsche-landesverkehrs-gmbh,3-s6-rs5,#00622e,#ffffff,,pill
+regio-s-bahn-donau-iller,RS 51,sweg-sudwestdeutsche-landesverkehrs-gmbh,3-s6-rs51,#43aa2c,#ffffff,,pill
+regio-s-bahn-donau-iller,RS 7,db-regio-ag-bayern,3-8007du-rs7,#234997,#ffffff,,pill
+regio-s-bahn-donau-iller,RS 71,db-regio-ag-bayern,3-8007du-rs71,#1398d3,#ffffff,,pill
 regiobus-hannover,170,,5-webrbg-170,#ffffff,#2c2e35,#ff9027,pill
 regiobus-hannover,300,,5-webrbg-300,#ffffff,#2c2e35,#903da0,pill
 regiobus-hannover,301,,5-webrbg-301,#ffffff,#2c2e35,#ff2e17,pill
