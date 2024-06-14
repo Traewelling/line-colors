@@ -53,7 +53,7 @@ db-regio-ag-baden-wurttemberg,RB74,db-regio-ag-baden-wurttemberg,3-800632-74,#0a
 db-regio-ag-baden-wurttemberg,MEX90,db-regio-ag-baden-wurttemberg,3-8006d6-90,#e5007d,#ffffff,,rectangle
 db-regio-ag-baden-wurttemberg,IRE200,db-regio-ag-baden-wurttemberg,3-800659-200,#aa0344,#ffffff,,rectangle
 db-regio-bayern,RB 6,db-regio-ag-bayern,3-800790-6,#e50000,#ffffff,,rectangle
-db-regio-bayern,RB 10,db-regio-ag-bayern,3-800714-RE10,#90bf26,#ffffff,,rectangle
+db-regio-bayern,RB 10,db-regio-ag-bayern,3-800714-re10,#90bf26,#ffffff,,rectangle
 db-regio-bayern,RB 11,db-regio-ag-bayern,3-800720-11,#00ace5,#ffffff,,rectangle
 db-regio-bayern,RB 12,db-regio-ag-bayern,3-800720-12,#6cc3d9,#ffffff,,rectangle
 db-regio-bayern,RB 16,db-regio-ag-bayern,3-800765-16,#ff9999,#ffffff,,rectangle
@@ -69,9 +69,9 @@ db-regio-bayern,RB 62,db-regio-ag-bayern,3-800720-62,#90bf26,#ffffff,,rectangle
 db-regio-bayern,RB 63,db-regio-ag-bayern,3-800790-63,#ffb200,#ffffff,,rectangle
 db-regio-bayern,RB 65,db-regio-ag-bayern,3-800790-65,#ff9999,#ffffff,,rectangle
 db-regio-bayern,RB 66,db-regio-ag-bayern,3-800790-66,#ff9999,#ffffff,,rectangle
-db-regio-bayern,RB 73,db-regio-ag-bayern,3-8007D4-73,#6cc3d9,#ffffff,,rectangle
-db-regio-bayern,RB 74,db-regio-ag-bayern,3-8007H2-74,#e50000,#ffffff,,rectangle
-db-regio-bayern,RB 78,db-regio-ag-bayern,3-8007DU-78,#ff9999,#ffffff,,rectangle
+db-regio-bayern,RB 73,db-regio-ag-bayern,3-8007d4-73,#6cc3d9,#ffffff,,rectangle
+db-regio-bayern,RB 74,db-regio-ag-bayern,3-8007h2-74,#e50000,#ffffff,,rectangle
+db-regio-bayern,RB 78,db-regio-ag-bayern,3-8007du-78,#ff9999,#ffffff,,rectangle
 db-regio-bayern,RB 79,db-regio-ag-bayern,3-800714-79,#ffffff,#90bf26,#90bf26,rectangle
 db-regio-bayern,RB 80,db-regio-ag-bayern,3-800714-80,#ffffff,#008fbf,#008fbf,rectangle
 db-regio-bayern,RB 81,db-regio-ag-bayern,3-800720-81,#24b27d,#ffffff,,rectangle
@@ -79,13 +79,13 @@ db-regio-bayern,RB 82,db-regio-ag-bayern,3-800720-82,#00ace5,#ffffff,,rectangle
 db-regio-bayern,RB 85,db-regio-ag-bayern,3-800714-85,#009fe3,#ffffff,,rectangle
 db-regio-bayern,RB 91,db-regio-ag-bayern,3-800720-91,#6cc3d9,#ffffff,,rectangle
 db-regio-bayern,RE 1,db-regio-ag-bayern,3-800765-1,#e50000,#ffffff,,rectangle
-db-regio-bayern,RE 2,db-regio-ag-bayern,3-8007H3-2,#00b2b2,#ffffff,,rectangle
+db-regio-bayern,RE 2,db-regio-ag-bayern,3-8007h3-2,#00b2b2,#ffffff,,rectangle
 db-regio-bayern,RE 3,db-regio-ag-bayern,3-800767-3,#800080,#ffffff,,rectangle
-db-regio-bayern,RE 7,db-regio-ag-bayern,3-8007D5-7,#992e00,#ffffff,,rectangle
+db-regio-bayern,RE 7,db-regio-ag-bayern,3-8007d5-7,#992e00,#ffffff,,rectangle
 db-regio-bayern,RE 10,db-regio-ag-bayern,3-800714-10,#006428,#ffffff,,rectangle
 db-regio-bayern,RE 14,db-regio-ag-bayern,3-800755-14,#e50000,#ffffff,,rectangle
 db-regio-bayern,RE 16,db-regio-ag-bayern,3-800765-16,#e50000,#ffffff,,rectangle
-db-regio-bayern,RE 17,db-regio-ag-bayern,3-8007D5-17,#992e00,#ffffff,,rectangle
+db-regio-bayern,RE 17,db-regio-ag-bayern,3-8007d5-17,#992e00,#ffffff,,rectangle
 db-regio-bayern,RE 19,db-regio-ag-bayern,3-800755-19,#ff6600,#ffffff,,rectangle
 db-regio-bayern,RE 20,db-regio-ag-bayern,3-800755-20,#e50000,#ffffff,,rectangle
 db-regio-bayern,RE 22,db-regio-ag-bayern,3-800767-22,#ff6600,#ffffff,,rectangle
@@ -107,12 +107,12 @@ db-regio-bayern,RE 55,db-regio-ag-bayern,3-800772-55,#800080,#ffffff,,rectangle
 db-regio-bayern,RE 60,db-regio-ag-bayern,3-800765-60,#ffffff,#800080,#800080,rectangle
 db-regio-bayern,RE 61,db-regio-ag-bayern,3-800790-61,#ffffff,#992e00,#992e00,rectangle
 db-regio-bayern,RE 62,db-regio-ag-bayern,3-800790-62,#ffffff,#992e00,#992e00,rectangle
-db-regio-bayern,RE 70,db-regio-ag-bayern,3-8007D5-70,#006629,#ffffff,,rectangle
-db-regio-bayern,RE 71,db-regio-ag-bayern,3-8007D5-71,#e5a05c,#ffffff,,rectangle
-db-regio-bayern,RE 73,db-regio-ag-bayern,3-8007D5-73,#e5a05c,#ffffff,,rectangle
-db-regio-bayern,RE 75,db-regio-ag-bayern,3-8007D4-75,#e50000,#ffffff,,rectangle
-db-regio-bayern,RE 76,db-regio-ag-bayern,3-8007D5-76,#006629,#ffffff,,rectangle
-db-regio-bayern,RE 79,db-regio-ag-bayern,3-8007D4-79,#800080,#ffffff,,rectangle
+db-regio-bayern,RE 70,db-regio-ag-bayern,3-8007d5-70,#006629,#ffffff,,rectangle
+db-regio-bayern,RE 71,db-regio-ag-bayern,3-8007d5-71,#e5a05c,#ffffff,,rectangle
+db-regio-bayern,RE 73,db-regio-ag-bayern,3-8007d5-73,#e5a05c,#ffffff,,rectangle
+db-regio-bayern,RE 75,db-regio-ag-bayern,3-8007d4-75,#e50000,#ffffff,,rectangle
+db-regio-bayern,RE 76,db-regio-ag-bayern,3-8007d5-76,#006629,#ffffff,,rectangle
+db-regio-bayern,RE 79,db-regio-ag-bayern,3-8007d4-79,#800080,#ffffff,,rectangle
 db-regio-mitte,RE1,db-regio-ag-mitte,3-800640-1,#be1b40,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RE6,db-regio-ag-mitte,3-8005l2-6,#f15921,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB45,db-regio-ag-mitte,3-8015a6-45,#8bc63f,#ffffff,,rectangle-rounded-corner
