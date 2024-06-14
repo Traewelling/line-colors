@@ -142,6 +142,9 @@
             },
             {
                 "github": "verbuchselt"
+            },
+            {
+                "github": "sebiIO"
             }
         ],
         "sources": [
@@ -562,6 +565,20 @@
         ]
     },
     {
+        "shortOperatorName": "mdv-lvb",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "LVB Leipzig Liniennetzplan",
+                "source": "https://files.l.de/lde-typo3/default_backend_upload/LVB-Liniennetzplan-Tag-ab-03-01-24.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mdv-swh-havag",
         "contributors": [
             {
@@ -600,6 +617,20 @@
             {
                 "name": "Netzplan Mitteldeutsche Regiobahn",
                 "source": "https://download.transdev.de/transdev/uploads/mdr/media_document/26/original.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "mvb-magdeburg",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "MVB Tagesnetz",
+                "source": "https://www.mvbnet.de//files/2024/03/Web_A3-Netzplan-MVB_Maerz2024.pdf"
             }
         ]
     },
@@ -1571,6 +1602,34 @@
             {
                 "name": "Netzplan Erfurt",
                 "source": "https://www.evag-erfurt.de/site/evag/get/documents_E-256148826/evag/documents/Pl%C3%A4ne/2023/EVAG-Netzplan-Erfurt.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vmt-jena-bus",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Jena",
+                "source": "https://www.stadtwerke-jena.de/dam/jcr:05b477be-daab-48d5-87ea-f1776d8cd747/Netzplan_Jena_A4_web_2024.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vmt-jena-tram",
+        "contributors": [
+            {
+                "github": "lunas-bad-coding"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Jena",
+                "source": "https://www.stadtwerke-jena.de/dam/jcr:05b477be-daab-48d5-87ea-f1776d8cd747/Netzplan_Jena_A4_web_2024.pdf"
             }
         ]
     },
