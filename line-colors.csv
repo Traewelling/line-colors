@@ -2120,7 +2120,7 @@ vvs-ssb-stadtbahn,U 8,,8-vvs020-u8,#c8b97b,#000000,,rectangle
 vvs-ssb-stadtbahn,U 9,,8-vvs020-u9,#ffd036,#000000,,rectangle
 vvs-ssb-stadtbahn,Zacke,,8-vvs021-10,#ffb530,#24629d,,rectangle
 vvt-db-regio-bayern,S7,db-regio-ag-bayern,4-800790-7,#d09eba,#ffffff,,rectangle
-vvt-oebb,cjx1,osterreichische-bundesbahnen,cjx-1,#48c9f2,#ffffff,,rectangle
+vvt-oebb,cjx1,osterreichische-bundesbahnen,3-81-1-1268243-5257783,#48c9f2,#ffffff,,rectangle
 vvt-oebb,S2,osterreichische-bundesbahnen,4-81-2-1365196-5198757,#f45f98,#ffffff,,rectangle
 vvt-oebb,S3,osterreichische-bundesbahnen,4-81-3-1268243-5257783,#b0b6c8,#ffffff,,rectangle
 vvt-oebb,S4,osterreichische-bundesbahnen,4-81-4-1268243-5257783,#4a205d,#ffffff,,rectangle
@@ -2130,15 +2130,16 @@ vvv-montafoner-bahn,S4,montafoner-bahn,4-810003-4,#ffcb06,#ffffff,,rectangle
 vvv-oebb,S1,osterreichische-bundesbahnen,4-81-1-1079437-5289939,#dd1936,#ffffff,,rectangle
 vvv-oebb,S2,osterreichische-bundesbahnen,4-81-2-1054446-5247224,#dd1936,#ffffff,,rectangle
 vvv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1072203-5278907,#dd1936,#ffffff,,rectangle
-vvv-oebb,R2,osterreichische-bundesbahnen,r-2,#dd1936,#ffffff,,rectangle
-vvv-oebb,R5,osterreichische-bundesbahnen,r-5,#dd1936,#ffffff,,rectangle
-waldbahn-dlb,RB 35,waldbahn-die-landerbahn-gmbh-dlb,wba-rb35,#006629,#ffffff,,rectangle
-waldbahn-dlb,RB 36,waldbahn-die-landerbahn-gmbh-dlb,wba-rb36,#90bf26,#ffffff,,rectangle
-waldbahn-dlb,RB 37,waldbahn-die-landerbahn-gmbh-dlb,wba-rb37,#ffb200,#ffffff,,rectangle
-waldbahn-dlb,RB 38,waldbahn-die-landerbahn-gmbh-dlb,wba-rb38,#ff6600,#ffffff,,rectangle
-westfalenbahn,RE 15,westfalenbahn,wfb-re15,#ea9d22,#ffffff,,rectangle
-westfalenbahn,RE 60,westfalenbahn,wfb-re60,#00a3de,#ffffff,,rectangle
-westfalenbahn,RE 70,westfalenbahn,wfb-re70,#005174,#ffffff,,rectangle
+vvv-oebb,R1,osterreichische-bundesbahnen,3-81-1-1079437-5289939,#dd1936,#ffffff,,rectangle
+vvv-oebb,R2,osterreichische-bundesbahnen,3-81-2-1054446-5247224,#dd1936,#ffffff,,rectangle
+vvv-oebb,R5,osterreichische-bundesbahnen,3-81-5-1072203-5278907,#dd1936,#ffffff,,rectangle
+waldbahn-dlb,RB 35,waldbahn-die-landerbahn-gmbh-dlb,3-w9-rb35,#006629,#ffffff,,rectangle
+waldbahn-dlb,RB 36,waldbahn-die-landerbahn-gmbh-dlb,3-w9-rb36,#90bf26,#ffffff,,rectangle
+waldbahn-dlb,RB 37,waldbahn-die-landerbahn-gmbh-dlb,3-w9-rb37,#ffb200,#ffffff,,rectangle
+waldbahn-dlb,RB 38,waldbahn-die-landerbahn-gmbh-dlb,3-w9-rb38,#ff6600,#ffffff,,rectangle
+westfalenbahn,RE 15,westfalenbahn,3-w3-re15,#ea9d22,#ffffff,,rectangle
+westfalenbahn,RE 60,westfalenbahn,3-w3-re60,#00a3de,#ffffff,,rectangle
+westfalenbahn,RE 70,westfalenbahn,3-w3-re70,#005174,#ffffff,,rectangle
 wt-mobiel,1,mobiel-gmbh,8-owl031-1,#009fe0,#ffffff,,rectangle
 wt-mobiel,2,mobiel-gmbh,8-owl031-2,#008f36,#ffffff,,rectangle
 wt-mobiel,3,mobiel-gmbh,8-owl031-3,#ffed00,#00264f,,rectangle
