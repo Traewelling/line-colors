@@ -2079,6 +2079,8 @@ vvo-tram,10,,8-voe011-10,#f9b000,#ffffff,,rectangle-rounded-corner
 vvo-tram,11,,8-voe011-11,#c2ddaf,#000000,,rectangle-rounded-corner
 vvo-tram,12,,8-voe011-12,#006b42,#ffffff,,rectangle-rounded-corner
 vvo-tram,13,,8-voe011-13,#fdc300,#000000,,rectangle-rounded-corner
+vvo-tram,44,,8-voe011-44,#a14c8d,#000000,,rectangle-rounded-corner
+vvo-tram,46,,8-voe011-46,#eba507,#000000,,rectangle-rounded-corner
 vvo-tram,20,,8-voe011-20,#000000,#ffffff,,rectangle-rounded-corner
 vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,,rectangle
 vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,,rectangle

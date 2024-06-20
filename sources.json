@@ -2086,12 +2086,19 @@
         "contributors": [
             {
                 "github": "hoolycrash"
+            },
+            {
+                "github": "jonaes"
             }
         ],
         "sources": [
             {
                 "name": "Netzplan",
                 "source": "https://www.dvb.de/-/media/files/liniennetz/2023-09-04/dvblnp040923bauwebpdf.pdf"
+            },
+            {
+                "name": "Bau-Netzplan Linien 44 46",
+                "source": "https://www.dvb.de/-/media/files/liniennetz/dvb_lnp_030624_bau_pdf.pdf"
             }
         ]
     },
