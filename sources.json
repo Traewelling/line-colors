@@ -1477,6 +1477,38 @@
         ]
     },
     {
+        "shortOperatorName": "vbb-vip-bus",
+        "contributors": [
+            {
+                "github": "jonaes"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Potsdam Tag",
+                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/potsdam-tageslinien-4-bis-1uhr.pdf"
+            },
+            {
+                "name": "Netzplan Potsdam Nacht",
+                "source": "https://www.swp-potsdam.de/content/verkehr/pdf_7/fahrplanwechsel_10_12_23/231210_liniennetz_potsdam_nacht.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vbb-vip-tram",
+        "contributors": [
+            {
+                "github": "jonaes"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Potsdam Tag",
+                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/potsdam-tageslinien-4-bis-1uhr.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vbg",
         "contributors": [
             {
