@@ -1326,7 +1326,7 @@ vbb-vip-bus,696,,5-vbbvib-696,#eb2d4c,#ffffff,,pill
 vbb-vip-bus,697,,5-vbbvib-697,#772382,#ffffff,,pill
 vbb-vip-bus,698,,5-vbbvib-698,#117b40,#ffffff,,pill
 vbb-vip-bus,699,,5-vbbvib-699,#d9992f,#ffffff,,pill
-vbb-vip-bus, X5,,5-vbbvib-x5,#ffffff,#b167b3,#b167b3,pill
+vbb-vip-bus,X5,,5-vbbvib-x5,#ffffff,#b167b3,#b167b3,pill
 vbb-vip-bus,X15,,5-vbbvib-x15,#ffffff,#49c07d,#49c07d,pill
 vbb-vip-bus,N14,,5-vbbvib-n14,#ffa32b,#ffffff,,pill
 vbb-vip-bus,N15,,5-vbbvib-n15,#ff7322,#ffffff,,pill
