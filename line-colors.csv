@@ -34,6 +34,7 @@ brb,RB 83,bayerische-regiobahn,3-m8-rb83,#ffffff,#bf73bf,#bf73bf,rectangle
 brb,RE 5,bayerische-regiobahn,3-m8-re5,#00416d,#ffffff,,rectangle
 brb,S3,bayerische-regiobahn,4-l8-s3,#2aa335,#ffffff,,pill
 brb,S4,bayerische-regiobahn,4-l8-s4,#a765a2,#ffffff,,pill
+ceske-drahy,RE 25,ceske-drahy,1-a8n-re25,#006666,#ffffff,,rectangle
 db-fernverkehr-ag,RE87,db-fernverkehr-ag,3-nz-87,#cc0066,#ffffff,,rectangle
 db-regio-ag-baden-wurttemberg,RE2,db-regio-ag-baden-wurttemberg,3-800647-2,#0069b4,#ffffff,,rectangle
 db-regio-ag-baden-wurttemberg,IRE3,db-regio-ag-baden-wurttemberg,3-800693-3,#e5007d,#ffffff,,rectangle

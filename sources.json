@@ -97,6 +97,20 @@
         ]
     },
     {
+        "shortOperatorName": "ceske-drahy",
+        "contributors": [
+            {
+                "github": "sebiIO"
+            }
+        ],
+        "sources": [
+            {
+                "name": "BEG Liniennetzplan Bayern 2024",
+                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "db-fernverkehr-ag",
         "contributors": [
             {
