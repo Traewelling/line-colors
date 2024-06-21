@@ -47,6 +47,14 @@ foreach ($csv as $line) {
     $i++;
 }
 
+
+echo "Checking that the background color isn't the text color" . PHP_EOL;
+$i = 2;
+foreach ($csv as $line) {
+    text_color_differs_background($line, $i);
+    $i++;
+}
+
 $sources = json_decode(file_get_contents("../sources.json"), true);
 $opSources = array_map(fn($op) => $op["shortOperatorName"], $sources);
 echo "Checking that operators are present in sources.json" . PHP_EOL;
