@@ -87,6 +87,17 @@ test_throws("valid_hex_color when doesn't start with #", function () {
 });
 
 /**
+ * text_color_differs_background
+ */
+test_ok("text_color_differs_background for different colors", function() {
+    text_color_differs_background(["textColor" => "#ffffff", "backgroundColor" => "#000000"], 1);
+});
+test_throws("text_color_differs_background with the same data", function() {
+    $black = "#000000";
+    text_color_differs_background(["textColor" => $black, "backgroundColor" => $black], 2);
+});
+
+/**
  * End of file
  */
 echo "...Tested $positive_count positive and $negative_count negative validation functions" . PHP_EOL;

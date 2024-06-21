@@ -21,8 +21,16 @@ function valid_shape($line, $i) {
 
 function valid_hex_color($line, $i, $key) {
     $color = $line[$key];
-    
+
     if (!(strlen($color) == 7 && ctype_xdigit(substr($color, 1)) && $color[0] === "#")) {
         throw new Error("bad $key \"$color\" does not follow #<6 digit hex color> in row $i");
+    }
+}
+
+function text_color_differs_background($line, $i) {
+    $textColor = $line["textColor"];
+    $backgroundColor = $line["backgroundColor"];
+    if ($textColor === $backgroundColor) {
+        throw new Error("bad color combination: text color \"$textColor\" may not be background color \"$backgroundColor\" in row $i");
     }
 }

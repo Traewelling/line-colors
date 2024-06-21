@@ -1315,18 +1315,18 @@ vbb-vip-bus,609,,5-vbbvib-609,#907d32,#ffffff,,pill
 vbb-vip-bus,612,,5-vbbvib-612,#842a26,#ffffff,,pill
 vbb-vip-bus,616,,5-vbbvib-616,#0155ae,#ffffff,,pill
 vbb-vip-bus,638,,5-vbbvib-638,#665fb1,#ffffff,,pill
-vbb-vip-bus,639,,5-vbbvib-639,#ffffff,#9e9ace,#9e9ace,pill
+vbb-vip-bus,639,,5-vbbvib-639,#f0eef6,#9e9ace,#9e9ace,pill
 vbb-vip-bus,690,,5-vbbvib-690,#446080,#ffffff,,pill
-vbb-vip-bus,691,,5-vbbvib-691,#ffffff,#ff9027,#ff9027,pill
+vbb-vip-bus,691,,5-vbbvib-691,#feeedd,#ff9027,#ff9027,pill
 vbb-vip-bus,692,,5-vbbvib-692,#00b9f2,#ffffff,,pill
 vbb-vip-bus,693,,5-vbbvib-693,#e36eb5,#ffffff,,pill
 vbb-vip-bus,694,,5-vbbvib-694,#70a4b8,#ffffff,,pill
-vbb-vip-bus,695,,5-vbbvib-695,#bf2a4f,#bf2a4f,,pill
+vbb-vip-bus,695,,5-vbbvib-695,#bf2a4f,#ffffff,,pill
 vbb-vip-bus,696,,5-vbbvib-696,#eb2d4c,#ffffff,,pill
 vbb-vip-bus,697,,5-vbbvib-697,#772382,#ffffff,,pill
 vbb-vip-bus,698,,5-vbbvib-698,#117b40,#ffffff,,pill
 vbb-vip-bus,699,,5-vbbvib-699,#d9992f,#ffffff,,pill
-vbb-vip-bus,X5,,5-vbbvib-x5,#ffffff,#b167b3,#b167b3,pill
+vbb-vip-bus,X5,,5-vbbvib-x5,#f2e6f1,#b167b3,#b167b3,pill
 vbb-vip-bus,X15,,5-vbbvib-x15,#ffffff,#49c07d,#49c07d,pill
 vbb-vip-bus,N14,,5-vbbvib-n14,#ffa32b,#ffffff,,pill
 vbb-vip-bus,N15,,5-vbbvib-n15,#ff7322,#ffffff,,pill
@@ -1337,7 +1337,7 @@ vbb-vip-tram,92,,8-vbbvit-92,#024890,#ffffff,,rectangle
 vbb-vip-tram,93,,8-vbbvit-93,#ff7322,#ffffff,,rectangle
 vbb-vip-tram,94,,8-vbbvit-94,#89969e,#ffffff,,rectangle
 vbb-vip-tram,96,,8-vbbvit-96,#00b098,#ffffff,,rectangle
-vbb-vip-tram,98,,8-vbbvit-98,#ffffff,#009edd,#009edd,rectangle
+vbb-vip-tram,98,,8-vbbvit-98,#daedf9,#009edd,#009edd,rectangle
 vbb-vip-tram,99,,8-vbbvit-99,#5fbf49,#ffffff,,rectangle
 vbg,RB 1,vogtlandbahn-die-landerbahn-gmbh-dlb,3-rd-rb1,#e30613,#ffffff,,rectangle-rounded-corner
 vbg,RB 2,vogtlandbahn-die-landerbahn-gmbh-dlb,3-rd-rb2,#0067b0,#ffffff,,rectangle-rounded-corner
