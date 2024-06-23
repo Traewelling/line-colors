@@ -718,6 +718,10 @@
             {
                 "name": "MVV-ExpressBus Linien",
                 "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/05-Service/ExpressBus_Ring/ExpressBus_Ring_01_2024_Bahn_01.svg"
+            },
+            {
+                "name": "MVV-Netz Stadt Germering",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2024/2024_layout_Netz_Germering_SCR.pdf"
             }
         ]
     },
