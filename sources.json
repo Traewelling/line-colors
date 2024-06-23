@@ -705,12 +705,23 @@
         "contributors": [
             {
                 "github": "verbuchselt"
+            },
+            {
+                "github": "sebiIO"
             }
         ],
         "sources": [
             {
                 "name": "MVV Netzplan Gesamtnetz 2024",
                 "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2024/2024_layout_MVV_Regio_1_GESAMT_SCR.pdf"
+            },
+            {
+                "name": "MVV-ExpressBus Linien",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/05-Service/ExpressBus_Ring/ExpressBus_Ring_01_2024_Bahn_01.svg"
+            },
+            {
+                "name": "MVV-Netz Stadt Germering",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2024/2024_layout_Netz_Germering_SCR.pdf"
             }
         ]
     },
