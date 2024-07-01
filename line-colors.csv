@@ -36,23 +36,33 @@ brb,S3,bayerische-regiobahn,4-l8-s3,#2aa335,#ffffff,,pill
 brb,S4,bayerische-regiobahn,4-l8-s4,#a765a2,#ffffff,,pill
 ceske-drahy,RE 25,ceske-drahy,1-54a8n-re25,#006666,#ffffff,,rectangle
 db-fernverkehr-ag,RE87,db-fernverkehr-ag,3-nz-87,#cc0066,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RE2,db-regio-ag-baden-wurttemberg,3-800647-2,#0069b4,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,IRE3,db-regio-ag-baden-wurttemberg,3-800693-3,#e5007d,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RE4,db-regio-ag-baden-wurttemberg,3-8006d6-4,#a05a2c,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RE5,db-regio-ag-baden-wurttemberg,3-800694-5,#724019,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,IRE6,db-regio-ag-baden-wurttemberg,3-800693-6,#4d4d4d,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RE7,db-regio-ag-baden-wurttemberg,3-8006c5-7,#ed6e19,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RE14a,db-regio-ag-baden-wurttemberg,3-8006d6-14a,#f39794,#000000,,rectangle
-db-regio-ag-baden-wurttemberg,RE14b,db-regio-ag-baden-wurttemberg,3-8006d6-14b,#02aa9e,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,MEX19,db-regio-ag-baden-wurttemberg,3-8006d6-19,#999999,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RB26,db-regio-ag-baden-wurttemberg,3-8006c4-26,#009fe3,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RB27,db-regio-ag-baden-wurttemberg,3-8006c4-27,#008c3c,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RB28,db-regio-ag-baden-wurttemberg,3-8006c4-28,#724019,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RB30,db-regio-ag-baden-wurttemberg,3-800631-30,#571d70,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RB63,db-regio-ag-baden-wurttemberg,3-8006d2-63,#d30730,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,RB74,db-regio-ag-baden-wurttemberg,3-800632-74,#0a69b2,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,MEX90,db-regio-ag-baden-wurttemberg,3-8006d6-90,#e5007d,#ffffff,,rectangle
-db-regio-ag-baden-wurttemberg,IRE200,db-regio-ag-baden-wurttemberg,3-800659-200,#aa0344,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RE 2,db-regio-ag-baden-wurttemberg,3-800647-2,#0069b4,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,IRE 3,db-regio-ag-baden-wurttemberg,3-800693-3,#e5007d,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,IRE 3,db-regio-ag-baden-wurttemberg,3-800694-3,#e5007d,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RE 4,db-regio-ag-baden-wurttemberg,3-8006d6-4,#a05a2c,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RE 5,db-regio-ag-baden-wurttemberg,3-800694-5,#724019,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,IRE 6,db-regio-ag-baden-wurttemberg,3-800693-6,#4d4d4d,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RE 7,db-regio-ag-baden-wurttemberg,3-8006c5-7,#ed6e19,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RE 14a,db-regio-ag-baden-wurttemberg,3-8006d6-14a,#f39794,#000000,,rectangle
+db-regio-ag-baden-wurttemberg,RE 14b,db-regio-ag-baden-wurttemberg,3-8006d6-14b,#02aa9e,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,MEX 19,db-regio-ag-baden-wurttemberg,3-8006d6-19,#999999,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB 26,db-regio-ag-baden-wurttemberg,3-8006c4-26,#009fe3,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB 27,db-regio-ag-baden-wurttemberg,3-8006c4-27,#008c3c,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB 28,db-regio-ag-baden-wurttemberg,3-8006c4-28,#724019,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB 30,db-regio-ag-baden-wurttemberg,3-800631-30,#571d70,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB 31,db-regio-ag-baden-wurttemberg,3-800654-31,#00a99d,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB 32,db-regio-ag-baden-wurttemberg,3-800654-32,#008c3c,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB 37,db-regio-ag-baden-wurttemberg,3-800631-37,#aec90a,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,IRE 50,db-regio-ag-baden-wurttemberg,3-800693-50,#b5931c,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB 52,db-regio-ag-baden-wurttemberg,3-800654-52,#00a99d,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB 53,db-regio-ag-baden-wurttemberg,3-800654-53,#561c6f,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RE 55,db-regio-ag-baden-wurttemberg,3-800693-55,#b0599e,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB 63,db-regio-ag-baden-wurttemberg,3-8006d2-63,#d30730,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB 72,db-regio-ag-baden-wurttemberg,3-800632-72,#008c3c,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB 74,db-regio-ag-baden-wurttemberg,3-800632-74,#0a69b2,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,RB 93,db-regio-ag-baden-wurttemberg,3-8006e3-93,#009fe3,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,MEX 90,db-regio-ag-baden-wurttemberg,3-8006d6-90,#e5007d,#ffffff,,rectangle
+db-regio-ag-baden-wurttemberg,IRE 200,db-regio-ag-baden-wurttemberg,3-800659-200,#aa0344,#ffffff,,rectangle
 db-regio-bayern,RB 6,db-regio-ag-bayern,3-800790-6,#e50000,#ffffff,,rectangle
 db-regio-bayern,RB 10,db-regio-ag-bayern,3-800714-re10,#90bf26,#ffffff,,rectangle
 db-regio-bayern,RB 11,db-regio-ag-bayern,3-800720-11,#00ace5,#ffffff,,rectangle
