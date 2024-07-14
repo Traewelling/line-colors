@@ -17,6 +17,20 @@ agilis,RE 18,agilis,3-a9-re18,#006428,#ffffff,,rectangle
 alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,3-a8n-re23,#ffffff,#006666,#006666,rectangle
 alex-dlb,RE 25,alex-die-landerbahn-gmbh-dlb,3-a8n-re25,#006666,#ffffff,,rectangle
 ams,S7,abellio-rail-mitteldeutschland-gmbh,4-ams-7,#0a579b,#ffffff,,pill
+arverio-bw,IRE 1,goahead-baden-wurttemberg-arverio-baden-wurttemberg,3-gaire-1,#88c946,#ffffff,,rectangle
+arverio-bw,MEX 13,goahead-baden-wurttemberg-arverio-baden-wurttemberg,3-gamex-13,#00b9f2,#ffffff,,rectangle
+arverio-bw,MEX 16,goahead-baden-wurttemberg-arverio-baden-wurttemberg,3-gamex-16,#0073c0,#ffffff,,rectangle
+arverio-bw,RE 8,goahead-baden-wurttemberg-arverio-baden-wurttemberg,3-gare-8,#b350a8,#ffffff,,rectangle
+arverio-bw,RE 90,goahead-baden-wurttemberg-arverio-baden-wurttemberg,3-gare-90,#fd3083,#ffffff,,rectangle
+arverio-by,RB86,goahead-bayern-arverio-bayern,3-gyrb-86,#77aed2,#ffffff,,rectangle
+arverio-by,RB87,goahead-bayern-arverio-bayern,3-gyrb-87,#77aed2,#ffffff,,rectangle
+arverio-by,RB89,goahead-bayern-arverio-bayern,3-gyrb-89,#006da7,#ffffff,,rectangle
+arverio-by,RB92,goahead-bayern-arverio-bayern,3-gyrb-92,#f28f8e,#ffffff,,rectangle
+arverio-by,RE72,goahead-bayern-arverio-bayern,3-gyre-72,#ef7c00,#ffffff,,rectangle
+arverio-by,RE80,goahead-bayern-arverio-bayern,3-gyre-80,#006da7,#ffffff,,rectangle
+arverio-by,RE89,goahead-bayern-arverio-bayern,3-gyre-89,#006da7,#ffffff,,rectangle
+arverio-by,RE9,goahead-bayern-arverio-bayern,3-gyre-9,#006da7,#ffffff,,rectangle
+arverio-by,RE96,goahead-bayern-arverio-bayern,3-gyre-96,#f9b000,#ffffff,,rectangle
 bayerische-zugspitzbahn,RB 64,bayerische-zugspitzbahn,3-z8-rb64,#6cc3d9,#ffffff,,rectangle
 brb,RB 13,bayerische-regiobahn,3-y8-rb13,#ffb200,#ffffff,,rectangle
 brb,RB 14,bayerische-regiobahn,3-y8-rb14,#ffb200,#ffffff,,rectangle
@@ -240,20 +254,6 @@ dwe-dessau,DWE,dessau-worlitzer-eisenbahn,dwe,#ffffff,#000000,#000000,rectangle
 erfurter-bahn,RB 13,erfurter-bahn-gmbh,3-eb-13,#24b27d,#ffffff,,rectangle
 erfurter-bahn,RB 40,erfurter-bahn-gmbh,3-eb-40,#24b27d,#ffffff,,rectangle
 erfurter-bahn,RB 50,erfurter-bahn-gmbh,3-eb-50,#24b27d,#ffffff,,rectangle
-gabw,IRE 1,go-ahead-baden-wurttemberg-gmbh,3-gaire-1,#88c946,#ffffff,,rectangle
-gabw,MEX 13,go-ahead-baden-wurttemberg-gmbh,3-gamex-13,#00b9f2,#ffffff,,rectangle
-gabw,MEX 16,go-ahead-baden-wurttemberg-gmbh,3-gamex-16,#0073c0,#ffffff,,rectangle
-gabw,RE 8,go-ahead-baden-wurttemberg-gmbh,3-gare-8,#b350a8,#ffffff,,rectangle
-gabw,RE 90,go-ahead-baden-wurttemberg-gmbh,3-gare-90,#fd3083,#ffffff,,rectangle
-gaby,RB86,go-ahead-bayern-gmbh,3-gyrb-86,#77aed2,#ffffff,,rectangle
-gaby,RB87,go-ahead-bayern-gmbh,3-gyrb-87,#77aed2,#ffffff,,rectangle
-gaby,RB89,go-ahead-bayern-gmbh,3-gyrb-89,#006da7,#ffffff,,rectangle
-gaby,RB92,go-ahead-bayern-gmbh,3-gyrb-92,#f28f8e,#ffffff,,rectangle
-gaby,RE72,go-ahead-bayern-gmbh,3-gyre-72,#ef7c00,#ffffff,,rectangle
-gaby,RE80,go-ahead-bayern-gmbh,3-gyre-80,#006da7,#ffffff,,rectangle
-gaby,RE89,go-ahead-bayern-gmbh,3-gyre-89,#006da7,#ffffff,,rectangle
-gaby,RE9,go-ahead-bayern-gmbh,3-gyre-9,#006da7,#ffffff,,rectangle
-gaby,RE96,go-ahead-bayern-gmbh,3-gyre-96,#f9b000,#ffffff,,rectangle
 hans,RB16,hanseatische-eisenbahn-gmbh,3-pb-16,#775fb0,#ffffff,,rectangle
 hans,RB33,hanseatische-eisenbahn-gmbh,3-pb-33,#ed1c24,#ffffff,,rectangle
 hans,RB34,hanseatische-eisenbahn-gmbh,3-pb-34,#0066ad,#ffffff,,rectangle
