@@ -203,8 +203,7 @@
             }
         ]
     },
-  {
-
+    {
         "shortOperatorName": "db-regio-nordost",
         "contributors": [
             {
@@ -351,7 +350,7 @@
         ]
     },
     {
-        "shortOperatorName": "gabw",
+        "shortOperatorName": "arverio-bw",
         "contributors": [
             {
                 "github": "oneiricbotcelot"
@@ -365,7 +364,7 @@
         ]
     },
     {
-        "shortOperatorName": "gaby",
+        "shortOperatorName": "arverio-by",
         "contributors": [
             {
                 "github": "jheubuch"
@@ -783,7 +782,8 @@
                 "source": "https://www.nah.sh/assets/05-Karten/BahnlinienSH_A3_2024_5.pdf"
             }
         ]
-    },    {
+    },
+    {
         "shortOperatorName": "nvs",
         "contributors": [
             {
@@ -797,7 +797,7 @@
             }
         ]
     },
-     {
+    {
         "shortOperatorName": "rvf-sbahn",
         "contributors": [
             {
@@ -808,7 +808,7 @@
             }
         ],
         "sources": [
-             {
+            {
                 "name": "Schienennetz RVF [PDF]",
                 "source": "https://www.rvf.de/fileadmin/user_upload/techdocs/linien-zonen/schienennetz/rvf_24_schienennetz_web.pdf"
             },
@@ -854,7 +854,7 @@
                 "name": "Linienfahrpläne",
                 "source": "https://www.vag-freiburg.de/fahrplan/linien-fahrplaene"
             },
-             {
+            {
                 "name": "Freiburger Schienennetz (Stadtbahn) [PDF]",
                 "source": "https://www.rvf.de/fileadmin/user_upload/techdocs/linien-zonen/linien/vag_24_stadtbahnnetzplan_web.pdf"
             }
@@ -1637,7 +1637,7 @@
             }
         ]
     },
-   {
+    {
         "shortOperatorName": "vgn-estw-bus",
         "contributors": [
             {
@@ -1651,7 +1651,7 @@
             }
         ]
     },
- {
+    {
         "shortOperatorName": "vgn-swh-bus",
         "contributors": [
             {
@@ -2333,12 +2333,12 @@
                 "github": "lunas-bad-coding"
             }
         ],
-    "sources": [
-        {
-            "name": "Netzplan Steinfurt Süd",
-            "source": "https://www.rvm-online.de/fileadmin/startseite_rvm/fahrgast/fahrt_planen/liniennetzplan/steinfurt_sued_liniennetzplan_2021.pdf"
-        }
-    ]
+        "sources": [
+            {
+                "name": "Netzplan Steinfurt Süd",
+                "source": "https://www.rvm-online.de/fileadmin/startseite_rvm/fahrgast/fahrt_planen/liniennetzplan/steinfurt_sued_liniennetzplan_2021.pdf"
+            }
+        ]
     },
     {
         "shortOperatorName": "zvnl-bus",
