@@ -291,6 +291,20 @@
         ]
     },
     {
+        "shortOperatorName": "db-sev-riedbahn",
+        "contributors": [
+            {
+                "github": "jonaes"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Ersatzverkehr Riedbahn",
+                "source": "https://assets.ctfassets.net/oy9a0qd4syn6/3BJnsvDH9arz9LzEdWuNcU/fa06c9f79e804d83a54ff6a0aa89ec9d/Riedbahn_v.19_FINALE_VERSION_240508_TB.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "dvg-dessau",
         "contributors": [
             {

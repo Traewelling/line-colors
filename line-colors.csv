@@ -230,6 +230,16 @@ db-regionetz-westfrankenbahn,RB 84,db-regionetz-verkehrs-gmbh-westfrankenbahn,3-
 db-regionetz-westfrankenbahn,RB 88,db-regionetz-verkehrs-gmbh-westfrankenbahn,3-800603-88,#47359c,#ffffff,,rectangle
 db-regionetz-westfrankenbahn,RE 80,db-regionetz-verkehrs-gmbh-westfrankenbahn,3-800603-80,#423f41,#ffffff,,rectangle
 db-regionetz-westfrankenbahn,RE 87,db-regionetz-verkehrs-gmbh-westfrankenbahn,3-800603-87,#ff2e17,#ffffff,,rectangle
+db-sev-riedbahn,RE 70,db-regio-ag-mitte,3-8005sv-re70,#d82413,#ffffff,,pill
+db-sev-riedbahn,S 6,db-regio-ag-mitte,3-8005sv-s6,#fc7cba,#ffffff,,pill
+db-sev-riedbahn,S 7,db-regio-ag-mitte,3-8005sv-s7,#60ac3e,#ffffff,,pill
+db-sev-riedbahn,S 71,db-regio-ag-mitte,3-8005sv-s71,#ffe23b,#ffffff,,pill
+db-sev-riedbahn,S 72,db-regio-ag-mitte,3-8005sv-s72,#54b6e4,#ffffff,,pill
+db-sev-riedbahn,S 91,db-regio-ag-mitte,3-8005sv-s91,#005494,#ffffff,,pill
+db-sev-riedbahn,67 N,db-regio-ag-mitte,3-8005sv-67n,#876daf,#ffffff,,pill
+db-sev-riedbahn,67 S,db-regio-ag-mitte,3-8005sv-67s,#fc7cba,#ffffff,,pill
+db-sev-riedbahn,Q1,db-regio-ag-mitte,3-8005sv-q1,#ff9027,#ffffff,,pill
+db-sev-riedbahn,Q2,db-regio-ag-mitte,3-8005sv-q2,#1f612d,#ffffff,,pill
 ding-swu,1,,8-ald087-1,#e52329,#ffffff,,rectangle
 ding-swu,2,,8-ald087-2,#3fad56,#ffffff,,rectangle
 dvg-dessau,1,,8-nasdvg-1,#f59c00,#ffffff,,rectangle
