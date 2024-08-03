@@ -2208,6 +2208,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-weg",
+        "contributors": [
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan bwegt",
+                "source": "https://www2.bwegt.de/fileadmin/assets/media/PDF/Karten/Liniennetzplan/bwegt_Karte_Liniennetzplan_Regionalverkehr_19.07.2024_barrierefrei.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvt-db-regio-bayern",
         "contributors": [
             {
