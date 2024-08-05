@@ -2191,6 +2191,10 @@ vvs-ssb-stadtbahn,U 7,,8-vvs020-u7,#2bbb8f,#ffffff,,rectangle
 vvs-ssb-stadtbahn,U 8,,8-vvs020-u8,#c8b97b,#000000,,rectangle
 vvs-ssb-stadtbahn,U 9,,8-vvs020-u9,#ffd036,#000000,,rectangle
 vvs-ssb-stadtbahn,Zacke,,8-vvs021-10,#ffb530,#24629d,,rectangle
+vvs-weg,RB 46,wurttembergische-eisenbahn-gesellschaft-mbh,3-vvs012-rb46,#561c6f,#000000,,rectangle
+vvs-weg,RB 47,wurttembergische-eisenbahn-gesellschaft-mbh,3-vvs012-rb47,#b0599e,#000000,,rectangle
+vvs-weg,RB 61,wurttembergische-eisenbahn-gesellschaft-mbh,3-vvs012-rb61,#561c6f,#000000,,rectangle
+vvs-weg,RB 65,wurttembergische-eisenbahn-gesellschaft-mbh,3-vvs012-rb65,#b0599e,#000000,,rectangle
 vvt-db-regio-bayern,S7,db-regio-ag-bayern,4-800790-7,#d09eba,#ffffff,,rectangle
 vvt-oebb,cjx1,osterreichische-bundesbahnen,3-81-1-1268243-5257783,#48c9f2,#ffffff,,rectangle
 vvt-oebb,S2,osterreichische-bundesbahnen,4-81-2-1365196-5198757,#f45f98,#ffffff,,rectangle
