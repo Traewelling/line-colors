@@ -140,6 +140,10 @@ db-regio-bayern,RE 76,db-regio-ag-bayern,3-8007d5-76,#006629,#ffffff,,rectangle
 db-regio-bayern,RE 79,db-regio-ag-bayern,3-8007d4-79,#800080,#ffffff,,rectangle
 db-regio-mitte,RE1,db-regio-ag-mitte-suwex,3-800640-1,#be1b40,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RE6,db-regio-ag-mitte,3-8005l2-6,#f15921,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RE20,db-regio-ag-mitte,3-800553-20,#ee1d23,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RE25,db-regio-ag-mitte,3-801526-25,#007ec5,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RB22,db-regio-ag-mitte,3-800553-22,#ee1d23,#ffffff,,rectangle-rounded-corner
+db-regio-mitte,RB23,db-regio-ag-mitte,3-801526-23,#15c0f2,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB45,db-regio-ag-mitte,3-8015a6-45,#8bc63f,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB46,db-regio-ag-mitte,3-8015a6-46,#00805f,#ffffff,,rectangle-rounded-corner
 db-regio-mitte,RB51,db-regio-ag-mitte,3-800520-51,#00805f,#ffffff,,rectangle-rounded-corner
@@ -270,6 +274,11 @@ hans,RB34,hanseatische-eisenbahn-gmbh,3-pb-34,#0066ad,#ffffff,,rectangle
 hans,RB73,hanseatische-eisenbahn-gmbh,3-pb-73,#009686,#ffffff,,rectangle
 hans,RB74,hanseatische-eisenbahn-gmbh,3-pb-74,#0066ad,#ffffff,,rectangle
 hans,RE27,hanseatische-eisenbahn-gmbh,3-pb-re27,#399fdf,#ffffff,,rectangle
+hlb,RB21,hlb-hessenbahn-gmbh,3-k4rb-rb21,#007ec5,#ffffff,,rectangle-rounded-corner
+hlb,RB29,hlb-hessenbahn-gmbh,3-k4rb-rb29,#c77db4,#ffffff,,rectangle-rounded-corner
+hlb,RB45,hlb-hessenbahn-gmbh,3-k4rb-rb45,#007ec5,#ffffff,,rectangle-rounded-corner
+hlb,RB90,hlb-hessenbahn-gmbh,3-k4rb-rb90,#90268f,#ffffff,,rectangle-rounded-corner
+hlb,RE24,hlb-hessenbahn-gmbh,3-k4re-re24,#007ec5,#ffffff,,rectangle-rounded-corner
 hvv-akn,A 1,akn-eisenbahn-gmbh,3-a0-a1,#f7931d,#ffffff,,pill
 hvv-akn,A 2,akn-eisenbahn-gmbh,3-a0-a2,#f7931d,#ffffff,,pill
 hvv-akn,A 3,akn-eisenbahn-gmbh,3-a0-a3,#f7931d,#ffffff,,pill
