@@ -111,6 +111,20 @@
         ]
     },
     {
+        "shortOperatorName": "cfl",
+        "contributors": [
+            {
+                "github": "SpielenmitLili"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Fahrpläne",
+                "source": "https://www.cfl.lu/de-de/timetable"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "db-fernverkehr-ag",
         "contributors": [
             {
