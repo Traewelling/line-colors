@@ -2227,6 +2227,9 @@ waldbahn-dlb,RB 38,waldbahn-die-landerbahn-gmbh-dlb,3-w9-rb38,#ff6600,#ffffff,,r
 westfalenbahn,RE 15,westfalenbahn,3-w3-re15,#ea9d22,#ffffff,,rectangle
 westfalenbahn,RE 60,westfalenbahn,3-w3-re60,#00a3de,#ffffff,,rectangle
 westfalenbahn,RE 70,westfalenbahn,3-w3-re70,#005174,#ffffff,,rectangle
+wt-bvo,349,busverkehr-ostwestfalen-gmbh,5-owl021-349,#e20079,#ffffff,,pill
+wt-bvo,350,busverkehr-ostwestfalen-gmbh,5-owl021-350,#004e2d,#ffffff,,pill
+wt-bvo,351,busverkehr-ostwestfalen-gmbh,5-owl021-351,#97bf0d,#002650,,pill
 wt-mobiel,1,mobiel-gmbh,8-owl031-1,#009fe0,#ffffff,,rectangle
 wt-mobiel,2,mobiel-gmbh,8-owl031-2,#008f36,#ffffff,,rectangle
 wt-mobiel,3,mobiel-gmbh,8-owl031-3,#ffed00,#00264f,,rectangle
@@ -2298,6 +2301,12 @@ wt-padersprinter,23,,5-vph063-23,#5fb458,#ffffff,,rectangle
 wt-padersprinter,100,,5-vph063-100,#469cd8,#ffffff,,rectangle
 wt-rvm,R51,,5-vgm023-r51,#006fb9,#ffffff,,rectangle-rounded-corner
 wt-rvm,S50,,5-vgm020-s50,#c24636,#ffffff,,rectangle-rounded-corner
+wt-twv,48,transdev-ostwestfalen-gmbh,5-owl051-48,#39a9dc,#002650,,pill
+wt-twv,59,transdev-ostwestfalen-gmbh,5-owl051-59,#e2001a,#ffffff,,pill
+wt-twv,61,transdev-ostwestfalen-gmbh,5-owl051-61,#39a9dc,#002650,,pill
+wt-twv,62,transdev-ostwestfalen-gmbh,5-owl051-62,#39a9dc,#002650,,pill
+wt-twv,80.2,transdev-ostwestfalen-gmbh,5-owl050-80-2,#e2001a,#ffffff,,pill
+wt-twv,88,transdev-ostwestfalen-gmbh,5-owl051-88,#e85b98,#002650,,pill
 zvnl-bus,60,,5-naslvb-60,#a61580,#ffffff,,pill
 zvnl-bus,65,,5-naslvb-65,#a61580,#ffffff,,pill
 zvnl-bus,70,,5-naslvb-70,#a61580,#ffffff,,pill
