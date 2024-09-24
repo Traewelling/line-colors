@@ -2234,6 +2234,19 @@ wt-mobiel,1,mobiel-gmbh,8-owl031-1,#009fe0,#ffffff,,rectangle
 wt-mobiel,2,mobiel-gmbh,8-owl031-2,#008f36,#ffffff,,rectangle
 wt-mobiel,3,mobiel-gmbh,8-owl031-3,#ffed00,#00264f,,rectangle
 wt-mobiel,4,mobiel-gmbh,8-owl031-4,#e3001b,#ffffff,,rectangle
+wt-mobiel,N1,,5-owl032-n1,#002f6b,#ffffff,,rectangle
+wt-mobiel,N2,,5-owl032-n2,#e20040,#ffffff,,rectangle
+wt-mobiel,N3,,5-owl032-n3,#89ba17,#ffffff,,rectangle
+wt-mobiel,N4,,5-owl032-n4,#006ab3,#ffffff,,rectangle
+wt-mobiel,N5,,5-owl032-n5,#93191e,#ffffff,,rectangle
+wt-mobiel,N6,,5-owl032-n6,#eb690b,#ffffff,,rectangle
+wt-mobiel,N7,,5-owl032-n7,#00501f,#ffffff,,rectangle
+wt-mobiel,N8,,5-owl032-n8,#009ee0,#ffffff,,rectangle
+wt-mobiel,N11,,5-owl032-n11,#00acb6,#ffffff,,rectangle
+wt-mobiel,N12,,5-owl032-n12,#96427f,#ffffff,,rectangle
+wt-mobiel,N14,,5-owl032-n14,#c50a33,#ffffff,,rectangle
+wt-mobiel,N15,,5-owl032-n15,#93191e,#ffffff,,rectangle
+wt-mobiel,N18,,5-owl032-n18,#45c0eb,#ffffff,,rectangle
 wt-mobiel,SEV 1,,5-owl032-ev1,#ef93ba,#002650,,pill
 wt-mobiel,S15,,5-owl032-s15,#002650,#ffffff,,pill
 wt-mobiel,21,,5-owl032-21,#d75163,#ffffff,,pill
@@ -2301,6 +2314,7 @@ wt-padersprinter,23,,5-vph063-23,#5fb458,#ffffff,,rectangle
 wt-padersprinter,100,,5-vph063-100,#469cd8,#ffffff,,rectangle
 wt-rvm,R51,,5-vgm023-r51,#006fb9,#ffffff,,rectangle-rounded-corner
 wt-rvm,S50,,5-vgm020-s50,#c24636,#ffffff,,rectangle-rounded-corner
+wt-twv,N19,,5-owl051-n19,#f7a600,#ffffff,,rectangle
 wt-twv,48,,5-owl051-48,#39a9dc,#002650,,pill
 wt-twv,59,,5-owl051-59,#e2001a,#ffffff,,pill
 wt-twv,61,,5-owl051-61,#39a9dc,#002650,,pill
