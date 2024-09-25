@@ -2362,6 +2362,21 @@
         ]
     },
     {
+        "shortOperatorName": "wt-bvo",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Schematischer Netzplan Bielefeld",
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
+            }
+        ]
+
+    },
+    {
         "shortOperatorName": "wt-mobiel",
         "contributors": [
             {
@@ -2375,6 +2390,14 @@
             {
                 "name": "Schematischer Netzplan Bielefeld",
                 "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
+            },
+            {
+                "name": "Bielefeld: schematischer Netzplan NachtBus",
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_NachtBus.pdf"
+            },
+            {
+                "name": "NachtBus-Linie N14: Fahrplan & Linienweg",
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/NachtBus/N14_Fahrplan_und_Linienweg.pdf"
             }
         ]
     },
@@ -2403,6 +2426,28 @@
             {
                 "name": "Netzplan Steinfurt Süd",
                 "source": "https://www.rvm-online.de/fileadmin/startseite_rvm/fahrgast/fahrt_planen/liniennetzplan/steinfurt_sued_liniennetzplan_2021.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wt-twv",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Schematischer Netzplan Bielefeld",
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
+            },
+            {
+                "name": "Bielefeld: schematischer Netzplan NachtBus",
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_NachtBus.pdf"
+            },
+            {
+                "name": "NachtBus-Linie N14: Fahrplan & Linienweg",
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/NachtBus/N14_Fahrplan_und_Linienweg.pdf"
             }
         ]
     },
