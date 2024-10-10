@@ -7,6 +7,9 @@
             },
             {
                 "github": "Nagiphaaa"
+            },
+            {
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -21,20 +24,9 @@
         "contributors": [
             {
                 "github": "verbuchselt"
-            }
-        ],
-        "sources": [
+            },
             {
-                "name": "BEG Liniennetzplan Bayern 2024",
-                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "alex-dlb",
-        "contributors": [
-            {
-                "github": "verbuchselt"
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -63,6 +55,9 @@
         "contributors": [
             {
                 "github": "verbuchselt"
+            },
+            {
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -118,6 +113,9 @@
         "contributors": [
             {
                 "github": "SpielenmitLili"
+            },
+            {
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -132,6 +130,9 @@
         "contributors": [
             {
                 "github": "Nagiphaaa"
+            },
+            {
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
