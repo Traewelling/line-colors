@@ -2134,13 +2134,13 @@ vvo-bus,98A,,5-voe022-98a,#b1aa6e,#ffffff,,pill
 vvo-bus,98B,,5-voe022-98b,#dbd186,#ffffff,,pill
 vvo-bus,160,,5-voe023-160,#9c9d9d,#ffffff,,pill
 vvo-bus,166,,5-voe023-166,#35a9e1,#ffffff,,pill
-vvo-db-regio,RB U28,db-regio-ag-sudost,3-800417-u28,#014d6f,#ffffff,,pill
-vvo-db-regio,RB 33,db-regio-ag-sudost,3-8004l1-33,#ec7797,#ffffff,,rectangle
-vvo-db-regio,RB 71,db-regio-ag-sudost,3-8004l1-71,#ad006f,#ffffff,,rectangle
-vvo-db-regio,RB 72,db-regio-ag-sudost,3-8004l1-72,#9c321b,#ffffff,,rectangle
-vvo-db-regio,RE 19,db-regio-ag-sudost,3-8004l1-19,#00895d,#ffffff,,rectangle
-vvo-db-regio,RE 20,db-regio-ag-sudost,3-800417-20,#575756,#ffffff,,rectangle
-vvo-db-regio,RE 50,db-regio-ag-sudost,3-800456-50,#b60d1c,#ffffff,,rectangle
+vvo-db-regio,RB U28,db-regio-ag-sudost,rb-u28,#014d6f,#ffffff,,pill
+vvo-db-regio,RB 33,db-regio-ag-sudost,rb-33,#ec7797,#ffffff,,rectangle
+vvo-db-regio,RB 71,db-regio-ag-sudost,rb-71,#ad006f,#ffffff,,rectangle
+vvo-db-regio,RB 72,db-regio-ag-sudost,rb-72,#9c321b,#ffffff,,rectangle
+vvo-db-regio,RE 19,db-regio-ag-sudost,re-19,#00895d,#ffffff,,rectangle
+vvo-db-regio,RE 20,db-regio-ag-sudost,re-20,#575756,#ffffff,,rectangle
+vvo-db-regio,RE 50,db-regio-ag-sudost,re-50,#b60d1c,#ffffff,,rectangle
 vvo-db-sbd,S 1,db-regio-ag-sudost,4-800469-1,#4f9551,#ffffff,,pill
 vvo-db-sbd,S 2,db-regio-ag-sudost,4-800469-2,#f58220,#ffffff,,pill
 vvo-db-sbd,S 3,db-regio-ag-sudost,4-800469-3,#00b3ef,#ffffff,,pill
@@ -2173,8 +2173,8 @@ vvs-db-sbs,S5,db-regio-ag-s-bahn-stuttgart,4-800643-5,#00acdd,#ffffff,,rectangle
 vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,,rectangle
 vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectangle
 vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle
-vvs-db-sbs,RB11,db-regio-ag-s-bahn-stuttgart,3-800643-11,#02aa9e,#ffffff,,rectangle
-vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,3-800643-64,#b6931d,#ffffff,,rectangle
+vvs-db-sbs,RB11,db-regio-ag-s-bahn-stuttgart,rb-11,#02aa9e,#ffffff,,rectangle
+vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,rb-64,#b6931d,#ffffff,,rectangle
 vvs-ssb-nachtbus,N 1,,5-vvs033-n1,#3c389e,#ffffff,,rectangle
 vvs-ssb-nachtbus,N 2,,5-vvs033-n2,#6fdaf8,#ffffff,,rectangle
 vvs-ssb-nachtbus,N 3,,5-vvs033-n3,#6fdaf8,#06429a,,rectangle
@@ -2203,12 +2203,12 @@ vvs-ssb-stadtbahn,U 7,,8-vvs020-u7,#2bbb8f,#ffffff,,rectangle
 vvs-ssb-stadtbahn,U 8,,8-vvs020-u8,#c8b97b,#000000,,rectangle
 vvs-ssb-stadtbahn,U 9,,8-vvs020-u9,#ffd036,#000000,,rectangle
 vvs-ssb-stadtbahn,Zacke,,8-vvs021-10,#ffb530,#24629d,,rectangle
-vvs-weg,RB 46,wurttembergische-eisenbahn-gesellschaft-mbh,3-vvs012-rb46,#561c6f,#000000,,rectangle
-vvs-weg,RB 47,wurttembergische-eisenbahn-gesellschaft-mbh,3-vvs012-rb47,#b0599e,#000000,,rectangle
-vvs-weg,RB 61,wurttembergische-eisenbahn-gesellschaft-mbh,3-vvs012-rb61,#561c6f,#000000,,rectangle
-vvs-weg,RB 65,wurttembergische-eisenbahn-gesellschaft-mbh,3-vvs012-rb65,#b0599e,#000000,,rectangle
+vvs-weg,RB 46,wurttembergische-eisenbahn-gesellschaft-mbh,weg-rb46,#561c6f,#000000,,rectangle
+vvs-weg,RB 47,wurttembergische-eisenbahn-gesellschaft-mbh,weg-rb47,#b0599e,#000000,,rectangle
+vvs-weg,RB 61,wurttembergische-eisenbahn-gesellschaft-mbh,weg-rb61,#561c6f,#000000,,rectangle
+vvs-weg,RB 65,wurttembergische-eisenbahn-gesellschaft-mbh,weg-rb65,#b0599e,#000000,,rectangle
 vvt-db-regio-bayern,S7,db-regio-ag-bayern,4-800790-7,#d09eba,#ffffff,,rectangle
-vvt-oebb,cjx1,osterreichische-bundesbahnen,3-81-1-1268243-5257783,#48c9f2,#ffffff,,rectangle
+vvt-oebb,cjx1,osterreichische-bundesbahnen,cjx-1,#48c9f2,#ffffff,,rectangle
 vvt-oebb,S2,osterreichische-bundesbahnen,4-81-2-1365196-5198757,#f45f98,#ffffff,,rectangle
 vvt-oebb,S3,osterreichische-bundesbahnen,4-81-3-1268243-5257783,#b0b6c8,#ffffff,,rectangle
 vvt-oebb,S4,osterreichische-bundesbahnen,4-81-4-1268243-5257783,#4a205d,#ffffff,,rectangle
@@ -2218,16 +2218,16 @@ vvv-montafoner-bahn,S4,montafoner-bahn,4-810003-4,#ffcb06,#ffffff,,rectangle
 vvv-oebb,S1,osterreichische-bundesbahnen,4-81-1-1079437-5289939,#dd1936,#ffffff,,rectangle
 vvv-oebb,S2,osterreichische-bundesbahnen,4-81-2-1054446-5247224,#dd1936,#ffffff,,rectangle
 vvv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1072203-5278907,#dd1936,#ffffff,,rectangle
-vvv-oebb,R1,osterreichische-bundesbahnen,3-81-1-1079437-5289939,#dd1936,#ffffff,,rectangle
-vvv-oebb,R2,osterreichische-bundesbahnen,3-81-2-1054446-5247224,#dd1936,#ffffff,,rectangle
-vvv-oebb,R5,osterreichische-bundesbahnen,3-81-5-1072203-5278907,#dd1936,#ffffff,,rectangle
-waldbahn-dlb,RB 35,waldbahn-die-landerbahn-gmbh-dlb,3-w9-rb35,#006629,#ffffff,,rectangle
-waldbahn-dlb,RB 36,waldbahn-die-landerbahn-gmbh-dlb,3-w9-rb36,#90bf26,#ffffff,,rectangle
-waldbahn-dlb,RB 37,waldbahn-die-landerbahn-gmbh-dlb,3-w9-rb37,#ffb200,#ffffff,,rectangle
-waldbahn-dlb,RB 38,waldbahn-die-landerbahn-gmbh-dlb,3-w9-rb38,#ff6600,#ffffff,,rectangle
-westfalenbahn,RE 15,westfalenbahn,3-w3-re15,#ea9d22,#ffffff,,rectangle
-westfalenbahn,RE 60,westfalenbahn,3-w3-re60,#00a3de,#ffffff,,rectangle
-westfalenbahn,RE 70,westfalenbahn,3-w3-re70,#005174,#ffffff,,rectangle
+vvv-oebb,R1,osterreichische-bundesbahnen,r-1,#dd1936,#ffffff,,rectangle
+vvv-oebb,R2,osterreichische-bundesbahnen,r-2,#dd1936,#ffffff,,rectangle
+vvv-oebb,R5,osterreichische-bundesbahnen,r-5,#dd1936,#ffffff,,rectangle
+waldbahn-dlb,RB 35,waldbahn-die-landerbahn-gmbh-dlb,rb35,#006629,#ffffff,,rectangle
+waldbahn-dlb,RB 36,waldbahn-die-landerbahn-gmbh-dlb,rb36,#90bf26,#ffffff,,rectangle
+waldbahn-dlb,RB 37,waldbahn-die-landerbahn-gmbh-dlb,rb37,#ffb200,#ffffff,,rectangle
+waldbahn-dlb,RB 38,waldbahn-die-landerbahn-gmbh-dlb,rb38,#ff6600,#ffffff,,rectangle
+westfalenbahn,RE 15,westfalenbahn,wfb-re15,#ea9d22,#ffffff,,rectangle
+westfalenbahn,RE 60,westfalenbahn,wfb-re60,#00a3de,#ffffff,,rectangle
+westfalenbahn,RE 70,westfalenbahn,wfb-re70,#005174,#ffffff,,rectangle
 wt-bvo,349,,5-owl021-349,#e20079,#ffffff,,pill
 wt-bvo,350,,5-owl021-350,#004e2d,#ffffff,,pill
 wt-bvo,351,,5-owl021-351,#97bf0d,#002650,,pill
