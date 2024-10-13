@@ -1841,6 +1841,20 @@
         ]
     },
     {
+        "shortOperatorName": "vr",
+        "contributors": [
+            {
+                "github": "supertassu"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VR commuter traffic route map",
+                "source": "https://www.vr.fi/en/railway-stations-and-routes/commuter-traffic#commuter-route-map"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrn-regionalbus",
         "contributors": [
             {
