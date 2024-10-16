@@ -94,8 +94,7 @@ include_once "../validation/common.php";
                             GitHub repository</a>.</p>
                     <p>This dataset is far from complete! If you want to add or correct data, please <a
                                 href="https://github.com/Traewelling/line-colors/edit/main/line-colors.csv">send a pull
-                            request</a> to our code base. If you don't have a GitHub account, you can send an email to
-                        <code>support @ traewelling.de</code> with your request.</p>
+                            request</a> to our code base.</p>
                 </section>
                 <hr class="divider">
 
