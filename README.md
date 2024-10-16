@@ -17,6 +17,7 @@ The `line-colors.csv` contains several columns:
   - `rectangle-rounded-corner`: Rectangle with rounded corners
   - `trapezoid`
   - `hexagon` (not yet supported)
+- `wikidataQid`: Wikidata QID for the line (if available, can be empty)
 
 ## Contributing
 
@@ -41,8 +42,15 @@ Please keep the PR's small. If possible, create a small PR for each operator. <b
 - All entries in the CSV (except `lineName`) shall be in lower case
 
 **THEN**
+
 - Please checkout at the latest commit of the `main` branch and create a new branch from there
 - Ensure that the validation tests (after pr is created) pass
+
+**optionally but recommended: Wikidata ([why?](https://github.com/Traewelling/line-colors/issues/91))**
+
+- try to find the Wikidata QID for the line and add it to the `wikidataQid` column
+    - You can use [this list](https://www.wikidata.org/wiki/User:Mkkagain/Verkehrslinien_in_Deutschland) to find the QID
+- if there is no Wikidata item for the line, it would be great if you could [create one](https://www.wikidata.org/wiki/Special:NewItem)
 
 ## Examples
 
