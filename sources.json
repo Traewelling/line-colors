@@ -7,6 +7,9 @@
             },
             {
                 "github": "Nagiphaaa"
+            },
+            {
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -21,20 +24,9 @@
         "contributors": [
             {
                 "github": "verbuchselt"
-            }
-        ],
-        "sources": [
+            },
             {
-                "name": "BEG Liniennetzplan Bayern 2024",
-                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "alex-dlb",
-        "contributors": [
-            {
-                "github": "verbuchselt"
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -63,6 +55,9 @@
         "contributors": [
             {
                 "github": "verbuchselt"
+            },
+            {
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -101,6 +96,9 @@
         "contributors": [
             {
                 "github": "sebiIO"
+            },
+            {
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -115,6 +113,9 @@
         "contributors": [
             {
                 "github": "SpielenmitLili"
+            },
+            {
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -129,6 +130,9 @@
         "contributors": [
             {
                 "github": "Nagiphaaa"
+            },
+            {
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -259,6 +263,9 @@
             },
             {
                 "github": "verbuchselt"
+            },
+            {
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -288,6 +295,9 @@
             },
             {
                 "github": "sebiIO"
+            },
+            {
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -444,6 +454,9 @@
         "contributors": [
             {
                 "github": "SpielenmitLili"
+            },
+            {
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -694,6 +707,9 @@
         "contributors": [
             {
                 "github": "hoolycrash"
+            },
+            {
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -822,6 +838,9 @@
             },
             {
                 "github": "laugengebaeck"
+            },
+            {
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -971,6 +990,9 @@
         "contributors": [
             {
                 "github": "verbuchselt"
+            },
+            {
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -1487,6 +1509,9 @@
         "contributors": [
             {
                 "github": "feuer1998"
+            },
+            {
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -1816,6 +1841,20 @@
         ]
     },
     {
+        "shortOperatorName": "vr",
+        "contributors": [
+            {
+                "github": "supertassu"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VR commuter traffic route map",
+                "source": "https://www.vr.fi/en/railway-stations-and-routes/commuter-traffic#commuter-route-map"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrn-regionalbus",
         "contributors": [
             {
@@ -2135,6 +2174,9 @@
         "contributors": [
             {
                 "github": "hoolycrash"
+            },
+            {
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -2166,6 +2208,9 @@
             },
             {
                 "github": "Nagiphaaa"
+            },
+            {
+                "github": "oneiricbotcelot"
             }
         ],
         "sources": [
@@ -2362,6 +2407,21 @@
         ]
     },
     {
+        "shortOperatorName": "wt-bvo",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Schematischer Netzplan Bielefeld",
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
+            }
+        ]
+
+    },
+    {
         "shortOperatorName": "wt-mobiel",
         "contributors": [
             {
@@ -2375,6 +2435,14 @@
             {
                 "name": "Schematischer Netzplan Bielefeld",
                 "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
+            },
+            {
+                "name": "Bielefeld: schematischer Netzplan NachtBus",
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_NachtBus.pdf"
+            },
+            {
+                "name": "NachtBus-Linie N14: Fahrplan & Linienweg",
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/NachtBus/N14_Fahrplan_und_Linienweg.pdf"
             }
         ]
     },
@@ -2403,6 +2471,28 @@
             {
                 "name": "Netzplan Steinfurt Süd",
                 "source": "https://www.rvm-online.de/fileadmin/startseite_rvm/fahrgast/fahrt_planen/liniennetzplan/steinfurt_sued_liniennetzplan_2021.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wt-twv",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Schematischer Netzplan Bielefeld",
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
+            },
+            {
+                "name": "Bielefeld: schematischer Netzplan NachtBus",
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_NachtBus.pdf"
+            },
+            {
+                "name": "NachtBus-Linie N14: Fahrplan & Linienweg",
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/NachtBus/N14_Fahrplan_und_Linienweg.pdf"
             }
         ]
     },
