@@ -145,7 +145,7 @@ db-regio-bayern,RE 76,db-regio-ag-bayern,re-76,#006629,#ffffff,,rectangle,
 db-regio-bayern,RE 79,db-regio-ag-bayern,re-79,#800080,#ffffff,,rectangle,
 db-regio-mitte,RE1,db-regio-ag-mitte-suwex,re-1,#be1b40,#ffffff,,rectangle-rounded-corner,Q112773387
 db-regio-mitte,RE6,db-regio-ag-mitte,re-6,#f15921,#ffffff,,rectangle-rounded-corner,
-db-regio-mitte,RE11,db-regio-ag-mitte-suwex,re-11,#20b159,#ffffff,,rectangle,
+db-regio-mitte,RE 11,db-regio-ag-mitte-suwex,re-11,#20b159,#ffffff,,rectangle,
 db-regio-mitte,RE20,db-regio-ag-mitte,re-20,#ee1d23,#ffffff,,rectangle-rounded-corner,
 db-regio-mitte,RE25,db-regio-ag-mitte,re-25,#007ec5,#ffffff,,rectangle-rounded-corner,Q98104051
 db-regio-mitte,RB22,db-regio-ag-mitte,rb-22,#ee1d23,#ffffff,,rectangle-rounded-corner,Q130342880
@@ -164,7 +164,7 @@ db-regio-mitte,RB67,db-regio-ag-mitte,rb-67,#406bb1,#ffffff,,rectangle-rounded-c
 db-regio-mitte,RB68,db-regio-ag-mitte,rb-68,#406bb1,#ffffff,,rectangle-rounded-corner,
 db-regio-mitte,RE70,db-regio-ag-mitte,re-70,#d03831,#ffffff,,rectangle-rounded-corner,
 db-regio-mitte,RE73,db-regio-ag-mitte,re-73,#ff2e17,#ffffff,,rectangle-rounded-corner,
-db-regio-mitte,RB83,db-regio-ag-mitte,rb-83,#20b159,#ffffff,,rectangle,
+db-regio-mitte,RB 83,db-regio-ag-mitte,rb-83,#20b159,#ffffff,,rectangle,
 db-regio-nordost,FEX,db-regio-ag-nordost,fex19829,#79122f,#ffffff,,rectangle,
 db-regio-nordost,RB10,db-regio-ag-nordost,rb-10,#66aa22,#ffffff,,rectangle,
 db-regio-nordost,RB11,db-regio-ag-nordost,rb-11,#ed1c24,#ffffff,,rectangle,
