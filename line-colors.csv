@@ -55,7 +55,7 @@ ceske-drahy,RE 25,ceske-drahy,ex-364,#006666,#ffffff,,rectangle,
 cfl,RE 11,cfl,re-11,#20b159,#ffffff,,rectangle,
 cfl,RB 83,cfl,rb-83,#20b159,#ffffff,,rectangle,
 db-fernverkehr-ag,RE87,db-fernverkehr-ag,re-87,#cc0066,#ffffff,,rectangle,
-db-regio-ag-baden-wurttemberg,RE 2,db-regio-ag-baden-wurttemberg,re-2,#0069b4,#ffffff,,rectangle,
+db-regio-ag-baden-wurttemberg,RE 2,db-regio-ag-baden-wurttemberg,re-2,#0069b4,#ffffff,,rectangle,Q88627355
 db-regio-ag-baden-wurttemberg,IRE 3,db-regio-ag-baden-wurttemberg,ire-3,#e5007d,#ffffff,,rectangle,
 db-regio-ag-baden-wurttemberg,RE 4,db-regio-ag-baden-wurttemberg,re-4,#a05a2c,#ffffff,,rectangle,
 db-regio-ag-baden-wurttemberg,RE 5,db-regio-ag-baden-wurttemberg,re-5,#724019,#ffffff,,rectangle,
@@ -65,12 +65,12 @@ db-regio-ag-baden-wurttemberg,RE 14a,db-regio-ag-baden-wurttemberg,re-14a,#f3979
 db-regio-ag-baden-wurttemberg,RE 14b,db-regio-ag-baden-wurttemberg,re-14b,#02aa9e,#ffffff,,rectangle,
 db-regio-ag-baden-wurttemberg,MEX 19,db-regio-ag-baden-wurttemberg,mex-19,#999999,#ffffff,,rectangle,
 db-regio-ag-baden-wurttemberg,RB 26,db-regio-ag-baden-wurttemberg,rb-26,#009fe3,#ffffff,,rectangle,
-db-regio-ag-baden-wurttemberg,RB 27,db-regio-ag-baden-wurttemberg,rb-27,#008c3c,#ffffff,,rectangle,
+db-regio-ag-baden-wurttemberg,RB 27,db-regio-ag-baden-wurttemberg,rb-27,#008c3c,#ffffff,,rectangle,Q130280632
 db-regio-ag-baden-wurttemberg,RB 28,db-regio-ag-baden-wurttemberg,rb-28,#724019,#ffffff,,rectangle,
-db-regio-ag-baden-wurttemberg,RB 30,db-regio-ag-baden-wurttemberg,rb-30,#571d70,#ffffff,,rectangle,
+db-regio-ag-baden-wurttemberg,RB 30,db-regio-ag-baden-wurttemberg,rb-30,#571d70,#ffffff,,rectangle,Q130280647
 db-regio-ag-baden-wurttemberg,RB 31,db-regio-ag-baden-wurttemberg,rb-31,#00a99d,#ffffff,,rectangle,
 db-regio-ag-baden-wurttemberg,RB 32,db-regio-ag-baden-wurttemberg,rb-32,#008c3c,#ffffff,,rectangle,
-db-regio-ag-baden-wurttemberg,RB 37,db-regio-ag-baden-wurttemberg,rb-37,#aec90a,#ffffff,,rectangle,
+db-regio-ag-baden-wurttemberg,RB 37,db-regio-ag-baden-wurttemberg,rb-37,#aec90a,#ffffff,,rectangle,Q130283617
 db-regio-ag-baden-wurttemberg,IRE 50,db-regio-ag-baden-wurttemberg,ire-50,#b5931c,#ffffff,,rectangle,
 db-regio-ag-baden-wurttemberg,RB 52,db-regio-ag-baden-wurttemberg,rb-52,#00a99d,#ffffff,,rectangle,
 db-regio-ag-baden-wurttemberg,RB 53,db-regio-ag-baden-wurttemberg,rb-53,#561c6f,#ffffff,,rectangle,
@@ -80,7 +80,7 @@ db-regio-ag-baden-wurttemberg,RB 72,db-regio-ag-baden-wurttemberg,rb-72,#008c3c,
 db-regio-ag-baden-wurttemberg,RB 74,db-regio-ag-baden-wurttemberg,rb-74,#0a69b2,#ffffff,,rectangle,
 db-regio-ag-baden-wurttemberg,RB 93,db-regio-ag-baden-wurttemberg,rb-93,#009fe3,#ffffff,,rectangle,
 db-regio-ag-baden-wurttemberg,MEX 90,db-regio-ag-baden-wurttemberg,mex-90,#e5007d,#ffffff,,rectangle,
-db-regio-ag-baden-wurttemberg,IRE 200,db-regio-ag-baden-wurttemberg,ire-200,#aa0344,#ffffff,,rectangle,
+db-regio-ag-baden-wurttemberg,IRE 200,db-regio-ag-baden-wurttemberg,ire-200,#aa0344,#ffffff,,rectangle,Q114680512
 db-regio-bayern,RB 6,db-regio-ag-bayern,rb-6,#e50000,#ffffff,,rectangle,
 db-regio-bayern,RB 10,db-regio-ag-bayern,rb-10,#90bf26,#ffffff,,rectangle,
 db-regio-bayern,RB 11,db-regio-ag-bayern,rb-11,#00ace5,#ffffff,,rectangle,
@@ -2182,15 +2182,15 @@ vvo-tram,13,,8-voe011-13,#fdc300,#000000,,rectangle-rounded-corner,
 vvo-tram,44,,8-voe011-44,#a14c8d,#000000,,rectangle-rounded-corner,
 vvo-tram,46,,8-voe011-46,#eba507,#000000,,rectangle-rounded-corner,
 vvo-tram,20,,8-voe011-20,#000000,#ffffff,,rectangle-rounded-corner,
-vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,,rectangle,
-vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,,rectangle,
-vvs-db-sbs,S2,db-regio-ag-s-bahn-stuttgart,4-800643-2,#ee1c28,#ffffff,,rectangle,
-vvs-db-sbs,S3,db-regio-ag-s-bahn-stuttgart,4-800643-3,#f36e31,#ffffff,,rectangle,
+vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,,rectangle,Q18946157
+vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,,rectangle,Q107020232
+vvs-db-sbs,S2,db-regio-ag-s-bahn-stuttgart,4-800643-2,#ee1c28,#ffffff,,rectangle,Q66537943
+vvs-db-sbs,S3,db-regio-ag-s-bahn-stuttgart,4-800643-3,#f36e31,#ffffff,,rectangle,Q67504621
 vvs-db-sbs,S4,db-regio-ag-s-bahn-stuttgart,4-800643-4,#0166b3,#ffffff,,rectangle,
 vvs-db-sbs,S5,db-regio-ag-s-bahn-stuttgart,4-800643-5,#00acdd,#ffffff,,rectangle,
-vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,,rectangle,
-vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectangle,
-vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle,
+vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,,rectangle,Q67501804
+vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectangle,Q63952011
+vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle,Q130343355
 vvs-db-sbs,RB11,db-regio-ag-s-bahn-stuttgart,rb-11,#02aa9e,#ffffff,,rectangle,
 vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,rb-64,#b6931d,#ffffff,,rectangle,
 vvs-ssb-nachtbus,N 1,,5-vvs033-n1,#3c389e,#ffffff,,rectangle,
