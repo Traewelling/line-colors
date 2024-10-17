@@ -55,7 +55,7 @@ ceske-drahy,RE 25,ceske-drahy,ex-364,#006666,#ffffff,,rectangle,
 cfl,RE 11,cfl,re-11,#20b159,#ffffff,,rectangle,
 cfl,RB 83,cfl,rb-83,#20b159,#ffffff,,rectangle,
 db-fernverkehr-ag,RE87,db-fernverkehr-ag,re-87,#cc0066,#ffffff,,rectangle,
-db-regio-ag-baden-wurttemberg,RE 2,db-regio-ag-baden-wurttemberg,re-2,#0069b4,#ffffff,,rectangle,
+db-regio-ag-baden-wurttemberg,RE 2,db-regio-ag-baden-wurttemberg,re-2,#0069b4,#ffffff,,rectangle,Q88627355
 db-regio-ag-baden-wurttemberg,IRE 3,db-regio-ag-baden-wurttemberg,ire-3,#e5007d,#ffffff,,rectangle,
 db-regio-ag-baden-wurttemberg,RE 4,db-regio-ag-baden-wurttemberg,re-4,#a05a2c,#ffffff,,rectangle,
 db-regio-ag-baden-wurttemberg,RE 5,db-regio-ag-baden-wurttemberg,re-5,#724019,#ffffff,,rectangle,
@@ -65,12 +65,12 @@ db-regio-ag-baden-wurttemberg,RE 14a,db-regio-ag-baden-wurttemberg,re-14a,#f3979
 db-regio-ag-baden-wurttemberg,RE 14b,db-regio-ag-baden-wurttemberg,re-14b,#02aa9e,#ffffff,,rectangle,
 db-regio-ag-baden-wurttemberg,MEX 19,db-regio-ag-baden-wurttemberg,mex-19,#999999,#ffffff,,rectangle,
 db-regio-ag-baden-wurttemberg,RB 26,db-regio-ag-baden-wurttemberg,rb-26,#009fe3,#ffffff,,rectangle,
-db-regio-ag-baden-wurttemberg,RB 27,db-regio-ag-baden-wurttemberg,rb-27,#008c3c,#ffffff,,rectangle,
+db-regio-ag-baden-wurttemberg,RB 27,db-regio-ag-baden-wurttemberg,rb-27,#008c3c,#ffffff,,rectangle,Q130280632
 db-regio-ag-baden-wurttemberg,RB 28,db-regio-ag-baden-wurttemberg,rb-28,#724019,#ffffff,,rectangle,
-db-regio-ag-baden-wurttemberg,RB 30,db-regio-ag-baden-wurttemberg,rb-30,#571d70,#ffffff,,rectangle,
+db-regio-ag-baden-wurttemberg,RB 30,db-regio-ag-baden-wurttemberg,rb-30,#571d70,#ffffff,,rectangle,Q130280647
 db-regio-ag-baden-wurttemberg,RB 31,db-regio-ag-baden-wurttemberg,rb-31,#00a99d,#ffffff,,rectangle,
 db-regio-ag-baden-wurttemberg,RB 32,db-regio-ag-baden-wurttemberg,rb-32,#008c3c,#ffffff,,rectangle,
-db-regio-ag-baden-wurttemberg,RB 37,db-regio-ag-baden-wurttemberg,rb-37,#aec90a,#ffffff,,rectangle,
+db-regio-ag-baden-wurttemberg,RB 37,db-regio-ag-baden-wurttemberg,rb-37,#aec90a,#ffffff,,rectangle,Q130283617
 db-regio-ag-baden-wurttemberg,IRE 50,db-regio-ag-baden-wurttemberg,ire-50,#b5931c,#ffffff,,rectangle,
 db-regio-ag-baden-wurttemberg,RB 52,db-regio-ag-baden-wurttemberg,rb-52,#00a99d,#ffffff,,rectangle,
 db-regio-ag-baden-wurttemberg,RB 53,db-regio-ag-baden-wurttemberg,rb-53,#561c6f,#ffffff,,rectangle,
@@ -80,7 +80,7 @@ db-regio-ag-baden-wurttemberg,RB 72,db-regio-ag-baden-wurttemberg,rb-72,#008c3c,
 db-regio-ag-baden-wurttemberg,RB 74,db-regio-ag-baden-wurttemberg,rb-74,#0a69b2,#ffffff,,rectangle,
 db-regio-ag-baden-wurttemberg,RB 93,db-regio-ag-baden-wurttemberg,rb-93,#009fe3,#ffffff,,rectangle,
 db-regio-ag-baden-wurttemberg,MEX 90,db-regio-ag-baden-wurttemberg,mex-90,#e5007d,#ffffff,,rectangle,
-db-regio-ag-baden-wurttemberg,IRE 200,db-regio-ag-baden-wurttemberg,ire-200,#aa0344,#ffffff,,rectangle,
+db-regio-ag-baden-wurttemberg,IRE 200,db-regio-ag-baden-wurttemberg,ire-200,#aa0344,#ffffff,,rectangle,Q114680512
 db-regio-bayern,RB 6,db-regio-ag-bayern,rb-6,#e50000,#ffffff,,rectangle,
 db-regio-bayern,RB 10,db-regio-ag-bayern,rb-10,#90bf26,#ffffff,,rectangle,
 db-regio-bayern,RB 11,db-regio-ag-bayern,rb-11,#00ace5,#ffffff,,rectangle,
@@ -150,48 +150,43 @@ db-regio-mitte,RE20,db-regio-ag-mitte,re-20,#ee1d23,#ffffff,,rectangle-rounded-c
 db-regio-mitte,RE25,db-regio-ag-mitte,re-25,#007ec5,#ffffff,,rectangle-rounded-corner,Q98104051
 db-regio-mitte,RB22,db-regio-ag-mitte,rb-22,#ee1d23,#ffffff,,rectangle-rounded-corner,Q130342880
 db-regio-mitte,RB23,db-regio-ag-mitte,rb-23,#15c0f2,#ffffff,,rectangle-rounded-corner,Q96474187
-db-regio-mitte,RB45,db-regio-ag-mitte,rb-45,#8bc63f,#ffffff,,rectangle-rounded-corner,
-db-regio-mitte,RB46,db-regio-ag-mitte,rb-46,#00805f,#ffffff,,rectangle-rounded-corner,
+db-regio-mitte,RB45,db-regio-ag-mitte,rb-45,#8bc63f,#ffffff,,rectangle-rounded-corner,Q98152720
+db-regio-mitte,RB46,db-regio-ag-mitte,rb-46,#00805f,#ffffff,,rectangle-rounded-corner,Q98152733
 db-regio-mitte,RB51,db-regio-ag-mitte,rb-51,#00805f,#ffffff,,rectangle-rounded-corner,
 db-regio-mitte,RB53,db-regio-ag-mitte,rb-53,#40ae49,#ffffff,,rectangle-rounded-corner,
-db-regio-mitte,RB55,db-regio-ag-mitte,rb-55,#005824,#ffffff,,rectangle-rounded-corner,
+db-regio-mitte,RB55,db-regio-ag-mitte,rb-55,#005824,#ffffff,,rectangle-rounded-corner,Q108435213
 db-regio-mitte,RE40,db-regio-ag-mitte,re-40,#ff9027,#ffffff,,rectangle-rounded-corner,
 db-regio-mitte,RB41,db-regio-ag-mitte,rb-41,#00ab4f,#ffffff,,rectangle-rounded-corner,
 db-regio-mitte,RB44,db-regio-ag-mitte,rb-44,#7ac547,#ffffff,,rectangle-rounded-corner,
-db-regio-mitte,RE45,db-regio-ag-mitte,re-45,#cf631a,#ffffff,,rectangle-rounded-corner,
+db-regio-mitte,RE45,db-regio-ag-mitte,re-45,#cf631a,#ffffff,,rectangle-rounded-corner,Q126890289
 db-regio-mitte,RE60,db-regio-ag-mitte,re-60,#d03831,#ffffff,,rectangle-rounded-corner,
 db-regio-mitte,RB67,db-regio-ag-mitte,rb-67,#406bb1,#ffffff,,rectangle-rounded-corner,
-db-regio-mitte,RB68,db-regio-ag-mitte,rb-68,#406bb1,#ffffff,,rectangle-rounded-corner,
-db-regio-mitte,RE70,db-regio-ag-mitte,re-70,#d03831,#ffffff,,rectangle-rounded-corner,
+db-regio-mitte,RB68,db-regio-ag-mitte,rb-68,#406bb1,#ffffff,,rectangle-rounded-corner,Q68930888
+db-regio-mitte,RE70,db-regio-ag-mitte,re-70,#d03831,#ffffff,,rectangle-rounded-corner,Q80105383
 db-regio-mitte,RE73,db-regio-ag-mitte,re-73,#ff2e17,#ffffff,,rectangle-rounded-corner,
 db-regio-mitte,RB 83,db-regio-ag-mitte,rb-83,#20b159,#ffffff,,rectangle,
-db-regio-nordost,FEX,db-regio-ag-nordost,fex19829,#79122f,#ffffff,,rectangle,
-db-regio-nordost,RB10,db-regio-ag-nordost,rb-10,#66aa22,#ffffff,,rectangle,
+db-regio-nordost,FEX,db-regio-ag-nordost,fex19829,#79122f,#ffffff,,rectangle,Q100533383
+db-regio-nordost,RB10,db-regio-ag-nordost,rb-10,#66aa22,#ffffff,,rectangle,Q15195695
 db-regio-nordost,RB11,db-regio-ag-nordost,rb-11,#ed1c24,#ffffff,,rectangle,
-db-regio-nordost,RB12,db-regio-ag-nordost,rb-12,#399fdf,#ffffff,,rectangle,
-db-regio-nordost,RB14,db-regio-ag-nordost,rb-14,#a5027d,#ffffff,,rectangle,
+db-regio-nordost,RB12,db-regio-ag-nordost,rb-12,#399fdf,#ffffff,,rectangle,Q42383940
+db-regio-nordost,RB14,db-regio-ag-nordost,rb-14,#a5027d,#ffffff,,rectangle,Q15119376
 db-regio-nordost,RB17,db-regio-ag-nordost,rb-17,#dd4daf,#ffffff,,rectangle,
 db-regio-nordost,RB18,db-regio-ag-nordost,rb-18,#399fdf,#ffffff,,rectangle,
-db-regio-nordost,RB20,db-regio-ag-nordost,rb-20,#007734,#ffffff,,rectangle,
-db-regio-nordost,RB21,db-regio-ag-nordost,rb-21,#501689,#ffffff,,rectangle,
-db-regio-nordost,RB22,db-regio-ag-nordost,rb-22,#009bd5,#ffffff,,rectangle,
+db-regio-nordost,RB20,db-regio-ag-nordost,rb-20,#007734,#ffffff,,rectangle,Q68007873
+db-regio-nordost,RB21,db-regio-ag-nordost,rb-21,#501689,#ffffff,,rectangle,Q105947745
+db-regio-nordost,RB22,db-regio-ag-nordost,rb-22,#009bd5,#ffffff,,rectangle,Q68006335
 db-regio-nordost,RB23,db-regio-ag-nordost,3-800165-23,#eb7405,#ffffff,,rectangle,
 db-regio-nordost,RB23,db-regio-ag-nordost,rb-23,#0066ad,#ffffff,,rectangle,
 db-regio-nordost,RB24,db-regio-ag-nordost,3-800165-24,#da6ba2,#ffffff,,rectangle,
 db-regio-nordost,RB24,db-regio-ag-nordost,rb-24,#e2001a,#ffffff,,rectangle,
-db-regio-nordost,RB25,db-regio-ag-nordost,rb-25,#00a998,#ffffff,,rectangle,
-db-regio-nordost,RB31,db-regio-ag-nordost,rb-31,#66aa22,#ffffff,,rectangle,
-db-regio-nordost,RB32,db-regio-ag-nordost,rb-32,#697c8a,#ffffff,,rectangle,
-db-regio-nordost,RB43,db-regio-ag-nordost,rb-43,#009bd5,#ffffff,,rectangle,
-db-regio-nordost,RB49,db-regio-ag-nordost,rb-49,#992746,#ffffff,,rectangle,
-db-regio-nordost,RB55,db-regio-ag-nordost,rb-55,#eb7405,#ffffff,,rectangle,
+db-regio-nordost,RB25,db-regio-ag-nordost,rb-25,#00a998,#ffffff,,rectangle,Q63484785
+db-regio-nordost,RB31,db-regio-ag-nordost,rb-31,#66aa22,#ffffff,,rectangle,Q66439830
+db-regio-nordost,RB32,db-regio-ag-nordost,rb-32,#697c8a,#ffffff,,rectangle,Q112802971
+db-regio-nordost,RB43,db-regio-ag-nordost,rb-43,#009bd5,#ffffff,,rectangle,Q84429153
+db-regio-nordost,RB49,db-regio-ag-nordost,rb-49,#992746,#ffffff,,rectangle,Q84436359
+db-regio-nordost,RB55,db-regio-ag-nordost,rb-55,#eb7405,#ffffff,,rectangle,Q63224617
 db-regio-nordost,RB92,db-regio-ag-nordost,rb-92,#eb7405,#ffffff,,rectangle,
 db-regio-nordost,RB93,db-regio-ag-nordost,rb-93,#eb7405,#ffffff,,rectangle,
-db-regio-nordost,RE10,db-regio-ag-nordost,re-10,#5e5e5d,#ffffff,,rectangle,
-db-regio-nordost,RE11,db-regio-ag-nordost,re-11,#da6ba2,#ffffff,,rectangle,
-db-regio-nordost,RE13,db-regio-ag-nordost,re-13,#009686,#ffffff,,rectangle,
-db-regio-nordost,RE15,db-regio-ag-nordost,re-15,#ffd502,#000000,,rectangle,
-db-regio-nordost,RE18,db-regio-ag-nordost,re-18,#eb7405,#ffffff,,rectangle,
 db-regio-nordost,RE1,db-regio-ag-nordost,re-1,#108449,#ffffff,,rectangle,
 db-regio-nordost,RE2,db-regio-ag-nordost,re-2,#ffd502,#000000,,rectangle,
 db-regio-nordost,RE3,db-regio-ag-nordost,re-3,#eb7405,#ffffff,,rectangle,
@@ -201,14 +196,19 @@ db-regio-nordost,RE5,db-regio-ag-nordost,re-5,#0066ad,#ffffff,,rectangle,
 db-regio-nordost,RE6,db-regio-ag-nordost,re-6,#da6ba2,#ffffff,,rectangle,
 db-regio-nordost,RE7,db-regio-ag-nordost,re-7,#007734,#ffffff,,rectangle,
 db-regio-nordost,RE7,db-regio-ag-nordost,re-7,#da6ba2,#ffffff,,rectangle,
+db-regio-nordost,RE10,db-regio-ag-nordost,re-10,#5e5e5d,#ffffff,,rectangle,
+db-regio-nordost,RE11,db-regio-ag-nordost,re-11,#da6ba2,#ffffff,,rectangle,
+db-regio-nordost,RE13,db-regio-ag-nordost,re-13,#009686,#ffffff,,rectangle,
+db-regio-nordost,RE15,db-regio-ag-nordost,re-15,#ffd502,#000000,,rectangle,
+db-regio-nordost,RE18,db-regio-ag-nordost,re-18,#eb7405,#ffffff,,rectangle,
 db-regio-nordost,RE50,db-regio-ag-nordost,re-50,#2785d0,#ffffff,,rectangle,
 db-regio-nordost,S1,db-regio-ag-nordost,4-800156-1,#00a998,#ffffff,,rectangle,
 db-regio-nordost,S2,db-regio-ag-nordost,4-800156-2,#a0138e,#ffffff,,rectangle,
 db-regio-nordost,S2X,db-regio-ag-nordost,4-800156-2x,#a0138e,#ffffff,,rectangle,
 db-regio-nordost,S3,db-regio-ag-nordost,4-800156-3,#a64c35,#ffffff,,rectangle,
 db-regio-sudost,RB 51,db-regio-ag-sudost,rb-51,#469cd7,#ffffff,,rectangle,
-db-regio-sudost,RE 7,db-regio-ag-sudost,re-7,#992e00,#ffffff,,rectangle,
-db-regio-sudost,RE 13,db-regio-ag-sudost,re-13,#ebaa3b,#ffffff,,rectangle,
+db-regio-sudost,RE 7,db-regio-ag-sudost,re-7,#992e00,#ffffff,,rectangle,Q1885609
+db-regio-sudost,RE 13,db-regio-ag-sudost,re-13,#ebaa3b,#ffffff,,rectangle,Q113505112
 db-regio-sudost,RE 14,db-regio-ag-sudost,re-14,#a98956,#ffffff,,rectangle,
 db-regio-sudost,RE 57,db-regio-ag-sudost,re-57,#992e00,#ffffff,,rectangle,
 db-regio-sudost,S1,db-regio-ag-sudost,4-800486-1,#f5de2b,#000000,,pill,
@@ -2185,15 +2185,15 @@ vvo-tram,13,,8-voe011-13,#fdc300,#000000,,rectangle-rounded-corner,
 vvo-tram,44,,8-voe011-44,#a14c8d,#000000,,rectangle-rounded-corner,
 vvo-tram,46,,8-voe011-46,#eba507,#000000,,rectangle-rounded-corner,
 vvo-tram,20,,8-voe011-20,#000000,#ffffff,,rectangle-rounded-corner,
-vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,,rectangle,
-vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,,rectangle,
-vvs-db-sbs,S2,db-regio-ag-s-bahn-stuttgart,4-800643-2,#ee1c28,#ffffff,,rectangle,
-vvs-db-sbs,S3,db-regio-ag-s-bahn-stuttgart,4-800643-3,#f36e31,#ffffff,,rectangle,
+vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,,rectangle,Q18946157
+vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,,rectangle,Q107020232
+vvs-db-sbs,S2,db-regio-ag-s-bahn-stuttgart,4-800643-2,#ee1c28,#ffffff,,rectangle,Q66537943
+vvs-db-sbs,S3,db-regio-ag-s-bahn-stuttgart,4-800643-3,#f36e31,#ffffff,,rectangle,Q67504621
 vvs-db-sbs,S4,db-regio-ag-s-bahn-stuttgart,4-800643-4,#0166b3,#ffffff,,rectangle,
 vvs-db-sbs,S5,db-regio-ag-s-bahn-stuttgart,4-800643-5,#00acdd,#ffffff,,rectangle,
-vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,,rectangle,
-vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectangle,
-vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle,
+vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,,rectangle,Q67501804
+vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectangle,Q63952011
+vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle,Q130343355
 vvs-db-sbs,RB11,db-regio-ag-s-bahn-stuttgart,rb-11,#02aa9e,#ffffff,,rectangle,
 vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,rb-64,#b6931d,#ffffff,,rectangle,
 vvs-ssb-nachtbus,N 1,,5-vvs033-n1,#3c389e,#ffffff,,rectangle,
