@@ -153,6 +153,9 @@
             },
             {
                 "github": "oneiricbotcelot"
+            },
+            {
+                "github": "SpielenmitLili"
             }
         ],
         "sources": [
@@ -236,6 +239,9 @@
             },
             {
                 "github": "jonasr97"
+            },
+            {
+                "github": "SpielenmitLili"
             }
         ],
         "sources": [
@@ -266,6 +272,9 @@
             },
             {
                 "github": "oneiricbotcelot"
+            },
+            {
+                "github": "SpielenmitLili"
             }
         ],
         "sources": [
@@ -1753,6 +1762,20 @@
             {
                 "name": "VGN Schienennetzplan Nürnberg-Fürth",
                 "source": "https://www.vgn.de/liniennetze/schienennetz_nuernberg_furth/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vlexx",
+        "contributors": [
+            {
+                "github": "SpielenmitLili"
+            }
+        ],
+        "sources": [
+            {
+                "name": "RMV-Schienennetzplan 2024 mit Riedbahnsperrung 15.07.-14.12.2024",
+                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/Schienennetzplan.pdf"
             }
         ]
     },
