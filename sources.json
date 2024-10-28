@@ -2443,9 +2443,27 @@
             {
                 "name": "Schematischer Netzplan Bielefeld",
                 "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
+            },
+            {
+                "name": "01-Schemaplan-2023-08-24",
+                "source": "https://www.nph.de/de-wAssets/docs/oepnv/angebot/Liniennetzplaene/01-Schemaplan-2023-08-24.pdf"
             }
         ]
 
+    },
+    {
+        "shortOperatorName": "wt-go-on",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "01-Schemaplan-2023-08-24",
+                "source": "https://www.nph.de/de-wAssets/docs/oepnv/angebot/Liniennetzplaene/01-Schemaplan-2023-08-24.pdf"
+            }
+        ]
     },
     {
         "shortOperatorName": "wt-mobiel",
@@ -2477,12 +2495,19 @@
         "contributors": [
             {
                 "github": "lunas-bad-coding"
+            },
+            {
+                "github": "KiloBravoBFE"
             }
         ],
         "sources": [
             {
                 "name": "PaderSprinter Netzplan",
                 "source": "https://www.padersprinter.de/?wpdmdl=92737"
+            },
+            {
+                "name": "PS-Netzplan-schematisch-Nacht-2024-05-10",
+                "source": "https://www.padersprinter.de/?wpdmdl=92739"
             }
         ]
     },
