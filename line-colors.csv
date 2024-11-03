@@ -22,15 +22,15 @@ arverio-bw,MEX 13,arverio-baden-wurttemberg,mex-13,#00b9f2,#ffffff,,rectangle,Q1
 arverio-bw,MEX 16,arverio-baden-wurttemberg,mex-16,#0073c0,#ffffff,,rectangle,Q130542339
 arverio-bw,RE 8,arverio-baden-wurttemberg,re-8,#b350a8,#ffffff,,rectangle,Q64512248
 arverio-bw,RE 90,arverio-baden-wurttemberg,re-90,#fd3083,#ffffff,,rectangle,Q64512220
-arverio-by,RB86,arverio-bayern,rb-86,#77aed2,#ffffff,,rectangle,
-arverio-by,RB87,arverio-bayern,rb-87,#77aed2,#ffffff,,rectangle,
-arverio-by,RB89,arverio-bayern,rb-89,#006da7,#ffffff,,rectangle,
-arverio-by,RB92,arverio-bayern,rb-92,#f28f8e,#ffffff,,rectangle,
-arverio-by,RE72,arverio-bayern,re-72,#ef7c00,#ffffff,,rectangle,
-arverio-by,RE80,arverio-bayern,re-80,#006da7,#ffffff,,rectangle,
-arverio-by,RE89,arverio-bayern,re-89,#006da7,#ffffff,,rectangle,
-arverio-by,RE9,arverio-bayern,re-9,#006da7,#ffffff,,rectangle,
-arverio-by,RE96,arverio-bayern,re-96,#f9b000,#ffffff,,rectangle,
+arverio-by,RB86,arverio-bayern,rb-86,#77aed2,#ffffff,,rectangle,Q130789113
+arverio-by,RB87,arverio-bayern,rb-87,#77aed2,#ffffff,,rectangle,Q130789121
+arverio-by,RB89,arverio-bayern,rb-89,#006da7,#ffffff,,rectangle,Q130789128
+arverio-by,RB92,arverio-bayern,rb-92,#f28f8e,#ffffff,,rectangle,Q130789133
+arverio-by,RE72,arverio-bayern,re-72,#ef7c00,#ffffff,,rectangle,Q130789094
+arverio-by,RE80,arverio-bayern,re-80,#006da7,#ffffff,,rectangle,Q116761629
+arverio-by,RE89,arverio-bayern,re-89,#006da7,#ffffff,,rectangle,Q130789100
+arverio-by,RE9,arverio-bayern,re-9,#006da7,#ffffff,,rectangle,Q130789102
+arverio-by,RE96,arverio-bayern,re-96,#f9b000,#ffffff,,rectangle,Q130789109
 bayerische-zugspitzbahn,RB 64,bayerische-zugspitzbahn,bzb-rb64,#6cc3d9,#ffffff,,rectangle,
 brb,RB 13,bayerische-regiobahn,brb-rb13,#ffb200,#ffffff,,rectangle,
 brb,RB 14,bayerische-regiobahn,brb-rb14,#ffb200,#ffffff,,rectangle,
