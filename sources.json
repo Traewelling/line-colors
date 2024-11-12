@@ -345,6 +345,20 @@
         ]
     },
     {
+        "shortOperatorName": "dsb-s-tog",
+        "contributors": [
+            {
+                "github": "jonaes"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Fahrplan S-Tog",
+                "source": "https://www.dsb.dk/globalassets/pdf/koereplaner/s-tog/s25/s-tog-s25.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "dvg-dessau",
         "contributors": [
             {
