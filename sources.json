@@ -761,12 +761,19 @@
         "contributors": [
             {
                 "github": "jheubuch"
+            },
+            {
+                "github": "sebiIO"
             }
         ],
         "sources": [
             {
                 "name": "MVV Gesamtfahrplan",
                 "source": "https://www.mvv-muenchen.de/fahrplanauskunft/index.html#c30293"
+            },
+            {
+                "name": "MVV Fahrplan Linie S5",
+                "source": "https://efa.mvv-muenchen.de/ttb2/mvv_01005___H_s25_1.pdf"
             }
         ]
     },
