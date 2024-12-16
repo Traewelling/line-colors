@@ -206,6 +206,9 @@
             },
             {
                 "github": "SpielenmitLili"
+            },
+            {
+                "github": "TheOneWithTheBraid"
             }
         ],
         "sources": [
@@ -452,6 +455,20 @@
         ]
     },
     {
+        "shortOperatorName": "fluo-sncf",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Fiches horaire SNCF TER Grand Est",
+                "source": "https://www.ter.sncf.com/grand-est/se-deplacer/fiches-horaires"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "hans",
         "contributors": [
             {
@@ -540,7 +557,6 @@
             }
         ]
     },
-
     {
         "shortOperatorName": "hvv-hha",
         "contributors": [
@@ -2470,7 +2486,6 @@
                 "source": "https://www.nph.de/de-wAssets/docs/oepnv/angebot/Liniennetzplaene/01-Schemaplan-2023-08-24.pdf"
             }
         ]
-
     },
     {
         "shortOperatorName": "wt-go-on",
