@@ -183,6 +183,7 @@ db-regio-nordost,RB23,db-regio-ag-nordost,rb-23,#0066ad,#ffffff,,rectangle,
 db-regio-nordost,RB24,db-regio-ag-nordost,3-800165-24,#da6ba2,#ffffff,,rectangle,
 db-regio-nordost,RB24,db-regio-ag-nordost,rb-24,#e2001a,#ffffff,,rectangle,
 db-regio-nordost,RB25,db-regio-ag-nordost,rb-25,#00a998,#ffffff,,rectangle,Q63484785
+db-regio-nordost,RB28,db-regio-ag-nordost,rb-28,#ee7000,#ffffff,,rectangle,
 db-regio-nordost,RB31,db-regio-ag-nordost,rb-31,#66aa22,#ffffff,,rectangle,Q66439830
 db-regio-nordost,RB32,db-regio-ag-nordost,rb-32,#697c8a,#ffffff,,rectangle,Q112802971
 db-regio-nordost,RB43,db-regio-ag-nordost,rb-43,#009bd5,#ffffff,,rectangle,Q84429153
@@ -205,6 +206,7 @@ db-regio-nordost,RE13,db-regio-ag-nordost,re-13,#009686,#ffffff,,rectangle,
 db-regio-nordost,RE15,db-regio-ag-nordost,re-15,#ffd502,#000000,,rectangle,
 db-regio-nordost,RE18,db-regio-ag-nordost,re-18,#eb7405,#ffffff,,rectangle,
 db-regio-nordost,RE50,db-regio-ag-nordost,re-50,#2785d0,#ffffff,,rectangle,
+db-regio-nordost,RE51,db-regio-ag-nordost,re-51,#00998a,#ffffff,,rectangle,
 db-regio-nordost,S1,db-regio-ag-nordost,4-800156-1,#00a998,#ffffff,,rectangle,
 db-regio-nordost,S2,db-regio-ag-nordost,4-800156-2,#a0138e,#ffffff,,rectangle,
 db-regio-nordost,S2X,db-regio-ag-nordost,4-800156-2x,#a0138e,#ffffff,,rectangle,
@@ -794,6 +796,8 @@ oberpfalzbahn-dlb,RB 29,oberpfalzbahn-die-landerbahn-gmbh-dlb,rb29,#ff6600,#ffff
 odeg,RB13,ostdeutsche-eisenbahn-gmbh,rb-13,#3f4545,#ffffff,,rectangle,
 odeg,RB14,ostdeutsche-eisenbahn-gmbh,rb-14,#196e76,#ffffff,,rectangle,
 odeg,RB15,ostdeutsche-eisenbahn-gmbh,rb-15,#00a998,#ffffff,,rectangle,
+odeg,RB17,ostdeutsche-eisenbahn-gmbh,rb-17,#dd4daf,#ffffff,,rectangle,
+odeg,RB18,ostdeutsche-eisenbahn-gmbh,rb-18,#399fdf,#ffffff,,rectangle,
 odeg,RB19,ostdeutsche-eisenbahn-gmbh,rb-19,#f46717,#ffffff,,rectangle,
 odeg,RB33,ostdeutsche-eisenbahn-gmbh,rb-33,#a5027d,#ffffff,,rectangle,
 odeg,RB37,ostdeutsche-eisenbahn-gmbh,rb-37,#ad5937,#ffffff,,rectangle,
