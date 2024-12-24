@@ -14,7 +14,7 @@ function toggleDetails(event) {
     }
 }
 
-["pill", "rectangle", "rectangle-rounded-corner"].forEach((shape) =>
+["hexagon", "pill", "rectangle", "rectangle-rounded-corner", "trapezoid"].forEach((shape) =>
     customElements.define("line-logo-" + shape, class extends HTMLElement {
         constructor() {
             super();

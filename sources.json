@@ -545,7 +545,10 @@
         "contributors": [
             {
                 "github": "lunas-bad-coding"
-            }
+            },
+            {
+	        "github": "TheOneWithTheBraid"
+	    }
         ],
         "sources": [
             {
