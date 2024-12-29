@@ -1531,6 +1531,18 @@
         ]
     },
     {
+        "shortOperatorName": "schweiz-fernverkehr",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": {
+            "name": "SBB: direct long-distance connections",
+            "source": "https://network.sbb.ch/en/"
+        }
+    },
+    {
         "shortOperatorName": "svv-brb",
         "contributors": [
             {
