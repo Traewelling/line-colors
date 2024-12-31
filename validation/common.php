@@ -14,7 +14,7 @@ $linesByOperatorCode = array_reduce($csv, function ($result, $line) {
 
 
 function valid_shape($line, $i) {
-    if (!in_array($line["shape"], ["hexagon", "pill", "rectangle", "rectangle-rounded-corner", "trapezoid"])) {
+    if (!in_array($line["shape"], ["circle", "hexagon", "pill", "rectangle", "rectangle-rounded-corner", "trapezoid"])) {
         throw new Error("bad shape " . $line["shape"] . " in row $i");
     }
 }
