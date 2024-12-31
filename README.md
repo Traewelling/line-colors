@@ -13,11 +13,12 @@ The `line-colors.csv` contains several columns:
 - `textColor`: Color-Hexcode for the text color
 - `borderColor` Color-Hexcode for the border of the shape
 - `shape`: Specifies the shape of the icon --> see examples below
-  - `rectangle`: Just a rectangle
-  - `pill`: Rectangle with completely rounded corners
-  - `rectangle-rounded-corner`: Rectangle with rounded corners
-  - `trapezoid` A trapezoid shape with a broad top and a narrow bottom side
+  - `circle`: Just a circle
   - `hexagon` A pill with pointy tips
+  - `rectangle`: Just a rectangle
+  - `rectangle-rounded-corner`: Rectangle with rounded corners
+  - `pill`: Rectangle with completely rounded corners
+  - `trapezoid` A trapezoid shape with a broad top and a narrow bottom side
 - `wikidataQid`: Wikidata QID for the line (if available, can be empty)
 
 ## Contributing
@@ -138,3 +139,20 @@ Entry: `hvv-had,62,,6-hvvhad-62,#009bb6,#ffffff,,trapezoid,`
 - `wikidataQid` *not available*
 
 Entry: `hvv-hha,X35,,5-hvvhha-x35,#eb452e,#ffffff,,hexagon,`
+
+#### S-train Liege: SNCB, S41
+
+<img src="examples/sncb-s41.png" alt="S41" width="100">
+<br>
+
+- `shortOperatorName`: liege-s
+- `lineName`: S41
+- `hafasOperatorCode`: sncb
+- `hafasLineId`: 4-88-41
+- `backgroundColor`: #0f6030
+- `textColor`: #ffffff
+- `borderColor` #ffffff
+- `shape`: circle
+- `wikidataQid` *not available*
+
+Entry: `liege-s,S41,sncb,4-88-41,#0f6030,#ffffff,#ffffff,circle,`

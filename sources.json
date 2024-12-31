@@ -684,6 +684,20 @@
         ]
     },
     {
+        "shortOperatorName": "liege-s",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liège S Train map",
+                "source": "https://www.belgiantrain.be/en/travel-info/train-offer/s-train/s-train-luik"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "lavv-swl",
         "contributors": [
             {
