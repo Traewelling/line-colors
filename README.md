@@ -11,12 +11,14 @@ The `line-colors.csv` contains several columns:
 - `hafasLineId`: identifies the HAFAS line - you can get this by requesting a departure for the line from HAFAS (i.e. using [db-rest playground](https://petstore.swagger.io/?url=https%3A%2F%2Fv6.db.transport.rest%2F.well-known%2Fservice-desc%0A))
 - `backgroundColor`: Color-Hexcode for the display background color
 - `textColor`: Color-Hexcode for the text color
+- `borderColor` Color-Hexcode for the border of the shape
 - `shape`: Specifies the shape of the icon --> see examples below
+  - `circle`: Just a circle
+  - `hexagon` A pill with pointy tips
   - `rectangle`: Just a rectangle
-  - `pill`: Rectangle with completely rounded corners
   - `rectangle-rounded-corner`: Rectangle with rounded corners
-  - `trapezoid`
-  - `hexagon` (not yet supported)
+  - `pill`: Rectangle with completely rounded corners
+  - `trapezoid` A trapezoid shape with a broad top and a narrow bottom side
 - `wikidataQid`: Wikidata QID for the line (if available, can be empty)
 
 ## Contributing
@@ -54,20 +56,22 @@ Please keep the PR's small. If possible, create a small PR for each operator. <b
 
 ## Examples
 
-### Go-Ahead Bayern GmbH, RE72
+### Die Länderbahn GmbH DLB, RE72
 
-<img src="examples/gaby-re72.png" alt="RE72" width="100">
+<img src="examples/alex-dlb-re23.png" alt="RE 23" width="100">
 <br>
 
-- `shortOperatorName`: gaby
-- `lineName`: RE72
-- `hafasOperatorCode`: go-ahead-bayern-gmbh
-- `hafasLineId`: re-72
-- `backgroundColor`: #ef7c00
-- `textColor`: #ffffff
+- `shortOperatorName`: alex-dlb
+- `lineName`: RE 23
+- `hafasOperatorCode`: alex-die-landerbahn-gmbh-dlb
+- `hafasLineId`: re23
+- `backgroundColor`: #ffffff
+- `textColor`: #006666
+- `borderColor` #006666
 - `shape`: rectangle
+- `wikidataQid` Q130542294
 
-Entry: `gaby,RE72,go-ahead-bayern-gmbh,re-72,#ef7c00,#ffffff,rectangle`
+Entry: `alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,re23,#ffffff,#006666,#006666,rectangle,Q130542294`
 
 ### DB Regio AG S-Bahn München, S7
 <img src="examples/sbm-s7.png" alt="S7" width="100">
@@ -79,11 +83,13 @@ Entry: `gaby,RE72,go-ahead-bayern-gmbh,re-72,#ef7c00,#ffffff,rectangle`
 - `hafasLineId`: 4-800725-7
 - `backgroundColor`: #8a372f
 - `textColor`: #ffffff
+- `borderColor` *does not apply*
 - `shape`: pill
+- `wikidataQid` *not available*
 
-Entry: `mvv-db-sbm,S7,db-regio-ag-s-bahn-munchen,4-800725-7,#8a372f,#ffffff,pill`
+Entry: `mvv-db-sbm,S7,db-regio-ag-s-bahn-munchen,4-800725-7,#8a372f,#ffffff,,pill,`
 
-### KVV: Albtal-Verkehrs-Gesellschaft mbH
+### KVV: Albtal-Verkehrs-Gesellschaft mbH, S1
 
 <img src="examples/kvv-s1.png" alt="S1" width="100">
 <br>
@@ -94,14 +100,59 @@ Entry: `mvv-db-sbm,S7,db-regio-ag-s-bahn-munchen,4-800725-7,#8a372f,#ffffff,pill
 - `hafasLineId`: 4-a6s8-8
 - `backgroundColor`: #6e692a
 - `textColor`: #ffffff
+- `borderColor` *does not apply*
 - `shape`: rectangle-rounded-corner (a pill with less rounded corners)
+- `wikidataQid` *not available*
 
-### Other shapes:
+Entry: `kvv-avg,S8,albtal-verkehrs-gesellschaft-mbh,4-a6s8-8,#6e692a,#ffffff,,rectangle-rounded-corner,`
 
-#### Trapezoid
+### HVV: Hadag, 62
 
-<img src="examples/hvv-64.png" alt="64" width="100">
+<img src="examples/hvv-62.png" alt="62" width="100">
+<br>
 
-#### Hexagon
+- `shortOperatorName`: hvv-had
+- `lineName`: 62
+- `hafasOperatorCode`: *not available*
+- `hafasLineId`: 6-hvvhad-62
+- `backgroundColor`: #009bb6
+- `textColor`: #ffffff
+- `borderColor` *does not apply*
+- `shape`: trapezoid (a shape with a broad top and a narrow bottom side)
+- `wikidataQid` *not available*
 
-<img src="examples/hvv-112.png" alt="112" width="100">
+Entry: `hvv-had,62,,6-hvvhad-62,#009bb6,#ffffff,,trapezoid,`
+
+#### HVV: Hamburger Hochbahn AG, X35
+
+<img src="examples/hvv-x35.png" alt="62" width="100">
+<br>
+
+- `shortOperatorName`: hvv-hha
+- `lineName`: X35
+- `hafasOperatorCode`: *not available*
+- `hafasLineId`: 5-hvvhha-x35
+- `backgroundColor`: #eb452e
+- `textColor`: #ffffff
+- `borderColor` *does not apply*
+- `shape`: hexagon (a pill with pointy tips)
+- `wikidataQid` *not available*
+
+Entry: `hvv-hha,X35,,5-hvvhha-x35,#eb452e,#ffffff,,hexagon,`
+
+#### S-train Liege: SNCB, S41
+
+<img src="examples/sncb-s41.png" alt="S41" width="100">
+<br>
+
+- `shortOperatorName`: liege-s
+- `lineName`: S41
+- `hafasOperatorCode`: sncb
+- `hafasLineId`: 4-88-41
+- `backgroundColor`: #0f6030
+- `textColor`: #ffffff
+- `borderColor` #ffffff
+- `shape`: circle
+- `wikidataQid` *not available*
+
+Entry: `liege-s,S41,sncb,4-88-41,#0f6030,#ffffff,#ffffff,circle,`
