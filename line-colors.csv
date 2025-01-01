@@ -145,8 +145,10 @@ db-regio-bayern,RE 76,db-regio-ag-bayern,re-76,#006629,#ffffff,,rectangle,
 db-regio-bayern,RE 79,db-regio-ag-bayern,re-79,#800080,#ffffff,,rectangle,
 db-regio-mitte,RE1,db-regio-ag-mitte-suwex,re-1,#be1b40,#ffffff,,rectangle-rounded-corner,Q112773387
 db-regio-mitte,RE2,db-regio-ag-mitte-suwex,re-2,#e3a023,#ffffff,,rectangle-rounded-corner,
+db-regio-mitte,RE4,db-regio-ag-mitte-suwex,re-4,#970c7e,#ffffff,,rectangle-rounded-corner,Q112996721
 db-regio-mitte,RE6,db-regio-ag-mitte,re-6,#f15921,#ffffff,,rectangle-rounded-corner,
 db-regio-mitte,RE 11,db-regio-ag-mitte-suwex,re-11,#20b159,#ffffff,,rectangle,
+db-regio-mitte,RE14,db-regio-ag-mitte-suwex,re-14,#970c7e,#ffffff,,rectangle-rounded-corner,Q112996572
 db-regio-mitte,RE20,db-regio-ag-mitte,re-20,#ee1d23,#ffffff,,rectangle-rounded-corner,
 db-regio-mitte,RE25,db-regio-ag-mitte,re-25,#007ec5,#ffffff,,rectangle-rounded-corner,Q98104051
 db-regio-mitte,RB22,db-regio-ag-mitte,rb-22,#ee1d23,#ffffff,,rectangle-rounded-corner,Q130342880
