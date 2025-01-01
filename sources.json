@@ -349,6 +349,20 @@
         ]
     },
     {
+        "shortOperatorName": "dsb-s-tog",
+        "contributors": [
+            {
+                "github": "jonaes"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Fahrplan S-Tog",
+                "source": "https://www.dsb.dk/globalassets/pdf/koereplaner/s-tog/s25/s-tog-s25.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "dvg-dessau",
         "contributors": [
             {
@@ -412,12 +426,19 @@
         "contributors": [
             {
                 "github": "oneiricbotcelot"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
                 "name": "Go-Ahead BW Netzplan",
                 "source": "https://www.go-ahead-bw.de/fileadmin/user_upload/content/unterwegs/liniennetz/GABW_Netz_A4_220315_pr.pdf"
+            },
+            {
+                "name": "Streckenfahrplan RE8/RB8 2025",
+                "source": "https://www.arverio-bw.de/fileadmin/user_upload/content/unterwegs/fahrplaene/ABW_24_StrFpl_RE8_RB8_2412-2506_web.pdf"
             }
         ]
     },
@@ -459,6 +480,20 @@
             {
                 "name": "Liniennetz Regionalverkehr MV",
                 "source": "https://www.dbregio-mecklenburg-vorpommern.de/resource/blob/9358376/afd1296b1188bbc883cc6527c35e30ad/Liniennetzplan_MV_17-12-2022-data.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hetzler-pfadt",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Landkreis Germersheim",
+                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
             }
         ]
     },
@@ -521,7 +556,10 @@
         "contributors": [
             {
                 "github": "lunas-bad-coding"
-            }
+            },
+            {
+	        "github": "TheOneWithTheBraid"
+	    }
         ],
         "sources": [
             {
@@ -650,6 +688,20 @@
         ]
     },
     {
+        "shortOperatorName": "liege-s",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liège S Train map",
+                "source": "https://www.belgiantrain.be/en/travel-info/train-offer/s-train/s-train-luik"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "lavv-swl",
         "contributors": [
             {
@@ -751,12 +803,19 @@
         "contributors": [
             {
                 "github": "jheubuch"
+            },
+            {
+                "github": "sebiIO"
             }
         ],
         "sources": [
             {
                 "name": "MVV Gesamtfahrplan",
                 "source": "https://www.mvv-muenchen.de/fahrplanauskunft/index.html#c30293"
+            },
+            {
+                "name": "MVV Fahrplan Linie S5",
+                "source": "https://efa.mvv-muenchen.de/ttb2/mvv_01005___H_s25_1.pdf"
             }
         ]
     },
@@ -878,6 +937,48 @@
             {
                 "name": "Liniennetz Nahverkehr Schwerin",
                 "source": "https://www.nahverkehr-schwerin.de/_Resources/Persistent/5/9/d/5/59d5a5fd8655710d24f5ae6e26f6861f7dfac243/Liniennetz_2023-12-23.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "palatinabus",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Landkreis Germersheim",
+                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "qnv-queichtal-nahverkehr",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Landkreis Germersheim",
+                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "rheinpfalzbus",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Landkreis Germersheim",
+                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
             }
         ]
     },
@@ -1448,6 +1549,18 @@
         ]
     },
     {
+        "shortOperatorName": "schweiz-fernverkehr",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": {
+            "name": "SBB: direct long-distance connections",
+            "source": "https://network.sbb.ch/en/"
+        }
+    },
+    {
         "shortOperatorName": "svv-brb",
         "contributors": [
             {
@@ -1508,12 +1621,23 @@
         "contributors": [
             {
                 "github": "oneiricbotcelot"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
                 "name": "Liniennetzplan Stuttgart-Neckartal 2023",
                 "source": "https://www.sweg.de/fileadmin//user_upload/pdf/liniennetzplaene/stuttgart-neckartal/Liniennetzplan-SBS-2023.pdf"
+            },
+            {
+                "name": "Streckenfahrplan MEX18 2025",
+                "source": "https://www.sweg.de/fileadmin/user_upload/pdf/fahrplaene/stuttgart-neckartal/stuttgart-neckartal-2025/2025_Jahresfahrplan_Tuebingen-Osterburken_MEX18.pdf?version=1733907872"
+            },
+            {
+                "name": "Streckenfahrplan MEX12/RE10 2025",
+                "source": "https://www.sweg.de/fileadmin/user_upload/pdf/fahrplaene/stuttgart-neckartal/stuttgart-neckartal-2025/2025_Jahresfahrplan_Tuebingen-Mannheim_RE10-MEX12.pdf?version=1733907884"
             }
         ]
     },
@@ -2447,9 +2571,27 @@
             {
                 "name": "Schematischer Netzplan Bielefeld",
                 "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
+            },
+            {
+                "name": "01-Schemaplan-2023-08-24",
+                "source": "https://www.nph.de/de-wAssets/docs/oepnv/angebot/Liniennetzplaene/01-Schemaplan-2023-08-24.pdf"
             }
         ]
 
+    },
+    {
+        "shortOperatorName": "wt-go-on",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "01-Schemaplan-2023-08-24",
+                "source": "https://www.nph.de/de-wAssets/docs/oepnv/angebot/Liniennetzplaene/01-Schemaplan-2023-08-24.pdf"
+            }
+        ]
     },
     {
         "shortOperatorName": "wt-mobiel",
@@ -2464,7 +2606,7 @@
         "sources": [
             {
                 "name": "Schematischer Netzplan Bielefeld",
-                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2024-11.pdf"
             },
             {
                 "name": "Bielefeld: schematischer Netzplan NachtBus",
@@ -2481,12 +2623,19 @@
         "contributors": [
             {
                 "github": "lunas-bad-coding"
+            },
+            {
+                "github": "KiloBravoBFE"
             }
         ],
         "sources": [
             {
                 "name": "PaderSprinter Netzplan",
                 "source": "https://www.padersprinter.de/?wpdmdl=92737"
+            },
+            {
+                "name": "PS-Netzplan-schematisch-Nacht-2024-05-10",
+                "source": "https://www.padersprinter.de/?wpdmdl=92739"
             }
         ]
     },

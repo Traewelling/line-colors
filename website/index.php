@@ -135,6 +135,50 @@ include_once "../validation/common.php";
 
                 <!-- Templates for line logo -->
 
+                <template id="template-for-line-logo-circle">
+                    <style>
+                        div {
+                            font-family: "Avenir Next Condensed", "Avenir Next", Arial, sans-serif;
+                            font-size: 2em;
+                            text-align: center;
+
+                            box-sizing: border-box;
+                            width: 2.5em;
+                            height: 2.5em;
+                            line-height: 1;
+                            padding: .6275em 0;
+                            border-radius: 1.5em;
+                            display: inline-block;
+                        }
+
+                    </style>
+                    <div class="line-logo">
+                        <slot name="lineName">Wurst</slot>
+                    </div>
+                </template>
+
+                <template id="template-for-line-logo-hexagon">
+                    <style>
+                        div {
+                            font-family: "IBM Plex Mono", Monaco, Consolas, monospace;
+                            font-weight: 400;
+                            font-size: 2em;
+                            text-align: center;
+
+                            display: inline-block;
+                            line-height: 1.2em;
+
+                            padding: 0 0.75em;
+                            /* TODO: consider the edge case of border around a hexagon shape */
+                            clip-path: polygon(50% -100%, 100% 50%, 50% 200%, 0 50%);
+                        }
+
+                    </style>
+                    <div class="line-logo">
+                        <slot name="lineName">Wurst</slot>
+                    </div>
+                </template>
+
 
                 <template id="template-for-line-logo-pill">
                     <style>
@@ -186,6 +230,28 @@ include_once "../validation/common.php";
                             padding: 0 0.5em;
                             border-radius: 0.3em;
                             display: inline-block;
+                        }
+
+                    </style>
+                    <div class="line-logo">
+                        <slot name="lineName">Wurst</slot>
+                    </div>
+                </template>
+
+                <template id="template-for-line-logo-trapezoid">
+                    <style>
+                        div {
+                            font-family: "IBM Plex Mono", Monaco, Consolas, monospace;
+                            font-weight: 400;
+                            font-size: 2em;
+                            text-align: center;
+
+                            display: inline-block;
+                            line-height: 1.2em;
+
+                            padding: 0 0.75em;
+                            /* TODO: consider the edge case of border around a trapezoid shape */
+                            clip-path: polygon( 100% 0, 50% 250%, 0 0);
                         }
 
                     </style>
