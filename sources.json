@@ -484,20 +484,6 @@
         ]
     },
     {
-        "shortOperatorName": "hetzler-pfadt",
-        "contributors": [
-            {
-                "github": "TheOneWithTheBraid"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Landkreis Germersheim",
-                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "hlb",
         "contributors": [
             {
@@ -941,48 +927,6 @@
             {
                 "name": "Liniennetz Nahverkehr Schwerin",
                 "source": "https://www.nahverkehr-schwerin.de/_Resources/Persistent/5/9/d/5/59d5a5fd8655710d24f5ae6e26f6861f7dfac243/Liniennetz_2023-12-23.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "palatinabus",
-        "contributors": [
-            {
-                "github": "TheOneWithTheBraid"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Landkreis Germersheim",
-                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "qnv-queichtal-nahverkehr",
-        "contributors": [
-            {
-                "github": "TheOneWithTheBraid"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Landkreis Germersheim",
-                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "rheinpfalzbus",
-        "contributors": [
-            {
-                "github": "TheOneWithTheBraid"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Landkreis Germersheim",
-                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
             }
         ]
     },
@@ -2010,6 +1954,34 @@
         ]
     },
     {
+        "shortOperatorName": "vrn-hetzler-pfadt",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Landkreis Germersheim",
+                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrn-palatinabus",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Landkreis Germersheim",
+                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrn-regionalbus",
         "contributors": [
             {
@@ -2020,6 +1992,20 @@
             {
                 "name": "Liniennetzplan Ladenburg-Schriesheim",
                 "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/ladenburg-schriesheim_schematisch.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrn-rheinpfalzbus",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Landkreis Germersheim",
+                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
             }
         ]
     },
@@ -2066,6 +2052,20 @@
             {
                 "name": "Liniennetz S-Bahn Rhein-Neckar",
                 "source": "https://www.s-bahn-rheinneckar.de/fahrplan/streckenfpl"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrn-qnv-queichtal-nahverkehr",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Landkreis Germersheim",
+                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
             }
         ]
     },
