@@ -2,7 +2,14 @@
 This repository is made for collecting line colors in public transport lines,
 so they can be displayed on systems using DB HAFAS.
 
-## Structure
+## Contents
+
+- [Line Colors](#line-colors)
+- [Product Categories](#product-categories)
+
+## Line Colors
+
+### Structure
 
 The `line-colors.csv` contains several columns:
 - `shortOperatorName`: Short operator name (i.e. vehicle keeper marking/"Halterkürzel" or another identifier for EVU) and a local transport network abbreviation
@@ -20,8 +27,9 @@ The `line-colors.csv` contains several columns:
   - `pill`: Rectangle with completely rounded corners
   - `trapezoid` A trapezoid shape with a broad top and a narrow bottom side
 - `wikidataQid`: Wikidata QID for the line (if available, can be empty)
+- `productCategory`: An optional `productCategory` from the Product Categories database in order to manually assign a particular Product Category override. This is useful if e.g. an operator runs a single line entering another traffic association using different branding, such as DB Regio operating for Austrian S-Bahn networks.
 
-## Contributing
+### Contributing
 
 If a line operates in a local transport network/"Verkehrsverbund", the network's line color shall be preferred.<br>
 Local transport networks usually have line colors for:
@@ -54,7 +62,7 @@ Please keep the PR's small. If possible, create a small PR for each operator. <b
     - You can use [this list](https://www.wikidata.org/wiki/User:Mkkagain/Verkehrslinien_in_Deutschland) to find the QID
 - if there is no Wikidata item for the line, it would be great if you could [create one](https://www.wikidata.org/wiki/Special:NewItem)
 
-## Examples
+### Examples
 
 ### Die Länderbahn GmbH DLB, RE72
 
@@ -156,3 +164,35 @@ Entry: `hvv-hha,X35,,5-hvvhha-x35,#eb452e,#ffffff,,hexagon,`
 - `wikidataQid` *not available*
 
 Entry: `liege-s,S41,sncb,4-88-41,#0f6030,#ffffff,#ffffff,circle,`
+
+## Product Categories (alpha)
+
+In addition to the line schematics, this repository also collects Product Categorying data for transport operators.
+
+This is particularly useful when applications want to provide an authentic look and feel about train or transport
+categories to users - independent of individual lines.
+
+### Structure
+
+- `productCategory`: a meaningful name matching the Product Category, such as `cd-railjet`, `sncf-ouigo` or `s-bahn-at`
+- `hafasOperatorCode`: the operator code as in HAFAS. An empty String will *never* match (useful for manual assignments).
+- `product`: the product String from HAFAS, such as `suburban`, `national` or `bus`. An empty String will *never* match (useful for manual assignments).
+- `productName`: the productName String from HAFAS, such as `TGV` or `S`. An empty String will *never* match (useful for manual assignments).
+- `shortName`: should be empty. An *optional* override to the [Wikidata short name](https://www.wikidata.org/wiki/Property:P1813). Only specify if unavailable in Wikidata or not meaningful.
+- `iconName`: should be empty. An *optional* override for the [Wikidata logo image](https://www.wikidata.org/wiki/Property:P154). Only specify if unavailable in Wikidata or not meaningful. In case specified, the icon **must** be included into the [`icon-sources.json`](icon-sources.json) with corresponding source and attribution.
+- `wikidataQid`: **mandatory** Wikidata QID for the product or anything to be considered as data source. If you don't find anything, maybe just create the dataset.
+
+#### Adding Product Categories
+
+For simple Product Categories present in Wikidata, this should be easy. Simply fill in a new row in the `product-categories.csv`.
+
+In case you happen to add a manual `iconName` property and a corresponding SVG, please ensure to normalize the SVG and list its source in `icon-sources.json` before committing.
+
+You can normalize the SVG by installing `librsvg` and `svgcleaner`. Then execute:
+
+```shell
+rsvg-convert -f svg -a -h 24 -o your-icon.svg your-icon.svg
+svgcleaner your-icon.svg your-icon.svg
+```
+
+In case you are unfamiliar with command prompt, just upload the icon as attachment to your PR and ask a reviewer to assist you.

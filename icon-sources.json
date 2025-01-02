@@ -1,0 +1,82 @@
+[
+    {
+        "iconName": "oebb-nightjet",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Wikimedia Commons",
+                "source": "https://commons.wikimedia.org/wiki/File:Nightjet_logo.svg",
+                "author": "Österreichische Bundesbahnen",
+                "license": "PD"
+            }
+        ]
+    },
+    {
+        "iconName": "regio-s-bahn-bw",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Wikimedia Commons",
+                "source": "https://rsbahn.de/#downloads",
+                "author": "The one with the braid",
+                "license": "PD"
+            }
+        ]
+    },
+    {
+        "iconName": "rer-ch-fribourg",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Wikimedia Commons",
+                "source": "https://commons.wikimedia.org/wiki/File:RER_Fribourg_Freiburg.svg",
+                "author": "SBB CFF FFS",
+                "license": "PD"
+            }
+        ]
+    },
+    {
+        "iconName": "rer-ch-vaud",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Wikimedia Commons",
+                "source": "https://commons.wikimedia.org/wiki/File:RER_Vaudois.png",
+                "author": "SBB CFF FFS",
+                "license": "PD"
+            }
+        ]
+    },
+    {
+        "iconName": "s-bahn-at",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Wikimedia Commons",
+                "source": "https://commons.wikimedia.org/wiki/File:S-Bahn_Austria.svg",
+                "author": "Siegele Roland & Jonathan Haas",
+                "license": "PD"
+            }
+        ]
+    }
+]

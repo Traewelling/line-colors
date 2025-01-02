@@ -1,6 +1,14 @@
 <?php
 include_once "../validation/common.php";
 
+
+
+$productCategories = array_map("str_getcsv", file("./assets/products/product-categories.csv", FILE_SKIP_EMPTY_LINES));
+$productKeys = array_shift($productCategories);
+foreach ($productCategories as $i => $row) {
+    $productCategories[$i] = array_combine($productKeys, $row);
+}
+
 ?>
 
 <!DOCTYPE html>
@@ -99,7 +107,7 @@ include_once "../validation/common.php";
                 <hr class="divider">
 
                 <?php foreach ($linesByOperatorCode as $operator => $lines): ?>
-                    <h1><?= $operator; ?></h1>
+                    <h3><?= $operator; ?></h1>
                     <section class="operator-group" id="<?= $operator; ?>">
                         <?php foreach ($lines as $line): ?>
                             <article>
@@ -132,6 +140,36 @@ include_once "../validation/common.php";
                     <hr class="divider">
                 <?php endforeach; ?>
 
+                <h2 id="product-categories" >Product Categories (alpha)</h2>
+
+                <section class="product-categories">
+
+                <table>
+                    <tr>
+                        <th> Product Category </th>
+                        <th> Operator </th>
+                        <th> Icon </th>
+                        <th> Wikidata entry </th>
+                    </tr>
+                <?php foreach ($productCategories as $product): ?>
+                    <tr>
+                        <td> <pre> <?= $product["productCategory"] ?> </pre> </td>
+                        <td> <pre> <?= $product["hafasOperatorCode"] ?> </pre> </td>
+                        <td>
+                            <img src="assets/products/<?= $product["iconName"] ?>.svg" alt="<?= $product["shortName"] ?>" />
+                        </td>
+                        <td>
+                            <a href="https://www.wikidata.org/wiki/<?= $product["wikidataQid"] ?>" target="_blank" > <?= $product["wikidataQid"] ?> </a>
+                        </td>
+                    </tr>
+
+                <?php endforeach; ?>
+
+                </table>
+
+                </section>
+
+                <hr class="divider">
 
                 <!-- Templates for line logo -->
 

@@ -1,12 +1,18 @@
 <?php
 
-$csv = array_map("str_getcsv", file("../line-colors.csv", FILE_SKIP_EMPTY_LINES));
-$keys = array_shift($csv);
-foreach ($csv as $i => $row) {
-    $csv[$i] = array_combine($keys, $row);
+$lineColors = array_map("str_getcsv", file("../line-colors.csv", FILE_SKIP_EMPTY_LINES));
+$keys = array_shift($lineColors);
+foreach ($lineColors as $i => $row) {
+    $lineColors[$i] = array_combine($keys, $row);
 }
 
-$linesByOperatorCode = array_reduce($csv, function ($result, $line) {
+$productSources = array_map("str_getcsv", file("../product-categories.csv", FILE_SKIP_EMPTY_LINES));
+$productKeys = array_shift($productSources);
+foreach ($productSources as $i => $row) {
+    $productSources[$i] = array_combine($productKeys, $row);
+}
+
+$linesByOperatorCode = array_reduce($lineColors, function ($result, $line) {
     $result[$line["shortOperatorName"]][] = $line;
 
     return $result;

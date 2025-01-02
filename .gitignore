@@ -1,2 +1,7 @@
 vendor/
 .idea/
+
+website/index.html
+website/assets/products/
+website/assets/product-categories.zip
+

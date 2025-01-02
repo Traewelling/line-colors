@@ -18,7 +18,15 @@ jobs:
         run: php test.php
       - name: Validate line-colors.csv
         working-directory: ./validation
-        run: php check.php
+        run: php check-lines.php
+      - name: Validate product-categories.csv
+        working-directory: ./validation
+        run: php check-products.php
+      - name: Install svgcleaner and rsvg
+        run: sudo apt update && sudo apt install -y -qq wget librsvg2-bin && wget https://github.com/RazrFalcon/svgcleaner/releases/download/v0.9.5/svgcleaner_linux_x86_64_0.9.5.tar.gz && tar -xf svgcleaner_linux_*.tar.gz && sudo mv svgcleaner /usr/local/bin && rm -f svgcleaner svgcleaner_linux_*.tar.gz
+      - name: Ensure all product icons are cleaned and resized
+        working-directory: ./products
+        run: for product in *.svg; do rsvg-convert -f svg -a -h 24 -o clean-$product $product && svgcleaner clean-$product clean-$product && diff -u $product clean-$product || exit 1 ; done && rm clean-*.svg
 
   deploy:
     needs: [validate]
@@ -31,6 +39,17 @@ jobs:
         uses: shivammathur/setup-php@v2
         with:
           php-version: 8.2
+
+      - name: Install svgcleaner and rsvg
+        run: sudo apt update && sudo apt install -y -qq wget librsvg2-bin && wget https://github.com/RazrFalcon/svgcleaner/releases/download/v0.9.5/svgcleaner_linux_x86_64_0.9.5.tar.gz && tar -xf svgcleaner_linux_*.tar.gz && sudo mv svgcleaner /usr/local/bin && rm -f svgcleaner svgcleaner_linux_*.tar.gz
+
+      - name: Generate product assets
+        working-directory: ./validation
+        run: php product-assets.php
+
+      - name: Bundle product assets
+        working-directory: ./website/assets/products
+        run: zip ../../product-categories.zip *
 
       - name: Write out Website
         working-directory: ./website
