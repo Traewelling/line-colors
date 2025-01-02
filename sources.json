@@ -226,10 +226,6 @@
                 "source": "https://www.rolph.de/fileadmin/user_upload/Liniennetzplan_Rheinland-Pfalz_02-2024.pdf"
             },
             {
-                "name": "RMV-Schienennetzplan 2024 mit Riedbahnsperrung 15.07.-14.12.2024",
-                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/Schienennetzplan.pdf"
-            },
-            {
                 "name": "RSNP 2025",
                 "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
             }
@@ -331,20 +327,6 @@
             {
                 "name": "Barrierefrei WFB-Streckenkarte 2022",
                 "source": "https://assets.static-bahn.de/dam/jcr:b2f152ae-ba8a-4454-9466-e4c713472de8/Barrierefrei-WFB-Streckenkarte_2022.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "db-sev-riedbahn",
-        "contributors": [
-            {
-                "github": "jonaes"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan Ersatzverkehr Riedbahn",
-                "source": "https://assets.ctfassets.net/oy9a0qd4syn6/3BJnsvDH9arz9LzEdWuNcU/fa06c9f79e804d83a54ff6a0aa89ec9d/Riedbahn_v.19_FINALE_VERSION_240508_TB.pdf"
             }
         ]
     },
@@ -494,10 +476,6 @@
             }
         ],
         "sources": [
-            {
-                "name": "RMV-Schienennetzplan 2024 mit Riedbahnsperrung 15.07.-14.12.2024",
-                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/Schienennetzplan.pdf"
-            },
             {
                 "name": "RSNP 2025",
                 "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
