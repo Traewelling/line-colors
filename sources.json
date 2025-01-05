@@ -2418,6 +2418,48 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-fmo",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
+                "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-lvl",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
+                "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-osb",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
+                "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-ssb-nachtbus",
         "contributors": [
             {
@@ -2442,6 +2484,20 @@
             {
                 "name": "Netzplan Stadtbahn Stuttgart",
                 "source": "https://download.vvs.de/Stadtbahn_Liniennetz.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-wbg",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
+                "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
             }
         ]
     },
