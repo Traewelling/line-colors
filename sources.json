@@ -1585,6 +1585,34 @@
         ]
     },
     {
+        "shortOperatorName": "tnw-blt",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "TNV Liniennetz Basel und Umgebung",
+                "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "tnw-bvb",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "TNV Liniennetz Basel und Umgebung",
+                "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "uestra",
         "contributors": [
             {
