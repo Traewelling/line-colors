@@ -1657,6 +1657,24 @@
         ]
     },
     {
+        "shortOperatorName": "fluo-sncf",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Rechercher une fiche horaire | SNCF TER Grand Est",
+                "source": "https://www.ter.sncf.com/grand-est/se-deplacer/fiches-horaires"
+            },
+            {
+                "name": "Fiches horaires REME | TER Fluo en Grand Est",
+                "source": "https://www.ter.sncf.com/grand-est/REME/FH"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vbb-bvg-tram",
         "contributors": [
             {
