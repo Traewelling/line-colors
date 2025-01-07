@@ -1370,6 +1370,20 @@
         ]
     },
     {
+        "shortOperatorName": "rmv-express-bus",
+        "contributors": [
+            {
+                "github": "SpielenmitLili"
+            }
+        ],
+        "sources": [
+            {
+                "name": "RSPN 2025",
+                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "s-bahn-bern-bls",
         "contributors": [
             {
@@ -1487,6 +1501,18 @@
         }
     },
     {
+        "shortOperatorName": "start",
+        "contributors": [
+            {
+                "github": "SpielenmitLili"
+            }
+        ],
+        "sources": {
+            "name": "RSPN 2025",
+            "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
+        }
+    },
+    {
         "shortOperatorName": "svv-brb",
         "contributors": [
             {
@@ -1581,6 +1607,34 @@
             {
                 "name": "Liniennetzplan Trilex Dezember 2023",
                 "source": "https://www.laenderbahn.com/media/laenderbahn/bilder/2023-12_Linienplan_trilex_ERWEITERT_A3_WEB.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "tnw-blt",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "TNV Liniennetz Basel und Umgebung",
+                "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "tnw-bvb",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "TNV Liniennetz Basel und Umgebung",
+                "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
             }
         ]
     },
@@ -1816,6 +1870,20 @@
             {
                 "name": "VGN Schienennetzplan Nürnberg-Fürth",
                 "source": "https://www.vgn.de/liniennetze/schienennetz_nuernberg_furth/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vias",
+        "contributors": [
+            {
+                "github": "SpielenmitLili"
+            }
+        ],
+        "sources": [
+            {
+                "name": "RSPN 2025",
+                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
             }
         ]
     },
