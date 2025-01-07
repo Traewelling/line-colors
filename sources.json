@@ -1509,6 +1509,18 @@
         }
     },
     {
+        "shortOperatorName": "start",
+        "contributors": [
+            {
+                "github": "SpielenmitLili"
+            }
+        ],
+        "sources": {
+            "name": "RSPN 2025",
+            "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
+        }
+    },
+    {
         "shortOperatorName": "svv-brb",
         "contributors": [
             {
@@ -1842,7 +1854,7 @@
         ]
     },
     {
-        "shortOperatorName": "vias-gmbh",
+        "shortOperatorName": "vias",
         "contributors": [
             {
                 "github": "SpielenmitLili"
