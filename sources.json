@@ -1370,6 +1370,20 @@
         ]
     },
     {
+        "shortOperatorName": "rmv-express-bus",
+        "contributors": [
+            {
+                "github": "SpielenmitLili"
+            }
+        ],
+        "sources": [
+            {
+                "name": "RSPN 2025",
+                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "s-bahn-bern-bls",
         "contributors": [
             {
@@ -1484,6 +1498,18 @@
         "sources": {
             "name": "SBB: direct long-distance connections",
             "source": "https://network.sbb.ch/en/"
+        }
+    },
+    {
+        "shortOperatorName": "start",
+        "contributors": [
+            {
+                "github": "SpielenmitLili"
+            }
+        ],
+        "sources": {
+            "name": "RSPN 2025",
+            "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
         }
     },
     {
@@ -1844,6 +1870,20 @@
             {
                 "name": "VGN Schienennetzplan Nürnberg-Fürth",
                 "source": "https://www.vgn.de/liniennetze/schienennetz_nuernberg_furth/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vias",
+        "contributors": [
+            {
+                "github": "SpielenmitLili"
+            }
+        ],
+        "sources": [
+            {
+                "name": "RSPN 2025",
+                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
             }
         ]
     },
