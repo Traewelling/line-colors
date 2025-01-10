@@ -226,8 +226,8 @@
                 "source": "https://www.rolph.de/fileadmin/user_upload/Liniennetzplan_Rheinland-Pfalz_02-2024.pdf"
             },
             {
-                "name": "RMV-Schienennetzplan 2024 mit Riedbahnsperrung 15.07.-14.12.2024",
-                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/Schienennetzplan.pdf"
+                "name": "RSNP 2025",
+                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
             }
         ]
     },
@@ -331,20 +331,6 @@
         ]
     },
     {
-        "shortOperatorName": "db-sev-riedbahn",
-        "contributors": [
-            {
-                "github": "jonaes"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan Ersatzverkehr Riedbahn",
-                "source": "https://assets.ctfassets.net/oy9a0qd4syn6/3BJnsvDH9arz9LzEdWuNcU/fa06c9f79e804d83a54ff6a0aa89ec9d/Riedbahn_v.19_FINALE_VERSION_240508_TB.pdf"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "dsb-s-tog",
         "contributors": [
             {
@@ -422,12 +408,19 @@
         "contributors": [
             {
                 "github": "oneiricbotcelot"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
                 "name": "Go-Ahead BW Netzplan",
                 "source": "https://www.go-ahead-bw.de/fileadmin/user_upload/content/unterwegs/liniennetz/GABW_Netz_A4_220315_pr.pdf"
+            },
+            {
+                "name": "Streckenfahrplan RE8/RB8 2025",
+                "source": "https://www.arverio-bw.de/fileadmin/user_upload/content/unterwegs/fahrplaene/ABW_24_StrFpl_RE8_RB8_2412-2506_web.pdf"
             }
         ]
     },
@@ -473,20 +466,6 @@
         ]
     },
     {
-        "shortOperatorName": "hetzler-pfadt",
-        "contributors": [
-            {
-                "github": "TheOneWithTheBraid"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Landkreis Germersheim",
-                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "hlb",
         "contributors": [
             {
@@ -498,8 +477,8 @@
         ],
         "sources": [
             {
-                "name": "RMV-Schienennetzplan 2024 mit Riedbahnsperrung 15.07.-14.12.2024",
-                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/Schienennetzplan.pdf"
+                "name": "RSNP 2025",
+                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
             }
         ]
     },
@@ -545,7 +524,10 @@
         "contributors": [
             {
                 "github": "lunas-bad-coding"
-            }
+            },
+            {
+	        "github": "TheOneWithTheBraid"
+	    }
         ],
         "sources": [
             {
@@ -670,6 +652,20 @@
             {
                 "name": "KVV Liniennetzplan Bus und Schiene Karlsruhe 2024",
                 "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Bus-und-Schiene-Karlsruhe.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "liege-s",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liège S Train map",
+                "source": "https://www.belgiantrain.be/en/travel-info/train-offer/s-train/s-train-luik"
             }
         ]
     },
@@ -912,48 +908,6 @@
             {
                 "name": "Liniennetz Nahverkehr Schwerin",
                 "source": "https://www.nahverkehr-schwerin.de/_Resources/Persistent/5/9/d/5/59d5a5fd8655710d24f5ae6e26f6861f7dfac243/Liniennetz_2023-12-23.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "palatinabus",
-        "contributors": [
-            {
-                "github": "TheOneWithTheBraid"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Landkreis Germersheim",
-                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "qnv-queichtal-nahverkehr",
-        "contributors": [
-            {
-                "github": "TheOneWithTheBraid"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Landkreis Germersheim",
-                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "rheinpfalzbus",
-        "contributors": [
-            {
-                "github": "TheOneWithTheBraid"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Landkreis Germersheim",
-                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
             }
         ]
     },
@@ -1419,6 +1373,20 @@
         ]
     },
     {
+        "shortOperatorName": "rmv-express-bus",
+        "contributors": [
+            {
+                "github": "SpielenmitLili"
+            }
+        ],
+        "sources": [
+            {
+                "name": "RSPN 2025",
+                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "s-bahn-bern-bls",
         "contributors": [
             {
@@ -1524,6 +1492,30 @@
         ]
     },
     {
+        "shortOperatorName": "schweiz-fernverkehr",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": {
+            "name": "SBB: direct long-distance connections",
+            "source": "https://network.sbb.ch/en/"
+        }
+    },
+    {
+        "shortOperatorName": "start",
+        "contributors": [
+            {
+                "github": "SpielenmitLili"
+            }
+        ],
+        "sources": {
+            "name": "RSPN 2025",
+            "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
+        }
+    },
+    {
         "shortOperatorName": "svv-brb",
         "contributors": [
             {
@@ -1584,12 +1576,23 @@
         "contributors": [
             {
                 "github": "oneiricbotcelot"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
                 "name": "Liniennetzplan Stuttgart-Neckartal 2023",
                 "source": "https://www.sweg.de/fileadmin//user_upload/pdf/liniennetzplaene/stuttgart-neckartal/Liniennetzplan-SBS-2023.pdf"
+            },
+            {
+                "name": "Streckenfahrplan MEX18 2025",
+                "source": "https://www.sweg.de/fileadmin/user_upload/pdf/fahrplaene/stuttgart-neckartal/stuttgart-neckartal-2025/2025_Jahresfahrplan_Tuebingen-Osterburken_MEX18.pdf?version=1733907872"
+            },
+            {
+                "name": "Streckenfahrplan MEX12/RE10 2025",
+                "source": "https://www.sweg.de/fileadmin/user_upload/pdf/fahrplaene/stuttgart-neckartal/stuttgart-neckartal-2025/2025_Jahresfahrplan_Tuebingen-Mannheim_RE10-MEX12.pdf?version=1733907884"
             }
         ]
     },
@@ -1607,6 +1610,34 @@
             {
                 "name": "Liniennetzplan Trilex Dezember 2023",
                 "source": "https://www.laenderbahn.com/media/laenderbahn/bilder/2023-12_Linienplan_trilex_ERWEITERT_A3_WEB.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "tnw-blt",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "TNV Liniennetz Basel und Umgebung",
+                "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "tnw-bvb",
+        "contributors": [
+            {
+                "github": "metrophil"
+            }
+        ],
+        "sources": [
+            {
+                "name": "TNV Liniennetz Basel und Umgebung",
+                "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
             }
         ]
     },
@@ -1846,6 +1877,20 @@
         ]
     },
     {
+        "shortOperatorName": "vias",
+        "contributors": [
+            {
+                "github": "SpielenmitLili"
+            }
+        ],
+        "sources": [
+            {
+                "name": "RSPN 2025",
+                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vlexx",
         "contributors": [
             {
@@ -1958,6 +2003,34 @@
         ]
     },
     {
+        "shortOperatorName": "vrn-hetzler-pfadt",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Landkreis Germersheim",
+                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrn-palatinabus",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Landkreis Germersheim",
+                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrn-regionalbus",
         "contributors": [
             {
@@ -1968,6 +2041,20 @@
             {
                 "name": "Liniennetzplan Ladenburg-Schriesheim",
                 "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/ladenburg-schriesheim_schematisch.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrn-rheinpfalzbus",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Landkreis Germersheim",
+                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
             }
         ]
     },
@@ -2014,6 +2101,20 @@
             {
                 "name": "Liniennetz S-Bahn Rhein-Neckar",
                 "source": "https://www.s-bahn-rheinneckar.de/fahrplan/streckenfpl"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrn-qnv-queichtal-nahverkehr",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Landkreis Germersheim",
+                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
             }
         ]
     },
@@ -2283,6 +2384,9 @@
             },
             {
                 "github": "oneiricbotcelot"
+            },
+            {
+                "github": "metrophil"
             }
         ],
         "sources": [
@@ -2366,6 +2470,48 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-fmo",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
+                "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-lvl",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
+                "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-osb",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
+                "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-ssb-nachtbus",
         "contributors": [
             {
@@ -2394,10 +2540,27 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-wbg",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
+                "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-weg",
         "contributors": [
             {
                 "github": "oneiricbotcelot"
+            },
+            {
+                "github": "metrophil"
             }
         ],
         "sources": [
