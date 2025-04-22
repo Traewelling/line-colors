@@ -2844,5 +2844,33 @@
                 "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
             }
         ]
+    },
+    {
+        "shortOperatorName": "fulda-citybus",
+        "contributors": [
+            {
+                "github": "DRSchlaubi"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan",
+                "source": "https://re-gruppe.de/wp-content/uploads/2024/02/Liniennetzplan-Stadt-Fulda.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "fulda-ast",
+        "contributors": [
+            {
+                "github": "DRSchlaubi"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan",
+                "source": "https://re-gruppe.de/wp-content/uploads/2024/02/Liniennetzplan-Stadt-Fulda.pdf"
+            }
+        ]
     }
 ]
