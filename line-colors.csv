@@ -17,7 +17,7 @@ agilis,RE 18,agilis,ag-re18,#006428,#ffffff,,rectangle,Q130542152
 alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,re23,#ffffff,#006666,#006666,rectangle,Q130542294
 alex-dlb,RE 25,alex-die-landerbahn-gmbh-dlb,re25,#006666,#ffffff,,rectangle,Q130542295
 ams,S7,abellio-rail-mitteldeutschland-gmbh,4-ams-7,#0a579b,#ffffff,,pill,Q63217583
-arverio-bw,RE 1,arverio-baden-wurttemberg,re-1,#88c946,#ffffff,,rectangle,Q64504218
+arverio-bw,RE 1,arverio-baden-wurttembergg,re-1,#88c946,#ffffff,,rectangle,Q64504218
 arverio-bw,MEX 13,arverio-baden-wurttemberg,mex-13,#00b9f2,#ffffff,,rectangle,Q130542338
 arverio-bw,MEX 16,arverio-baden-wurttemberg,mex-16,#0073c0,#ffffff,,rectangle,Q130542339
 arverio-bw,RE 8,arverio-baden-wurttemberg,re-8,#b350a8,#ffffff,,rectangle,Q64512248
@@ -282,6 +282,18 @@ dwe-dessau,DWE,dessau-worlitzer-eisenbahn,dwe,#ffffff,#000000,#000000,rectangle,
 erfurter-bahn,RB 13,erfurter-bahn-gmbh,rb-13,#24b27d,#ffffff,,rectangle,
 erfurter-bahn,RB 40,erfurter-bahn-gmbh,rb-40,#24b27d,#ffffff,,rectangle,
 erfurter-bahn,RB 50,erfurter-bahn-gmbh,rb-50,#24b27d,#ffffff,,rectangle,
+fulda-citybus,1,rmvrev,5-rmvrev-1,#00b1eb,#ffffff,,circle,
+fulda-citybus,2,rmvrev,5-rmvrev-2,#e30b17,#ffffff,,circle,
+fulda-citybus,3,rmvrev,5-rmvrev-3,#007dc6,#ffffff,,circle,
+fulda-citybus,4,rmvrev,5-rmvrev-4,#ed7004,#ffffff,,circle,
+fulda-citybus,5,rmvrev,5-rmvrev-5,#afca0b,#ffffff,,circle,
+fulda-citybus,6,rmvrev,5-rmvrev-6,#782182,#ffffff,,circle,
+fulda-citybus,7,rmvrev,5-rmvrev-7,#fab400,#ffffff,,circle,
+fulda-citybus,8,rmvrev,5-rmvrev-8,#003f7c,#ffffff,,circle,
+fulda-citybus,15,rmvrev,5-rmvrev-15,#00803d,#ffffff,,circle,
+fulda-citybus,16,rmvrev,5-rmvrev-16,#ec619f,#ffffff,,circle,
+fulda-ast,AST 12,rmvrev,3-rmvrev-at12,#47b375,#ffffff,,pill,
+fulda-bus,74,rmv106,5-rmv106-74,#878787,#ffffff,,circle,
 hans,RB16,hanseatische-eisenbahn-gmbh,rb-16,#775fb0,#ffffff,,rectangle,
 hans,RB33,hanseatische-eisenbahn-gmbh,rb-33,#ed1c24,#ffffff,,rectangle,
 hans,RB34,hanseatische-eisenbahn-gmbh,rb-34,#0066ad,#ffffff,,rectangle,
@@ -2535,15 +2547,4 @@ zvnl-tram,50,,8-naslvt-50,#ffffff,#000000,#000000,rectangle,
 zvnl-tram,56,,8-naslvt-56,#ffffff,#000000,#000000,rectangle,
 zvnl-tram,N10,,8-naslvt-n10,#e1001e,#ffffff,,rectangle,
 zvnl-tram,N17,,8-naslvt-n17,#67b337,#ffffff,,rectangle,
-fulda-citybus,1,rmvrev,5-rmvrev-1,#00b1eb,#ffffff,,circle,
-fulda-citybus,2,rmvrev,5-rmvrev-2,#e30b17,#ffffff,,circle,
-fulda-citybus,3,rmvrev,5-rmvrev-3,#007dc6,#ffffff,,circle,
-fulda-citybus,4,rmvrev,5-rmvrev-4,#ed7004,#ffffff,,circle,
-fulda-citybus,5,rmvrev,5-rmvrev-5,#afca0b,#ffffff,,circle,
-fulda-citybus,6,rmvrev,5-rmvrev-6,#782182,#ffffff,,circle,
-fulda-citybus,7,rmvrev,5-rmvrev-7,#fab400,#ffffff,,circle,
-fulda-citybus,8,rmvrev,5-rmvrev-8,#003f7c,#ffffff,,circle,
-fulda-citybus,15,rmvrev,5-rmvrev-15,#00803d,#ffffff,,circle,
-fulda-citybus,16,rmvrev,5-rmvrev-16,#ec619f,#ffffff,,circle,
-fulda-ast,AST 12,rmvrev,3-rmvrev-at12,#47b375,#ffffff,,pill,
-fulda-bus,74,rmv106,5-rmv106-74,#878787,#ffffff,,circle,
+
