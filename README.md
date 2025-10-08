@@ -20,6 +20,9 @@ The `line-colors.csv` contains several columns:
   - `pill`: Rectangle with completely rounded corners
   - `trapezoid` A trapezoid shape with a broad top and a narrow bottom side
 - `wikidataQid`: Wikidata QID for the line (if available, can be empty)
+- `delfiAgencyID`: Agency ID (for example train operating company) that is used in the DELFI GTFS feed (if available, can be empty)
+- `delfiAgencyName`: Agency name that is used in the DELFI GTFS feed (if available, can be empty)
+
 
 ## Contributing
 
