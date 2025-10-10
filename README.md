@@ -74,7 +74,7 @@ Please keep the PR's small. If possible, create a small PR for each operator. <b
 - `shape`: rectangle
 - `wikidataQid` Q130542294
 
-Entry: `alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,re23,#ffffff,#006666,#006666,rectangle,Q130542294`
+Entry: `alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,re23,#ffffff,#006666,#006666,rectangle,Q130542294,10837,alex - Die Länderbahn GmbH DLB`
 
 ### DB Regio AG S-Bahn München, S7
 <img src="examples/sbm-s7.png" alt="S7" width="100">
@@ -90,7 +90,7 @@ Entry: `alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,re23,#ffffff,#006666,#006666
 - `shape`: pill
 - `wikidataQid` *not available*
 
-Entry: `mvv-db-sbm,S7,db-regio-ag-s-bahn-munchen,4-800725-7,#8a372f,#ffffff,,pill,`
+Entry: `mvv-db-sbm,S7,db-regio-ag-s-bahn-munchen,4-800725-7,#8a372f,#ffffff,,pill,,15017,DB Regio AG S-Bahn München`
 
 ### KVV: Albtal-Verkehrs-Gesellschaft mbH, S1
 
@@ -107,7 +107,7 @@ Entry: `mvv-db-sbm,S7,db-regio-ag-s-bahn-munchen,4-800725-7,#8a372f,#ffffff,,pil
 - `shape`: rectangle-rounded-corner (a pill with less rounded corners)
 - `wikidataQid` *not available*
 
-Entry: `kvv-avg,S8,albtal-verkehrs-gesellschaft-mbh,4-a6s8-8,#6e692a,#ffffff,,rectangle-rounded-corner,`
+Entry: `kvv-avg,S8,albtal-verkehrs-gesellschaft-mbh,4-a6s8-8,#6e692a,#ffffff,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft`
 
 ### HVV: Hadag, 62
 
@@ -124,7 +124,7 @@ Entry: `kvv-avg,S8,albtal-verkehrs-gesellschaft-mbh,4-a6s8-8,#6e692a,#ffffff,,re
 - `shape`: trapezoid (a shape with a broad top and a narrow bottom side)
 - `wikidataQid` *not available*
 
-Entry: `hvv-had,62,,6-hvvhad-62,#009bb6,#ffffff,,trapezoid,`
+Entry: `hvv-had,62,,6-hvvhad-62,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU`
 
 #### HVV: Hamburger Hochbahn AG, X35
 
@@ -141,7 +141,7 @@ Entry: `hvv-had,62,,6-hvvhad-62,#009bb6,#ffffff,,trapezoid,`
 - `shape`: hexagon (a pill with pointy tips)
 - `wikidataQid` *not available*
 
-Entry: `hvv-hha,X35,,5-hvvhha-x35,#eb452e,#ffffff,,hexagon,`
+Entry: `hvv-hha,X35,,5-hvvhha-x35,#eb452e,#ffffff,,hexagon,,15140,Hochbahn Bus`
 
 #### S-train Liege: SNCB, S41
 
@@ -158,4 +158,4 @@ Entry: `hvv-hha,X35,,5-hvvhha-x35,#eb452e,#ffffff,,hexagon,`
 - `shape`: circle
 - `wikidataQid` *not available*
 
-Entry: `liege-s,S41,sncb,4-88-41,#0f6030,#ffffff,#ffffff,circle,`
+Entry: `liege-s,S41,sncb,4-88-41,#0f6030,#ffffff,#ffffff,circle,,,`
