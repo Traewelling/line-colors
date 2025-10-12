@@ -73,6 +73,8 @@ Please keep the PR's small. If possible, create a small PR for each operator. <b
 - `borderColor` #006666
 - `shape`: rectangle
 - `wikidataQid` Q130542294
+- `delfiAgencyID` 10837
+- `delfiAgencyName` alex - Die Länderbahn GmbH DLB
 
 Entry: `alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,re23,#ffffff,#006666,#006666,rectangle,Q130542294,10837,alex - Die Länderbahn GmbH DLB`
 
@@ -89,6 +91,8 @@ Entry: `alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,re23,#ffffff,#006666,#006666
 - `borderColor` *does not apply*
 - `shape`: pill
 - `wikidataQid` *not available*
+- `delfiAgencyID` 15017
+- `delfiAgencyName` DB Regio AG S-Bahn München
 
 Entry: `mvv-db-sbm,S7,db-regio-ag-s-bahn-munchen,4-800725-7,#8a372f,#ffffff,,pill,,15017,DB Regio AG S-Bahn München`
 
@@ -106,6 +110,8 @@ Entry: `mvv-db-sbm,S7,db-regio-ag-s-bahn-munchen,4-800725-7,#8a372f,#ffffff,,pil
 - `borderColor` *does not apply*
 - `shape`: rectangle-rounded-corner (a pill with less rounded corners)
 - `wikidataQid` *not available*
+- `delfiAgencyID` 10836
+- `delfiAgencyName` Albtal-Verkehrs-Gesellschaft
 
 Entry: `kvv-avg,S8,albtal-verkehrs-gesellschaft-mbh,4-a6s8-8,#6e692a,#ffffff,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft`
 
@@ -123,6 +129,8 @@ Entry: `kvv-avg,S8,albtal-verkehrs-gesellschaft-mbh,4-a6s8-8,#6e692a,#ffffff,,re
 - `borderColor` *does not apply*
 - `shape`: trapezoid (a shape with a broad top and a narrow bottom side)
 - `wikidataQid` *not available*
+- `delfiAgencyID` 15139
+- `delfiAgencyName` HADAG-ZVU
 
 Entry: `hvv-had,62,,6-hvvhad-62,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU`
 
@@ -140,6 +148,8 @@ Entry: `hvv-had,62,,6-hvvhad-62,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU`
 - `borderColor` *does not apply*
 - `shape`: hexagon (a pill with pointy tips)
 - `wikidataQid` *not available*
+- `delfiAgencyID` 15140
+- `delfiAgencyName` Hochbahn Bus
 
 Entry: `hvv-hha,X35,,5-hvvhha-x35,#eb452e,#ffffff,,hexagon,,15140,Hochbahn Bus`
 
@@ -157,5 +167,7 @@ Entry: `hvv-hha,X35,,5-hvvhha-x35,#eb452e,#ffffff,,hexagon,,15140,Hochbahn Bus`
 - `borderColor` #ffffff
 - `shape`: circle
 - `wikidataQid` *not available*
+- `delfiAgencyID` *not available*
+- `delfiAgencyName` *not available*
 
 Entry: `liege-s,S41,sncb,4-88-41,#0f6030,#ffffff,#ffffff,circle,,,`
