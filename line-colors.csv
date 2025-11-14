@@ -2402,10 +2402,10 @@ wt-go-on,R50,,5-vph072-r50,#ed2927,#ffffff,,rectangle,,9320,nph-Linienbündel 02
 wt-go-on,R51,,5-vph077-r51,#ed2927,#ffffff,,rectangle,,9320,nph-Linienbündel 02
 wt-go-on,S30,,5-vph080-s30,#0089cf,#ffffff,,rectangle,,9328,nph-Linienbündel 10
 wt-go-on,S40,,5-vph071-s40,#0089cf,#ffffff,,rectangle,,9319,nph-Linienbündel 01
-wt-mobiel,1,mobiel-gmbh,8-owl031-1,#009fe0,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
-wt-mobiel,2,mobiel-gmbh,8-owl031-2,#008f36,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
-wt-mobiel,3,mobiel-gmbh,8-owl031-3,#ffed00,#00264f,,rectangle,,14366,GBN-moBiel-Stadtbahn
-wt-mobiel,4,mobiel-gmbh,8-owl031-4,#e3001b,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
+wt-mobiel,1,mobiel-gmbh,8-owl031-1,#009fe0,#ffffff,,rectangle,Q117468577,14366,GBN-moBiel-Stadtbahn
+wt-mobiel,2,mobiel-gmbh,8-owl031-2,#008f36,#ffffff,,rectangle,Q117468882,14366,GBN-moBiel-Stadtbahn
+wt-mobiel,3,mobiel-gmbh,8-owl031-3,#ffed00,#00264f,,rectangle,Q117468931,14366,GBN-moBiel-Stadtbahn
+wt-mobiel,4,mobiel-gmbh,8-owl031-4,#e3001b,#ffffff,,rectangle,Q117468952,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,N1,,5-owl032-n1,#102c68,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,N2,,5-owl032-n2,#e40040,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,N3,,5-owl032-n3,#86bc24,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
@@ -2419,7 +2419,7 @@ wt-mobiel,N12,,5-owl032-n12,#974481,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtba
 wt-mobiel,N14,,5-owl032-n14,#c51931,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,N15,,5-owl032-n15,#af4b21,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,N18,,5-owl032-n18,#40c0f0,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
-wt-mobiel,S15,,5-owl032-s15,#002650,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
+wt-mobiel,S15,,5-owl032-s15,#002650,#ffffff,,pill,Q131862834,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,S18,,5-owl032-s18,#002650,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,21,,5-owl032-21,#d75162,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,22,,5-owl032-22,#d75162,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
