@@ -62,9 +62,9 @@ db-regio-ag-baden-wurttemberg,RE 4,db-regio-ag-baden-wurttemberg,re-4,#a05a2c,#f
 db-regio-ag-baden-wurttemberg,RE 5,db-regio-ag-baden-wurttemberg,re-5,#724019,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 6,db-regio-ag-baden-wurttemberg,re-6,#4d4d4d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 7,db-regio-ag-baden-wurttemberg,re-7,#ed6e19,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 14a,db-regio-ag-baden-wurttemberg,re-14a,#f39794,#000000,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 14b,db-regio-ag-baden-wurttemberg,re-14b,#02aa9e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,MEX 19,db-regio-ag-baden-wurttemberg,mex-19,#999999,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RE 14a,db-regio-ag-baden-wurttemberg,4308857_106,#f39794,#000000,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RE 14b,db-regio-ag-baden-wurttemberg,4308858_106,#02aa9e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,MEX 19,db-regio-ag-baden-wurttemberg,4504391_106,#999999,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 26,db-regio-ag-baden-wurttemberg,rb-26,#009fe3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 27,db-regio-ag-baden-wurttemberg,rb-27,#008c3c,#ffffff,,rectangle,Q130280632,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 28,db-regio-ag-baden-wurttemberg,rb-28,#724019,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
@@ -81,7 +81,7 @@ db-regio-ag-baden-wurttemberg,RB 72,db-regio-ag-baden-wurttemberg,rb-72,#008c3c,
 db-regio-ag-baden-wurttemberg,RB 74,db-regio-ag-baden-wurttemberg,rb-74,#0a69b2,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 93,db-regio-ag-baden-wurttemberg,rb-93,#009fe3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 93,db-regio-ag-baden-wurttemberg,re-93,#009fe3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,MEX 90,db-regio-ag-baden-wurttemberg,mex-90,#e5007d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,MEX 90,db-regio-ag-baden-wurttemberg,4504392_106,#e5007d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 200,db-regio-ag-baden-wurttemberg,re-200,#aa0344,#ffffff,,rectangle,Q114680512,10443,DB Regio AG Baden-Württemberg
 db-regio-bayern,RB 6,db-regio-ag-bayern,rb-6,#e50000,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 db-regio-bayern,RB 10,db-regio-ag-bayern,rb-10,#90bf26,#ffffff,,rectangle,,10446,DB Regio AG Bayern
@@ -1265,19 +1265,19 @@ svv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1451275-5318936,#3ab048,#ffffff,
 svv-slb,R33,salzburger-lokalbahnen,,#c22438,#ffffff,,rectangle-rounded-corner,,,
 svv-slb,S1,salzburger-lokalbahnen,4-810007-1,#c22438,#ffffff,,rectangle-rounded-corner,,,
 svv-slb,S11,salzburger-lokalbahnen,4-810007-11,#c22438,#ffffff,,rectangle-rounded-corner,,,
-sweg-stuttgart,RE 6,sweg-bahn-stuttgart-gmbh,re-6,#ebaf2d,#ffffff,,rectangle,Q131584411,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,RE 10a,sweg-bahn-stuttgart-gmbh,re-10a,#014f9f,#ffffff,,rectangle,Q131584412,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,RE 10b,sweg-bahn-stuttgart-gmbh,re-10b,#014f9f,#ffffff,,rectangle,Q131584450,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,RE 71,sweg-bahn-stuttgart-gmbh,re-71,#7db83f,#ffffff,,rectangle,Q131584454,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,MEX 12,sweg-bahn-stuttgart-gmbh,mex-12,#f27320,#ffffff,,rectangle,Q131584405,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,MEX 17a,sweg-bahn-stuttgart-gmbh,mex-17a,#00a9df,#ffffff,,rectangle,Q131584401,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,MEX 17c,sweg-bahn-stuttgart-gmbh,mex-17c,#ec2933,#ffffff,,rectangle,Q131584403,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,MEX 18,sweg-bahn-stuttgart-gmbh,mex-18,#009c48,#ffffff,,rectangle,Q131584398,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,RB 17a,sweg-bahn-stuttgart-gmbh,rb-17a,#00a9df,#ffffff,,rectangle,Q131584392,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,RB 17c,sweg-bahn-stuttgart-gmbh,rb-17c,#ec2933,#ffffff,,rectangle,Q131584394,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,RB 18,sweg-bahn-stuttgart-gmbh,rb-18,#009c48,#ffffff,,rectangle,Q131583989,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,RE 18,sweg-bahn-stuttgart-gmbh,re-18,#009c48,#ffffff,,rectangle,Q131583931,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,RB 10a,sweg-bahn-stuttgart-gmbh,rb-10a,#014f9f,#ffffff,,rectangle,Q131587496,14172,SWEG Bahn Stuttgart
+sweg-stuttgart,RE 6,sweg-bahn-stuttgart-gmbh,7029875_106,#ebaf2d,#ffffff,,rectangle,Q131584411,14172,SWEG Bahn Stuttgart
+sweg-stuttgart,RE 10a,sweg-bahn-stuttgart-gmbh,7133767_106,#014f9f,#ffffff,,rectangle,Q131584412,14172,SWEG Bahn Stuttgart
+sweg-stuttgart,RE 10b,sweg-bahn-stuttgart-gmbh,7133768_106,#014f9f,#ffffff,,rectangle,Q131584450,14172,SWEG Bahn Stuttgart
+sweg-stuttgart,RE 71,sweg-bahn-stuttgart-gmbh,7029873_106,#7db83f,#ffffff,,rectangle,Q131584454,14172,SWEG Bahn Stuttgart
+sweg-stuttgart,MEX 12,sweg-bahn-stuttgart-gmbh,7133763_106,#f27320,#ffffff,,rectangle,Q131584405,14172,SWEG Bahn Stuttgart
+sweg-stuttgart,MEX 17a,sweg-bahn-stuttgart-gmbh,7133764_106,#00a9df,#ffffff,,rectangle,Q131584401,14172,SWEG Bahn Stuttgart
+sweg-stuttgart,MEX 17c,sweg-bahn-stuttgart-gmbh,7133765_106,#ec2933,#ffffff,,rectangle,Q131584403,14172,SWEG Bahn Stuttgart
+sweg-stuttgart,MEX 18,sweg-bahn-stuttgart-gmbh,7133766_106,#009c48,#ffffff,,rectangle,Q131584398,14172,SWEG Bahn Stuttgart
+sweg-stuttgart,RB 17a,sweg-bahn-stuttgart-gmbh,7133761_106,#00a9df,#ffffff,,rectangle,Q131584392,14172,SWEG Bahn Stuttgart
+sweg-stuttgart,RB 17c,sweg-bahn-stuttgart-gmbh,7133762_106,#ec2933,#ffffff,,rectangle,Q131584394,14172,SWEG Bahn Stuttgart
+sweg-stuttgart,RB 18,sweg-bahn-stuttgart-gmbh,4281508_106,#009c48,#ffffff,,rectangle,Q131583989,14172,SWEG Bahn Stuttgart
+sweg-stuttgart,RE 18,sweg-bahn-stuttgart-gmbh,7029874_106,#009c48,#ffffff,,rectangle,Q131583931,14172,SWEG Bahn Stuttgart
+sweg-stuttgart,RB 10a,sweg-bahn-stuttgart-gmbh,7133760_106,#014f9f,#ffffff,,rectangle,Q131587496,14172,SWEG Bahn Stuttgart
 sweg-sudwest,RB 42,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb42,#088c3c,#ffffff,,rectangle,,7916,Südwestdeutsche-Verkehrs-AG
 sweg-sudwest,RB 42a,sweg-sudwestdeutsche-landesverkehrs-gmbh,swerb42a,#f06c1c,#ffffff,,rectangle,,7916,Südwestdeutsche-Verkehrs-AG
 sweg-sudwest,RB 43,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb43,#089ce4,#ffffff,,rectangle,,7916,Südwestdeutsche-Verkehrs-AG
