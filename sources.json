@@ -2269,12 +2269,6 @@
         ]
     },
     {       
-        "shortOperatorName": "vrs-bus",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            }
-        ],
         "sources": [
             {
                 "name": "VRR XBus",
