@@ -17,12 +17,12 @@ agilis,RE 18,agilis,ag-re18,#006428,#ffffff,,rectangle,Q130542152,10838,agilis
 alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,re23,#ffffff,#006666,#006666,rectangle,Q130542294,10837,alex - Die Länderbahn GmbH DLB
 alex-dlb,RE 25,alex-die-landerbahn-gmbh-dlb,re25,#006666,#ffffff,,rectangle,Q130542295,10837,alex - Die Länderbahn GmbH DLB
 ams,S7,abellio-rail-mitteldeutschland-gmbh,4-ams-7,#0a579b,#ffffff,,pill,Q63217583,11961,Abellio Rail Mitteldeutschland GmbH
-arverio-bw,RE 1,arverio-baden-wurttemberg,re-1,#88c946,#ffffff,,rectangle,Q64504218,13631,Go-Ahead Baden-Württemberg GmbH
+arverio-bw,RE 1,arverio-baden-wurttemberg,re-1,#88c946,#ffffff,,rectangle,Q64504218,12827,Go-Ahead Verkehrsgesellschaft Deutschland mbH
 arverio-bw,MEX 13,arverio-baden-wurttemberg,mex-13,#00b9f2,#ffffff,,rectangle,Q130542338,13631,Go-Ahead Baden-Württemberg GmbH
 arverio-bw,MEX 16,arverio-baden-wurttemberg,mex-16,#0073c0,#ffffff,,rectangle,Q130542339,13631,Go-Ahead Baden-Württemberg GmbH
-arverio-bw,RE 8,arverio-baden-wurttemberg,re-8,#b350a8,#ffffff,,rectangle,Q64512248,13631,Go-Ahead Baden-Württemberg GmbH
-arverio-bw,RB 8,arverio-baden-wurttemberg,rb-8,#b350a8,#ffffff,,rectangle,Q131583892,13631,Go-Ahead Baden-Württemberg GmbH
-arverio-bw,RE 90,arverio-baden-wurttemberg,re-90,#fd3083,#ffffff,,rectangle,Q64512220,13631,Go-Ahead Baden-Württemberg GmbH
+arverio-bw,RE 8,arverio-baden-wurttemberg,re-8,#b350a8,#ffffff,,rectangle,Q64512248,12827,Go-Ahead Verkehrsgesellschaft Deutschland mbH
+arverio-bw,RB 8,arverio-baden-wurttemberg,rb-8,#b350a8,#ffffff,,rectangle,Q131583892,12827,Go-Ahead Verkehrsgesellschaft Deutschland mbH
+arverio-bw,RE 90,arverio-baden-wurttemberg,re-90,#fd3083,#ffffff,,rectangle,Q64512220,12827,Go-Ahead Verkehrsgesellschaft Deutschland mbH
 arverio-by,RB86,arverio-bayern,rb-86,#77aed2,#ffffff,,rectangle,Q130789113,13786,Go-Ahead Bayern GmbH
 arverio-by,RB87,arverio-bayern,rb-87,#77aed2,#ffffff,,rectangle,Q130789121,13786,Go-Ahead Bayern GmbH
 arverio-by,RB89,arverio-bayern,rb-89,#006da7,#ffffff,,rectangle,Q130789128,13786,Go-Ahead Bayern GmbH
@@ -2284,9 +2284,9 @@ vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectang
 vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle,Q130343355,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,RB11,db-regio-ag-s-bahn-stuttgart,rb-11,#02aa9e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,rb-64,#b6931d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-vvs-fmo,443,friedrich-muller-omnibusunternehmen-gmbh,5-rbgfmo-443,#009097,#ffffff,,rectangle,,11071,Friedrich Müller Omnibus GmbH
-vvs-fmo,444,friedrich-muller-omnibusunternehmen-gmbh,5-rbgfmo-444,#415b70,#ffffff,,rectangle,,11071,Friedrich Müller Omnibus GmbH
-vvs-fmo,444A,friedrich-muller-omnibusunternehmen-gmbh,5-rbgfmo-444a,#415b70,#ffffff,,rectangle,,11071,Friedrich Müller Omnibus GmbH
+vvs-fmo,443,friedrich-muller-omnibusunternehmen-gmbh,5-rbgfmo-443,#009097,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,444,friedrich-muller-omnibusunternehmen-gmbh,5-rbgfmo-444,#415b70,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,444A,friedrich-muller-omnibusunternehmen-gmbh,5-rbgfmo-444a,#415b70,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-lvl,413,,5-vvs031-413,#96c2e9,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-lvl,415,,5-vvs031-415,#c6bd7f,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-lvl,420,,5-vvs031-420,#e94190,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
