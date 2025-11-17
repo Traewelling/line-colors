@@ -2040,8 +2040,15 @@ vrr-wsw,SB69,,5-vrr066-sb69,#3f8f9b,#ffffff,,rectangle,,8016,Wuppertaler Stadtwe
 vrr-wsw,CE62,,5-vrr066-ce62,#d12f2b,#ffffff,,rectangle,,8016,Wuppertaler Stadtwerke
 vrr-wsw,CE64,,5-vrr066-ce64,#d12f2b,#ffffff,,rectangle,,8016,Wuppertaler Stadtwerke
 vrr-wsw,CE65,,5-vrr066-ce65,#d12f2b,#ffffff,,rectangle,,8016,Wuppertaler Stadtwerke
-vrr-wsw,UniExpress E800,,5-vrr066-uniex,#9c9d9d,#ffffff,,rectangle,,8016,Wuppertaler Stadtwerke
-vrr-wsw,E860,,5-vrr066-e860,#c27629,#ffffff,,rectangle,,8016,Wuppertaler Stadtwerke
+vrr-wsw,UniExpress E800,,bus-uni,#9c9d9d,#ffffff,,rectangle,,8016,Wuppertaler Stadtwerke
+vrr-wsw,E860,,bus-e860,#c27629,#ffffff,,rectangle,,8016,Wuppertaler Stadtwerke
+vrr-xbus,X05,,bus-x05,#6aac46,#ffffff,,rectangle,,,
+vrr-xbus,X13,,bus-x13,#6aac46,#ffffff,,rectangle,,,
+vrr-xbus,X27,,bus-x27,#6aac46,#ffffff,,rectangle,,,
+vrr-xbus,X28,,bus-x85,#6aac46,#ffffff,,rectangle,,,
+vrr-xbus,X32,,bus-x32,#6aac46,#ffffff,,rectangle,,7713,NIAG
+vrr-xbus,X42,,bus-x42,#6aac46,#ffffff,,rectangle,,7776,Stadtwerke Oberhausen
+vrr-xbus,X49,,bus-x49,#6aac46,#ffffff,,rectangle,,7790,Vestische Straßenbahnen GmbH Bus
 vrs-bus,106,,5-vrs001-106,#097cc1,#ffffff,,rectangle,,,
 vrs-bus,118,,5-vrs001-118-779149-5669228,#85d1f5,#ffffff,,rectangle,,,
 vrs-bus,120,,5-vrs001-120,#e30a18,#ffffff,,rectangle,,,
