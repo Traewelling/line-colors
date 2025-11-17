@@ -2269,9 +2269,14 @@
         ]
     },
     {       
+        "shortOperatorName": "vrr-xbus",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
         "sources": [
             {
-                "shortOperatorName": "vrr-xbus"
                 "name": "VRR XBus",
                 "source": "https://www.vrr.de/fahrplan-mobilitaet/stadt-linien-netzplaene/"
             }
