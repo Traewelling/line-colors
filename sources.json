@@ -1,2868 +1,2882 @@
 [
-    {
-        "shortOperatorName": "agilis",
-        "contributors": [
-            {
-                "github": "verbuchselt"
-            },
-            {
-                "github": "Nagiphaaa"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "BEG Liniennetzplan Bayern 2024",
-                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "alex-dlb",
-        "contributors": [
-            {
-                "github": "verbuchselt"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "BEG Liniennetzplan Bayern 2024",
-                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "ams",
-        "contributors": [
-            {
-                "github": "tomjschwanke"
-            }
-        ],
-        "sources": [
-            {
-                "name": "MDV Liniennetzplan",
-                "source": "https://www.mdv.de/site/uploads/lnp_plusbus.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "bayerische-zugspitzbahn",
-        "contributors": [
-            {
-                "github": "verbuchselt"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "BEG Liniennetzplan Bayern 2024",
-                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "brb",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            },
-            {
-                "github": "verbuchselt"
-            },
-            {
-                "github": "Nagiphaaa"
-            }
-        ],
-        "sources": [
-            {
-                "name": "BRB Streckennetz 2024",
-                "source": "https://download.transdev.de/transdev/uploads/bb/media_document/500/original.pdf"
-            },
-            {
-                "name": "BEG Liniennetzplan Bayern 2024",
-                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "ceske-drahy",
-        "contributors": [
-            {
-                "github": "sebiIO"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "BEG Liniennetzplan Bayern 2024",
-                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "cfl",
-        "contributors": [
-            {
-                "github": "SpielenmitLili"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Fahrpläne",
-                "source": "https://www.cfl.lu/de-de/timetable"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "db-fernverkehr-ag",
-        "contributors": [
-            {
-                "github": "Nagiphaaa"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "ICE/IC Liniennetz 2024",
-                "source": "https://assets.static-bahn.de/dam/jcr:a2ed983a-36e1-4533-a4ee-8b85daf684c2/231127_Liniennetz%20ICE%20IC%202024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "db-regio-ag-baden-wurttemberg",
-        "contributors": [
-            {
-                "github": "nxrvincent"
-            },
-            {
-                "github": "Nagiphaaa"
-            },
-            {
-                "github": "oneiricbotcelot"
-            },
-            {
-                "github": "SpielenmitLili"
-            },
-            {
-                "github": "wittighausen"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan bwegt",
-                "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
-            },
-            {
-                "name": "Liniennetzplan Rheinland-Pfalz",
-                "source": "https://www.rolph.de/fileadmin/user_upload/Liniennetzplan_Rheinland-Pfalz_02-2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "db-regio-bayern",
-        "contributors": [
-            {
-                "github": "Aidaprima"
-            },
-            {
-                "github": "oneiricbotcelot"
-            },
-            {
-                "github": "verbuchselt"
-            },
-            {
-                "github": "sebiIO"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Bayern 2024",
-                "source": "https://assets.static-bahn.de/dam/jcr:bb360a26-c64c-4e3c-a6e2-71b57a1745d3/bayern-liniennetzplan-2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "db-regio-mitte",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            },
-            {
-                "github": "klukas144"
-            },
-            {
-                "github": "nxrvincent"
-            },
-            {
-                "github": "SpielenmitLili"
-            }
-        ],
-        "sources": [
-            {
-                "name": "bwegt Netz 7b Liniennetz Regionalverkehr",
-                "source": "https://assets.static-bahn.de/dam/jcr:25a7e259-1c4f-45c5-ac0f-b257daf118a8/220825_Netz_7b_bwegt_CD_800x350_ET.pdf"
-            },
-            {
-                "name": "Streckenkarte Main-Neckar-Ried-Express",
-                "source": "https://assets.static-bahn.de/dam/jcr:27c125bc-7bab-4eae-88c6-08d18285b46b/20220222_SK_MNR.pdf"
-            },
-            {
-                "name": "Liniennetzplan bwegt",
-                "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
-            },
-            {
-                "name": "Liniennetzplan Rheinland-Pfalz",
-                "source": "https://www.rolph.de/fileadmin/user_upload/Liniennetzplan_Rheinland-Pfalz_02-2024.pdf"
-            },
-            {
-                "name": "RSNP 2025",
-                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "db-regio-nordost",
-        "contributors": [
-            {
-                "github": "jeyemwey"
-            },
-            {
-                "github": "jonasr97"
-            },
-            {
-                "github": "SpielenmitLili"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VBB Liniennetz Regionalverkehr",
-                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
-            },
-            {
-                "name": "Liniennetz Regionalverkehr MV",
-                "source": "https://www.dbregio-mecklenburg-vorpommern.de/resource/blob/9358376/afd1296b1188bbc883cc6527c35e30ad/Liniennetzplan_MV_17-12-2022-data.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "db-regio-sudost",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            },
-            {
-                "github": "jeyemwey"
-            },
-            {
-                "github": "tomjschwanke"
-            },
-            {
-                "github": "verbuchselt"
-            },
-            {
-                "github": "oneiricbotcelot"
-            },
-            {
-                "github": "SpielenmitLili"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VBB Liniennetz Regionalverkehr",
-                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
-            },
-            {
-                "name": "MDV Liniennetzplan",
-                "source": "https://www.mdv.de/site/uploads/lnp_plusbus.pdf"
-            },
-            {
-                "name": "BEG Liniennetzplan Bayern 2024",
-                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
-            },
-            {
-                "name": "NASA Netzplan - Sachsen-Anhalt",
-                "source": "https://www.mein-takt.de/fileadmin/content/mein-takt/fahrplan/landesnetz/Liniennetzplan_Mein-Takt.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "db-regionetz-sudostbayernbahn",
-        "contributors": [
-            {
-                "github": "verbuchselt"
-            },
-            {
-                "github": "sebiIO"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "BEG Liniennetzplan Bayern 2024",
-                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "db-regionetz-westfrankenbahn",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Barrierefrei WFB-Streckenkarte 2022",
-                "source": "https://assets.static-bahn.de/dam/jcr:b2f152ae-ba8a-4454-9466-e4c713472de8/Barrierefrei-WFB-Streckenkarte_2022.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "dsb-s-tog",
-        "contributors": [
-            {
-                "github": "jonaes"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Fahrplan S-Tog",
-                "source": "https://www.dsb.dk/globalassets/pdf/koereplaner/s-tog/s25/s-tog-s25.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "dvg-dessau",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "DVG-Dessau Netzplan",
-                "source": "https://www.dvv-dessau.de/wp-content/uploads/2021/08/DVG-Dessau_Liniennetzplan.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "dwe-dessau",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "DVG-Dessau Netzplan",
-                "source": "https://www.dvv-dessau.de/wp-content/uploads/2021/08/DVG-Dessau_Liniennetzplan.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "ding-swu",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "SWU Liniennetz Bus und Tram 2023",
-                "source": "https://www.swu.de/fileadmin/content/mobilitaet/karten/2023/Liniennetzplan_2023-05-27.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "erfurter-bahn",
-        "contributors": [
-            {
-                "github": "verbuchselt"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "BEG Liniennetzplan Bayern 2024",
-                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "arverio-bw",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            },
-            {
-                "github": "wittighausen"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Go-Ahead BW Netzplan",
-                "source": "https://www.go-ahead-bw.de/fileadmin/user_upload/content/unterwegs/liniennetz/GABW_Netz_A4_220315_pr.pdf"
-            },
-            {
-                "name": "Streckenfahrplan RE8/RB8 2025",
-                "source": "https://www.arverio-bw.de/fileadmin/user_upload/content/unterwegs/fahrplaene/ABW_24_StrFpl_RE8_RB8_2412-2506_web.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "arverio-by",
-        "contributors": [
-            {
-                "github": "jheubuch"
-            },
-            {
-                "github": "Nagiphaaa"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Go-Ahead Bayern Linienübersicht",
-                "source": "https://www.go-ahead.bayern/unterwegs-mit-go-ahead/fahrplaene"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "hans",
-        "contributors": [
-            {
-                "github": "jeyemwey"
-            },
-            {
-                "github": "jonasr97"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VBB Liniennetz Regionalverkehr",
-                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
-            },
-            {
-                "name": "Liniennetz Regionalverkehr MV",
-                "source": "https://www.dbregio-mecklenburg-vorpommern.de/resource/blob/9358376/afd1296b1188bbc883cc6527c35e30ad/Liniennetzplan_MV_17-12-2022-data.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "hlb",
-        "contributors": [
-            {
-                "github": "SpielenmitLili"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "RSNP 2025",
-                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "hvv-akn",
-        "contributors": [
-            {
-                "github": "echtnurich"
-            },
-            {
-                "github": "jheubuch"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "hvv USAR-Plan",
-                "source": "https://www.hvv.de/de/plaene"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "hvv-db-sbhh",
-        "contributors": [
-            {
-                "github": "echtnurich"
-            },
-            {
-                "github": "jheubuch"
-            }
-        ],
-        "sources": [
-            {
-                "name": "hvv USAR-Plan",
-                "source": "https://www.hvv.de/de/plaene"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "hvv-had",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            },
-            {
-	        "github": "TheOneWithTheBraid"
-	    }
-        ],
-        "sources": [
-            {
-                "name": "hvv Hafenfährenplan",
-                "source": "https://www.hvv.de/de/plaene"
-            }
-        ]
-    },
+  {
+    "shortOperatorName": "agilis",
+    "contributors": [
+      {
+        "github": "verbuchselt"
+      },
+      {
+        "github": "Nagiphaaa"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "BEG Liniennetzplan Bayern 2024",
+        "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "alex-dlb",
+    "contributors": [
+      {
+        "github": "verbuchselt"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "BEG Liniennetzplan Bayern 2024",
+        "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "ams",
+    "contributors": [
+      {
+        "github": "tomjschwanke"
+      }
+    ],
+    "sources": [
+      {
+        "name": "MDV Liniennetzplan",
+        "source": "https://www.mdv.de/site/uploads/lnp_plusbus.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "bayerische-zugspitzbahn",
+    "contributors": [
+      {
+        "github": "verbuchselt"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "BEG Liniennetzplan Bayern 2024",
+        "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "brb",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      },
+      {
+        "github": "verbuchselt"
+      },
+      {
+        "github": "Nagiphaaa"
+      }
+    ],
+    "sources": [
+      {
+        "name": "BRB Streckennetz 2024",
+        "source": "https://download.transdev.de/transdev/uploads/bb/media_document/500/original.pdf"
+      },
+      {
+        "name": "BEG Liniennetzplan Bayern 2024",
+        "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "ceske-drahy",
+    "contributors": [
+      {
+        "github": "sebiIO"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "BEG Liniennetzplan Bayern 2024",
+        "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "cfl",
+    "contributors": [
+      {
+        "github": "SpielenmitLili"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Fahrpläne",
+        "source": "https://www.cfl.lu/de-de/timetable"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "db-fernverkehr-ag",
+    "contributors": [
+      {
+        "github": "Nagiphaaa"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "ICE/IC Liniennetz 2024",
+        "source": "https://assets.static-bahn.de/dam/jcr:a2ed983a-36e1-4533-a4ee-8b85daf684c2/231127_Liniennetz%20ICE%20IC%202024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "db-regio-ag-baden-wurttemberg",
+    "contributors": [
+      {
+        "github": "nxrvincent"
+      },
+      {
+        "github": "Nagiphaaa"
+      },
+      {
+        "github": "oneiricbotcelot"
+      },
+      {
+        "github": "SpielenmitLili"
+      },
+      {
+        "github": "wittighausen"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan bwegt",
+        "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
+      },
+      {
+        "name": "Liniennetzplan Rheinland-Pfalz",
+        "source": "https://www.rolph.de/fileadmin/user_upload/Liniennetzplan_Rheinland-Pfalz_02-2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "db-regio-bayern",
+    "contributors": [
+      {
+        "github": "Aidaprima"
+      },
+      {
+        "github": "oneiricbotcelot"
+      },
+      {
+        "github": "verbuchselt"
+      },
+      {
+        "github": "sebiIO"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Bayern 2024",
+        "source": "https://assets.static-bahn.de/dam/jcr:bb360a26-c64c-4e3c-a6e2-71b57a1745d3/bayern-liniennetzplan-2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "db-regio-mitte",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      },
+      {
+        "github": "klukas144"
+      },
+      {
+        "github": "nxrvincent"
+      },
+      {
+        "github": "SpielenmitLili"
+      }
+    ],
+    "sources": [
+      {
+        "name": "bwegt Netz 7b Liniennetz Regionalverkehr",
+        "source": "https://assets.static-bahn.de/dam/jcr:25a7e259-1c4f-45c5-ac0f-b257daf118a8/220825_Netz_7b_bwegt_CD_800x350_ET.pdf"
+      },
+      {
+        "name": "Streckenkarte Main-Neckar-Ried-Express",
+        "source": "https://assets.static-bahn.de/dam/jcr:27c125bc-7bab-4eae-88c6-08d18285b46b/20220222_SK_MNR.pdf"
+      },
+      {
+        "name": "Liniennetzplan bwegt",
+        "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
+      },
+      {
+        "name": "Liniennetzplan Rheinland-Pfalz",
+        "source": "https://www.rolph.de/fileadmin/user_upload/Liniennetzplan_Rheinland-Pfalz_02-2024.pdf"
+      },
+      {
+        "name": "RSNP 2025",
+        "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "db-regio-nordost",
+    "contributors": [
+      {
+        "github": "jeyemwey"
+      },
+      {
+        "github": "jonasr97"
+      },
+      {
+        "github": "SpielenmitLili"
+      }
+    ],
+    "sources": [
+      {
+        "name": "VBB Liniennetz Regionalverkehr",
+        "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
+      },
+      {
+        "name": "Liniennetz Regionalverkehr MV",
+        "source": "https://www.dbregio-mecklenburg-vorpommern.de/resource/blob/9358376/afd1296b1188bbc883cc6527c35e30ad/Liniennetzplan_MV_17-12-2022-data.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "db-regio-sudost",
+    "contributors": [
+      {
+        "github": "luna-cant-code"
+      },
+      {
+        "github": "jeyemwey"
+      },
+      {
+        "github": "tomjschwanke"
+      },
+      {
+        "github": "verbuchselt"
+      },
+      {
+        "github": "oneiricbotcelot"
+      },
+      {
+        "github": "SpielenmitLili"
+      }
+    ],
+    "sources": [
+      {
+        "name": "VBB Liniennetz Regionalverkehr",
+        "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
+      },
+      {
+        "name": "MDV Liniennetzplan",
+        "source": "https://www.mdv.de/site/uploads/lnp_plusbus.pdf"
+      },
+      {
+        "name": "BEG Liniennetzplan Bayern 2024",
+        "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+      },
+      {
+        "name": "NASA Netzplan - Sachsen-Anhalt",
+        "source": "https://www.mein-takt.de/fileadmin/content/mein-takt/fahrplan/landesnetz/Liniennetzplan_Mein-Takt.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "db-regionetz-sudostbayernbahn",
+    "contributors": [
+      {
+        "github": "verbuchselt"
+      },
+      {
+        "github": "sebiIO"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "BEG Liniennetzplan Bayern 2024",
+        "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "db-regionetz-westfrankenbahn",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Barrierefrei WFB-Streckenkarte 2022",
+        "source": "https://assets.static-bahn.de/dam/jcr:b2f152ae-ba8a-4454-9466-e4c713472de8/Barrierefrei-WFB-Streckenkarte_2022.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "dsb-s-tog",
+    "contributors": [
+      {
+        "github": "jonaes"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Fahrplan S-Tog",
+        "source": "https://www.dsb.dk/globalassets/pdf/koereplaner/s-tog/s25/s-tog-s25.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "dvg-dessau",
+    "contributors": [
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "DVG-Dessau Netzplan",
+        "source": "https://www.dvv-dessau.de/wp-content/uploads/2021/08/DVG-Dessau_Liniennetzplan.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "dwe-dessau",
+    "contributors": [
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "DVG-Dessau Netzplan",
+        "source": "https://www.dvv-dessau.de/wp-content/uploads/2021/08/DVG-Dessau_Liniennetzplan.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "ding-swu",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "SWU Liniennetz Bus und Tram 2023",
+        "source": "https://www.swu.de/fileadmin/content/mobilitaet/karten/2023/Liniennetzplan_2023-05-27.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "erfurter-bahn",
+    "contributors": [
+      {
+        "github": "verbuchselt"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "BEG Liniennetzplan Bayern 2024",
+        "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "arverio-bw",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      },
+      {
+        "github": "wittighausen"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Go-Ahead BW Netzplan",
+        "source": "https://www.go-ahead-bw.de/fileadmin/user_upload/content/unterwegs/liniennetz/GABW_Netz_A4_220315_pr.pdf"
+      },
+      {
+        "name": "Streckenfahrplan RE8/RB8 2025",
+        "source": "https://www.arverio-bw.de/fileadmin/user_upload/content/unterwegs/fahrplaene/ABW_24_StrFpl_RE8_RB8_2412-2506_web.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "arverio-by",
+    "contributors": [
+      {
+        "github": "jheubuch"
+      },
+      {
+        "github": "Nagiphaaa"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Go-Ahead Bayern Linienübersicht",
+        "source": "https://www.go-ahead.bayern/unterwegs-mit-go-ahead/fahrplaene"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "hans",
+    "contributors": [
+      {
+        "github": "jeyemwey"
+      },
+      {
+        "github": "jonasr97"
+      }
+    ],
+    "sources": [
+      {
+        "name": "VBB Liniennetz Regionalverkehr",
+        "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
+      },
+      {
+        "name": "Liniennetz Regionalverkehr MV",
+        "source": "https://www.dbregio-mecklenburg-vorpommern.de/resource/blob/9358376/afd1296b1188bbc883cc6527c35e30ad/Liniennetzplan_MV_17-12-2022-data.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "hlb",
+    "contributors": [
+      {
+        "github": "SpielenmitLili"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "RSNP 2025",
+        "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "hvv-akn",
+    "contributors": [
+      {
+        "github": "echtnurich"
+      },
+      {
+        "github": "jheubuch"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "hvv USAR-Plan",
+        "source": "https://www.hvv.de/de/plaene"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "hvv-db-sbhh",
+    "contributors": [
+      {
+        "github": "echtnurich"
+      },
+      {
+        "github": "jheubuch"
+      }
+    ],
+    "sources": [
+      {
+        "name": "hvv USAR-Plan",
+        "source": "https://www.hvv.de/de/plaene"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "hvv-had",
+    "contributors": [
+      {
+        "github": "luna-cant-code"
+      },
+      {
+        "github": "TheOneWithTheBraid"
+      }
+    ],
+    "sources": [
+      {
+        "name": "hvv Hafenfährenplan",
+        "source": "https://www.hvv.de/de/plaene"
+      }
+    ]
+  },
 
-    {
-        "shortOperatorName": "hvv-hha",
-        "contributors": [
-            {
-                "github": "echtnurich"
-            },
-            {
-                "github": "jheubuch"
-            },
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "hvv USAR-Plan",
-                "source": "https://www.hvv.de/de/plaene"
-            },
-            {
-                "name": "hvv MetroBus Plan",
-                "source": "https://www.hvv.de/de/plaene"
-            },
-            {
-                "name": "hvv XpressBus Plan",
-                "source": "https://www.hvv.de/de/plaene"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "hvv-kvi",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "hvv XpressBus Plan",
-                "source": "https://www.hvv.de/de/plaene"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "hvv-vhh",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "hvv MetroBus Plan",
-                "source": "https://www.hvv.de/de/plaene"
-            },
-            {
-                "name": "hvv XpressBus Plan",
-                "source": "https://www.hvv.de/de/plaene"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "kvv-avg",
-        "contributors": [
-            {
-                "github": "MrKrisKrisu"
-            }
-        ],
-        "sources": [
-            {
-                "name": "KVV Liniennetzplan Schiene 2023",
-                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Schiene/2023/KVV-Liniennetzplan_Schiene1.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "kvv-regionalbus",
-        "contributors": [
-            {
-                "github": "metrophil"
-            }
-        ],
-        "sources": [
-            {
-                "name": "KVV Liniennetzplan Bus Nördlicher Landkreis Karlsruhe 2024",
-                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz-Noerdlicher-Landkreis-Karlsruhe.pdf"
-            },
-            {
-                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Karlsruhe und Nördlicher Landkreis Rastatt 2024",
-                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-LK-Karlsruhe-und-noerdlicher-LK-Rastatt.pdf"
-            },
-            {
-                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Rastatt und Baden-Baden 2024",
-                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-Landkreis-Rastatt-und-Baden-Baden.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "kvv-vbk",
-        "contributors": [
-            {
-                "github": "MrKrisKrisu"
-            }
-        ],
-        "sources": [
-            {
-                "name": "KVV Liniennetzplan Schiene 2023",
-                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Schiene/2023/KVV-Liniennetzplan_Schiene1.pdf"
-            },
-            {
-                "name": "KVV Liniennetzplan Nightliner 2023",
-                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Schiene/2023/KVV-Liniennetzplan_Nightliner.pdf"
-            },
-            {
-                "name": "KVV Liniennetzplan Bus und Schiene Karlsruhe 2024",
-                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Bus-und-Schiene-Karlsruhe.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "liege-s",
-        "contributors": [
-            {
-                "github": "TheOneWithTheBraid"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liège S Train map",
-                "source": "https://www.belgiantrain.be/en/travel-info/train-offer/s-train/s-train-luik"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "lavv-swl",
-        "contributors": [
-            {
-                "github": "connectingwings"
-            }
-        ],
-        "sources": [
-            {
-                "name": "StadtLinie grafisch Tarifzone 100 im LAVV",
-                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-grafisch-Stadtlinie-2023.pdf"
-            },
-            {
-                "name": "AbendLinie grafisch Tarifzone 100 im LAVV",
-                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-grafisch-Abendlinie-2023.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "mdv-lvb",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "LVB Leipzig Liniennetzplan",
-                "source": "https://files.l.de/lde-typo3/default_backend_upload/LVB-Liniennetzplan-Tag-ab-03-01-24.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "mdv-swh-havag",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "SWH HAVAG Tagesnetzplan",
-                "source": "https://havag.com/69103?240516_LNP_Tag_BM_Pesta.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "metronom",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            },
-            {
-                "github": "oneiricbotcelot"
-            },
-            {
-                "github": "vainamov"
-            }
-        ],
-        "sources": [
-            {
-                "name": "metronom Netzplan",
-                "source": "https://www.der-metronom.de/media/metronom/downloads/Streckennetz-me-enno-ohne-Fuss-A4-ab-01-2022.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "mitteldeutsche-regiobahn",
-        "contributors": [
-            {
-                "github": "hoolycrash"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan Mitteldeutsche Regiobahn",
-                "source": "https://download.transdev.de/transdev/uploads/mdr/media_document/26/original.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "mvb-magdeburg",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "MVB Tagesnetz",
-                "source": "https://www.mvbnet.de//files/2024/03/Web_A3-Netzplan-MVB_Maerz2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "mvv-db-sbm",
-        "contributors": [
-            {
-                "github": "jheubuch"
-            },
-            {
-                "github": "sebiIO"
-            }
-        ],
-        "sources": [
-            {
-                "name": "MVV Gesamtfahrplan",
-                "source": "https://www.mvv-muenchen.de/fahrplanauskunft/index.html#c30293"
-            },
-            {
-                "name": "MVV Fahrplan Linie S5",
-                "source": "https://efa.mvv-muenchen.de/ttb2/mvv_01005___H_s25_1.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "mvv-mvg-tram",
-        "contributors": [
-            {
-                "github": "DRSchlaubi"
-            }
-        ],
-        "sources": []
-    },
-    {
-        "shortOperatorName": "mvv-mvg-ubahn",
-        "contributors": [
-            {
-                "github": "jheubuch"
-            }
-        ],
-        "sources": [
-            {
-                "name": "MVG Jahresnetzplan",
-                "source": "https://www.mvg.de/dam/jcr:d3dc64ec-f1b3-4019-a5fb-23e09884b5c9/netz-tarifplan-vre-12.2023_SURTX_Zone_M.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "mvv-regional-bus",
-        "contributors": [
-            {
-                "github": "verbuchselt"
-            },
-            {
-                "github": "sebiIO"
-            }
-        ],
-        "sources": [
-            {
-                "name": "MVV Netzplan Gesamtnetz 2024",
-                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2024/2024_layout_MVV_Regio_1_GESAMT_SCR.pdf"
-            },
-            {
-                "name": "MVV-ExpressBus Linien",
-                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/05-Service/ExpressBus_Ring/ExpressBus_Ring_01_2024_Bahn_01.svg"
-            },
-            {
-                "name": "MVV-Netz Stadt Germering",
-                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2024/2024_layout_Netz_Germering_SCR.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "mvv-stadtwerke-dachau",
-        "contributors": [
-            {
-                "github": "sebiIO"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Stadtverkehrsplan Dachau",
-                "source": "https://www.stadtwerke-dachau.de/fileadmin/Media/Downloads/Downloads_Tarife_Angebote/Downloads_Mobilitaet/Dachau_SVP_2024.pdf"
-            },
-            {
-                "name": "Übersichtsseite - Busverkehr in Dachau",
-                "source": "https://www.stadtwerke-dachau.de/tarife-angebote/mobilitaet/busverkehr-in-dachau"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "mvv-stadtwerke-freising",
-        "contributors": [
-            {
-                "github": "verbuchselt"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz Stadtbus Freising",
-                "source": "https://www.freisinger-stadtwerke.de/de/Stadtbus-Parkhaeuser/Stadtbus/Prefooter/Aushang-Liniennetz-Stadtbus-A4hoch-web.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "nah-sh",
-        "contributors": [
-            {
-                "github": "asraelvudogel"
-            },
-            {
-                "github": "jheubuch"
-            },
-            {
-                "github": "laugengebaeck"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "NAH.SH Bahnlinienplan 2023",
-                "source": "https://www.nah.sh/assets/2023/nahsh_bahnlinienSH_2023.pdf"
-            },
-            {
-                "name": "NAH.SH Bahnlinienplan 2024",
-                "source": "https://www.nah.sh/assets/05-Karten/BahnlinienSH_A3_2024_5.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "nvs",
-        "contributors": [
-            {
-                "github": "jonasr97"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz Nahverkehr Schwerin",
-                "source": "https://www.nahverkehr-schwerin.de/_Resources/Persistent/5/9/d/5/59d5a5fd8655710d24f5ae6e26f6861f7dfac243/Liniennetz_2023-12-23.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "rvf-sbahn",
-        "contributors": [
-            {
-                "github": "metrophil"
-            },
-            {
-                "github": "nxrvincent"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Schienennetz RVF [PDF]",
-                "source": "https://www.rvf.de/fileadmin/user_upload/techdocs/linien-zonen/schienennetz/rvf_24_schienennetz_web.pdf"
-            },
-            {
-                "name": "Liniennetzplan bwegt",
-                "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "rvf-sweg-sudwest",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            },
-            {
-                "github": "nxrvincent"
-            }
-        ],
-        "sources": [
-            {
-                "name": "RVF Linienplan Emmendingen 2023",
-                "source": "https://www.rvf.de/fileadmin/user_upload/techdocs/linien-zonen/teilnetzplan-staedte/rvf_23_lp_emmendingen_web.pdf"
-            },
-            {
-                "name": "Liniennetzplan bwegt",
-                "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "rvf-vag-stadtbahn",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            },
-            {
-                "github": "metrophil"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Linienfahrpläne",
-                "source": "https://www.vag-freiburg.de/fahrplan/linien-fahrplaene"
-            },
-            {
-                "name": "Freiburger Schienennetz (Stadtbahn) [PDF]",
-                "source": "https://www.rvf.de/fileadmin/user_upload/techdocs/linien-zonen/linien/vag_24_stadtbahnnetzplan_web.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "neb-niederbarnimer-eisenbahn",
-        "contributors": [
-            {
-                "github": "jeyemwey"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VBB Liniennetz Regionalverkehr",
-                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "nrw-regional",
-        "contributors": [
-            {
-                "github": "metrophil"
-            },
-            {
-                "github": "luna-cant-code"
-            },
-            {
-                "github": "marhei"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "NRW-Fahrplanbuch 2024",
-                "source": "https://www.vrs.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTgwMDk4ODMsImV4cCI6MTcxODA1NjY4MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vRGF0ZWllbi9Eb3dubG9hZGNlbnRlci9GYWhycGxhbm1lZGllbi9OUldfRmFocnBsYW4yMDI0Xy5QREYiLCJwYWdlIjoxMDg2fQ.eqeSLrc-3uV-VsOrh4aTvIRNBDyLYXeh6kwBMD_znPo/NRW_Fahrplan2024_.PDF"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "nrw-sbahn",
-        "contributors": [
-            {
-                "github": "metrophil"
-            },
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "NRW-Fahrplanbuch 2024",
-                "source": "https://www.vrs.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MDE3OTA4MTcsImV4cCI6MTcwMTgyMDgwMCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vRGF0ZWllbi9Eb3dubG9hZGNlbnRlci9GYWhycGxhbm1lZGllbi9OUldfRmFocnBsYW4yMDI0LlBERiIsInBhZ2UiOjEwODZ9.G9r0FkuaYSG-eIyqkKUkS_3HCX_FuVVE0C5ZV6Yf2nM/NRW_Fahrplan2024.PDF"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "oberpfalzbahn-dlb",
-        "contributors": [
-            {
-                "github": "verbuchselt"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "BEG Liniennetzplan Bayern 2024",
-                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "odeg",
-        "contributors": [
-            {
-                "github": "jeyemwey"
-            },
-            {
-                "github": "jonasr97"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VBB Liniennetz Regionalverkehr",
-                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
-            },
-            {
-                "name": "Liniennetz Regionalverkehr MV",
-                "source": "https://www.dbregio-mecklenburg-vorpommern.de/resource/blob/9358376/afd1296b1188bbc883cc6527c35e30ad/Liniennetzplan_MV_17-12-2022-data.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "ooevv-linz-linien",
-        "contributors": [
-            {
-                "github": "rnewhost"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Linz AG Linien",
-                "source": "https://www.linzag.at/media/dokumente/linien_1/infomaterial_1/linien-linienfahrplan.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "ooevv-oebb",
-        "contributors": [
-            {
-                "github": "rnewhost"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan OÖVV",
-                "source": "https://www.oebb.at/dam/jcr:562c11c9-4da3-4253-8623-28601d77e346/liniennetz_ooe.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "ooevv-stern-hafferl",
-        "contributors": [
-            {
-                "github": "rnewhost"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan OÖVV",
-                "source": "https://www.oebb.at/dam/jcr:562c11c9-4da3-4253-8623-28601d77e346/liniennetz_ooe.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "ostalb-mobil-ovg-goeppingen",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan OAM",
-                "source": "https://www.ostalbmobil.de/wp-content/uploads/2023/12/Liniennetzplan_OAM_2023_12_10.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "ostalb-mobil-ovk-betz",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan OAM",
-                "source": "https://www.ostalbmobil.de/wp-content/uploads/2023/12/Liniennetzplan_OAM_2023_12_10.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "ostalb-mobil-ovk-dannenmann",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan OAM",
-                "source": "https://www.ostalbmobil.de/wp-content/uploads/2023/12/Liniennetzplan_OAM_2023_12_10.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "ostalb-mobil-ovk-domhan",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan OAM",
-                "source": "https://www.ostalbmobil.de/wp-content/uploads/2023/12/Liniennetzplan_OAM_2023_12_10.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "ostalb-mobil-stadtbus-gmuend",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan OAM",
-                "source": "https://www.ostalbmobil.de/wp-content/uploads/2023/12/Liniennetzplan_OAM_2023_12_10.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "pid-prague",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "PID network map",
-                "source": "https://pid.cz/en/transport-schemes/"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "polregio",
-        "contributors": [
-            {
-                "github": "jeyemwey"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VBB Liniennetz Regionalverkehr",
-                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "rmv-db-sbahn",
-        "contributors": [
-            {
-                "github": "jonaes"
-            }
-        ],
-        "sources": [
-            {
-                "name": "RMV-Schnellbahnplan",
-                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV-Schnellbahnplan.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "rmv-eswe-bus",
-        "contributors": [
-            {
-                "github": "techtoto"
-            }
-        ],
-        "sources": [
-            {
-                "name": "ESWE Netzplan Tag",
-                "source": "https://eswe-wiesbaden.nahverkehrsdaten.com/download/ESWE_SLNP-Tag_2023.pdf"
-            },
-            {
-                "name": "ESWE Netzplan Nacht",
-                "source": "https://eswe-wiesbaden.nahverkehrsdaten.com/download/ESWE_SLNP-Nacht_2023.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "rmv-heag-bus",
-        "contributors": [
-            {
-                "github": "techtoto"
-            }
-        ],
-        "sources": [
-            {
-                "name": "HEAG/DADINA Liniennetzplan Stadt Darmstadt",
-                "source": "https://heagmobilo.de/sites/default/files/media/DADINA_Liniennetzplan_Darmstadt_2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "rmv-heag-tram",
-        "contributors": [
-            {
-                "github": "jonaes"
-            }
-        ],
-        "sources": [
-            {
-                "name": "HEAG/DADINA Liniennetzplan Straßenbahn",
-                "source": "https://www.dadina.de/fileadmin/user_upload/Dokumente/2023/Fahrplaene_Linien/Linienplaene/Liniennetzplan_Tram_2023_ab_2023-09-04.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "rmv-hsb-bus",
-        "contributors": [
-            {
-                "github": "techtoto"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Hanau 2024",
-                "source": "https://www.hsb.de/mam/static/dateien/liniennetzplan.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "rmv-mm-bus",
-        "contributors": [
-            {
-                "github": "techtoto"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Linienplan Mainzer Mobilität",
-                "source": "https://www.mainzer-mobilitaet.de/-/media/project/mainzer-stadtwerke/websites/mainzer-mobilitaet/fahrplaene/liniennetzplaene/web_mvg_mainz_slnp_tag_a3.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "rmv-mm-tram",
-        "contributors": [
-            {
-                "github": "techtoto"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Linienplan Mainzer Mobilität",
-                "source": "https://www.mainzer-mobilitaet.de/-/media/project/mainzer-stadtwerke/websites/mainzer-mobilitaet/fahrplaene/liniennetzplaene/web_mvg_mainz_slnp_tag_a3.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "rmv-vgf-tram",
-        "contributors": [
-            {
-                "github": "techtoto"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Frankfurt am Main",
-                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/Liniennetzplan_Frankfurt.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "rmv-vgf-ubahn",
-        "contributors": [
-            {
-                "github": "jonaes"
-            }
-        ],
-        "sources": [
-            {
-                "name": "RMV-Schnellbahnplan",
-                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV-Schnellbahnplan.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "regio-s-bahn-donau-iller",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "RSB Liniennetz",
-                "source": "https://rsb-di.de/wp-content/uploads/2023/02/RSB-Liniennetz.pdff"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "regiobus-hannover",
-        "contributors": [
-            {
-                "github": "vainamov"
-            }
-        ],
-        "sources": [
-            {
-                "name": "GVH Bus Hannover",
-                "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplan-bus-hannover-2023-2024.pdf"
-            },
-            {
-                "name": "GVH Plan Stadt Hannover",
-                "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplaene-faltplan-stadt-2023-2024.pdf"
-            },
-            {
-                "name": "GVH Plan Region Hannover",
-                "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplaene-faltplan-region-2023-2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "rmv-express-bus",
-        "contributors": [
-            {
-                "github": "SpielenmitLili"
-            }
-        ],
-        "sources": [
-            {
-                "name": "RSPN 2025",
-                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "s-bahn-bern-bls",
-        "contributors": [
-            {
-                "github": "sinsa92"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan S-Bahn Bern",
-                "source": "https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-s-bahn-bern.pdf?la=de&vs=1"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "s-bahn-bern-rbs",
-        "contributors": [
-            {
-                "github": "sinsa92"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan S-Bahn Bern",
-                "source": "https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-s-bahn-bern.pdf?la=de&vs=1"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "s-bahn-hannover-transdev",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            },
-            {
-                "github": "vainamov"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan S-Bahn Hannover Transdev",
-                "source": "https://download.transdev.de/transdev/uploads/sbahn_hannover/media_document/18/original.pdf"
-            },
-            {
-                "name": "Liniennetzplan Regionalzug und S-Bahn",
-                "source": "https://www.uestra.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/uestra-gvh-linienplan-regional-s-bahn-2023-2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "s-bahn-zentralschweiz-bls",
-        "contributors": [
-            {
-                "github": "sinsa92"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Regionalverkehr Zentralschweiz",
-                "source": "https://www.vvl.ch/application/files/9616/8129/0865/SBB_RV_S-Bahn_LUZERN_A2_2022.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "s-bahn-zentralschweiz-sbb",
-        "contributors": [
-            {
-                "github": "sinsa92"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Regionalverkehr Zentralschweiz",
-                "source": "https://www.vvl.ch/application/files/9616/8129/0865/SBB_RV_S-Bahn_LUZERN_A2_2022.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "s-bahn-zentralschweiz-zb",
-        "contributors": [
-            {
-                "github": "sinsa92"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Regionalverkehr Zentralschweiz",
-                "source": "https://www.vvl.ch/application/files/9616/8129/0865/SBB_RV_S-Bahn_LUZERN_A2_2022.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "saarbahn",
-        "contributors": [
-            {
-                "github": "feuer1998"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan Saarbahn GmbH",
-                "source": "https://www.saarbahn.de/media/download-5a2e252da77e1"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "schweiz-fernverkehr",
-        "contributors": [
-            {
-                "github": "TheOneWithTheBraid"
-            }
-        ],
-        "sources": {
-            "name": "SBB: direct long-distance connections",
-            "source": "https://network.sbb.ch/en/"
-        }
-    },
-    {
-        "shortOperatorName": "start",
-        "contributors": [
-            {
-                "github": "SpielenmitLili"
-            }
-        ],
-        "sources": {
-            "name": "RSPN 2025",
-            "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
-        }
-    },
-    {
-        "shortOperatorName": "svv-brb",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz Zentralraum",
-                "source": "https://www.oebb.at/dam/jcr:69a41a9c-57a1-4c6d-9619-c67fd076d9a1/Liniennetz_Zentralraum.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "svv-oebb",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz Zentralraum",
-                "source": "https://www.oebb.at/dam/jcr:69a41a9c-57a1-4c6d-9619-c67fd076d9a1/Liniennetz_Zentralraum.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "svv-slb",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz Zentralraum",
-                "source": "https://www.oebb.at/dam/jcr:69a41a9c-57a1-4c6d-9619-c67fd076d9a1/Liniennetz_Zentralraum.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "sweg-sudwest",
-        "contributors": [
-            {
-                "github": "oneriricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Gesamtnetz Zollern-Alb und Ulmer Stern",
-                "source": "https://www.sweg.de/fileadmin//user_upload/pdf/liniennetzplaene/zollernalb/2021_11_22_SWEG_bwegt_GesamtNetz.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "sweg-stuttgart",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            },
-            {
-                "github": "wittighausen"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Stuttgart-Neckartal 2023",
-                "source": "https://www.sweg.de/fileadmin//user_upload/pdf/liniennetzplaene/stuttgart-neckartal/Liniennetzplan-SBS-2023.pdf"
-            },
-            {
-                "name": "Streckenfahrplan MEX18 2025",
-                "source": "https://www.sweg.de/fileadmin/user_upload/pdf/fahrplaene/stuttgart-neckartal/stuttgart-neckartal-2025/2025_Jahresfahrplan_Tuebingen-Osterburken_MEX18.pdf?version=1733907872"
-            },
-            {
-                "name": "Streckenfahrplan MEX12/RE10 2025",
-                "source": "https://www.sweg.de/fileadmin/user_upload/pdf/fahrplaene/stuttgart-neckartal/stuttgart-neckartal-2025/2025_Jahresfahrplan_Tuebingen-Mannheim_RE10-MEX12.pdf?version=1733907884"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "tlx",
-        "contributors": [
-            {
-                "github": "feuer1998"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Trilex Dezember 2023",
-                "source": "https://www.laenderbahn.com/media/laenderbahn/bilder/2023-12_Linienplan_trilex_ERWEITERT_A3_WEB.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "tnw-blt",
-        "contributors": [
-            {
-                "github": "metrophil"
-            }
-        ],
-        "sources": [
-            {
-                "name": "TNV Liniennetz Basel und Umgebung",
-                "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "tnw-bvb",
-        "contributors": [
-            {
-                "github": "metrophil"
-            }
-        ],
-        "sources": [
-            {
-                "name": "TNV Liniennetz Basel und Umgebung",
-                "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "uestra",
-        "contributors": [
-            {
-                "github": "vainamov"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Stadtbahn Hannover (PDF) ab dem 10. Dezember 2023",
-                "source": "https://www.uestra.de/fileadmin/Material/Fahrgast/Linieplaene/GVH_Stadtbahn_2024.pdf"
-            },
-            {
-                "name": "GVH Bus Hannover",
-                "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplan-bus-hannover-2023-2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vbb-bvg-tram",
-        "contributors": [
-            {
-                "github": "techtoto"
-            }
-        ],
-        "sources": [
-            {
-                "name": "BVG Straßenbahnnetz",
-                "source": "https://www.bvg.de/dam/jcr:d45105f2-6752-4ec5-b882-8936572053c3/TramMetro_09_2023-Internetversion.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vbb-bvg-ubahn",
-        "contributors": [
-            {
-                "github": "laugengebaeck"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VBB Open Data Linienfarben",
-                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/API-Datensaetze/Linienfarben.zip"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vbb-db-sbahn",
-        "contributors": [
-            {
-                "github": "jheubuch"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan S-Bahn Berlin",
-                "source": "https://sbahn.berlin/liniennetz/"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vbb-vip-bus",
-        "contributors": [
-            {
-                "github": "jonaes"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan Potsdam Tag",
-                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/potsdam-tageslinien-4-bis-1uhr.pdf"
-            },
-            {
-                "name": "Netzplan Potsdam Nacht",
-                "source": "https://www.swp-potsdam.de/content/verkehr/pdf_7/fahrplanwechsel_10_12_23/231210_liniennetz_potsdam_nacht.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vbb-vip-tram",
-        "contributors": [
-            {
-                "github": "jonaes"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan Potsdam Tag",
-                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/potsdam-tageslinien-4-bis-1uhr.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vbg",
-        "contributors": [
-            {
-                "github": "feuer1998"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz Vogtlandbahn Dezember 2023",
-                "source": "https://www.laenderbahn.com/media/laenderbahn/downloads/vogtlandbahn/01-Fahrplan/Linienplan/2023_12_Linienplan-Vogtlandbahn-web.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vbn-nwb-regio-s-bahn",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz Regio-S-Bahn Bremen Niedersachsen",
-                "source": "https://download.transdev.de/transdev/uploads/nwb/pictures/item_paragraph/43/s1200.jpg"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vbn-bsag",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz BSAG",
-                "source": "https://www.bsag.de/fileadmin/user_upload/Tagesnetz.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vgi-brb",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "BRB Streckennetz 2024",
-                "source": "https://download.transdev.de/transdev/uploads/bb/media_document/500/original.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vgn-db-sbn",
-        "contributors": [
-            {
-                "github": "tomabrafix"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VGN Schienennetzplan Gesamtraum",
-                "source": "https://www.vgn.de/liniennetze/schienennetz_gesamtraum/"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vgn-vag-tram",
-        "contributors": [
-            {
-                "github": "tomabrafix"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VGN Schienennetzplan Nürnberg-Fürth",
-                "source": "https://www.vgn.de/liniennetze/schienennetz_nuernberg_furth/"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vgn-infra-bus",
-        "contributors": [
-            {
-                "github": "Aidaprima"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VGN Netzplan Fürth",
-                "source": "https://www.vgn.de/liniennetze/stadtverkehr_fuerth_stilisiert/"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vgn-estw-bus",
-        "contributors": [
-            {
-                "github": "Aidaprima"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VGN Netzplan Erlangen",
-                "source": "https://www.vgn.de/liniennetze/stadtverkehr_erlangen_stilisiert/"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vgn-swh-bus",
-        "contributors": [
-            {
-                "github": "Aidaprima"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VGN Netzplan Hof",
-                "source": "https://www.vgn.de/liniennetze/stadtverkehr_hof/"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vgn-vag-ubahn",
-        "contributors": [
-            {
-                "github": "tomabrafix"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VGN Schienennetzplan Nürnberg-Fürth",
-                "source": "https://www.vgn.de/liniennetze/schienennetz_nuernberg_furth/"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vias",
-        "contributors": [
-            {
-                "github": "SpielenmitLili"
-            }
-        ],
-        "sources": [
-            {
-                "name": "RSPN 2025",
-                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vlexx",
-        "contributors": [
-            {
-                "github": "SpielenmitLili"
-            }
-        ],
-        "sources": [
-            {
-                "name": "RMV-Schienennetzplan 2024 mit Riedbahnsperrung 15.07.-14.12.2024",
-                "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/Schienennetzplan.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vmt-evag-tram",
-        "contributors": [
-            {
-                "github": "techtoto"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan Erfurt",
-                "source": "https://www.evag-erfurt.de/site/evag/get/documents_E-256148826/evag/documents/Pl%C3%A4ne/2023/EVAG-Netzplan-Erfurt.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vmt-jena-bus",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan Jena",
-                "source": "https://www.stadtwerke-jena.de/dam/jcr:05b477be-daab-48d5-87ea-f1776d8cd747/Netzplan_Jena_A4_web_2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vmt-jena-tram",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan Jena",
-                "source": "https://www.stadtwerke-jena.de/dam/jcr:05b477be-daab-48d5-87ea-f1776d8cd747/Netzplan_Jena_A4_web_2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vor-oebb",
-        "contributors": [
-            {
-                "github": "rnewhost"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan VOR",
-                "source": "https://www.vor.at/fileadmin/CONTENT/Downloads/Plaene/Bahnnetz_Plaene/Bahnnetz_Wien_NOE_BGLD_2023.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vor-wl",
-        "contributors": [
-            {
-                "github": "rnewhost"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan Wiener Linien",
-                "source": "https://www.wienerlinien.at/media/files/2016/gesamtnetzplan_wien_176236.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vos-osnabrueck",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan VOS Osnabrück",
-                "source": "https://www.vos.info/fileadmin/upload_data/Dokumente/Liniennetze/2024/VOS_OS_240205_SLNP_Tag_Web.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vr",
-        "contributors": [
-            {
-                "github": "supertassu"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VR commuter traffic route map",
-                "source": "https://www.vr.fi/en/railway-stations-and-routes/commuter-traffic#commuter-route-map"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrn-hetzler-pfadt",
-        "contributors": [
-            {
-                "github": "TheOneWithTheBraid"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Landkreis Germersheim",
-                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrn-palatinabus",
-        "contributors": [
-            {
-                "github": "TheOneWithTheBraid"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Landkreis Germersheim",
-                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrn-regionalbus",
-        "contributors": [
-            {
-                "github": "klukas144"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Ladenburg-Schriesheim",
-                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/ladenburg-schriesheim_schematisch.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrn-rheinpfalzbus",
-        "contributors": [
-            {
-                "github": "TheOneWithTheBraid"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Landkreis Germersheim",
-                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrn-rnv-bus",
-        "contributors": [
-            {
-                "github": "klukas144"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Mannheim/Ludwigshafen regulär",
-                "source": "https://www.rnv-online.de/media/rnv-online.de/Fahrtinfo/Liniennetzplaene/regulaer/Liniennetzplan_MA-LU_regulaer.pdf"
-            },
-            {
-                "name": "Liniennetzplan Heidelberg regulär - Gültig ab 07. April 2024",
-                "source": "https://www.rnv-online.de/media/rnv-online.de/Fahrtinfo/Liniennetzplaene/regulaer/Liniennetzplan_HD_regulaer_ab_07._April_2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrn-rnv-tram",
-        "contributors": [
-            {
-                "github": "metrophil"
-            },
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz regulär Schiene RNV",
-                "source": "https://www.rnv-online.de/media/rnv-online.de/Fahrtinfo/Liniennetzplaene/regulaer/Liniennetzplan_Schiene.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrn-sbahn-rn",
-        "contributors": [
-            {
-                "github": "metrophil"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz S-Bahn Rhein-Neckar",
-                "source": "https://www.s-bahn-rheinneckar.de/fahrplan/streckenfpl"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrn-qnv-queichtal-nahverkehr",
-        "contributors": [
-            {
-                "github": "TheOneWithTheBraid"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Landkreis Germersheim",
-                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrr-bogestra",
-        "contributors": [
-            {
-                "github": "metrophil"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Bogestra-Schienennetzplan",
-                "source": "https://bogestra-cdn.s3.amazonaws.com/webseite/Schienennetzplaene/BOGESTRA_Schienennetzplan_09-01-2023.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrr-dsw21",
-        "contributors": [
-            {
-                "github": "metrophil"
-            },
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Schienennetzplan Dortmund",
-                "source": "https://www.bus-und-bahn.de/fileadmin/user_upload/schienennetzplan_januar2023_a4_print_x3.pdf"
-            },
-            {
-                "name": "Interaktiver Netzplan Dortmund",
-                "source": "https://www.netzplan-dortmund.de/"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrr-dvg",
-        "contributors": [
-            {
-                "github": "metrophil"
-            }
-        ],
-        "sources": [
-            {
-                "name": "DVG-Liniennetzplan Tag (groß)",
-                "source": "https://www.dvg-duisburg.de/fileadmin/Media/Downloads/Linienplaene/Liniennetzplan/DVG_Liniennetzplan_Tag.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrr-hst",
-        "contributors": [
-            {
-                "github": "metrophil"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan Hagener Straßenbahn",
-                "source": "https://www.hst-hagen.de/netzplan"
-            },
-            {
-                "name": "Netzplan NachtExpress Hagen",
-                "source": "https://www.hst-hagen.de/fileadmin/user_upload/Netzplaene_als_Download/y24/NE-Netzplan_2024_ohneMinuten_web.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrr-rheinbahn",
-        "contributors": [
-            {
-                "github": "ChillLP"
-            },
-            {
-                "github": "luna-cant-code"
-            },
-            {
-                "github": "iw0nderhow"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VRR Rheinbahn Düsseldorf",
-                "source": "https://www.rheinbahn.de/fahren/verbindungen/netzplaene"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrr-ruhrbahn",
-        "contributors": [
-            {
-                "github": "metrophil"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Schienennetzplan der Ruhrbahn",
-                "source": "https://www.ruhrbahn.de/fileadmin/ruhrbahn_media/downloads/Netzplaene/Ruhrbahn-Netz-Barrierefrei-2023.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrr-swk",
-        "contributors": [
-            {
-                "github": "metrophil"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Stadt Krefeld",
-                "source": "http://karteplan.com/deutschland/stadt/krefeld/liniennetzplan-krefeld.html"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrr-sws",
-        "contributors": [
-            {
-                "github": "jerzek55"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Stadtwerke Solingen - Netzplan",
-                "source": "https://www.netzplan-solingen.de/maps/tlnp"
-            },
-            {
-                "name": "Stadtwerke Solingen - Nachtnetz",
-                "source": "https://www.sobus.net/Netz/Nachtnetz.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrr-wsw",
-        "contributors": [
-            {
-                "github": "metrophil"
-            },
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Stadt Wuppertal",
-                "source": "https://www.wsw-online.de/fileadmin/Mobil/Dokumente/Fahrplan/Linienplan/Linienplan_Wuppertal.pdf"
-            }
-        ]
-    },
-    {       
-        "shortOperatorName": "vrr-xbus",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "VRR XBus",
-                "source": "https://www.vrr.de/fahrplan-mobilitaet/stadt-linien-netzplaene/"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrs-bus",
-        "contributors": [
-            {
-                "github": "chloe-haj"
-            },
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "KVB Busse in Köln 2024 - gesamt",
-                "source": "https://www.kvb.koeln/fahrtinfo/liniennetzplaene.html?INCLUDEMODUL=dokumente_einzeln2.mod/inc.download.php&downDokument=5078"
-            },
-            {
-                "name": "SWB Liniennetz Busse linksrheinisch 2024",
-                "source": "https://www.swb-busundbahn.de/fileadmin/fahrplandateien/liniennetzplaene/SLNP_Bonn_LiRhein.pdf"
-            },
-            {
-                "name": "wupsi Busnetz Leverusen 2024",
-                "source": "https://www.wupsi.de/fileadmin/user_upload/Busnetz_Leverkusen_2024.pdf"
-            },
-            {
-                "name": "Bergischer FahrradBus-Flyer",
-                "source": "https://www.dasbergische.de/aktiv-entspannen/radfahren/bergischer-fahrradbus"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vrs-stadtbahn",
-        "contributors": [
-            {
-                "github": "jeyemwey"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz VRS",
-                "source": "https://www.vrs.de/fahren/liniennetz/liniennetz-interaktiv"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vst-oebb",
-        "contributors": [
-            {
-                "github": "rnewhost"
-            },
-            {
-                "github": "devkanza"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz S-Bahn-Steiermark",
-                "source": "https://www.oebb.at/dam/jcr:c1836cc4-d920-45d4-bf04-7a113a8337a1/netzplan-s-bahn-steiermark.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vst-stb",
-        "contributors": [
-            {
-                "github": "rnewhost"
-            },
-            {
-                "github": "devkanza"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz S-Bahn-Steiermark",
-                "source": "https://www.oebb.at/dam/jcr:c1836cc4-d920-45d4-bf04-7a113a8337a1/netzplan-s-bahn-steiermark.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvk-oebb",
-        "contributors": [
-            {
-                "github": "rnewhost"
-            },
-            {
-                "github": "devkanza"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz Kärnten",
-                "source": "https://www.oebb.at/dam/jcr:e05a0037-0c1c-4e3f-b24f-931d55d71a0e/liniennetz_kaernten.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvo-bus",
-        "contributors": [
-            {
-                "github": "schwamar"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz",
-                "source": "https://www.dvb.de/-/media/files/liniennetz/dvb_lnp_210524_bau_pdf.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvo-db-regio",
-        "contributors": [
-            {
-                "github": "hoolycrash"
-            },
-            {
-                "github": "oneiricbotcelot"
-            },
-            {
-                "github": "metrophil"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan",
-                "source": "https://assets.static-bahn.de/dam/jcr:6780b540-43a7-4c03-8e02-2d64231667c1/Streckennetz%20DB%20Regio%20rund%20um%20Dresden_.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvo-db-sbd",
-        "contributors": [
-            {
-                "github": "Unterwerk"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan S-Bahn Dresden",
-                "source": "https://assets.static-bahn.de/dam/jcr:5b9c05ce-1bd8-46f7-9b99-4445807baa48/246507-327552.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvs-db-sbs",
-        "contributors": [
-            {
-                "github": "jheubuch"
-            },
-            {
-                "github": "Nagiphaaa"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan S-Bahn Stuttgart",
-                "source": "https://download.vvs.de/SBahn_Liniennetz.pdf"
-            },
-            {
-                "name": "Liniennetzplan bwegt",
-                "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvo-ferry",
-        "contributors": [
-            {
-                "github": "schwamar"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz",
-                "source": "https://www.dvb.de/-/media/files/liniennetz/dvb_lnp_210524_bau_pdf.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvo-tram",
-        "contributors": [
-            {
-                "github": "hoolycrash"
-            },
-            {
-                "github": "jonaes"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan",
-                "source": "https://www.dvb.de/-/media/files/liniennetz/2023-09-04/dvblnp040923bauwebpdf.pdf"
-            },
-            {
-                "name": "Bau-Netzplan Linien 44 46",
-                "source": "https://www.dvb.de/-/media/files/liniennetz/dvb_lnp_030624_bau_pdf.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvs-fmo",
-        "contributors": [
-            {
-                "github": "wittighausen"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
-                "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvs-lvl",
-        "contributors": [
-            {
-                "github": "wittighausen"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
-                "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvs-osb",
-        "contributors": [
-            {
-                "github": "wittighausen"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
-                "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvs-ssb-nachtbus",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Nachtverkehr Stadtgebiet Stuttgart",
-                "source": "https://download.vvs.de/Nachtverkehr_Stadtgebiet_Stuttgart.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvs-ssb-stadtbahn",
-        "contributors": [
-            {
-                "github": "jheubuch"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan Stadtbahn Stuttgart",
-                "source": "https://download.vvs.de/Stadtbahn_Liniennetz.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvs-wbg",
-        "contributors": [
-            {
-                "github": "wittighausen"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
-                "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvs-weg",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            },
-            {
-                "github": "metrophil"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan bwegt",
-                "source": "https://www2.bwegt.de/fileadmin/assets/media/PDF/Karten/Liniennetzplan/bwegt_Karte_Liniennetzplan_Regionalverkehr_19.07.2024_barrierefrei.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvt-db-regio-bayern",
-        "contributors": [
-            {
-                "github": "rnewhost"
-            },
-            {
-                "github": "devkanza"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Schiene Tirol",
-                "source": "https://www.oebb.at/dam/jcr:dca525b7-241b-424e-be99-de42a9c3bb62/liniennetz-tirol.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvt-oebb",
-        "contributors": [
-            {
-                "github": "rnewhost"
-            },
-            {
-                "github": "devkanza"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Schiene Tirol",
-                "source": "https://www.oebb.at/dam/jcr:dca525b7-241b-424e-be99-de42a9c3bb62/liniennetz-tirol.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvv-oebb",
-        "contributors": [
-            {
-                "github": "rnewhost"
-            },
-            {
-                "github": "devkanza"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Bahnnetz Vorarlberg",
-                "source": "https://www.oebb.at/dam/jcr:19c51cee-43ec-485d-befc-395902088b8f/liniennetz-vorarlberg.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "vvv-montafoner-bahn",
-        "contributors": [
-            {
-                "github": "rnewhost"
-            },
-            {
-                "github": "devkanza"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Bahnnetz Vorarlberg",
-                "source": "https://www.oebb.at/dam/jcr:19c51cee-43ec-485d-befc-395902088b8f/liniennetz-vorarlberg.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "waldbahn-dlb",
-        "contributors": [
-            {
-                "github": "verbuchselt"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "BEG Liniennetzplan Bayern 2024",
-                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "westfalenbahn",
-        "contributors": [
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Linienübersicht Westfalenbahn",
-                "source": "https://www.westfalenbahn.de/fahrplaene/linienuebersicht/"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "wt-bvo",
-        "contributors": [
-            {
-                "github": "KiloBravoBFE"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Schematischer Netzplan Bielefeld",
-                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/Blfd._Linien_schematisch_8.2025.pdf"
-            },
-            {
-                "name": "01-Schemaplan-2023-08-24",
-                "source": "https://www.nph.de/de-wAssets/docs/oepnv/angebot/Liniennetzplaene/01-Schemaplan-2023-08-24.pdf"
-            }
-        ]
-
-    },
-    {
-        "shortOperatorName": "wt-go-on",
-        "contributors": [
-            {
-                "github": "KiloBravoBFE"
-            }
-        ],
-        "sources": [
-            {
-                "name": "01-Schemaplan-2023-08-24",
-                "source": "https://www.nph.de/de-wAssets/docs/oepnv/angebot/Liniennetzplaene/01-Schemaplan-2023-08-24.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "wt-mobiel",
-        "contributors": [
-            {
-                "github": "KiloBravoBFE"
-            },
-            {
-                "github": "metrophil"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Schematischer Netzplan Bielefeld",
-                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/Blfd._Linien_schematisch_8.2025.pdf"
-            },
-            {
-                "name": "Bielefeld: schematischer Netzplan NachtBus",
-                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_NachtBus.pdf"
-            },
-            {
-                "name": "NachtBus-Linie N14: Fahrplan & Linienweg",
-                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/NachtBus/N14_Fahrplan_und_Linienweg.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "wt-padersprinter",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            },
-            {
-                "github": "KiloBravoBFE"
-            }
-        ],
-        "sources": [
-            {
-                "name": "PaderSprinter Netzplan",
-                "source": "https://www.padersprinter.de/?wpdmdl=92737"
-            },
-            {
-                "name": "PS-Netzplan-schematisch-Nacht-2024-05-10",
-                "source": "https://www.padersprinter.de/?wpdmdl=92739"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "wt-rvm",
-        "contributors": [
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan Steinfurt Süd",
-                "source": "https://www.rvm-online.de/fileadmin/startseite_rvm/fahrgast/fahrt_planen/liniennetzplan/steinfurt_sued_liniennetzplan_2021.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "wt-argegt",
-        "contributors": [
-            {
-                "github": "KiloBravoBFE"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Schematischer Netzplan Bielefeld",
-                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
-            },
-            {
-                "name": "Bielefeld: schematischer Netzplan NachtBus",
-                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_NachtBus.pdf"
-            },
-            {
-                "name": "NachtBus-Linie N14: Fahrplan & Linienweg",
-                "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/NachtBus/N14_Fahrplan_und_Linienweg.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "zvnl-bus",
-        "contributors": [
-            {
-                "github": "tomjschwanke"
-            }
-        ],
-        "sources": [
-            {
-                "name": "LVB-Liniennetzplan",
-                "source": "https://files.l.de/lde-typo3/Leipziger/Verkehrsbetriebe/Fahrplan/Netzplan/LVB-Liniennetzplan-Tag-ab-11-12-22.pdf"
-            },
-            {
-                "name": "LVB-Liniennetzplan-Nacht",
-                "source": "https://files.l.de/lde-typo3/Leipziger/Verkehrsbetriebe/Fahrplan/Netzplan/LVB-Liniennetzplan-Nacht-ab-11-12-22.pdf"
-            },
-            {
-                "name": "LVB_Veranstaltungs-Liniennetzplan",
-                "source": "https://files.l.de/lde-typo3/default_backend_upload/LVB_Veranstaltungs-Liniennetzplan-ab-02-10-2023.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "zvnl-tram",
-        "contributors": [
-            {
-                "github": "tomjschwanke"
-            }
-        ],
-        "sources": [
-            {
-                "name": "LVB-Liniennetzplan",
-                "source": "https://files.l.de/lde-typo3/Leipziger/Verkehrsbetriebe/Fahrplan/Netzplan/LVB-Liniennetzplan-Tag-ab-11-12-22.pdf"
-            },
-            {
-                "name": "LVB-Liniennetzplan-Nacht",
-                "source": "https://files.l.de/lde-typo3/Leipziger/Verkehrsbetriebe/Fahrplan/Netzplan/LVB-Liniennetzplan-Nacht-ab-11-12-22.pdf"
-            },
-            {
-                "name": "LVB_Veranstaltungs-Liniennetzplan",
-                "source": "https://files.l.de/lde-typo3/default_backend_upload/LVB_Veranstaltungs-Liniennetzplan-ab-02-10-2023.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "zvon-odeg",
-        "contributors": [
-            {
-                "github": "hoolycrash"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan",
-                "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
-            }
-        ]
+  {
+    "shortOperatorName": "hvv-hha",
+    "contributors": [
+      {
+        "github": "echtnurich"
+      },
+      {
+        "github": "jheubuch"
+      },
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "hvv USAR-Plan",
+        "source": "https://www.hvv.de/de/plaene"
+      },
+      {
+        "name": "hvv MetroBus Plan",
+        "source": "https://www.hvv.de/de/plaene"
+      },
+      {
+        "name": "hvv XpressBus Plan",
+        "source": "https://www.hvv.de/de/plaene"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "hvv-kvi",
+    "contributors": [
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "hvv XpressBus Plan",
+        "source": "https://www.hvv.de/de/plaene"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "hvv-vhh",
+    "contributors": [
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "hvv MetroBus Plan",
+        "source": "https://www.hvv.de/de/plaene"
+      },
+      {
+        "name": "hvv XpressBus Plan",
+        "source": "https://www.hvv.de/de/plaene"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "kvv-avg",
+    "contributors": [
+      {
+        "github": "MrKrisKrisu"
+      }
+    ],
+    "sources": [
+      {
+        "name": "KVV Liniennetzplan Schiene 2023",
+        "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Schiene/2023/KVV-Liniennetzplan_Schiene1.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "kvv-regionalbus",
+    "contributors": [
+      {
+        "github": "metrophil"
+      }
+    ],
+    "sources": [
+      {
+        "name": "KVV Liniennetzplan Bus Nördlicher Landkreis Karlsruhe 2024",
+        "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz-Noerdlicher-Landkreis-Karlsruhe.pdf"
+      },
+      {
+        "name": "KVV Liniennetzplan Bus Südlicher Landkreis Karlsruhe und Nördlicher Landkreis Rastatt 2024",
+        "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-LK-Karlsruhe-und-noerdlicher-LK-Rastatt.pdf"
+      },
+      {
+        "name": "KVV Liniennetzplan Bus Südlicher Landkreis Rastatt und Baden-Baden 2024",
+        "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-Landkreis-Rastatt-und-Baden-Baden.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "kvv-vbk",
+    "contributors": [
+      {
+        "github": "MrKrisKrisu"
+      }
+    ],
+    "sources": [
+      {
+        "name": "KVV Liniennetzplan Schiene 2023",
+        "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Schiene/2023/KVV-Liniennetzplan_Schiene1.pdf"
+      },
+      {
+        "name": "KVV Liniennetzplan Nightliner 2023",
+        "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Schiene/2023/KVV-Liniennetzplan_Nightliner.pdf"
+      },
+      {
+        "name": "KVV Liniennetzplan Bus und Schiene Karlsruhe 2024",
+        "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Bus-und-Schiene-Karlsruhe.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "liege-s",
+    "contributors": [
+      {
+        "github": "TheOneWithTheBraid"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liège S Train map",
+        "source": "https://www.belgiantrain.be/en/travel-info/train-offer/s-train/s-train-luik"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "lavv-swl",
+    "contributors": [
+      {
+        "github": "connectingwings"
+      }
+    ],
+    "sources": [
+      {
+        "name": "StadtLinie grafisch Tarifzone 100 im LAVV",
+        "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-grafisch-Stadtlinie-2023.pdf"
+      },
+      {
+        "name": "AbendLinie grafisch Tarifzone 100 im LAVV",
+        "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-grafisch-Abendlinie-2023.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "mdv-lvb",
+    "contributors": [
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "LVB Leipzig Liniennetzplan",
+        "source": "https://files.l.de/lde-typo3/default_backend_upload/LVB-Liniennetzplan-Tag-ab-03-01-24.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "mdv-swh-havag",
+    "contributors": [
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "SWH HAVAG Tagesnetzplan",
+        "source": "https://havag.com/69103?240516_LNP_Tag_BM_Pesta.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "metronom",
+    "contributors": [
+      {
+        "github": "luna-cant-code"
+      },
+      {
+        "github": "oneiricbotcelot"
+      },
+      {
+        "github": "vainamov"
+      }
+    ],
+    "sources": [
+      {
+        "name": "metronom Netzplan",
+        "source": "https://www.der-metronom.de/media/metronom/downloads/Streckennetz-me-enno-ohne-Fuss-A4-ab-01-2022.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "mitteldeutsche-regiobahn",
+    "contributors": [
+      {
+        "github": "hoolycrash"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan Mitteldeutsche Regiobahn",
+        "source": "https://download.transdev.de/transdev/uploads/mdr/media_document/26/original.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "mvb-magdeburg",
+    "contributors": [
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "MVB Tagesnetz",
+        "source": "https://www.mvbnet.de//files/2024/03/Web_A3-Netzplan-MVB_Maerz2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "mvv-db-sbm",
+    "contributors": [
+      {
+        "github": "jheubuch"
+      },
+      {
+        "github": "sebiIO"
+      }
+    ],
+    "sources": [
+      {
+        "name": "MVV Gesamtfahrplan",
+        "source": "https://www.mvv-muenchen.de/fahrplanauskunft/index.html#c30293"
+      },
+      {
+        "name": "MVV Fahrplan Linie S5",
+        "source": "https://efa.mvv-muenchen.de/ttb2/mvv_01005___H_s25_1.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "mvv-mvg-tram",
+    "contributors": [
+      {
+        "github": "DRSchlaubi"
+      }
+    ],
+    "sources": []
+  },
+  {
+    "shortOperatorName": "mvv-mvg-ubahn",
+    "contributors": [
+      {
+        "github": "jheubuch"
+      }
+    ],
+    "sources": [
+      {
+        "name": "MVG Jahresnetzplan",
+        "source": "https://www.mvg.de/dam/jcr:d3dc64ec-f1b3-4019-a5fb-23e09884b5c9/netz-tarifplan-vre-12.2023_SURTX_Zone_M.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "mvv-regional-bus",
+    "contributors": [
+      {
+        "github": "verbuchselt"
+      },
+      {
+        "github": "sebiIO"
+      }
+    ],
+    "sources": [
+      {
+        "name": "MVV Netzplan Gesamtnetz 2024",
+        "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2024/2024_layout_MVV_Regio_1_GESAMT_SCR.pdf"
+      },
+      {
+        "name": "MVV-ExpressBus Linien",
+        "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/05-Service/ExpressBus_Ring/ExpressBus_Ring_01_2024_Bahn_01.svg"
+      },
+      {
+        "name": "MVV-Netz Stadt Germering",
+        "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2024/2024_layout_Netz_Germering_SCR.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "mvv-stadtwerke-dachau",
+    "contributors": [
+      {
+        "github": "sebiIO"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Stadtverkehrsplan Dachau",
+        "source": "https://www.stadtwerke-dachau.de/fileadmin/Media/Downloads/Downloads_Tarife_Angebote/Downloads_Mobilitaet/Dachau_SVP_2024.pdf"
+      },
+      {
+        "name": "Übersichtsseite - Busverkehr in Dachau",
+        "source": "https://www.stadtwerke-dachau.de/tarife-angebote/mobilitaet/busverkehr-in-dachau"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "mvv-stadtwerke-freising",
+    "contributors": [
+      {
+        "github": "verbuchselt"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetz Stadtbus Freising",
+        "source": "https://www.freisinger-stadtwerke.de/de/Stadtbus-Parkhaeuser/Stadtbus/Prefooter/Aushang-Liniennetz-Stadtbus-A4hoch-web.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "nah-sh",
+    "contributors": [
+      {
+        "github": "asraelvudogel"
+      },
+      {
+        "github": "jheubuch"
+      },
+      {
+        "github": "laugengebaeck"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "NAH.SH Bahnlinienplan 2023",
+        "source": "https://www.nah.sh/assets/2023/nahsh_bahnlinienSH_2023.pdf"
+      },
+      {
+        "name": "NAH.SH Bahnlinienplan 2024",
+        "source": "https://www.nah.sh/assets/05-Karten/BahnlinienSH_A3_2024_5.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "nvs",
+    "contributors": [
+      {
+        "github": "jonasr97"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetz Nahverkehr Schwerin",
+        "source": "https://www.nahverkehr-schwerin.de/_Resources/Persistent/5/9/d/5/59d5a5fd8655710d24f5ae6e26f6861f7dfac243/Liniennetz_2023-12-23.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "rvf-sbahn",
+    "contributors": [
+      {
+        "github": "metrophil"
+      },
+      {
+        "github": "nxrvincent"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Schienennetz RVF [PDF]",
+        "source": "https://www.rvf.de/fileadmin/user_upload/techdocs/linien-zonen/schienennetz/rvf_24_schienennetz_web.pdf"
+      },
+      {
+        "name": "Liniennetzplan bwegt",
+        "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "rvf-sweg-sudwest",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      },
+      {
+        "github": "nxrvincent"
+      }
+    ],
+    "sources": [
+      {
+        "name": "RVF Linienplan Emmendingen 2023",
+        "source": "https://www.rvf.de/fileadmin/user_upload/techdocs/linien-zonen/teilnetzplan-staedte/rvf_23_lp_emmendingen_web.pdf"
+      },
+      {
+        "name": "Liniennetzplan bwegt",
+        "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "rvf-vag-stadtbahn",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      },
+      {
+        "github": "metrophil"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Linienfahrpläne",
+        "source": "https://www.vag-freiburg.de/fahrplan/linien-fahrplaene"
+      },
+      {
+        "name": "Freiburger Schienennetz (Stadtbahn) [PDF]",
+        "source": "https://www.rvf.de/fileadmin/user_upload/techdocs/linien-zonen/linien/vag_24_stadtbahnnetzplan_web.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "neb-niederbarnimer-eisenbahn",
+    "contributors": [
+      {
+        "github": "jeyemwey"
+      }
+    ],
+    "sources": [
+      {
+        "name": "VBB Liniennetz Regionalverkehr",
+        "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "nrw-regional",
+    "contributors": [
+      {
+        "github": "metrophil"
+      },
+      {
+        "github": "luna-cant-code"
+      },
+      {
+        "github": "marhei"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "NRW-Fahrplanbuch 2024",
+        "source": "https://www.vrs.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MTgwMDk4ODMsImV4cCI6MTcxODA1NjY4MywidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vRGF0ZWllbi9Eb3dubG9hZGNlbnRlci9GYWhycGxhbm1lZGllbi9OUldfRmFocnBsYW4yMDI0Xy5QREYiLCJwYWdlIjoxMDg2fQ.eqeSLrc-3uV-VsOrh4aTvIRNBDyLYXeh6kwBMD_znPo/NRW_Fahrplan2024_.PDF"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "nrw-sbahn",
+    "contributors": [
+      {
+        "github": "metrophil"
+      },
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "NRW-Fahrplanbuch 2024",
+        "source": "https://www.vrs.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MDE3OTA4MTcsImV4cCI6MTcwMTgyMDgwMCwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW4vRGF0ZWllbi9Eb3dubG9hZGNlbnRlci9GYWhycGxhbm1lZGllbi9OUldfRmFocnBsYW4yMDI0LlBERiIsInBhZ2UiOjEwODZ9.G9r0FkuaYSG-eIyqkKUkS_3HCX_FuVVE0C5ZV6Yf2nM/NRW_Fahrplan2024.PDF"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "oberpfalzbahn-dlb",
+    "contributors": [
+      {
+        "github": "verbuchselt"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "BEG Liniennetzplan Bayern 2024",
+        "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "odeg",
+    "contributors": [
+      {
+        "github": "jeyemwey"
+      },
+      {
+        "github": "jonasr97"
+      }
+    ],
+    "sources": [
+      {
+        "name": "VBB Liniennetz Regionalverkehr",
+        "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
+      },
+      {
+        "name": "Liniennetz Regionalverkehr MV",
+        "source": "https://www.dbregio-mecklenburg-vorpommern.de/resource/blob/9358376/afd1296b1188bbc883cc6527c35e30ad/Liniennetzplan_MV_17-12-2022-data.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "ooevv-linz-linien",
+    "contributors": [
+      {
+        "github": "rnewhost"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Linz AG Linien",
+        "source": "https://www.linzag.at/media/dokumente/linien_1/infomaterial_1/linien-linienfahrplan.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "ooevv-oebb",
+    "contributors": [
+      {
+        "github": "rnewhost"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan OÖVV",
+        "source": "https://www.oebb.at/dam/jcr:562c11c9-4da3-4253-8623-28601d77e346/liniennetz_ooe.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "ooevv-stern-hafferl",
+    "contributors": [
+      {
+        "github": "rnewhost"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan OÖVV",
+        "source": "https://www.oebb.at/dam/jcr:562c11c9-4da3-4253-8623-28601d77e346/liniennetz_ooe.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "ostalb-mobil-ovg-goeppingen",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan OAM",
+        "source": "https://www.ostalbmobil.de/wp-content/uploads/2023/12/Liniennetzplan_OAM_2023_12_10.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "ostalb-mobil-ovk-betz",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan OAM",
+        "source": "https://www.ostalbmobil.de/wp-content/uploads/2023/12/Liniennetzplan_OAM_2023_12_10.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "ostalb-mobil-ovk-dannenmann",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan OAM",
+        "source": "https://www.ostalbmobil.de/wp-content/uploads/2023/12/Liniennetzplan_OAM_2023_12_10.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "ostalb-mobil-ovk-domhan",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan OAM",
+        "source": "https://www.ostalbmobil.de/wp-content/uploads/2023/12/Liniennetzplan_OAM_2023_12_10.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "ostalb-mobil-stadtbus-gmuend",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan OAM",
+        "source": "https://www.ostalbmobil.de/wp-content/uploads/2023/12/Liniennetzplan_OAM_2023_12_10.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "pid-prague",
+    "contributors": [
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "PID network map",
+        "source": "https://pid.cz/en/transport-schemes/"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "polregio",
+    "contributors": [
+      {
+        "github": "jeyemwey"
+      }
+    ],
+    "sources": [
+      {
+        "name": "VBB Liniennetz Regionalverkehr",
+        "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "rmv-db-sbahn",
+    "contributors": [
+      {
+        "github": "jonaes"
+      }
+    ],
+    "sources": [
+      {
+        "name": "RMV-Schnellbahnplan",
+        "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV-Schnellbahnplan.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "rmv-eswe-bus",
+    "contributors": [
+      {
+        "github": "techtoto"
+      }
+    ],
+    "sources": [
+      {
+        "name": "ESWE Netzplan Tag",
+        "source": "https://eswe-wiesbaden.nahverkehrsdaten.com/download/ESWE_SLNP-Tag_2023.pdf"
+      },
+      {
+        "name": "ESWE Netzplan Nacht",
+        "source": "https://eswe-wiesbaden.nahverkehrsdaten.com/download/ESWE_SLNP-Nacht_2023.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "rmv-heag-bus",
+    "contributors": [
+      {
+        "github": "techtoto"
+      }
+    ],
+    "sources": [
+      {
+        "name": "HEAG/DADINA Liniennetzplan Stadt Darmstadt",
+        "source": "https://heagmobilo.de/sites/default/files/media/DADINA_Liniennetzplan_Darmstadt_2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "rmv-heag-tram",
+    "contributors": [
+      {
+        "github": "jonaes"
+      }
+    ],
+    "sources": [
+      {
+        "name": "HEAG/DADINA Liniennetzplan Straßenbahn",
+        "source": "https://www.dadina.de/fileadmin/user_upload/Dokumente/2023/Fahrplaene_Linien/Linienplaene/Liniennetzplan_Tram_2023_ab_2023-09-04.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "rmv-hsb-bus",
+    "contributors": [
+      {
+        "github": "techtoto"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Hanau 2024",
+        "source": "https://www.hsb.de/mam/static/dateien/liniennetzplan.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "rmv-mm-bus",
+    "contributors": [
+      {
+        "github": "techtoto"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Linienplan Mainzer Mobilität",
+        "source": "https://www.mainzer-mobilitaet.de/-/media/project/mainzer-stadtwerke/websites/mainzer-mobilitaet/fahrplaene/liniennetzplaene/web_mvg_mainz_slnp_tag_a3.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "rmv-mm-tram",
+    "contributors": [
+      {
+        "github": "techtoto"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Linienplan Mainzer Mobilität",
+        "source": "https://www.mainzer-mobilitaet.de/-/media/project/mainzer-stadtwerke/websites/mainzer-mobilitaet/fahrplaene/liniennetzplaene/web_mvg_mainz_slnp_tag_a3.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "rmv-vgf-tram",
+    "contributors": [
+      {
+        "github": "techtoto"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Frankfurt am Main",
+        "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/Liniennetzplan_Frankfurt.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "rmv-vgf-ubahn",
+    "contributors": [
+      {
+        "github": "jonaes"
+      }
+    ],
+    "sources": [
+      {
+        "name": "RMV-Schnellbahnplan",
+        "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV-Schnellbahnplan.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "regio-s-bahn-donau-iller",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "RSB Liniennetz",
+        "source": "https://rsb-di.de/wp-content/uploads/2023/02/RSB-Liniennetz.pdff"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "regiobus-hannover",
+    "contributors": [
+      {
+        "github": "vainamov"
+      }
+    ],
+    "sources": [
+      {
+        "name": "GVH Bus Hannover",
+        "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplan-bus-hannover-2023-2024.pdf"
+      },
+      {
+        "name": "GVH Plan Stadt Hannover",
+        "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplaene-faltplan-stadt-2023-2024.pdf"
+      },
+      {
+        "name": "GVH Plan Region Hannover",
+        "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplaene-faltplan-region-2023-2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "rmv-express-bus",
+    "contributors": [
+      {
+        "github": "SpielenmitLili"
+      }
+    ],
+    "sources": [
+      {
+        "name": "RSPN 2025",
+        "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "s-bahn-bern-bls",
+    "contributors": [
+      {
+        "github": "sinsa92"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan S-Bahn Bern",
+        "source": "https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-s-bahn-bern.pdf?la=de&vs=1"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "s-bahn-bern-rbs",
+    "contributors": [
+      {
+        "github": "sinsa92"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan S-Bahn Bern",
+        "source": "https://www.bls.ch/-/media/bls/pdf/fahrplaene/bahn/netzplaene/netzplan-s-bahn-bern.pdf?la=de&vs=1"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "s-bahn-hannover-transdev",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      },
+      {
+        "github": "vainamov"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan S-Bahn Hannover Transdev",
+        "source": "https://download.transdev.de/transdev/uploads/sbahn_hannover/media_document/18/original.pdf"
+      },
+      {
+        "name": "Liniennetzplan Regionalzug und S-Bahn",
+        "source": "https://www.uestra.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/uestra-gvh-linienplan-regional-s-bahn-2023-2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "s-bahn-zentralschweiz-bls",
+    "contributors": [
+      {
+        "github": "sinsa92"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Regionalverkehr Zentralschweiz",
+        "source": "https://www.vvl.ch/application/files/9616/8129/0865/SBB_RV_S-Bahn_LUZERN_A2_2022.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "s-bahn-zentralschweiz-sbb",
+    "contributors": [
+      {
+        "github": "sinsa92"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Regionalverkehr Zentralschweiz",
+        "source": "https://www.vvl.ch/application/files/9616/8129/0865/SBB_RV_S-Bahn_LUZERN_A2_2022.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "s-bahn-zentralschweiz-zb",
+    "contributors": [
+      {
+        "github": "sinsa92"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Regionalverkehr Zentralschweiz",
+        "source": "https://www.vvl.ch/application/files/9616/8129/0865/SBB_RV_S-Bahn_LUZERN_A2_2022.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "saarbahn",
+    "contributors": [
+      {
+        "github": "feuer1998"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan Saarbahn GmbH",
+        "source": "https://www.saarbahn.de/media/download-5a2e252da77e1"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "schweiz-fernverkehr",
+    "contributors": [
+      {
+        "github": "TheOneWithTheBraid"
+      }
+    ],
+    "sources": {
+      "name": "SBB: direct long-distance connections",
+      "source": "https://network.sbb.ch/en/"
     }
+  },
+  {
+    "shortOperatorName": "stadtlinie-limburg",
+    "contributors": [
+      {
+        "github": "SpielenmitLili"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Stadtlinienverkehr Limburg a. d. Lahn",
+        "source": "https://eu.remix.com/project/41892aa0?latlng=50.43708,8.08728,16.967&sp.id=fa848fa8-9891-4ccf-a039-281ac0ea9bd9"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "start",
+    "contributors": [
+      {
+        "github": "SpielenmitLili"
+      }
+    ],
+    "sources": {
+      "name": "RSPN 2025",
+      "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
+    }
+  },
+  {
+    "shortOperatorName": "svv-brb",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetz Zentralraum",
+        "source": "https://www.oebb.at/dam/jcr:69a41a9c-57a1-4c6d-9619-c67fd076d9a1/Liniennetz_Zentralraum.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "svv-oebb",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetz Zentralraum",
+        "source": "https://www.oebb.at/dam/jcr:69a41a9c-57a1-4c6d-9619-c67fd076d9a1/Liniennetz_Zentralraum.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "svv-slb",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetz Zentralraum",
+        "source": "https://www.oebb.at/dam/jcr:69a41a9c-57a1-4c6d-9619-c67fd076d9a1/Liniennetz_Zentralraum.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "sweg-sudwest",
+    "contributors": [
+      {
+        "github": "oneriricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Gesamtnetz Zollern-Alb und Ulmer Stern",
+        "source": "https://www.sweg.de/fileadmin//user_upload/pdf/liniennetzplaene/zollernalb/2021_11_22_SWEG_bwegt_GesamtNetz.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "sweg-stuttgart",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      },
+      {
+        "github": "wittighausen"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Stuttgart-Neckartal 2023",
+        "source": "https://www.sweg.de/fileadmin//user_upload/pdf/liniennetzplaene/stuttgart-neckartal/Liniennetzplan-SBS-2023.pdf"
+      },
+      {
+        "name": "Streckenfahrplan MEX18 2025",
+        "source": "https://www.sweg.de/fileadmin/user_upload/pdf/fahrplaene/stuttgart-neckartal/stuttgart-neckartal-2025/2025_Jahresfahrplan_Tuebingen-Osterburken_MEX18.pdf?version=1733907872"
+      },
+      {
+        "name": "Streckenfahrplan MEX12/RE10 2025",
+        "source": "https://www.sweg.de/fileadmin/user_upload/pdf/fahrplaene/stuttgart-neckartal/stuttgart-neckartal-2025/2025_Jahresfahrplan_Tuebingen-Mannheim_RE10-MEX12.pdf?version=1733907884"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "tlx",
+    "contributors": [
+      {
+        "github": "feuer1998"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Trilex Dezember 2023",
+        "source": "https://www.laenderbahn.com/media/laenderbahn/bilder/2023-12_Linienplan_trilex_ERWEITERT_A3_WEB.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "tnw-blt",
+    "contributors": [
+      {
+        "github": "metrophil"
+      }
+    ],
+    "sources": [
+      {
+        "name": "TNV Liniennetz Basel und Umgebung",
+        "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "tnw-bvb",
+    "contributors": [
+      {
+        "github": "metrophil"
+      }
+    ],
+    "sources": [
+      {
+        "name": "TNV Liniennetz Basel und Umgebung",
+        "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "uestra",
+    "contributors": [
+      {
+        "github": "vainamov"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Stadtbahn Hannover (PDF) ab dem 10. Dezember 2023",
+        "source": "https://www.uestra.de/fileadmin/Material/Fahrgast/Linieplaene/GVH_Stadtbahn_2024.pdf"
+      },
+      {
+        "name": "GVH Bus Hannover",
+        "source": "https://www.gvh.de/fileadmin/user_upload/PDF/2024-Linien-und-Netzplaene/gvh-linienplan-bus-hannover-2023-2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vbb-bvg-tram",
+    "contributors": [
+      {
+        "github": "techtoto"
+      }
+    ],
+    "sources": [
+      {
+        "name": "BVG Straßenbahnnetz",
+        "source": "https://www.bvg.de/dam/jcr:d45105f2-6752-4ec5-b882-8936572053c3/TramMetro_09_2023-Internetversion.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vbb-bvg-ubahn",
+    "contributors": [
+      {
+        "github": "laugengebaeck"
+      }
+    ],
+    "sources": [
+      {
+        "name": "VBB Open Data Linienfarben",
+        "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/API-Datensaetze/Linienfarben.zip"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vbb-db-sbahn",
+    "contributors": [
+      {
+        "github": "jheubuch"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan S-Bahn Berlin",
+        "source": "https://sbahn.berlin/liniennetz/"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vbb-vip-bus",
+    "contributors": [
+      {
+        "github": "jonaes"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan Potsdam Tag",
+        "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/potsdam-tageslinien-4-bis-1uhr.pdf"
+      },
+      {
+        "name": "Netzplan Potsdam Nacht",
+        "source": "https://www.swp-potsdam.de/content/verkehr/pdf_7/fahrplanwechsel_10_12_23/231210_liniennetz_potsdam_nacht.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vbb-vip-tram",
+    "contributors": [
+      {
+        "github": "jonaes"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan Potsdam Tag",
+        "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/potsdam-tageslinien-4-bis-1uhr.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vbg",
+    "contributors": [
+      {
+        "github": "feuer1998"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetz Vogtlandbahn Dezember 2023",
+        "source": "https://www.laenderbahn.com/media/laenderbahn/downloads/vogtlandbahn/01-Fahrplan/Linienplan/2023_12_Linienplan-Vogtlandbahn-web.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vbn-nwb-regio-s-bahn",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetz Regio-S-Bahn Bremen Niedersachsen",
+        "source": "https://download.transdev.de/transdev/uploads/nwb/pictures/item_paragraph/43/s1200.jpg"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vbn-bsag",
+    "contributors": [
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetz BSAG",
+        "source": "https://www.bsag.de/fileadmin/user_upload/Tagesnetz.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vgi-brb",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "BRB Streckennetz 2024",
+        "source": "https://download.transdev.de/transdev/uploads/bb/media_document/500/original.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vgn-db-sbn",
+    "contributors": [
+      {
+        "github": "tomabrafix"
+      }
+    ],
+    "sources": [
+      {
+        "name": "VGN Schienennetzplan Gesamtraum",
+        "source": "https://www.vgn.de/liniennetze/schienennetz_gesamtraum/"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vgn-vag-tram",
+    "contributors": [
+      {
+        "github": "tomabrafix"
+      }
+    ],
+    "sources": [
+      {
+        "name": "VGN Schienennetzplan Nürnberg-Fürth",
+        "source": "https://www.vgn.de/liniennetze/schienennetz_nuernberg_furth/"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vgn-infra-bus",
+    "contributors": [
+      {
+        "github": "Aidaprima"
+      }
+    ],
+    "sources": [
+      {
+        "name": "VGN Netzplan Fürth",
+        "source": "https://www.vgn.de/liniennetze/stadtverkehr_fuerth_stilisiert/"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vgn-estw-bus",
+    "contributors": [
+      {
+        "github": "Aidaprima"
+      }
+    ],
+    "sources": [
+      {
+        "name": "VGN Netzplan Erlangen",
+        "source": "https://www.vgn.de/liniennetze/stadtverkehr_erlangen_stilisiert/"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vgn-swh-bus",
+    "contributors": [
+      {
+        "github": "Aidaprima"
+      }
+    ],
+    "sources": [
+      {
+        "name": "VGN Netzplan Hof",
+        "source": "https://www.vgn.de/liniennetze/stadtverkehr_hof/"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vgn-vag-ubahn",
+    "contributors": [
+      {
+        "github": "tomabrafix"
+      }
+    ],
+    "sources": [
+      {
+        "name": "VGN Schienennetzplan Nürnberg-Fürth",
+        "source": "https://www.vgn.de/liniennetze/schienennetz_nuernberg_furth/"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vias",
+    "contributors": [
+      {
+        "github": "SpielenmitLili"
+      }
+    ],
+    "sources": [
+      {
+        "name": "RSPN 2025",
+        "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vlexx",
+    "contributors": [
+      {
+        "github": "SpielenmitLili"
+      }
+    ],
+    "sources": [
+      {
+        "name": "RMV-Schienennetzplan 2024 mit Riedbahnsperrung 15.07.-14.12.2024",
+        "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/Schienennetzplan.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vmt-evag-tram",
+    "contributors": [
+      {
+        "github": "techtoto"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan Erfurt",
+        "source": "https://www.evag-erfurt.de/site/evag/get/documents_E-256148826/evag/documents/Pl%C3%A4ne/2023/EVAG-Netzplan-Erfurt.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vmt-jena-bus",
+    "contributors": [
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan Jena",
+        "source": "https://www.stadtwerke-jena.de/dam/jcr:05b477be-daab-48d5-87ea-f1776d8cd747/Netzplan_Jena_A4_web_2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vmt-jena-tram",
+    "contributors": [
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan Jena",
+        "source": "https://www.stadtwerke-jena.de/dam/jcr:05b477be-daab-48d5-87ea-f1776d8cd747/Netzplan_Jena_A4_web_2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vor-oebb",
+    "contributors": [
+      {
+        "github": "rnewhost"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan VOR",
+        "source": "https://www.vor.at/fileadmin/CONTENT/Downloads/Plaene/Bahnnetz_Plaene/Bahnnetz_Wien_NOE_BGLD_2023.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vor-wl",
+    "contributors": [
+      {
+        "github": "rnewhost"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan Wiener Linien",
+        "source": "https://www.wienerlinien.at/media/files/2016/gesamtnetzplan_wien_176236.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vos-osnabrueck",
+    "contributors": [
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan VOS Osnabrück",
+        "source": "https://www.vos.info/fileadmin/upload_data/Dokumente/Liniennetze/2024/VOS_OS_240205_SLNP_Tag_Web.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vr",
+    "contributors": [
+      {
+        "github": "supertassu"
+      }
+    ],
+    "sources": [
+      {
+        "name": "VR commuter traffic route map",
+        "source": "https://www.vr.fi/en/railway-stations-and-routes/commuter-traffic#commuter-route-map"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrn-hetzler-pfadt",
+    "contributors": [
+      {
+        "github": "TheOneWithTheBraid"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Landkreis Germersheim",
+        "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrn-palatinabus",
+    "contributors": [
+      {
+        "github": "TheOneWithTheBraid"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Landkreis Germersheim",
+        "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrn-regionalbus",
+    "contributors": [
+      {
+        "github": "klukas144"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Ladenburg-Schriesheim",
+        "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/ladenburg-schriesheim_schematisch.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrn-rheinpfalzbus",
+    "contributors": [
+      {
+        "github": "TheOneWithTheBraid"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Landkreis Germersheim",
+        "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrn-rnv-bus",
+    "contributors": [
+      {
+        "github": "klukas144"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Mannheim/Ludwigshafen regulär",
+        "source": "https://www.rnv-online.de/media/rnv-online.de/Fahrtinfo/Liniennetzplaene/regulaer/Liniennetzplan_MA-LU_regulaer.pdf"
+      },
+      {
+        "name": "Liniennetzplan Heidelberg regulär - Gültig ab 07. April 2024",
+        "source": "https://www.rnv-online.de/media/rnv-online.de/Fahrtinfo/Liniennetzplaene/regulaer/Liniennetzplan_HD_regulaer_ab_07._April_2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrn-rnv-tram",
+    "contributors": [
+      {
+        "github": "metrophil"
+      },
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetz regulär Schiene RNV",
+        "source": "https://www.rnv-online.de/media/rnv-online.de/Fahrtinfo/Liniennetzplaene/regulaer/Liniennetzplan_Schiene.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrn-sbahn-rn",
+    "contributors": [
+      {
+        "github": "metrophil"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetz S-Bahn Rhein-Neckar",
+        "source": "https://www.s-bahn-rheinneckar.de/fahrplan/streckenfpl"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrn-qnv-queichtal-nahverkehr",
+    "contributors": [
+      {
+        "github": "TheOneWithTheBraid"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Landkreis Germersheim",
+        "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrr-bogestra",
+    "contributors": [
+      {
+        "github": "metrophil"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Bogestra-Schienennetzplan",
+        "source": "https://bogestra-cdn.s3.amazonaws.com/webseite/Schienennetzplaene/BOGESTRA_Schienennetzplan_09-01-2023.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrr-dsw21",
+    "contributors": [
+      {
+        "github": "metrophil"
+      },
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Schienennetzplan Dortmund",
+        "source": "https://www.bus-und-bahn.de/fileadmin/user_upload/schienennetzplan_januar2023_a4_print_x3.pdf"
+      },
+      {
+        "name": "Interaktiver Netzplan Dortmund",
+        "source": "https://www.netzplan-dortmund.de/"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrr-dvg",
+    "contributors": [
+      {
+        "github": "metrophil"
+      }
+    ],
+    "sources": [
+      {
+        "name": "DVG-Liniennetzplan Tag (groß)",
+        "source": "https://www.dvg-duisburg.de/fileadmin/Media/Downloads/Linienplaene/Liniennetzplan/DVG_Liniennetzplan_Tag.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrr-hst",
+    "contributors": [
+      {
+        "github": "metrophil"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan Hagener Straßenbahn",
+        "source": "https://www.hst-hagen.de/netzplan"
+      },
+      {
+        "name": "Netzplan NachtExpress Hagen",
+        "source": "https://www.hst-hagen.de/fileadmin/user_upload/Netzplaene_als_Download/y24/NE-Netzplan_2024_ohneMinuten_web.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrr-rheinbahn",
+    "contributors": [
+      {
+        "github": "ChillLP"
+      },
+      {
+        "github": "luna-cant-code"
+      },
+      {
+        "github": "iw0nderhow"
+      }
+    ],
+    "sources": [
+      {
+        "name": "VRR Rheinbahn Düsseldorf",
+        "source": "https://www.rheinbahn.de/fahren/verbindungen/netzplaene"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrr-ruhrbahn",
+    "contributors": [
+      {
+        "github": "metrophil"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Schienennetzplan der Ruhrbahn",
+        "source": "https://www.ruhrbahn.de/fileadmin/ruhrbahn_media/downloads/Netzplaene/Ruhrbahn-Netz-Barrierefrei-2023.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrr-swk",
+    "contributors": [
+      {
+        "github": "metrophil"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Stadt Krefeld",
+        "source": "http://karteplan.com/deutschland/stadt/krefeld/liniennetzplan-krefeld.html"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrr-sws",
+    "contributors": [
+      {
+        "github": "jerzek55"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Stadtwerke Solingen - Netzplan",
+        "source": "https://www.netzplan-solingen.de/maps/tlnp"
+      },
+      {
+        "name": "Stadtwerke Solingen - Nachtnetz",
+        "source": "https://www.sobus.net/Netz/Nachtnetz.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrr-wsw",
+    "contributors": [
+      {
+        "github": "metrophil"
+      },
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Stadt Wuppertal",
+        "source": "https://www.wsw-online.de/fileadmin/Mobil/Dokumente/Fahrplan/Linienplan/Linienplan_Wuppertal.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrr-xbus",
+    "contributors": [
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "VRR XBus",
+        "source": "https://www.vrr.de/fahrplan-mobilitaet/stadt-linien-netzplaene/"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrs-bus",
+    "contributors": [
+      {
+        "github": "chloe-haj"
+      },
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "KVB Busse in Köln 2024 - gesamt",
+        "source": "https://www.kvb.koeln/fahrtinfo/liniennetzplaene.html?INCLUDEMODUL=dokumente_einzeln2.mod/inc.download.php&downDokument=5078"
+      },
+      {
+        "name": "SWB Liniennetz Busse linksrheinisch 2024",
+        "source": "https://www.swb-busundbahn.de/fileadmin/fahrplandateien/liniennetzplaene/SLNP_Bonn_LiRhein.pdf"
+      },
+      {
+        "name": "wupsi Busnetz Leverusen 2024",
+        "source": "https://www.wupsi.de/fileadmin/user_upload/Busnetz_Leverkusen_2024.pdf"
+      },
+      {
+        "name": "Bergischer FahrradBus-Flyer",
+        "source": "https://www.dasbergische.de/aktiv-entspannen/radfahren/bergischer-fahrradbus"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vrs-stadtbahn",
+    "contributors": [
+      {
+        "github": "jeyemwey"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetz VRS",
+        "source": "https://www.vrs.de/fahren/liniennetz/liniennetz-interaktiv"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vst-oebb",
+    "contributors": [
+      {
+        "github": "rnewhost"
+      },
+      {
+        "github": "devkanza"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetz S-Bahn-Steiermark",
+        "source": "https://www.oebb.at/dam/jcr:c1836cc4-d920-45d4-bf04-7a113a8337a1/netzplan-s-bahn-steiermark.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vst-stb",
+    "contributors": [
+      {
+        "github": "rnewhost"
+      },
+      {
+        "github": "devkanza"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetz S-Bahn-Steiermark",
+        "source": "https://www.oebb.at/dam/jcr:c1836cc4-d920-45d4-bf04-7a113a8337a1/netzplan-s-bahn-steiermark.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vvk-oebb",
+    "contributors": [
+      {
+        "github": "rnewhost"
+      },
+      {
+        "github": "devkanza"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetz Kärnten",
+        "source": "https://www.oebb.at/dam/jcr:e05a0037-0c1c-4e3f-b24f-931d55d71a0e/liniennetz_kaernten.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vvo-bus",
+    "contributors": [
+      {
+        "github": "schwamar"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetz",
+        "source": "https://www.dvb.de/-/media/files/liniennetz/dvb_lnp_210524_bau_pdf.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vvo-db-regio",
+    "contributors": [
+      {
+        "github": "hoolycrash"
+      },
+      {
+        "github": "oneiricbotcelot"
+      },
+      {
+        "github": "metrophil"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan",
+        "source": "https://assets.static-bahn.de/dam/jcr:6780b540-43a7-4c03-8e02-2d64231667c1/Streckennetz%20DB%20Regio%20rund%20um%20Dresden_.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vvo-db-sbd",
+    "contributors": [
+      {
+        "github": "Unterwerk"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan S-Bahn Dresden",
+        "source": "https://assets.static-bahn.de/dam/jcr:5b9c05ce-1bd8-46f7-9b99-4445807baa48/246507-327552.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vvs-db-sbs",
+    "contributors": [
+      {
+        "github": "jheubuch"
+      },
+      {
+        "github": "Nagiphaaa"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan S-Bahn Stuttgart",
+        "source": "https://download.vvs.de/SBahn_Liniennetz.pdf"
+      },
+      {
+        "name": "Liniennetzplan bwegt",
+        "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vvo-ferry",
+    "contributors": [
+      {
+        "github": "schwamar"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetz",
+        "source": "https://www.dvb.de/-/media/files/liniennetz/dvb_lnp_210524_bau_pdf.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vvo-tram",
+    "contributors": [
+      {
+        "github": "hoolycrash"
+      },
+      {
+        "github": "jonaes"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan",
+        "source": "https://www.dvb.de/-/media/files/liniennetz/2023-09-04/dvblnp040923bauwebpdf.pdf"
+      },
+      {
+        "name": "Bau-Netzplan Linien 44 46",
+        "source": "https://www.dvb.de/-/media/files/liniennetz/dvb_lnp_030624_bau_pdf.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vvs-fmo",
+    "contributors": [
+      {
+        "github": "wittighausen"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
+        "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vvs-lvl",
+    "contributors": [
+      {
+        "github": "wittighausen"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
+        "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vvs-osb",
+    "contributors": [
+      {
+        "github": "wittighausen"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
+        "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vvs-ssb-nachtbus",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Nachtverkehr Stadtgebiet Stuttgart",
+        "source": "https://download.vvs.de/Nachtverkehr_Stadtgebiet_Stuttgart.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vvs-ssb-stadtbahn",
+    "contributors": [
+      {
+        "github": "jheubuch"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan Stadtbahn Stuttgart",
+        "source": "https://download.vvs.de/Stadtbahn_Liniennetz.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vvs-wbg",
+    "contributors": [
+      {
+        "github": "wittighausen"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
+        "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vvs-weg",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      },
+      {
+        "github": "metrophil"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan bwegt",
+        "source": "https://www2.bwegt.de/fileadmin/assets/media/PDF/Karten/Liniennetzplan/bwegt_Karte_Liniennetzplan_Regionalverkehr_19.07.2024_barrierefrei.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vvt-db-regio-bayern",
+    "contributors": [
+      {
+        "github": "rnewhost"
+      },
+      {
+        "github": "devkanza"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Schiene Tirol",
+        "source": "https://www.oebb.at/dam/jcr:dca525b7-241b-424e-be99-de42a9c3bb62/liniennetz-tirol.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vvt-oebb",
+    "contributors": [
+      {
+        "github": "rnewhost"
+      },
+      {
+        "github": "devkanza"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Liniennetzplan Schiene Tirol",
+        "source": "https://www.oebb.at/dam/jcr:dca525b7-241b-424e-be99-de42a9c3bb62/liniennetz-tirol.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vvv-oebb",
+    "contributors": [
+      {
+        "github": "rnewhost"
+      },
+      {
+        "github": "devkanza"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Bahnnetz Vorarlberg",
+        "source": "https://www.oebb.at/dam/jcr:19c51cee-43ec-485d-befc-395902088b8f/liniennetz-vorarlberg.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "vvv-montafoner-bahn",
+    "contributors": [
+      {
+        "github": "rnewhost"
+      },
+      {
+        "github": "devkanza"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Bahnnetz Vorarlberg",
+        "source": "https://www.oebb.at/dam/jcr:19c51cee-43ec-485d-befc-395902088b8f/liniennetz-vorarlberg.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "waldbahn-dlb",
+    "contributors": [
+      {
+        "github": "verbuchselt"
+      },
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "BEG Liniennetzplan Bayern 2024",
+        "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "westfalenbahn",
+    "contributors": [
+      {
+        "github": "oneiricbotcelot"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Linienübersicht Westfalenbahn",
+        "source": "https://www.westfalenbahn.de/fahrplaene/linienuebersicht/"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "wt-bvo",
+    "contributors": [
+      {
+        "github": "KiloBravoBFE"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Schematischer Netzplan Bielefeld",
+        "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/Blfd._Linien_schematisch_8.2025.pdf"
+      },
+      {
+        "name": "01-Schemaplan-2023-08-24",
+        "source": "https://www.nph.de/de-wAssets/docs/oepnv/angebot/Liniennetzplaene/01-Schemaplan-2023-08-24.pdf"
+      }
+    ]
+
+  },
+  {
+    "shortOperatorName": "wt-go-on",
+    "contributors": [
+      {
+        "github": "KiloBravoBFE"
+      }
+    ],
+    "sources": [
+      {
+        "name": "01-Schemaplan-2023-08-24",
+        "source": "https://www.nph.de/de-wAssets/docs/oepnv/angebot/Liniennetzplaene/01-Schemaplan-2023-08-24.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "wt-mobiel",
+    "contributors": [
+      {
+        "github": "KiloBravoBFE"
+      },
+      {
+        "github": "metrophil"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Schematischer Netzplan Bielefeld",
+        "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/Blfd._Linien_schematisch_8.2025.pdf"
+      },
+      {
+        "name": "Bielefeld: schematischer Netzplan NachtBus",
+        "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_NachtBus.pdf"
+      },
+      {
+        "name": "NachtBus-Linie N14: Fahrplan & Linienweg",
+        "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/NachtBus/N14_Fahrplan_und_Linienweg.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "wt-padersprinter",
+    "contributors": [
+      {
+        "github": "luna-cant-code"
+      },
+      {
+        "github": "KiloBravoBFE"
+      }
+    ],
+    "sources": [
+      {
+        "name": "PaderSprinter Netzplan",
+        "source": "https://www.padersprinter.de/?wpdmdl=92737"
+      },
+      {
+        "name": "PS-Netzplan-schematisch-Nacht-2024-05-10",
+        "source": "https://www.padersprinter.de/?wpdmdl=92739"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "wt-rvm",
+    "contributors": [
+      {
+        "github": "luna-cant-code"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan Steinfurt Süd",
+        "source": "https://www.rvm-online.de/fileadmin/startseite_rvm/fahrgast/fahrt_planen/liniennetzplan/steinfurt_sued_liniennetzplan_2021.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "wt-argegt",
+    "contributors": [
+      {
+        "github": "KiloBravoBFE"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Schematischer Netzplan Bielefeld",
+        "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_2023.pdf"
+      },
+      {
+        "name": "Bielefeld: schematischer Netzplan NachtBus",
+        "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/Netzplaene_Karten/schematischer_Netzplan_NachtBus.pdf"
+      },
+      {
+        "name": "NachtBus-Linie N14: Fahrplan & Linienweg",
+        "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/NachtBus/N14_Fahrplan_und_Linienweg.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "zvnl-bus",
+    "contributors": [
+      {
+        "github": "tomjschwanke"
+      }
+    ],
+    "sources": [
+      {
+        "name": "LVB-Liniennetzplan",
+        "source": "https://files.l.de/lde-typo3/Leipziger/Verkehrsbetriebe/Fahrplan/Netzplan/LVB-Liniennetzplan-Tag-ab-11-12-22.pdf"
+      },
+      {
+        "name": "LVB-Liniennetzplan-Nacht",
+        "source": "https://files.l.de/lde-typo3/Leipziger/Verkehrsbetriebe/Fahrplan/Netzplan/LVB-Liniennetzplan-Nacht-ab-11-12-22.pdf"
+      },
+      {
+        "name": "LVB_Veranstaltungs-Liniennetzplan",
+        "source": "https://files.l.de/lde-typo3/default_backend_upload/LVB_Veranstaltungs-Liniennetzplan-ab-02-10-2023.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "zvnl-tram",
+    "contributors": [
+      {
+        "github": "tomjschwanke"
+      }
+    ],
+    "sources": [
+      {
+        "name": "LVB-Liniennetzplan",
+        "source": "https://files.l.de/lde-typo3/Leipziger/Verkehrsbetriebe/Fahrplan/Netzplan/LVB-Liniennetzplan-Tag-ab-11-12-22.pdf"
+      },
+      {
+        "name": "LVB-Liniennetzplan-Nacht",
+        "source": "https://files.l.de/lde-typo3/Leipziger/Verkehrsbetriebe/Fahrplan/Netzplan/LVB-Liniennetzplan-Nacht-ab-11-12-22.pdf"
+      },
+      {
+        "name": "LVB_Veranstaltungs-Liniennetzplan",
+        "source": "https://files.l.de/lde-typo3/default_backend_upload/LVB_Veranstaltungs-Liniennetzplan-ab-02-10-2023.pdf"
+      }
+    ]
+  },
+  {
+    "shortOperatorName": "zvon-odeg",
+    "contributors": [
+      {
+        "github": "hoolycrash"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Netzplan",
+        "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
+      }
+    ]
+  }
 ]
