@@ -156,6 +156,9 @@
             },
             {
                 "github": "SpielenmitLili"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
@@ -2265,6 +2268,20 @@
             {
                 "name": "Liniennetzplan Stadt Wuppertal",
                 "source": "https://www.wsw-online.de/fileadmin/Mobil/Dokumente/Fahrplan/Linienplan/Linienplan_Wuppertal.pdf"
+            }
+        ]
+    },
+    {       
+        "shortOperatorName": "vrr-xbus",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VRR XBus",
+                "source": "https://www.vrr.de/fahrplan-mobilitaet/stadt-linien-netzplaene/"
             }
         ]
     },
