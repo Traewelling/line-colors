@@ -1282,17 +1282,17 @@ schweiz-fernverkehr,RE 6,schweizerische-bundesbahnen,re-6,#4f1a4a,#ffffff,,recta
 schweiz-fernverkehr,RE 33,schweizerische-bundesbahnen,re-33,#076867,#ffffff,,rectangle-rounded-corner,,,
 schweiz-fernverkehr,RE 37,schweizerische-bundesbahnen,re-37,#ffaa90,#2c2e35,,rectangle-rounded-corner,,,
 schweiz-fernverkehr,RE 48,schweizerische-bundesbahnen,re-48,#b9a96f,#ffffff,,rectangle-rounded-corner,,,
-stadtlinie-limburg,LM-1,,lm-1,#0E8955,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
-stadtlinie-limburg,LM-2,,lm-2,#D6393C,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
-stadtlinie-limburg,LM-3,,lm-3,#00E0D9,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-1,,lm-1,#0e8955,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-2,,lm-2,#d6393c,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-3,,lm-3,#00e0d9,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
 stadtlinie-limburg,LM-5,,lm-5,#252020,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
-stadtlinie-limburg,LM-20,,lm-20,#E05200,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
-stadtlinie-limburg,LM-21,,lm-21,#D6393C,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
-stadtlinie-limburg,LM-22,,lm-22,#0E8955,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-20,,lm-20,#e05200,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-21,,lm-21,#d6393c,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-22,,lm-22,#0e8955,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
 stadtlinie-limburg,LM-23,,lm-23,#598200,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
-stadtlinie-limburg,LM-24,,lm-24,#005BAA,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
-stadtlinie-limburg,LM-25,,lm-25,#E05200,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
-stadtlinie-limburg,LM-26,,lm-26,#613FA6,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-24,,lm-24,#005baa,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-25,,lm-25,#e05200,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-26,,lm-26,#613fa6,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
 start,RB12,regionalverkehre-start-deutschland-gmbh-start-taunus,stn-rb12,#94522e,#ffffff,,rectangle-rounded-corner,,14174,Regionalverkehre Start Deutschland GmbH Taunus
 start,RB15,regionalverkehre-start-deutschland-gmbh-start-taunus,stn-rb15,#e3a02e,#ffffff,,rectangle-rounded-corner,,14174,Regionalverkehre Start Deutschland GmbH Taunus
 svv-brb,S3,bayerische-regiobahn,4-l8-s3,#3ab048,#ffffff,,rectangle-rounded-corner,,10969,Bayerische Regiobahn
