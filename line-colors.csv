@@ -2044,7 +2044,8 @@ vrr-wsw,CE65,,5-vrr066-ce65,#d12f2b,#ffffff,,rectangle,Q2537722,8016,Wuppertaler
 vrr-wsw,Uni,,bus-uni,#9c9d9d,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
 vrr-wsw,E860,,bus-e860,#c27629,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
 vrr-xbus,X05,,bus-x05,#6aac46,#ffffff,,rectangle,,,
-vrr-xbus,X13,,bus-x13,#6aac46,#ffffff,,rectangle,,,
+vrr-xbus,X13,,bus-x13,#6aac46,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
+vrr-xbus,X13,,bus-x13,#6aac46,#ffffff,,rectangle,,7790,Vestische Straßenbahnen GmbH Bus
 vrr-xbus,X27,,bus-x27,#6aac46,#ffffff,,rectangle,,,
 vrr-xbus,X28,,bus-x85,#6aac46,#ffffff,,rectangle,,,
 vrr-xbus,X32,,bus-x32,#6aac46,#ffffff,,rectangle,,7713,NIAG
