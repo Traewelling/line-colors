@@ -513,6 +513,9 @@
             },
             {
                 "github": "jheubuch"
+            },
+            {
+                "github": "luna-cant-code"
             }
         ],
         "sources": [
@@ -530,7 +533,7 @@
             },
             {
 	        "github": "TheOneWithTheBraid"
-	    }
+	        }
         ],
         "sources": [
             {
