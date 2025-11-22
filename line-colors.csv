@@ -311,27 +311,29 @@ hlb,RE99,hlb-hessenbahn-gmbh,hlb-re99,#e3a02e,#ffffff,,rectangle-rounded-corner,
 hvv-akn,A 1,akn-eisenbahn-gmbh,akn-a1,#f7931d,#ffffff,,pill,,10833,AKN Eisenbahn AG
 hvv-akn,A 2,akn-eisenbahn-gmbh,akn-a2,#f7931d,#ffffff,,pill,,10833,AKN Eisenbahn AG
 hvv-akn,A 3,akn-eisenbahn-gmbh,akn-a3,#f7931d,#ffffff,,pill,,10833,AKN Eisenbahn AG
-hvv-db-sbhh,S 1,s-bahn-hamburg,4-0s-1,#4da553,#ffffff,,pill,,10375,S-Bahn Hamburg
-hvv-db-sbhh,S 2,s-bahn-hamburg,4-0s-2,#95334a,#ffffff,,pill,,10375,S-Bahn Hamburg
-hvv-db-sbhh,S 3,s-bahn-hamburg,4-0s-3,#512c75,#ffffff,,pill,,10375,S-Bahn Hamburg
-hvv-db-sbhh,S 5,s-bahn-hamburg,4-0s-5,#3b87a9,#ffffff,,pill,,10375,S-Bahn Hamburg
+hvv-db-sbhh,S 1,,,#4da553,#ffffff,,pill,Q19377130,10375,S-Bahn Hamburg
+hvv-db-sbhh,S 2,,,#95334a,#ffffff,,pill,Q19390036,10375,S-Bahn Hamburg
+hvv-db-sbhh,S 3,,,#512c75,#ffffff,,pill,Q19368685,10375,S-Bahn Hamburg
+hvv-db-sbhh,S 5,,,#3b87a9,#ffffff,,pill,Q63451353,10375,S-Bahn Hamburg
+hvv-db-sbhh,S 7,,,#c07b35,#ffffff,,pill,Q136881945,10375,S-Bahn Hamburg
 hvv-had,61,,6-hvvhad-61,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
 hvv-had,62,,6-hvvhad-62,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
 hvv-had,64,,6-hvvhad-64,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
+hvv-had,65,,,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
+hvv-had,66,,,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
 hvv-had,72,,6-hvvhad-72,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
 hvv-had,73,,6-hvvhad-73,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
 hvv-had,75,,6-hvvhad-75,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
-hvv-hha,U 1,,7-hvv001-1,#0072bc,#ffffff,,rectangle,,15141,Hochbahn U-Bahn
-hvv-hha,U 2,,7-hvv001-2,#ee1d23,#ffffff,,rectangle,,15141,Hochbahn U-Bahn
-hvv-hha,U 3,,7-hvv001-3,#ffdc01,#ffffff,,rectangle,,15141,Hochbahn U-Bahn
-hvv-hha,U 4,,7-hvv001-4,#00aaad,#ffffff,,rectangle,,15141,Hochbahn U-Bahn
+hvv-hha,U 1,,,#0072bc,#ffffff,,rectangle,Q248623,15141,Hochbahn U-Bahn
+hvv-hha,U 2,,,#ee1d23,#ffffff,,rectangle,Q275451,15141,Hochbahn U-Bahn
+hvv-hha,U 3,,,#ffdc01,#ffffff,,rectangle,Q781351,15141,Hochbahn U-Bahn
+hvv-hha,U 4,,,#00aaad,#ffffff,,rectangle,Q209739,15141,Hochbahn U-Bahn
 hvv-hha,5,,5-hvvhha-5,#eb4630,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,6,,5-hvvhha-6,#18257b,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,8,,5-hvvhha-8,#c49569,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,9,,5-hvvhha-9,#5fb358,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,10,,5-hvvhha-10,#ed753a,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,11,,5-hvvhha-11,#903634,#ffffff,,hexagon,,15140,Hochbahn Bus
-hvv-hha,13,,5-hvvhha-13,#712f91,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,14,,5-hvvhha-14,#dc424d,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,16,,5-hvvhha-16,#571445,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,17,,5-hvvhha-17,#62685f,#ffffff,,hexagon,,15140,Hochbahn Bus
@@ -344,6 +346,10 @@ hvv-hha,25,,5-hvvhha-25,#0c653c,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,26,,5-hvvhha-26,#bcd25d,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,27,,5-hvvhha-27,#11adde,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,28,,5-hvvhha-28,#7e9bb4,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,30,,,#df864a,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,40,,,#df864a,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,42,,,#4e955b,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,43,,,#ca3752,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,603,,5-hvvhha-603,#000000,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,604,,5-hvvhha-604,#000000,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,605,,5-hvvhha-605,#000000,#ffffff,,hexagon,,15140,Hochbahn Bus
@@ -356,6 +362,7 @@ hvv-hha,640,,5-hvvhha-640,#000000,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,641,,5-hvvhha-641,#000000,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,X11,,5-hvvhha-x11,#5fb358,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,X22,,5-hvvhha-x22,#5fb358,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,X27,,,#eb452e,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,X35,,5-hvvhha-x35,#eb452e,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,X40,,5-hvvhha-x40,#73c4a2,#ffffff,,hexagon,,15140,Hochbahn Bus
 hvv-hha,X61,,5-hvvhha-x61,#ed7339,#ffffff,,hexagon,,15140,Hochbahn Bus
@@ -367,11 +374,11 @@ hvv-kvi,X99,,5-hvvkvi-x99,#bc3c95,#ffffff,,hexagon,,15143,KVIPVH
 hvv-vhh,1,,5-hvvvhh-1,#bcd25d,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,2,,5-hvvvhh-2,#f4b94f,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,3,,5-hvvvhh-3,#bc3d95,#ffffff,,hexagon,,15146,VHH Bus
-hvv-vhh,12,,5-hvvvhh-12,#522a90,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,15,,5-hvvvhh-15,#4bbf9d,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,21,,5-hvvvhh-21,#234ea3,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,22,,5-hvvvhh-22,#712f91,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,29,,5-hvvvhh-29,#522a90,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,32,,,#522a90,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,601,,5-hvvvhh-601,#000000,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,602,,5-hvvvhh-602,#000000,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,609,,5-hvvvhh-609,#000000,#ffffff,,hexagon,,15146,VHH Bus
@@ -389,9 +396,10 @@ hvv-vhh,669,,5-hvvvhh-669,#000000,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,X3,,5-hvvvhh-x3,#722f91,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,X30,,5-hvvvhh-x30,#8e332a,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,X32,,5-hvvvhh-x32,#bf9466,#ffffff,,hexagon,,15146,VHH Bus
-hvv-vhh,X33,,5-hvvvhh-x32,#1c448f,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,X33,,,#ffffff,#173e84,#173e84,hexagon,,15146,VHH Bus
 hvv-vhh,X80,,5-hvvvhh-x80,#ebc353,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,X81,,5-hvvvhh-x81,#30653c,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,X82,,,#8697b1,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,X95,,5-hvvvhh-x95,#c06936,#ffffff,,hexagon,,15146,VHH Bus
 kvv-avg,S1,albtal-verkehrs-gesellschaft-mbh,4-a6s1-1,#00a76d,#ffffff,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft
 kvv-avg,S4,albtal-verkehrs-gesellschaft-mbh,4-a6s4-4,#ae4a63,#ffffff,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft
@@ -493,17 +501,17 @@ lavv-swl,108,,5-swlbus-108,#ffed00,#000000,,rectangle,,11941,SWL
 lavv-swl,109,,5-swlbus-109,#0b9a33,#ffffff,,rectangle,,11941,SWL
 lavv-swl,110,,5-swlbus-110,#9d1680,#ffffff,,rectangle,,11941,SWL
 liege-s,S41,sncb,4-88-41,#0f6030,#ffffff,#ffffff,circle,,,
-mdv-lvb,1,,8-naslvt-1,#78b145,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
-mdv-lvb,2,,8-naslvt-2,#f7ce46,#000000,,rectangle,,8872,Leipziger Verkehrsbetriebe
-mdv-lvb,3,,8-naslvt-3,#78b145,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
+mdv-lvb,1,,8-naslvt-1,#78b145,#ffffff,,rectangle,Q121343878,8872,Leipziger Verkehrsbetriebe
+mdv-lvb,2,,8-naslvt-2,#f7ce46,#000000,,rectangle,Q136824538,8872,Leipziger Verkehrsbetriebe
+mdv-lvb,3,,8-naslvt-3,#78b145,#ffffff,,rectangle,Q121344175,8872,Leipziger Verkehrsbetriebe
 mdv-lvb,3E,,8-naslvt-3e,#78b145,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
-mdv-lvb,4,,8-naslvt-4,#27398a,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
+mdv-lvb,4,,8-naslvt-4,#27398a,#ffffff,,rectangle,Q68574879,8872,Leipziger Verkehrsbetriebe
 mdv-lvb,7,,8-naslvt-7,#27398a,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
-mdv-lvb,8,,8-naslvt-8,#f7ce46,#000000,,rectangle,,8872,Leipziger Verkehrsbetriebe
-mdv-lvb,10,,8-naslvt-10,#d02e26,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
+mdv-lvb,8,,8-naslvt-8,#f7ce46,#000000,,rectangle,Q121345179,8872,Leipziger Verkehrsbetriebe
+mdv-lvb,10,,8-naslvt-10,#d02e26,#ffffff,,rectangle,Q121350630,8872,Leipziger Verkehrsbetriebe
 mdv-lvb,11,,8-naslvt-11,#d02e26,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
-mdv-lvb,12,,8-naslvt-12,#27398a,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
-mdv-lvb,15,,8-naslvt-15,#27398a,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
+mdv-lvb,12,,8-naslvt-12,#27398a,#ffffff,,rectangle,Q121351163,8872,Leipziger Verkehrsbetriebe
+mdv-lvb,15,,8-naslvt-15,#27398a,#ffffff,,rectangle,Q98379997,8872,Leipziger Verkehrsbetriebe
 mdv-lvb,16,,8-naslvt-16,#d02e26,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
 mdv-swh-havag,1,,8-nashat-1,#f4b84f,#ffffff,,rectangle,,8896,Hallesche Verkehrs-AG
 mdv-swh-havag,2,,8-nashat-2,#ee843e,#ffffff,,rectangle,,8896,Hallesche Verkehrs-AG
@@ -1184,16 +1192,16 @@ s-bahn-bern-bls,S 6,bls-ag,4-850033-6-827562-5222797,#f84e4d,#ffffff,,rectangle,
 s-bahn-bern-rbs,S 7,regionalverkehr-bern-solothurn,4-850088-7,#ff812d,#ffffff,,rectangle,,,
 s-bahn-bern-rbs,S 8,regionalverkehr-bern-solothurn,4-850088-8,#191918,#ffffff,,rectangle,,,
 s-bahn-bern-rbs,S 9,regionalverkehr-bern-solothurn,4-850088-9,#fa2d18,#ffffff,,rectangle,,,
-s-bahn-hannover-transdev,S 1,s-bahn-hannover-transdev,4-tdhs-1,#846daa,#ffffff,,pill,,13776,S-Bahn Hannover
-s-bahn-hannover-transdev,S 2,s-bahn-hannover-transdev,4-tdhs-2,#007a3d,#ffffff,,pill,,13776,S-Bahn Hannover
-s-bahn-hannover-transdev,S 21,s-bahn-hannover-transdev,4-tdhs-21,#007a3d,#ffffff,,pill,,13776,S-Bahn Hannover
-s-bahn-hannover-transdev,S 3,s-bahn-hannover-transdev,4-tdhs-3,#cc69a6,#ffffff,,pill,,13776,S-Bahn Hannover
-s-bahn-hannover-transdev,S 4,s-bahn-hannover-transdev,4-tdhs-4,#9b2b48,#ffffff,,pill,,13776,S-Bahn Hannover
-s-bahn-hannover-transdev,S 5,s-bahn-hannover-transdev,4-tdhs-5,#f18700,#ffffff,,pill,,13776,S-Bahn Hannover
-s-bahn-hannover-transdev,S 51,s-bahn-hannover-transdev,4-tdhs-51,#f18700,#ffffff,,pill,,13776,S-Bahn Hannover
-s-bahn-hannover-transdev,S 6,s-bahn-hannover-transdev,4-tdhs-6,#004f9f,#ffffff,,pill,,13776,S-Bahn Hannover
-s-bahn-hannover-transdev,S 7,s-bahn-hannover-transdev,4-tdhs-7,#afcb27,#ffffff,,pill,,13776,S-Bahn Hannover
-s-bahn-hannover-transdev,S 8,s-bahn-hannover-transdev,4-tdhs-8,#1794ca,#ffffff,,pill,,13776,S-Bahn Hannover
+s-bahn-hannover-transdev,S 1,s-bahn-hannover-transdev,4-tdhs-1,#846daa,#ffffff,,pill,Q63433445,13776,S-Bahn Hannover
+s-bahn-hannover-transdev,S 2,s-bahn-hannover-transdev,4-tdhs-2,#007a3d,#ffffff,,pill,Q63433449,13776,S-Bahn Hannover
+s-bahn-hannover-transdev,S 21,s-bahn-hannover-transdev,4-tdhs-21,#007a3d,#ffffff,,pill,Q63433451,13776,S-Bahn Hannover
+s-bahn-hannover-transdev,S 3,s-bahn-hannover-transdev,4-tdhs-3,#cc69a6,#ffffff,,pill,Q63433452,13776,S-Bahn Hannover
+s-bahn-hannover-transdev,S 4,s-bahn-hannover-transdev,4-tdhs-4,#9b2b48,#ffffff,,pill,Q63433455,13776,S-Bahn Hannover
+s-bahn-hannover-transdev,S 5,s-bahn-hannover-transdev,4-tdhs-5,#f18700,#ffffff,,pill,Q63433456,13776,S-Bahn Hannover
+s-bahn-hannover-transdev,S 51,s-bahn-hannover-transdev,4-tdhs-51,#f18700,#ffffff,,pill,Q63433457,13776,S-Bahn Hannover
+s-bahn-hannover-transdev,S 6,s-bahn-hannover-transdev,4-tdhs-6,#004f9f,#ffffff,,pill,Q63433460,13776,S-Bahn Hannover
+s-bahn-hannover-transdev,S 7,s-bahn-hannover-transdev,4-tdhs-7,#afcb27,#ffffff,,pill,Q63433461,13776,S-Bahn Hannover
+s-bahn-hannover-transdev,S 8,s-bahn-hannover-transdev,4-tdhs-8,#1794ca,#ffffff,,pill,Q63433462,13776,S-Bahn Hannover
 s-bahn-zentralschweiz-bls,S 6,bls-ag,4-850033-6-924462-5234071,#0165b6,#ffffff,,rectangle-rounded-corner,,,
 s-bahn-zentralschweiz-bls,S 7,bls-ag,4-850033-7,#73c0e8,#ffffff,,rectangle-rounded-corner,,,
 s-bahn-zentralschweiz-bls,S 77,bls-ag,4-850033-77,#7a84c4,#ffffff,,rectangle-rounded-corner,,,
@@ -1781,14 +1789,14 @@ vrr-bogestra,318,,8-vrr033-318,#6aa99a,#ffffff,,rectangle-rounded-corner,,7543,B
 vrr-dsw21,490,,5-vrr038-490,#831f82,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,AirportExpress,,5-vrr038-airex,#53ae2e,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,AirportShuttle,,5-vrr038-airsh,#53ae2e,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
-vrr-dsw21,U41,,7-vrr036-41,#fee702,#7b7979,#7b7979,rectangle,,31,Dortmunder Stadtwerke U-Bahn
-vrr-dsw21,U42,,7-vrr036-42,#fab20b,#ffffff,,rectangle,,31,Dortmunder Stadtwerke U-Bahn
-vrr-dsw21,U43,,7-vrr036-43,#00a990,#ffffff,,rectangle,,31,Dortmunder Stadtwerke U-Bahn
-vrr-dsw21,U44,,7-vrr036-44,#66cde2,#ffffff,,rectangle,,31,Dortmunder Stadtwerke U-Bahn
-vrr-dsw21,U45,,7-vrr036-45,#ed1c24,#ffffff,,rectangle,,31,Dortmunder Stadtwerke U-Bahn
-vrr-dsw21,U46,,7-vrr036-46,#7264b8,#ffffff,,rectangle,,31,Dortmunder Stadtwerke U-Bahn
-vrr-dsw21,U47,,7-vrr036-47,#80cc28,#ffffff,,rectangle,,31,Dortmunder Stadtwerke U-Bahn
-vrr-dsw21,U49,,7-vrr036-49,#f799be,#ffffff,,rectangle,,31,Dortmunder Stadtwerke U-Bahn
+vrr-dsw21,U41,,,#fee702,#7b7979,#7b7979,rectangle,Q121288228,31,Dortmunder Stadtwerke U-Bahn
+vrr-dsw21,U42,,,#fab20b,#ffffff,,rectangle,Q121288273,31,Dortmunder Stadtwerke U-Bahn
+vrr-dsw21,U43,,,#00a990,#ffffff,,rectangle,Q121287834,31,Dortmunder Stadtwerke U-Bahn
+vrr-dsw21,U44,,,#66cde2,#ffffff,,rectangle,Q121288210,31,Dortmunder Stadtwerke U-Bahn
+vrr-dsw21,U45,,,#ed1c24,#ffffff,,rectangle,Q107740406,31,Dortmunder Stadtwerke U-Bahn
+vrr-dsw21,U46,,,#7264b8,#ffffff,,rectangle,Q107740407,31,Dortmunder Stadtwerke U-Bahn
+vrr-dsw21,U47,,,#80cc28,#ffffff,,rectangle,Q121287774,31,Dortmunder Stadtwerke U-Bahn
+vrr-dsw21,U49,,,#f799be,#ffffff,,rectangle,Q121288291,31,Dortmunder Stadtwerke U-Bahn
 vrr-dsw21,H1,,8-vrr039-hb1,#ec008c,#ffffff,,rectangle,,7633,Dortmunder Stadtwerke Hochbahn
 vrr-dsw21,H2,,8-vrr039-hb2,#ec008c,#ffffff,,rectangle,,7633,Dortmunder Stadtwerke Hochbahn
 vrr-dsw21,H3,,8-vrr039-hb3,#ec008c,#ffffff,,rectangle,,7633,Dortmunder Stadtwerke Hochbahn
@@ -1943,7 +1951,7 @@ vrr-rheinbahn,SB57,,5-vrr072-sb57,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinb
 vrr-rheinbahn,SB59,,5-vrr072-sb59,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
 vrr-rheinbahn,SB68,,5-vrr072-sb68,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
 vrr-rheinbahn,SB79,,5-vrr072-sb79,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,SkyTrain,,8-vrr077-skyt,#53b6ed,#ffffff,,rectangle,,7766,Rheinbahn SkyTrain
+vrr-rheinbahn,SkyT,,8-vrr077-skyt,#53b6ed,#ffffff,,rectangle,Q17996837,7766,Rheinbahn SkyTrain
 vrr-ruhrbahn,U11,,7-vrr010-11,#313390,#ffffff,,rectangle,,7638,"Essener Verkehrs AG, U-Bahn"
 vrr-ruhrbahn,U17,,7-vrr010-17,#6bb7e5,#ffffff,,rectangle,,7638,"Essener Verkehrs AG, U-Bahn"
 vrr-ruhrbahn,U18,,7-vrr013-18,#1187d2,#ffffff,,rectangle,,7638,"Essener Verkehrs AG, U-Bahn"
@@ -2044,7 +2052,8 @@ vrr-wsw,CE65,,5-vrr066-ce65,#d12f2b,#ffffff,,rectangle,Q2537722,8016,Wuppertaler
 vrr-wsw,Uni,,bus-uni,#9c9d9d,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
 vrr-wsw,E860,,bus-e860,#c27629,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
 vrr-xbus,X05,,bus-x05,#6aac46,#ffffff,,rectangle,,,
-vrr-xbus,X13,,bus-x13,#6aac46,#ffffff,,rectangle,,,
+vrr-xbus,X13,,bus-x13,#6aac46,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
+vrr-xbus,X13,,bus-x13,#6aac46,#ffffff,,rectangle,,7790,Vestische Straßenbahnen GmbH Bus
 vrr-xbus,X27,,bus-x27,#6aac46,#ffffff,,rectangle,,,
 vrr-xbus,X28,,bus-x85,#6aac46,#ffffff,,rectangle,,,
 vrr-xbus,X32,,bus-x32,#6aac46,#ffffff,,rectangle,,7713,NIAG
@@ -2175,27 +2184,27 @@ vrs-bus,SB42,,5-vrs003-sb25,#176438,#ffffff,,rectangle,,,
 vrs-bus,SB60,,5-vrs006-sb60,#859268,#ffffff,,rectangle,,,
 vrs-bus,SB69,,5-vrs006-sb69,#df6a3c,#ffffff,,rectangle,,,
 vrs-bus,X24,,5-vrs003-x24,#243d98,#ffffff,,rectangle,,,
-vrs-stadtbahn,1,,8-vrs001-1,#e1081c,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,3,,8-vrs001-3,#f29ec2,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,4,,8-vrs001-4,#eb72a5,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,5,,8-vrs001-5,#a69dc8,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,7,,8-vrs001-7,#f08d52,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,9,,8-vrs001-9,#f09086,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,12,,8-vrs001-12,#98c01e,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,13,,8-vrs001-13,#aa8567,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,14,,8-vrs001-14,#b32499,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,15,,8-vrs001-15,#5aad31,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,16,,8-vrs001-16,#07ada5,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,17,,8-vrs001-17,#1e93d1,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,18,,8-vrs001-18,#85d1f5,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,19,,8-vrs001-19,#28523e,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,61,stadtwerke-bonn,8-s3-61,#9ab831,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,62,stadtwerke-bonn,8-s3-62,#65a53b,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,63,stadtwerke-bonn,8-s3-63,#8bccf3,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,65,stadtwerke-bonn,8-s3-65,#c6cc2a,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,66,stadtwerke-bonn,8-s3-66,#d4417d,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,67,stadtwerke-bonn,8-s3-67,#e7a8c4,#ffffff,,rectangle-rounded-corner,,,
-vrs-stadtbahn,68,stadtwerke-bonn,8-s3-68,#cbaece,#ffffff,,rectangle-rounded-corner,,,
+vrs-stadtbahn,1,,8-vrs001-1,#e1081c,#ffffff,,rectangle-rounded-corner,Q63442516,7969,Kölner VB
+vrs-stadtbahn,3,,8-vrs001-3,#f29ec2,#ffffff,,rectangle-rounded-corner,Q63442521,7969,Kölner VB
+vrs-stadtbahn,4,,8-vrs001-4,#eb72a5,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
+vrs-stadtbahn,5,,8-vrs001-5,#a69dc8,#ffffff,,rectangle-rounded-corner,Q63442534,7969,Kölner VB
+vrs-stadtbahn,7,,8-vrs001-7,#f08d52,#ffffff,,rectangle-rounded-corner,Q63442539,7969,Kölner VB
+vrs-stadtbahn,9,,8-vrs001-9,#f09086,#ffffff,,rectangle-rounded-corner,Q63442544,7969,Kölner VB
+vrs-stadtbahn,12,,8-vrs001-12,#98c01e,#ffffff,,rectangle-rounded-corner,Q63442549,7969,Kölner VB
+vrs-stadtbahn,13,,8-vrs001-13,#aa8567,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
+vrs-stadtbahn,14,,8-vrs001-14,#b32499,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
+vrs-stadtbahn,15,,8-vrs001-15,#5aad31,#ffffff,,rectangle-rounded-corner,Q63442560,7969,Kölner VB
+vrs-stadtbahn,16,,8-vrs001-16,#07ada5,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
+vrs-stadtbahn,17,,8-vrs001-17,#1e93d1,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
+vrs-stadtbahn,18,,8-vrs001-18,#85d1f5,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
+vrs-stadtbahn,19,,8-vrs001-19,#28523e,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
+vrs-stadtbahn,61,stadtwerke-bonn,8-s3-61,#9ab831,#ffffff,,rectangle-rounded-corner,Q20035840,7971,Stadtwerke Bonn
+vrs-stadtbahn,62,stadtwerke-bonn,8-s3-62,#65a53b,#ffffff,,rectangle-rounded-corner,Q20035841,7971,Stadtwerke Bonn
+vrs-stadtbahn,63,stadtwerke-bonn,8-s3-63,#8bccf3,#ffffff,,rectangle-rounded-corner,Q20035835,7971,Stadtwerke Bonn
+vrs-stadtbahn,65,stadtwerke-bonn,8-s3-65,#c6cc2a,#ffffff,,rectangle-rounded-corner,Q20035842,7971,Stadtwerke Bonn
+vrs-stadtbahn,66,stadtwerke-bonn,8-s3-66,#d4417d,#ffffff,,rectangle-rounded-corner,Q20035836,7971,Stadtwerke Bonn
+vrs-stadtbahn,67,stadtwerke-bonn,8-s3-67,#e7a8c4,#ffffff,,rectangle-rounded-corner,Q20035837,7971,Stadtwerke Bonn
+vrs-stadtbahn,68,stadtwerke-bonn,8-s3-68,#cbaece,#ffffff,,rectangle-rounded-corner,Q20035838,7971,Stadtwerke Bonn
 vst-oebb,S1,osterreichische-bundesbahnen,4-81-1-1714993-5236532,#0fa14a,#ffffff,,rectangle-rounded-corner,,,
 vst-oebb,S3,osterreichische-bundesbahnen,4-81-3-1714993-5236532,#ed028c,#ffffff,,rectangle-rounded-corner,,,
 vst-oebb,S5,osterreichische-bundesbahnen,4-81-5-1714993-5236532,#892890,#ffffff,,rectangle-rounded-corner,,,
@@ -2509,6 +2518,34 @@ wt-padersprinter,48,,5-vph063-48,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,100,,5-vph063-100,#469cd8,#ffffff,,rectangle,,9316,Padersprinter
 wt-rvm,R51,,5-vgm023-r51,#006fb9,#ffffff,,rectangle-rounded-corner,,,
 wt-rvm,S50,,5-vgm020-s50,#c24636,#ffffff,,rectangle-rounded-corner,,,
+wt-swms,1,,,#b6d053,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,2,,,#459bd6,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,4,,,#91c584,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,5,,,#f0da4b,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,6,,,#6a308b,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,7,,,#367b90,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,8,,,#9b71ac,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,9,,,#9e7f46,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,10,,,#d93932,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,11,,,#e3813b,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,12,,,#4a6faa,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,13,,,#60954f,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,14,,,#9cd5f4,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,15,,,#367c4e,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,16,,,#f1bf86,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,17,,,#e27839,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,18,,,#3478ae,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,19,,,#648cbc,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,20,,,#8a4293,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,22,,,#8f201a,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,33,,,#eab2cd,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,34,,,#eab2cd,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,N80,,,#449854,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,N81,,,#f6cd47,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,N82,,,#d93932,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,N83,,,#3b87ca,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,N84,,,#9669a7,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-swms,N85,,,#e8993f,#ffffff,,rectangle,,7813,Stadtwerke Münster
 zvnl-bus,60,,5-naslvb-60,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
 zvnl-bus,65,,5-naslvb-65,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
 zvnl-bus,70,,5-naslvb-70,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
