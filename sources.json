@@ -2792,6 +2792,24 @@
         ]
     },
     {
+        "shortOperatorName": "wt-swms",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan TagesNetz Münster",
+                "source": "https://www.stadtwerke-muenster.de/Stadtwerke/Dokumente/Unterwegs/Stadtwerke%20MS%20-%20TagesNetz%20-%20topografisch%20-%202024-08-21.pdf"
+            },
+            {
+                "name": "Netzplan NachtNetz Münster",
+                "source": "https://www.stadtwerke-muenster.de/Stadtwerke/Dokumente/Unterwegs/Stadtwerke%20MS%20-%20NachtNetz%20-%20topografisch%20-%202024-08-21.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "wt-argegt",
         "contributors": [
             {
