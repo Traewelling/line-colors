@@ -501,17 +501,17 @@ lavv-swl,108,,5-swlbus-108,#ffed00,#000000,,rectangle,,11941,SWL
 lavv-swl,109,,5-swlbus-109,#0b9a33,#ffffff,,rectangle,,11941,SWL
 lavv-swl,110,,5-swlbus-110,#9d1680,#ffffff,,rectangle,,11941,SWL
 liege-s,S41,sncb,4-88-41,#0f6030,#ffffff,#ffffff,circle,,,
-mdv-lvb,1,,8-naslvt-1,#78b145,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
-mdv-lvb,2,,8-naslvt-2,#f7ce46,#000000,,rectangle,,8872,Leipziger Verkehrsbetriebe
-mdv-lvb,3,,8-naslvt-3,#78b145,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
+mdv-lvb,1,,8-naslvt-1,#78b145,#ffffff,,rectangle,Q121343878,8872,Leipziger Verkehrsbetriebe
+mdv-lvb,2,,8-naslvt-2,#f7ce46,#000000,,rectangle,Q136824538,8872,Leipziger Verkehrsbetriebe
+mdv-lvb,3,,8-naslvt-3,#78b145,#ffffff,,rectangle,Q121344175,8872,Leipziger Verkehrsbetriebe
 mdv-lvb,3E,,8-naslvt-3e,#78b145,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
-mdv-lvb,4,,8-naslvt-4,#27398a,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
+mdv-lvb,4,,8-naslvt-4,#27398a,#ffffff,,rectangle,Q68574879,8872,Leipziger Verkehrsbetriebe
 mdv-lvb,7,,8-naslvt-7,#27398a,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
-mdv-lvb,8,,8-naslvt-8,#f7ce46,#000000,,rectangle,,8872,Leipziger Verkehrsbetriebe
-mdv-lvb,10,,8-naslvt-10,#d02e26,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
+mdv-lvb,8,,8-naslvt-8,#f7ce46,#000000,,rectangle,Q121345179,8872,Leipziger Verkehrsbetriebe
+mdv-lvb,10,,8-naslvt-10,#d02e26,#ffffff,,rectangle,Q121350630,8872,Leipziger Verkehrsbetriebe
 mdv-lvb,11,,8-naslvt-11,#d02e26,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
-mdv-lvb,12,,8-naslvt-12,#27398a,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
-mdv-lvb,15,,8-naslvt-15,#27398a,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
+mdv-lvb,12,,8-naslvt-12,#27398a,#ffffff,,rectangle,Q121351163,8872,Leipziger Verkehrsbetriebe
+mdv-lvb,15,,8-naslvt-15,#27398a,#ffffff,,rectangle,Q98379997,8872,Leipziger Verkehrsbetriebe
 mdv-lvb,16,,8-naslvt-16,#d02e26,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
 mdv-swh-havag,1,,8-nashat-1,#f4b84f,#ffffff,,rectangle,,8896,Hallesche Verkehrs-AG
 mdv-swh-havag,2,,8-nashat-2,#ee843e,#ffffff,,rectangle,,8896,Hallesche Verkehrs-AG
