@@ -152,9 +152,9 @@ db-regio-mitte,RE6,db-regio-ag-mitte,re-6,#f15921,#ffffff,,rectangle-rounded-cor
 db-regio-mitte,RE 11,db-regio-ag-mitte-suwex,re-11,#20b159,#ffffff,,rectangle,,10445,SÜWEX
 db-regio-mitte,RE14,db-regio-ag-mitte-suwex,re-14,#970c7e,#ffffff,,rectangle-rounded-corner,Q112996572,10445,SÜWEX
 db-regio-mitte,RE20,db-regio-ag-mitte,re-20,#ee1d23,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RE25,db-regio-ag-mitte,re-25,#007ec5,#ffffff,,rectangle-rounded-corner,Q98104051,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RE25,db-regio-ag-mitte,re-25,#007ec5,#ffffff,,rectangle-rounded-corner,Q98104051,10449,DB Regio AG Mitte Region Südwest
 db-regio-mitte,RB22,db-regio-ag-mitte,rb-22,#ee1d23,#ffffff,,rectangle-rounded-corner,Q130342880,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RB23,db-regio-ag-mitte,rb-23,#15c0f2,#ffffff,,rectangle-rounded-corner,Q96474187,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RB23,db-regio-ag-mitte,rb-23,#15c0f2,#ffffff,,rectangle-rounded-corner,Q96474187,10449,DB Regio AG Mitte Region Südwest
 db-regio-mitte,RE30,db-regio-ag-mitte,re-30,#e30019,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
 db-regio-mitte,RB45,db-regio-ag-mitte,rb-45,#8bc63f,#ffffff,,rectangle-rounded-corner,Q98152720,10440,DB Regio AG Mitte Region Hessen
 db-regio-mitte,RB46,db-regio-ag-mitte,rb-46,#00805f,#ffffff,,rectangle-rounded-corner,Q98152733,10440,DB Regio AG Mitte Region Hessen
