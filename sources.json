@@ -2098,12 +2098,19 @@
         "contributors": [
             {
                 "github": "metrophil"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
                 "name": "Liniennetz S-Bahn Rhein-Neckar",
                 "source": "https://www.s-bahn-rheinneckar.de/fahrplan/streckenfpl"
+            },
+            {
+                "name": "Streckenkarte der S-Bahn Rhein-Neckar (gültig ab 14.12.2025)",
+                "source": "https://assets.static-bahn.de/dam/jcr:c957cf88-5b83-4596-a789-40d3889514eb/20251002_LN_S-Bahn_RN_oRE73_25_847x365.pdf"
             }
         ]
     },
