@@ -308,9 +308,9 @@ hlb,RE59,hlb-hessenbahn-gmbh,hlb-re59,#970c7e,#ffffff,,rectangle-rounded-corner,
 hlb,RE24,hlb-hessenbahn-gmbh,hlb-re24,#007ec5,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
 hlb,RE98,hlb-hessenbahn-gmbh,hlb-re98,#e3a02e,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
 hlb,RE99,hlb-hessenbahn-gmbh,hlb-re99,#e3a02e,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
-hvv-akn,A 1,akn-eisenbahn-gmbh,akn-a1,#f7931d,#ffffff,,pill,,10833,AKN Eisenbahn AG
-hvv-akn,A 2,akn-eisenbahn-gmbh,akn-a2,#f7931d,#ffffff,,pill,,10833,AKN Eisenbahn AG
-hvv-akn,A 3,akn-eisenbahn-gmbh,akn-a3,#f7931d,#ffffff,,pill,,10833,AKN Eisenbahn AG
+hvv-akn,A 1,akn-eisenbahn-gmbh,akn-a1,#f7931d,#ffffff,,pill,Q19368804,10833,AKN Eisenbahn AG
+hvv-akn,A 2,akn-eisenbahn-gmbh,akn-a2,#f7931d,#ffffff,,pill,Q19582807,10833,AKN Eisenbahn AG
+hvv-akn,A 3,akn-eisenbahn-gmbh,akn-a3,#f7931d,#ffffff,,pill,Q19606155,10833,AKN Eisenbahn AG
 hvv-db-sbhh,S 1,,,#4da553,#ffffff,,pill,Q19377130,10375,S-Bahn Hamburg
 hvv-db-sbhh,S 2,,,#95334a,#ffffff,,pill,Q19390036,10375,S-Bahn Hamburg
 hvv-db-sbhh,S 3,,,#512c75,#ffffff,,pill,Q19368685,10375,S-Bahn Hamburg
