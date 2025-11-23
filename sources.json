@@ -122,6 +122,10 @@
             {
                 "name": "Fahrpläne",
                 "source": "https://www.cfl.lu/de-de/timetable"
+            },
+            {
+                "name": "JUIL 2025_Carte reseau CFL_DE_A3_PRINT",
+                "source": "https://www.cfl.lu/getattachment/cc0c66f9-2074-476a-8140-7557866b17a2/juil-2025_carte-reseau-cfl_de_a3_print.pdf"
             }
         ]
     },
