@@ -152,9 +152,9 @@ db-regio-mitte,RE6,db-regio-ag-mitte,re-6,#f15921,#ffffff,,rectangle-rounded-cor
 db-regio-mitte,RE 11,db-regio-ag-mitte-suwex,re-11,#20b159,#ffffff,,rectangle,,10445,SÜWEX
 db-regio-mitte,RE14,db-regio-ag-mitte-suwex,re-14,#970c7e,#ffffff,,rectangle-rounded-corner,Q112996572,10445,SÜWEX
 db-regio-mitte,RE20,db-regio-ag-mitte,re-20,#ee1d23,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RE25,db-regio-ag-mitte,re-25,#007ec5,#ffffff,,rectangle-rounded-corner,Q98104051,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RE25,db-regio-ag-mitte,re-25,#007ec5,#ffffff,,rectangle-rounded-corner,Q98104051,10449,DB Regio AG Mitte Region Südwest
 db-regio-mitte,RB22,db-regio-ag-mitte,rb-22,#ee1d23,#ffffff,,rectangle-rounded-corner,Q130342880,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RB23,db-regio-ag-mitte,rb-23,#15c0f2,#ffffff,,rectangle-rounded-corner,Q96474187,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RB23,db-regio-ag-mitte,rb-23,#15c0f2,#ffffff,,rectangle-rounded-corner,Q96474187,10449,DB Regio AG Mitte Region Südwest
 db-regio-mitte,RE30,db-regio-ag-mitte,re-30,#e30019,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
 db-regio-mitte,RB45,db-regio-ag-mitte,rb-45,#8bc63f,#ffffff,,rectangle-rounded-corner,Q98152720,10440,DB Regio AG Mitte Region Hessen
 db-regio-mitte,RB46,db-regio-ag-mitte,rb-46,#00805f,#ffffff,,rectangle-rounded-corner,Q98152733,10440,DB Regio AG Mitte Region Hessen
@@ -1052,7 +1052,37 @@ rmv-eswe-bus,N10,,5-rmv001-n10,#fbba00,#000000,,rectangle,,8749,ESWE Verkehrsges
 rmv-eswe-bus,N11,,5-rmv001-n11,#ce7e00,#ffffff,,rectangle,,8749,ESWE Verkehrsgesellschaft mbH
 rmv-eswe-bus,N12,,5-rmv001-n12,#e30613,#ffffff,,rectangle,,8749,ESWE Verkehrsgesellschaft mbH
 rmv-eswe-bus,N13,,5-rmv001-n13,#000000,#ffffff,,rectangle,,8749,ESWE Verkehrsgesellschaft mbH
-rmv-express-bus,X72,,5-rmv408-x72,#e7007a,#ffffff,,rectangle-rounded-corner,,,
+rmv-express-bus,X11,,5-rmv408-x11,#e7007a,#ffffff,,rectangle-rounded-corner,,8672,Transdev Rhein-Main
+rmv-express-bus,X14,,5-rmv408-x14,#e7007a,#ffffff,,rectangle-rounded-corner,,9287,DB Regio Bus Mitte
+rmv-express-bus,X15,,5-rmv408-x15,#e7007a,#ffffff,,rectangle-rounded-corner,,9287,DB Regio Bus Mitte
+rmv-express-bus,X17,,5-rmv408-x17,#e7007a,#ffffff,,rectangle-rounded-corner,,9257,WEFRA-Bus GbR
+rmv-express-bus,X18,,5-rmv408-x18,#e7007a,#ffffff,,rectangle-rounded-corner,,13831,Kreativ Tours GmbH
+rmv-express-bus,X19,,5-rmv408-x19,#e7007a,#ffffff,,rectangle-rounded-corner,,13831,Kreativ Tours GmbH
+rmv-express-bus,X26,,5-rmv408-x26,#e7007a,#ffffff,,rectangle-rounded-corner,,9287,DB Regio Bus Mitte
+rmv-express-bus,X27,,5-rmv408-x27,#e7007a,#ffffff,,rectangle-rounded-corner,,9287,DB Regio Bus Mitte
+rmv-express-bus,X33,,5-rmv408-x33,#e7007a,#ffffff,,rectangle-rounded-corner,,9238,Käberich Omnibusbetrieb
+rmv-express-bus,X35,,5-rmv408-x35,#e7007a,#ffffff,,rectangle-rounded-corner,,9238,Käberich Omnibusbetrieb
+rmv-express-bus,X37,,5-rmv408-x37,#e7007a,#ffffff,,rectangle-rounded-corner,,8674,ALV Vogelsberg
+rmv-express-bus,X38,,5-rmv408-x38,#e7007a,#ffffff,,rectangle-rounded-corner,,8674,ALV Vogelsberg
+rmv-express-bus,X39,,5-rmv408-x39,#e7007a,#ffffff,,rectangle-rounded-corner,,9238,Käberich Omnibusbetrieb
+rmv-express-bus,X41,,5-rmv408-x41,#e7007a,#ffffff,,rectangle-rounded-corner,,8674,ALV Vogelsberg
+rmv-express-bus,X53,,5-rmv408-x53,#e7007a,#ffffff,,rectangle-rounded-corner,,9287,DB Regio Bus Mitte
+rmv-express-bus,X57,,5-rmv408-x57,#e7007a,#ffffff,,rectangle-rounded-corner,,8760,Stroh Busverkehr GmbH
+rmv-express-bus,X58,,5-rmv408-x58,#e7007a,#ffffff,,rectangle-rounded-corner,,9287,DB Regio Bus Mitte
+rmv-express-bus,X61,,5-rmv408-x61,#e7007a,#ffffff,,rectangle-rounded-corner,,8730,In-der-City-Bus
+rmv-express-bus,X64,,5-rmv408-x64,#e7007a,#ffffff,,rectangle-rounded-corner,,8760,Stroh Busverkehr GmbH
+rmv-express-bus,X69,,5-rmv408-x69,#e7007a,#ffffff,,rectangle-rounded-corner,,8671,Omnibusbetrieb Winzenhöler GmbH + Co. KG
+rmv-express-bus,X71,,5-rmv408-x71,#e7007a,#ffffff,,rectangle-rounded-corner,,8671,Omnibusbetrieb Winzenhöler GmbH + Co. KG
+rmv-express-bus,X72,,5-rmv408-x72,#e7007a,#ffffff,,rectangle-rounded-corner,,9257,WEFRA-Bus GbR
+rmv-express-bus,X74,,5-rmv408-x74,#e7007a,#ffffff,,rectangle-rounded-corner,,9287,DB Regio Bus Mitte
+rmv-express-bus,X76,,5-rmv408-x76,#e7007a,#ffffff,,rectangle-rounded-corner,,8740,Arnold Engelhardt GmbH
+rmv-express-bus,X77,,5-rmv408-x77,#e7007a,#ffffff,,rectangle-rounded-corner,,8730,In-der-City-Bus
+rmv-express-bus,X78,,5-rmv408-x78,#e7007a,#ffffff,,rectangle-rounded-corner,,9287,DB Regio Bus Mitte
+rmv-express-bus,X83,,5-rmv408-x83,#e7007a,#ffffff,,rectangle-rounded-corner,,13831,Kreativ Tours GmbH
+rmv-express-bus,X89,,5-rmv408-x89,#e7007a,#ffffff,,rectangle-rounded-corner,,8709,Medenbach Traffic GmbH
+rmv-express-bus,X93,,5-rmv408-x93,#e7007a,#ffffff,,rectangle-rounded-corner,,8760,Stroh Busverkehr GmbH
+rmv-express-bus,X94,,5-rmv408-x94,#e7007a,#ffffff,,rectangle-rounded-corner,,8760,Stroh Busverkehr GmbH
+rmv-express-bus,X95,,5-rmv408-x95,#e7007a,#ffffff,,rectangle-rounded-corner,,8760,Stroh Busverkehr GmbH
 rmv-heag-bus,A,,5-rmvheb-a,#a97b50,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
 rmv-heag-bus,AH,,5-rmvheb-ah,#603711,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
 rmv-heag-bus,AIR,,5-rmvheb-air,#3f9199,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
@@ -1260,6 +1290,17 @@ schweiz-fernverkehr,RE 6,schweizerische-bundesbahnen,re-6,#4f1a4a,#ffffff,,recta
 schweiz-fernverkehr,RE 33,schweizerische-bundesbahnen,re-33,#076867,#ffffff,,rectangle-rounded-corner,,,
 schweiz-fernverkehr,RE 37,schweizerische-bundesbahnen,re-37,#ffaa90,#2c2e35,,rectangle-rounded-corner,,,
 schweiz-fernverkehr,RE 48,schweizerische-bundesbahnen,re-48,#b9a96f,#ffffff,,rectangle-rounded-corner,,,
+stadtlinie-limburg,LM-1,,lm-1,#0e8955,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-2,,lm-2,#d6393c,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-3,,lm-3,#00e0d9,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-5,,lm-5,#252020,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-20,,lm-20,#e05200,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-21,,lm-21,#d6393c,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-22,,lm-22,#0e8955,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-23,,lm-23,#598200,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-24,,lm-24,#005baa,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-25,,lm-25,#e05200,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtlinie-limburg,LM-26,,lm-26,#613fa6,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
 start,RB12,regionalverkehre-start-deutschland-gmbh-start-taunus,stn-rb12,#94522e,#ffffff,,rectangle-rounded-corner,,14174,Regionalverkehre Start Deutschland GmbH Taunus
 start,RB15,regionalverkehre-start-deutschland-gmbh-start-taunus,stn-rb15,#e3a02e,#ffffff,,rectangle-rounded-corner,,14174,Regionalverkehre Start Deutschland GmbH Taunus
 svv-brb,S3,bayerische-regiobahn,4-l8-s3,#3ab048,#ffffff,,rectangle-rounded-corner,,10969,Bayerische Regiobahn
