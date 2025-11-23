@@ -55,6 +55,7 @@ ceske-drahy,RE 25,ceske-drahy,ex-362,#006666,#ffffff,,rectangle,,12634,Ceske Dra
 ceske-drahy,RE 25,ceske-drahy,ex-364,#006666,#ffffff,,rectangle,,12634,Ceske Drahy
 cfl,RE 11,cfl,re-11,#895da7,#ffffff,,rectangle,,10459,CFL1
 cfl,RB 83,cfl,rb-83,#895da7,#ffffff,,rectangle,,10459,CFL1
+cfl,RB 87,cfl,rb-87,#895da7,#ffffff,,rectangle,,10459,CFL1
 db-fernverkehr-ag,RE 87,db-fernverkehr-ag,re-87,#cc0066,#ffffff,,rectangle,,10918,DB Fernverkehr (Codesharing)
 db-regio-ag-baden-wurttemberg,RE 2,db-regio-ag-baden-wurttemberg,re-2,#0069b4,#ffffff,,rectangle,Q88627355,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 3,db-regio-ag-baden-wurttemberg,re-3,#e5007d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
@@ -171,7 +172,8 @@ db-regio-mitte,RB67,db-regio-ag-mitte,rb-67,#406bb1,#ffffff,,rectangle-rounded-c
 db-regio-mitte,RB68,db-regio-ag-mitte,rb-68,#406bb1,#ffffff,,rectangle-rounded-corner,Q68930888,10440,DB Regio AG Mitte Region Hessen
 db-regio-mitte,RE70,db-regio-ag-mitte,re-70,#d03831,#ffffff,,rectangle-rounded-corner,Q80105383,10440,DB Regio AG Mitte Region Hessen
 db-regio-mitte,RE73,db-regio-ag-mitte,re-73,#ff2e17,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RB 83,db-regio-ag-mitte,rb-83,#895da7,#ffffff,,rectangle,,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RB 83,db-regio-ag-mitte,rb-83,#895da7,#ffffff,,rectangle,,10449,DB Regio AG Mitte Region Südwest
+db-regio-mitte,RB 87,db-regio-ag-mitte,rb-87,#895da7,#ffffff,,rectangle,,10449,DB Regio AG Mitte Region Südwest
 db-regio-mitte,SE14,db-regio-ag-mitte-suwex,se14,#90268f,#ffffff,,rectangle-rounded-corner,,10445,SÜWEX
 db-regio-nordost,FEX,db-regio-ag-nordost,fex19829,#79122f,#ffffff,,rectangle,Q100533383,10434,DB Regio AG Nordost
 db-regio-nordost,RB10,db-regio-ag-nordost,rb-10,#66aa22,#ffffff,,rectangle,Q15195695,10434,DB Regio AG Nordost
