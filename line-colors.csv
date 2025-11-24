@@ -2582,6 +2582,16 @@ wt-padersprinter,48,,5-vph063-48,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,100,,5-vph063-100,#469cd8,#ffffff,,rectangle,,9316,Padersprinter
 wt-rvm,R51,,5-vgm023-r51,#006fb9,#ffffff,,rectangle-rounded-corner,,,
 wt-rvm,S50,,5-vgm020-s50,#c24636,#ffffff,,rectangle-rounded-corner,,,
+wt-sbbs,940AL,,,#0c87c9,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbbs,941,,,#97c21f,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbbs,942,,,#e20c15,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbbs,942AL,,,#e95c30,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbbs,943,,,#005ca9,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbbs,943TB,,,#00a3b4,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbbs,946TB,,,#41b598,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbbs,947,,,#ba7cb3,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbbs,947TB,,,#48318a,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbbs,962AL,,,#11823d,#ffffff,,rectangle,,14362,Bad Salzuflen
 wt-sbgt,201,,,#833c76,#ffffff,,rectangle,,14380,GTStadt
 wt-sbgt,202,,,#e094b7,#ffffff,,rectangle,,14380,GTStadt
 wt-sbgt,203,,,#a3b400,#ffffff,,rectangle,,14380,GTStadt

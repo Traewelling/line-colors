@@ -2831,6 +2831,20 @@
         ]
     },
     {
+        "shortOperatorName": "wt-sbbs",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Bad Salzuflen",
+                "source": "https://owlverkehr.de/pdf/Liniennetzpl%C3%A4ne/Bad_Salzuflen_14.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "wt-sbgt",
         "contributors": [
             {
