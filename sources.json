@@ -2817,6 +2817,20 @@
         ]
     },
     {
+        "shortOperatorName": "wt-sbgt",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Stadtbus Gütersloh",
+                "source": "https://www.stadtbus-gt.de/multi-wGlobal/wGlobal/scripts/accessDocument.php?forceDownload=1&document=/stadtbus-wAssets/docs/liniennetz/Liniennetzplan_Stadtbus_Guetersloh.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "wt-swms",
         "contributors": [
             {
