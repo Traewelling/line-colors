@@ -2429,12 +2429,33 @@ westfalenbahn,RE 15,westfalenbahn,wfb-re15,#ea9d22,#ffffff,,rectangle,,13291,Wes
 westfalenbahn,RE 60,westfalenbahn,wfb-re60,#00a3de,#ffffff,,rectangle,,13291,WestfalenBahn
 westfalenbahn,RE 70,westfalenbahn,wfb-re70,#005174,#ffffff,,rectangle,,13291,WestfalenBahn
 wt-argegt,N19,,5-owl051-n19,#f7a600,#ffffff,,rectangle,,14378,GTNord
+wt-argegt,43,,,#918e78,#ffffff,,pill,,14378,GTNord
 wt-argegt,48,,5-owl051-48,#39a9dc,#002650,,pill,,14378,GTNord
 wt-argegt,59,,5-owl051-59,#e2001a,#ffffff,,pill,,14378,GTNord
+wt-argegt,60,,,#f18b00,#ffffff,,pill,,14378,GTNord
 wt-argegt,61,,5-owl051-61,#39a9dc,#002650,,pill,,14378,GTNord
 wt-argegt,62,,5-owl051-62,#39a9dc,#002650,,pill,,14378,GTNord
+wt-argegt,63,,,#162883,#ffffff,,pill,,14378,GTNord
+wt-argegt,66,,,#692483,#ffffff,,pill,,14378,GTNord
+wt-argegt,70,,,#e63f0c,#ffffff,,pill,,14377,GTSüdwest
+wt-argegt,71,,,#f59b00,#000000,,pill,,14381,GTNordwest
+wt-argegt,72,,,#008143,#ffffff,,pill,,14381,GTNordwest
+wt-argegt,73,,,#9d1580,#ffffff,,pill,,14379,GTSüdost
+wt-argegt,74,,,#009ee3,#ffffff,,pill,,14381,GTNordwest
+wt-argegt,76,,,#434e4e,#ffffff,,pill,,14377,GTSüdwest
+wt-argegt,77,,,#85bc22,#ffffff,,pill,,14377,GTSüdwest
+wt-argegt,79,,,#1e398e,#ffffff,,pill,,14377,GTSüdwest
+wt-argegt,80.1,,,#b51c27,#ffffff,,pill,,14377,GTSüdwest
 wt-argegt,80.2,,5-owl050-80-2,#e2001a,#ffffff,,pill,,14378,GTNord
+wt-argegt,84,,,#f18b00,#ffffff,,pill,,14379,GTSüdost
+wt-argegt,84.1,,,#ef7c00,#ffffff,,pill,,14379,GTSüdost
+wt-argegt,84.2,,,#009aa3,#ffffff,,pill,,14379,GTSüdost
+wt-argegt,85,,,#e30017,#ffffff,,pill,,14379,GTSüdost
 wt-argegt,88,,5-owl051-88,#e85b98,#002650,,pill,,14378,GTNord
+wt-argegt,89,,,#b61b3d,#ffffff,,pill,,14378,GTNord
+wt-argegt,90,,,#7c7b37,#ffffff,,pill,,14381,GTNordwest
+wt-argegt,160,,,#8a2737,#ffffff,,pill,,14378,GTNord
+wt-argegt,190,,,#925900,#ffffff,,pill,,14381,GTNordwest
 wt-bvo,349,,5-owl021-349,#e20079,#ffffff,,pill,,14357,Lippe1
 wt-bvo,350,,5-owl021-350,#004e2d,#ffffff,,pill,,14357,Lippe1
 wt-bvo,351,,5-owl021-351,#97bf0d,#002650,,pill,,14357,Lippe1
@@ -2448,12 +2469,18 @@ wt-bvo,R70,,5-vph076-r70,#ed2927,#ffffff,,rectangle,,9324,nph-Linienbündel 06
 wt-bvo,R71,,5-vph076-r71,#ed2927,#ffffff,,rectangle,,9324,nph-Linienbündel 06
 wt-bvo,R72,,5-vph076-r72,#ed2927,#ffffff,,rectangle,,9324,nph-Linienbündel 06
 wt-bvo,R81,,5-vph077-r81,#ed2927,#ffffff,,rectangle,,9325,nph-Linienbündel 07
+wt-bvo,411,,,#36b64b,#ffffff,,rectangle,,9324,nph-Linienbündel 06
+wt-bvo,432,,,#36b64b,#ffffff,,rectangle,,9328,nph-Linienbündel 10
+wt-bvo,470,,,#36b64b,#ffffff,,rectangle,,9324,nph-Linienbündel 06
+wt-bvo,471,,,#36b64b,#ffffff,,rectangle,,9324,nph-Linienbündel 06
 wt-bvo,480,,5-vph077-480,#36b64b,#ffffff,,rectangle,,9325,nph-Linienbündel 07
 wt-bvo,481,,5-vph077-481,#36b64b,#ffffff,,rectangle,,9325,nph-Linienbündel 07
 wt-bvo,485,,5-vph077-485,#36b64b,#ffffff,,rectangle,,9325,nph-Linienbündel 07
 wt-bvo,487,,5-vph077-487,#36b64b,#ffffff,,rectangle,,7812,Busverkehr Ruhr-Sieg
 wt-bvo,488,,5-vph077-488,#36b64b,#ffffff,,rectangle,,7812,Busverkehr Ruhr-Sieg
 wt-bvo,489,,5-vph077-489,#36b64b,#ffffff,,rectangle,,7812,Busverkehr Ruhr-Sieg
+wt-go-on,420,,,#36b64b,#ffffff,,rectangle,,9320,nph-Linienbündel 02
+wt-go-on,456,,,#36b64b,#ffffff,,rectangle,,9320,nph-Linienbündel 02
 wt-go-on,R20,,5-vph072-r20,#ed2927,#ffffff,,rectangle,,9320,nph-Linienbündel 02
 wt-go-on,R41,,5-vph071-r41,#ed2927,#ffffff,,rectangle,,9319,nph-Linienbündel 01
 wt-go-on,R45,,5-vph071-r45,#ed2927,#ffffff,,rectangle,,9319,nph-Linienbündel 01
@@ -2461,6 +2488,39 @@ wt-go-on,R50,,5-vph072-r50,#ed2927,#ffffff,,rectangle,,9320,nph-Linienbündel 02
 wt-go-on,R51,,5-vph077-r51,#ed2927,#ffffff,,rectangle,,9320,nph-Linienbündel 02
 wt-go-on,S30,,5-vph080-s30,#0089cf,#ffffff,,rectangle,,9328,nph-Linienbündel 10
 wt-go-on,S40,,5-vph071-s40,#0089cf,#ffffff,,rectangle,,9319,nph-Linienbündel 01
+wt-kottenstedte,374,,,#f4a386,#ffffff,,pill,,7804,Kottenstedte GmbH
+wt-mindenbus,1,,,#995225,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,2,,,#852d84,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,3,,,#2864ad,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,4,,,#616362,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,5,,,#43ab3d,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,6,,,#dc6989,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,7,,,#f0801c,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,10,,,#e31f25,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,10T,,,#e31f25,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,12,,,#333d7a,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,13,,,#395a61,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,14,,,#f3bd00,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,15,,,#f3bd00,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,16,,,#80cde4,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,408,,,#cfb29f,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,414,,,#e2786c,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,447T,,,#7d826d,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,448T,,,#bbbaae,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,461,,,#eebf6d,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,501,,,#b07647,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,507,,,#f5a152,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,508,,,#f5a152,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,509,,,#eaa5b8,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,510,,,#f08466,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,512,,,#5e5e95,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,513,,,#808f95,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,600,,,#f5a152,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,605,,,#918db6,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,610,,,#a5a379,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,611,,,#865f9e,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,612,,,#bd92c2,#ffffff,,pill,,14372,Minden C
+wt-mindenbus,613,,,#9eca9b,#ffffff,,pill,,14372,Minden C
 wt-mobiel,1,mobiel-gmbh,8-owl031-1,#009fe0,#ffffff,,rectangle,Q117468577,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,2,mobiel-gmbh,8-owl031-2,#008f36,#ffffff,,rectangle,Q117468882,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,3,mobiel-gmbh,8-owl031-3,#ffed00,#00264f,,rectangle,Q117468931,14366,GBN-moBiel-Stadtbahn
@@ -2508,7 +2568,6 @@ wt-mobiel,55,,5-owl032-55,#a53723,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,56,,5-owl032-56,#fabc00,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,57,,5-owl032-57,#009036,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,58,,5-owl032-58,#009036,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
-wt-mobiel,63,,5-owl032-63,#162883,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,64,,5-owl032-64,#162883,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,87,,5-owl032-87,#004d2d,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,88,,5-owl032-88,#e85a98,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
@@ -2532,6 +2591,10 @@ wt-mobiel,228,,5-owl032-228,#41a62b,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,236,,5-owl032-236,#004178,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,352,,5-owl032-352,#e2001a,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,369,,5-owl032-369,#ac8cbc,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
+wt-oeynhauser,BO 1,,,#379339,#ffffff,,rectangle,,14373,Löhne/Oey D
+wt-oeynhauser,BO 2,,,#379339,#ffffff,,rectangle,,14373,Löhne/Oey D
+wt-oeynhauser,BO 3,,,#379339,#ffffff,,rectangle,,14373,Löhne/Oey D
+wt-oeynhauser,BO 4,,,#379339,#ffffff,,rectangle,,14373,Löhne/Oey D
 wt-padersprinter,N2,,5-vph063-n2,#37ac47,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,N4,,5-vph063-n4,#00b9f2,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,1,,5-vph063-1,#f6c954,#ffffff,,rectangle,,9316,Padersprinter
@@ -2555,12 +2618,38 @@ wt-padersprinter,42,,5-vph063-42,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,43,,5-vph063-43,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,44,,5-vph063-44,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,45,,5-vph063-45,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,ALF46,,9-vph063-46alf,#ffffff,#9b9c9f,#9b9c9f,rectangle,,9316,Padersprinter
+wt-padersprinter,46ALF,,9-vph063-46alf,#ffffff,#9b9c9f,#9b9c9f,rectangle,,9316,Padersprinter
 wt-padersprinter,47,,5-vph063-47,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,48,,5-vph063-48,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,100,,5-vph063-100,#469cd8,#ffffff,,rectangle,,9316,Padersprinter
 wt-rvm,R51,,5-vgm023-r51,#006fb9,#ffffff,,rectangle-rounded-corner,,,
 wt-rvm,S50,,5-vgm020-s50,#c24636,#ffffff,,rectangle-rounded-corner,,,
+wt-sbbs,940AL,,,#0c87c9,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbbs,941,,,#97c21f,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbbs,942,,,#e20c15,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbbs,942AL,,,#e95c30,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbbs,943,,,#005ca9,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbbs,943TB,,,#00a3b4,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbbs,946TB,,,#41b598,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbbs,947,,,#ba7cb3,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbbs,947TB,,,#48318a,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbbs,962AL,,,#11823d,#ffffff,,rectangle,,14362,Bad Salzuflen
+wt-sbgt,201,,,#833c76,#ffffff,,rectangle,,14380,GTStadt
+wt-sbgt,202,,,#e094b7,#ffffff,,rectangle,,14380,GTStadt
+wt-sbgt,203,,,#a3b400,#ffffff,,rectangle,,14380,GTStadt
+wt-sbgt,204,,,#ebbd00,#ffffff,,rectangle,,14380,GTStadt
+wt-sbgt,205,,,#004f78,#ffffff,,rectangle,,14380,GTStadt
+wt-sbgt,206,,,#008231,#ffffff,,rectangle,,14380,GTStadt
+wt-sbgt,207,,,#c59556,#ffffff,,rectangle,,14380,GTStadt
+wt-sbgt,208,,,#c59556,#ffffff,,rectangle,,14380,GTStadt
+wt-sbgt,209,,,#66ca9c,#ffffff,,rectangle,,14380,GTStadt
+wt-sbgt,210,,,#7fc8ec,#ffffff,,rectangle,,14380,GTStadt
+wt-sbgt,211,,,#c2063b,#ffffff,,rectangle,,14380,GTStadt
+wt-sbgt,215,,,#545859,#ffffff,,rectangle,,14380,GTStadt
+wt-sbgt,216,,,#545859,#ffffff,,rectangle,,14380,GTStadt
+wt-sbgt,217,,,#545859,#ffffff,,rectangle,,14380,GTStadt
+wt-sbgt,218,,,#545859,#ffffff,,rectangle,,14380,GTStadt
+wt-sbgt,219,,,#545859,#ffffff,,rectangle,,14380,GTStadt
 wt-swms,1,,,#b6d053,#ffffff,,rectangle,,7813,Stadtwerke Münster
 wt-swms,2,,,#459bd6,#ffffff,,rectangle,,7813,Stadtwerke Münster
 wt-swms,4,,,#91c584,#ffffff,,rectangle,,7813,Stadtwerke Münster
