@@ -2429,12 +2429,33 @@ westfalenbahn,RE 15,westfalenbahn,wfb-re15,#ea9d22,#ffffff,,rectangle,,13291,Wes
 westfalenbahn,RE 60,westfalenbahn,wfb-re60,#00a3de,#ffffff,,rectangle,,13291,WestfalenBahn
 westfalenbahn,RE 70,westfalenbahn,wfb-re70,#005174,#ffffff,,rectangle,,13291,WestfalenBahn
 wt-argegt,N19,,5-owl051-n19,#f7a600,#ffffff,,rectangle,,14378,GTNord
+wt-argegt,43,,,#918e78,#ffffff,,pill,,14378,GTNord
 wt-argegt,48,,5-owl051-48,#39a9dc,#002650,,pill,,14378,GTNord
 wt-argegt,59,,5-owl051-59,#e2001a,#ffffff,,pill,,14378,GTNord
+wt-argegt,60,,,#f18b00,#ffffff,,pill,,14378,GTNord
 wt-argegt,61,,5-owl051-61,#39a9dc,#002650,,pill,,14378,GTNord
 wt-argegt,62,,5-owl051-62,#39a9dc,#002650,,pill,,14378,GTNord
+wt-argegt,63,,,#162883,#ffffff,,pill,,14378,GTNord
+wt-argegt,66,,,#692483,#ffffff,,pill,,14378,GTNord
+wt-argegt,70,,,#e63f0c,#ffffff,,pill,,14377,GTSüdwest
+wt-argegt,71,,,#f59b00,#000000,,pill,,14381,GTNordwest
+wt-argegt,72,,,#008143,#ffffff,,pill,,14381,GTNordwest
+wt-argegt,73,,,#9d1580,#ffffff,,pill,,14379,GTSüdost
+wt-argegt,74,,,#009ee3,#ffffff,,pill,,14381,GTNordwest
+wt-argegt,76,,,#434e4e,#ffffff,,pill,,14377,GTSüdwest
+wt-argegt,77,,,#85bc22,#ffffff,,pill,,14377,GTSüdwest
+wt-argegt,79,,,#1e398e,#ffffff,,pill,,14377,GTSüdwest
+wt-argegt,80.1,,,#b51c27,#ffffff,,pill,,14377,GTSüdwest
 wt-argegt,80.2,,5-owl050-80-2,#e2001a,#ffffff,,pill,,14378,GTNord
+wt-argegt,84,,,#f18b00,#ffffff,,pill,,14379,GTSüdost
+wt-argegt,84.1,,,#ef7c00,#ffffff,,pill,,14379,GTSüdost
+wt-argegt,84.2,,,#009aa3,#ffffff,,pill,,14379,GTSüdost
+wt-argegt,85,,,#e30017,#ffffff,,pill,,14379,GTSüdost
 wt-argegt,88,,5-owl051-88,#e85b98,#002650,,pill,,14378,GTNord
+wt-argegt,89,,,#b61b3d,#ffffff,,pill,,14378,GTNord
+wt-argegt,90,,,#7c7b37,#ffffff,,pill,,14381,GTNordwest
+wt-argegt,160,,,#8a2737,#ffffff,,pill,,14378,GTNord
+wt-argegt,190,,,#925900,#ffffff,,pill,,14381,GTNordwest
 wt-bvo,349,,5-owl021-349,#e20079,#ffffff,,pill,,14357,Lippe1
 wt-bvo,350,,5-owl021-350,#004e2d,#ffffff,,pill,,14357,Lippe1
 wt-bvo,351,,5-owl021-351,#97bf0d,#002650,,pill,,14357,Lippe1
@@ -2461,6 +2482,7 @@ wt-go-on,R50,,5-vph072-r50,#ed2927,#ffffff,,rectangle,,9320,nph-Linienbündel 02
 wt-go-on,R51,,5-vph077-r51,#ed2927,#ffffff,,rectangle,,9320,nph-Linienbündel 02
 wt-go-on,S30,,5-vph080-s30,#0089cf,#ffffff,,rectangle,,9328,nph-Linienbündel 10
 wt-go-on,S40,,5-vph071-s40,#0089cf,#ffffff,,rectangle,,9319,nph-Linienbündel 01
+wt-kottenstedte,374,,,#f4a386,#ffffff,,pill,,7804,Kottenstedte GmbH
 wt-mobiel,1,mobiel-gmbh,8-owl031-1,#009fe0,#ffffff,,rectangle,Q117468577,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,2,mobiel-gmbh,8-owl031-2,#008f36,#ffffff,,rectangle,Q117468882,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,3,mobiel-gmbh,8-owl031-3,#ffed00,#00264f,,rectangle,Q117468931,14366,GBN-moBiel-Stadtbahn
@@ -2508,7 +2530,6 @@ wt-mobiel,55,,5-owl032-55,#a53723,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,56,,5-owl032-56,#fabc00,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,57,,5-owl032-57,#009036,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,58,,5-owl032-58,#009036,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
-wt-mobiel,63,,5-owl032-63,#162883,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,64,,5-owl032-64,#162883,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,87,,5-owl032-87,#004d2d,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,88,,5-owl032-88,#e85a98,#002650,,pill,,14366,GBN-moBiel-Stadtbahn

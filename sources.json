@@ -2757,6 +2757,20 @@
         ]
     },
     {
+        "shortOperatorName": "wt-kottenstedte",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Regionallinien im Kreis Gütersloh",
+                "source": "https://owlverkehr.de/pdf/Liniennetzpl%C3%A4ne/2022_08_01_Netzplan_Regionallinien_KreisGT_Web.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "wt-mobiel",
         "contributors": [
             {
@@ -2867,6 +2881,10 @@
             {
                 "name": "NachtBus-Linie N14: Fahrplan & Linienweg",
                 "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/NachtBus/N14_Fahrplan_und_Linienweg.pdf"
+            },
+            {
+                "name": "Netzplan Regionallinien im Kreis Gütersloh",
+                "source": "https://owlverkehr.de/pdf/Liniennetzpl%C3%A4ne/2022_08_01_Netzplan_Regionallinien_KreisGT_Web.pdf"
             }
         ]
     },
