@@ -92,6 +92,20 @@
         ]
     },
     {
+        "shortOperatorName": "bsvg-braunschweig",
+        "contributors": [
+            {
+                "github": "h1treX"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Braunschweiger Verkehrs-GmbH gültig ab 9. Mai 2025",
+                "source": "https://www.bsvg.net/fileadmin/user_upload/downloads/Fahrplaene/Fahrplaene_2024/Web-BS-SLNP-DINA4-Apr2025.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "ceske-drahy",
         "contributors": [
             {
