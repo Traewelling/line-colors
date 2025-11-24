@@ -2771,6 +2771,20 @@
         ]
     },
     {
+        "shortOperatorName": "wt-mindenbus",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Minden",
+                "source": "https://www.minden.de/dokumente/Flyer_Plakate/neuer-netzplan-2025.pdf?cid=1bvs"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "wt-mobiel",
         "contributors": [
             {
