@@ -1840,11 +1840,11 @@ vrr-dsw21,U45,,,#ed1c24,#ffffff,,rectangle,Q107740406,31,Dortmunder Stadtwerke U
 vrr-dsw21,U46,,,#7264b8,#ffffff,,rectangle,Q107740407,31,Dortmunder Stadtwerke U-Bahn
 vrr-dsw21,U47,,,#80cc28,#ffffff,,rectangle,Q121287774,31,Dortmunder Stadtwerke U-Bahn
 vrr-dsw21,U49,,,#f799be,#ffffff,,rectangle,Q121288291,31,Dortmunder Stadtwerke U-Bahn
-vrr-dsw21,H1,,8-vrr039-hb1,#ec008c,#ffffff,,rectangle,,7633,Dortmunder Stadtwerke Hochbahn
-vrr-dsw21,H2,,8-vrr039-hb2,#ec008c,#ffffff,,rectangle,,7633,Dortmunder Stadtwerke Hochbahn
-vrr-dsw21,H3,,8-vrr039-hb3,#ec008c,#ffffff,,rectangle,,7633,Dortmunder Stadtwerke Hochbahn
-vrr-dsw21,H5,,8-vrr039-hb5,#ec008c,#ffffff,,rectangle,,7633,Dortmunder Stadtwerke Hochbahn
-vrr-dsw21,H7,,8-vrr039-hb7,#ec008c,#ffffff,,rectangle,,7633,Dortmunder Stadtwerke Hochbahn
+vrr-dsw21,HB1,,,#ec008c,#ffffff,,rectangle,,7633,Dortmunder Stadtwerke Hochbahn
+vrr-dsw21,HB2,,,#ec008c,#ffffff,,rectangle,,7633,Dortmunder Stadtwerke Hochbahn
+vrr-dsw21,HB3,,,#ec008c,#ffffff,,rectangle,,7633,Dortmunder Stadtwerke Hochbahn
+vrr-dsw21,HB5,,,#ec008c,#ffffff,,rectangle,,7633,Dortmunder Stadtwerke Hochbahn
+vrr-dsw21,HB7,,,#ec008c,#ffffff,,rectangle,,7633,Dortmunder Stadtwerke Hochbahn
 vrr-dvg,901,,8-vrr020-901,#009adf,#ffffff,,rectangle,,7634,DVG Strab
 vrr-dvg,903,,8-vrr020-903,#009adf,#ffffff,,rectangle,,7634,DVG Strab
 vrr-dvg,U79,,7-vrr020-79,#009a93,#ffffff,,rectangle,,7636,DVG
@@ -2709,7 +2709,7 @@ zvnl-tram,9,,8-naslvt-9,#fecb29,#000000,,rectangle,,8872,Leipziger Verkehrsbetri
 zvnl-tram,10,,8-naslvt-10,#e1001e,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
 zvnl-tram,11,,8-naslvt-11,#e1001e,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
 zvnl-tram,12,,8-naslvt-12,#233b8d,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
-zvnl-tram,14,,8-naslvt-14,#18a0e1,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
+zvnl-tram,14,,8-naslvt-14,#e1001e,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
 zvnl-tram,15,,8-naslvt-15,#233b8d,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
 zvnl-tram,16,,8-naslvt-16,#e1001e,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
 zvnl-tram,50,,8-naslvt-50,#ffffff,#000000,#000000,rectangle,,8872,Leipziger Verkehrsbetriebe
