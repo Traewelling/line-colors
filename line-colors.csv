@@ -49,18 +49,18 @@ brb,RB 83,bayerische-regiobahn,brb-rb83,#ffffff,#bf73bf,#bf73bf,rectangle,,10969
 brb,RE 5,bayerische-regiobahn,brb-re5,#00416d,#ffffff,,rectangle,,10969,Bayerische Regiobahn
 brb,S3,bayerische-regiobahn,4-l8-s3,#2aa335,#ffffff,,pill,,10969,Bayerische Regiobahn
 brb,S4,bayerische-regiobahn,4-l8-s4,#a765a2,#ffffff,,pill,,10969,Bayerische Regiobahn
-bsvg-braunschweig,1,,str-1,#e2000a,#ffffff,,rectangle,Q121253956,12021,Braunschweiger Verkehrs-GmbH
-bsvg-braunschweig,1E,,str-1e,#e2000a,#ffffff,,rectangle,Q121253956,12021,Braunschweiger Verkehrs-GmbH
-bsvg-braunschweig,1E,,bus-1e,#e2000a,#ffffff,,rectangle,Q121253956,12021,Braunschweiger Verkehrs-GmbH
-bsvg-braunschweig,10,,str-10,#e2000a,#ffffff,,rectangle,Q121253957,12021,Braunschweiger Verkehrs-GmbH
-bsvg-braunschweig,2,,str-2,#93c019,#ffffff,,rectangle,Q121253958,12021,Braunschweiger Verkehrs-GmbH
-bsvg-braunschweig,2E,,bus-2e,#93c019,#ffffff,,rectangle,Q121253958,12021,Braunschweiger Verkehrs-GmbH
-bsvg-braunschweig,3,,str-3,#006430,#ffffff,,rectangle,Q121253959,12021,Braunschweiger Verkehrs-GmbH
-bsvg-braunschweig,3E,,bus-3e,#006430,#ffffff,,rectangle,Q121253959,12021,Braunschweiger Verkehrs-GmbH
-bsvg-braunschweig,4,,str-4,#009ee2,#ffffff,,rectangle,Q121253960,12021,Braunschweiger Verkehrs-GmbH
-bsvg-braunschweig,4E,,bus-4e,#009ee2,#ffffff,,rectangle,Q121253960,12021,Braunschweiger Verkehrs-GmbH
-bsvg-braunschweig,5,,str-5,#f39100,#ffffff,,rectangle,Q121253961,12021,Braunschweiger Verkehrs-GmbH
-bsvg-braunschweig,5E,,bus-5e,#f39100,#ffffff,,rectangle,Q121253961,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,1,,,#e2000a,#ffffff,,rectangle,Q121253956,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,1E,,,#e2000a,#ffffff,,rectangle,Q121253956,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,1E,,,#e2000a,#ffffff,,rectangle,Q121253956,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,10,,,#e2000a,#ffffff,,rectangle,Q121253957,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,2,,,#93c019,#ffffff,,rectangle,Q121253958,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,2E,,,#93c019,#ffffff,,rectangle,Q121253958,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,3,,,#006430,#ffffff,,rectangle,Q121253959,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,3E,,,#006430,#ffffff,,rectangle,Q121253959,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,4,,,#009ee2,#ffffff,,rectangle,Q121253960,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,4E,,,#009ee2,#ffffff,,rectangle,Q121253960,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,5,,,#f39100,#ffffff,,rectangle,Q121253961,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,5E,,,#f39100,#ffffff,,rectangle,Q121253961,12021,Braunschweiger Verkehrs-GmbH
 ceske-drahy,RE 25,ceske-drahy,ex-352,#006666,#ffffff,,rectangle,,12634,Ceske Drahy
 ceske-drahy,RE 25,ceske-drahy,ex-354,#006666,#ffffff,,rectangle,,12634,Ceske Drahy
 ceske-drahy,RE 25,ceske-drahy,ex-362,#006666,#ffffff,,rectangle,,12634,Ceske Drahy
