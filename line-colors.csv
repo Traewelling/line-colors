@@ -2469,12 +2469,18 @@ wt-bvo,R70,,5-vph076-r70,#ed2927,#ffffff,,rectangle,,9324,nph-Linienbündel 06
 wt-bvo,R71,,5-vph076-r71,#ed2927,#ffffff,,rectangle,,9324,nph-Linienbündel 06
 wt-bvo,R72,,5-vph076-r72,#ed2927,#ffffff,,rectangle,,9324,nph-Linienbündel 06
 wt-bvo,R81,,5-vph077-r81,#ed2927,#ffffff,,rectangle,,9325,nph-Linienbündel 07
+wt-bvo,411,,,#36b64b,#ffffff,,rectangle,,9324,nph-Linienbündel 06
+wt-bvo,432,,,#36b64b,#ffffff,,rectangle,,9328,nph-Linienbündel 10
+wt-bvo,470,,,#36b64b,#ffffff,,rectangle,,9324,nph-Linienbündel 06
+wt-bvo,471,,,#36b64b,#ffffff,,rectangle,,9324,nph-Linienbündel 06
 wt-bvo,480,,5-vph077-480,#36b64b,#ffffff,,rectangle,,9325,nph-Linienbündel 07
 wt-bvo,481,,5-vph077-481,#36b64b,#ffffff,,rectangle,,9325,nph-Linienbündel 07
 wt-bvo,485,,5-vph077-485,#36b64b,#ffffff,,rectangle,,9325,nph-Linienbündel 07
 wt-bvo,487,,5-vph077-487,#36b64b,#ffffff,,rectangle,,7812,Busverkehr Ruhr-Sieg
 wt-bvo,488,,5-vph077-488,#36b64b,#ffffff,,rectangle,,7812,Busverkehr Ruhr-Sieg
 wt-bvo,489,,5-vph077-489,#36b64b,#ffffff,,rectangle,,7812,Busverkehr Ruhr-Sieg
+wt-go-on,420,,,#36b64b,#ffffff,,rectangle,,9320,nph-Linienbündel 02
+wt-go-on,456,,,#36b64b,#ffffff,,rectangle,,9320,nph-Linienbündel 02
 wt-go-on,R20,,5-vph072-r20,#ed2927,#ffffff,,rectangle,,9320,nph-Linienbündel 02
 wt-go-on,R41,,5-vph071-r41,#ed2927,#ffffff,,rectangle,,9319,nph-Linienbündel 01
 wt-go-on,R45,,5-vph071-r45,#ed2927,#ffffff,,rectangle,,9319,nph-Linienbündel 01
@@ -2612,7 +2618,7 @@ wt-padersprinter,42,,5-vph063-42,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,43,,5-vph063-43,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,44,,5-vph063-44,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,45,,5-vph063-45,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
-wt-padersprinter,ALF46,,9-vph063-46alf,#ffffff,#9b9c9f,#9b9c9f,rectangle,,9316,Padersprinter
+wt-padersprinter,46ALF,,9-vph063-46alf,#ffffff,#9b9c9f,#9b9c9f,rectangle,,9316,Padersprinter
 wt-padersprinter,47,,5-vph063-47,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,48,,5-vph063-48,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,100,,5-vph063-100,#469cd8,#ffffff,,rectangle,,9316,Padersprinter
