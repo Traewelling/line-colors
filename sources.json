@@ -1828,6 +1828,20 @@
         ]
     },
     {
+        "shortOperatorName": "vdl",
+        "contributors": [
+            {
+                "github": "SpielenmitLili"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Plan Schématique 2025-06-01\n",
+                "source": "https://www.vdl.lu/sites/default/files/media/ni/document/Plan%20Sch%C3%A9matique%202025-06-01.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vgi-brb",
         "contributors": [
             {
