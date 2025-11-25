@@ -92,6 +92,20 @@
         ]
     },
     {
+        "shortOperatorName": "bsvg-braunschweig",
+        "contributors": [
+            {
+                "github": "h1treX"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Braunschweiger Verkehrs-GmbH gültig ab 9. Mai 2025",
+                "source": "https://www.bsvg.net/fileadmin/user_upload/downloads/Fahrplaene/Fahrplaene_2024/Web-BS-SLNP-DINA4-Apr2025.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "ceske-drahy",
         "contributors": [
             {
@@ -802,6 +816,20 @@
         ]
     },
     {
+        "shortOperatorName": "mvv-mvg-bus",
+        "contributors": [
+            {
+                "github": "coffeeandtrains"
+            }
+        ],
+        "sources": [
+            {
+                "name": "MVV Gesamtfahrplan",
+                "source": "https://www.mvg.de/dam/jcr:6ec4cb8c-46c8-4f87-90ec-b1578c56b0df/MVV-Gesamtfahrplan_2025_241222_web.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mvv-mvg-tram",
         "contributors": [
             {
@@ -832,9 +860,16 @@
             },
             {
                 "github": "sebiIO"
+            },
+            {
+                "github": "coffeeandtrains"
             }
         ],
         "sources": [
+            {
+                "name": "MVV Gesamtfahrplan 2025",
+                "source": "https://www.mvg.de/dam/jcr:6ec4cb8c-46c8-4f87-90ec-b1578c56b0df/MVV-Gesamtfahrplan_2025_241222_web.pdf"
+            },
             {
                 "name": "MVV Netzplan Gesamtnetz 2024",
                 "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2024/2024_layout_MVV_Regio_1_GESAMT_SCR.pdf"
@@ -1807,6 +1842,20 @@
         ]
     },
     {
+        "shortOperatorName": "vdl",
+        "contributors": [
+            {
+                "github": "SpielenmitLili"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Plan Schématique 2025-06-01",
+                "source": "https://www.vdl.lu/sites/default/files/media/ni/document/Plan%20Sch%C3%A9matique%202025-06-01.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vgi-brb",
         "contributors": [
             {
@@ -2350,6 +2399,23 @@
         ]
     },
     {
+        "shortOperatorName": "vrs-kvb",
+        "contributors": [
+            {
+                "github": "chloe-haj"
+            },
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVB Busse in Köln 2024 - gesamt",
+                "source": "https://www.kvb.koeln/fahrtinfo/liniennetzplaene.html?INCLUDEMODUL=dokumente_einzeln2.mod/inc.download.php&downDokument=5078"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrs-stadtbahn",
         "contributors": [
             {
@@ -2363,6 +2429,23 @@
             {
                 "name": "Liniennetz VRS",
                 "source": "https://www.vrs.de/fahren/liniennetz/liniennetz-interaktiv"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrs-swb",
+        "contributors": [
+            {
+                "github": "chloe-haj"
+            },
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "SWB Liniennetz Busse linksrheinisch 2024",
+                "source": "https://www.swb-busundbahn.de/fileadmin/fahrplandateien/liniennetzplaene/SLNP_Bonn_LiRhein.pdf"
             }
         ]
     },
