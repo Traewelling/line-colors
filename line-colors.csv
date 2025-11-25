@@ -2329,28 +2329,7 @@ vrs-swb,636,,,#af3031,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,637,,,#e86741,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,638,,,#e86741,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,639,,,#a65c41,#ffffff,,rectangle,,7971,Stadtwerke Bonn
-vrs-bus,SB60,,,#859268,#ffffff,,rectangle,,7971,Stadtwerke Bonn
-vrs-stadtbahn,1,,8-vrs001-1,#e1081c,#ffffff,,rectangle-rounded-corner,Q63442516,7969,Kölner VB
-vrs-stadtbahn,3,,8-vrs001-3,#f29ec2,#ffffff,,rectangle-rounded-corner,Q63442521,7969,Kölner VB
-vrs-stadtbahn,4,,8-vrs001-4,#eb72a5,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
-vrs-stadtbahn,5,,8-vrs001-5,#a69dc8,#ffffff,,rectangle-rounded-corner,Q63442534,7969,Kölner VB
-vrs-stadtbahn,7,,8-vrs001-7,#f08d52,#ffffff,,rectangle-rounded-corner,Q63442539,7969,Kölner VB
-vrs-stadtbahn,9,,8-vrs001-9,#f09086,#ffffff,,rectangle-rounded-corner,Q63442544,7969,Kölner VB
-vrs-stadtbahn,12,,8-vrs001-12,#98c01e,#ffffff,,rectangle-rounded-corner,Q63442549,7969,Kölner VB
-vrs-stadtbahn,13,,8-vrs001-13,#aa8567,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
-vrs-stadtbahn,14,,8-vrs001-14,#b32499,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
-vrs-stadtbahn,15,,8-vrs001-15,#5aad31,#ffffff,,rectangle-rounded-corner,Q63442560,7969,Kölner VB
-vrs-stadtbahn,16,,8-vrs001-16,#07ada5,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
-vrs-stadtbahn,17,,8-vrs001-17,#1e93d1,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
-vrs-stadtbahn,18,,8-vrs001-18,#85d1f5,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
-vrs-stadtbahn,19,,8-vrs001-19,#28523e,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
-vrs-stadtbahn,61,stadtwerke-bonn,8-s3-61,#9ab831,#ffffff,,rectangle-rounded-corner,Q20035840,7971,Stadtwerke Bonn
-vrs-stadtbahn,62,stadtwerke-bonn,8-s3-62,#65a53b,#ffffff,,rectangle-rounded-corner,Q20035841,7971,Stadtwerke Bonn
-vrs-stadtbahn,63,stadtwerke-bonn,8-s3-63,#8bccf3,#ffffff,,rectangle-rounded-corner,Q20035835,7971,Stadtwerke Bonn
-vrs-stadtbahn,65,stadtwerke-bonn,8-s3-65,#c6cc2a,#ffffff,,rectangle-rounded-corner,Q20035842,7971,Stadtwerke Bonn
-vrs-stadtbahn,66,stadtwerke-bonn,8-s3-66,#d4417d,#ffffff,,rectangle-rounded-corner,Q20035836,7971,Stadtwerke Bonn
-vrs-stadtbahn,67,stadtwerke-bonn,8-s3-67,#e7a8c4,#ffffff,,rectangle-rounded-corner,Q20035837,7971,Stadtwerke Bonn
-vrs-stadtbahn,68,stadtwerke-bonn,8-s3-68,#cbaece,#ffffff,,rectangle-rounded-corner,Q20035838,7971,Stadtwerke Bonn
+vrs-swb,SB60,,,#859268,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vst-oebb,S1,osterreichische-bundesbahnen,4-81-1-1714993-5236532,#0fa14a,#ffffff,,rectangle-rounded-corner,,,
 vst-oebb,S3,osterreichische-bundesbahnen,4-81-3-1714993-5236532,#ed028c,#ffffff,,rectangle-rounded-corner,,,
 vst-oebb,S5,osterreichische-bundesbahnen,4-81-5-1714993-5236532,#892890,#ffffff,,rectangle-rounded-corner,,,
