@@ -1859,75 +1859,75 @@ vrn-rheinpfalzbus,593,rheinpfalzbus,5-rbprpb-593,#7f9e6b,#ffffff,#5e6e6f,pill,,1
 vrn-rheinpfalzbus,594,rheinpfalzbus,5-rbprpb-594,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
 vrn-rheinpfalzbus,596,rheinpfalzbus,5-rbprpb-596,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
 vrn-rheinpfalzbus,598,rheinpfalzbus,5-rbprpb-598,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-rnv-bus,5,rhein-neckar-verkehr-gmbh-oberrheinische-eisenbahn,5-vrnoeg-5-967040-5496598,#00965e,#ffffff,,pill,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-bus,20,,5-vrn019-20,#e07500,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,20A,,5-vrn019-20a,#e07500,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,27,,5-vrn019-21,#91c46d,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,28,,5-vrn019-28,#b09fcd,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,28A,,5-vrn019-28a,#b09fcd,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,29,,5-vrn019-29,#00bbef,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,30,,5-vrn019-30,#b2a0ce,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,31,,5-vrn019-31,#4794d1,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,32,,5-vrn019-32,#580600,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,33,,5-vrn019-33,#e3000b,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,34,,5-vrn019-34,#139cd9,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,35,,5-vrn019-35,#946b25,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,36,,5-vrn019-36,#008f88,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,36A,,5-vrn019-36a,#008f88,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,37,,5-vrn019-37,#91c46d,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,38,,5-vrn019-38,#0096b5,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,39,,5-vrn019-39,#4c2183,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,39A,,5-vrn019-39a,#4c2183,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,40,,5-vrn017-40,#4c2182,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,42,,5-vrn017-42,#a1c3d5,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,43,,5-vrn017-43,#4896d2,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,44,,5-vrn017-44,#009992,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,45,,5-vrn017-45,#0068b4,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,46,,5-vrn017-46,#a89ab1,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,47,,5-vrn017-47,#82d0f5,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,48,,5-vrn017-48,#009ee3,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,49,,5-vrn017-49,#ffffff,#00963e,#00963e,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,50,,5-vrn017-50,#91c46d,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,51,,5-vrn017-51,#0068b4,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,52,,5-vrn017-52,#a89ab1,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,53,,5-vrn017-53,#00bbee,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,54,,5-vrn017-54,#b19fcd,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,55,,5-vrn017-55,#4c2182,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,56,,5-vrn017-56,#00bbee,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,57,,5-vrn017-57,#5ac5f2,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,58,,5-vrn017-58,#a1c3d5,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,59,,5-vrn017-59,#a89ab1,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,60,,5-vrn017-60,#4c2182,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,61,,5-vrn017-61,#4896d2,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,62,,5-vrn017-62,#a89ab1,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,63,,5-vrn017-63,#a1c3d5,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,64,,5-vrn017-64,#0090a5,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,65,,5-vrn017-65,#8ac5bd,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,66,,5-vrn017-66,#e5007c,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-bus,67,,5-vrn017-67,#e17500,#ffffff,,pill,,7913,RNV Mannheim (Bus)
-vrn-rnv-tram,1,rhein-neckar-verkehr-gmbh,rnv-1,#f39b9a,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-tram,2,rhein-neckar-verkehr-gmbh,rnv-2,#b00044,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-tram,3,rhein-neckar-verkehr-gmbh,rnv-3,#d5ad00,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-tram,4,rhein-neckar-verkehr-gmbh,rnv-4,#e3000b,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
-vrn-rnv-tram,4A,rhein-neckar-verkehr-gmbh,rnv-4a,#e3000b,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
-vrn-rnv-tram,5,rhein-neckar-verkehr-gmbh,rnv-5,#00965e,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-tram,5A,rhein-neckar-verkehr-gmbh,nnv-5a,#00965e,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-tram,6,rhein-neckar-verkehr-gmbh,rnv-6,#956b25,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-tram,6A,rhein-neckar-verkehr-gmbh,rnv-6a,#956b25,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-tram,6E,rhein-neckar-verkehr-gmbh,rnv-e,#956b25,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-tram,7,rhein-neckar-verkehr-gmbh,rnv-7,#ffcc00,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-tram,8,rhein-neckar-verkehr-gmbh,rnv-8,#e17500,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-tram,9,rhein-neckar-verkehr-gmbh,rnv-9,#93c23b,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
-vrn-rnv-tram,10,rhein-neckar-verkehr-gmbh,rnv-10,#a60f80,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
-vrn-rnv-tram,15,rhein-neckar-verkehr-gmbh,rnv-15,#f7ab63,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
-vrn-rnv-tram,16,rhein-neckar-verkehr-gmbh,rnv-16,#5e6baf,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
-vrn-rnv-tram,21,rhein-neckar-verkehr-gmbh,rnv-21,#e3000b,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
-vrn-rnv-tram,22,rhein-neckar-verkehr-gmbh,rnv-22,#fdc300,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
-vrn-rnv-tram,23,rhein-neckar-verkehr-gmbh,rnv-23,#e48e00,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
-vrn-rnv-tram,24,rhein-neckar-verkehr-gmbh,rnv-24,#8c1d75,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
-vrn-rnv-tram,25,rhein-neckar-verkehr-gmbh,rnv-25,#93c23b,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
-vrn-rnv-tram,26,rhein-neckar-verkehr-gmbh,rnv-26,#f39b9a,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
-vrn-rnv-tram,X,rhein-neckar-verkehr-gmbh,rnv-4x,#9d9d9d,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
+vrn-rnv-bus,RNV 5,,,#00965e,#ffffff,,pill,,7911,RNV HD-MA-Weinheim (Strab)
+vrn-rnv-bus,RNV 20,,,#e07500,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 20A,,,#e07500,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 27,,,#91c46d,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 28,,,#b09fcd,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 28A,,,#b09fcd,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 29,,,#00bbef,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 30,,,#b2a0ce,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 31,,,#4794d1,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 32,,,#580600,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 33,,,#e3000b,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 34,,,#139cd9,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 35,,,#946b25,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 36,,,#008f88,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 36A,,,#008f88,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 37,,,#91c46d,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 38,,,#0096b5,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 39,,,#4c2183,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 39A,,,#4c2183,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 40,,,#4c2182,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 42,,,#a1c3d5,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 43,,,#4896d2,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 44,,,#009992,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 45,,,#0068b4,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 46,,,#a89ab1,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 47,,,#82d0f5,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 48,,,#009ee3,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 49,,,#ffffff,#00963e,#00963e,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 50,,,#91c46d,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 51,,,#0068b4,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 52,,,#a89ab1,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 53,,,#00bbee,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 54,,,#b19fcd,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 55,,,#4c2182,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 56,,,#00bbee,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 57,,,#5ac5f2,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 58,,,#a1c3d5,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 59,,,#a89ab1,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 60,,,#4c2182,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 61,,,#4896d2,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 62,,,#a89ab1,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 63,,,#a1c3d5,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 64,,,#0090a5,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 65,,,#8ac5bd,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 66,,,#e5007c,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-bus,RNV 67,,,#e17500,#ffffff,,pill,,7913,RNV Mannheim (Bus)
+vrn-rnv-tram,RNV 1,,,#f39b9a,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
+vrn-rnv-tram,RNV 2,,,#b00044,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
+vrn-rnv-tram,RNV 3,,,#d5ad00,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
+vrn-rnv-tram,RNV 4,,,#e3000b,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
+vrn-rnv-tram,RNV 4A,,,#e3000b,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
+vrn-rnv-tram,RNV 5,,,#00965e,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
+vrn-rnv-tram,RNV 5A,,,#00965e,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
+vrn-rnv-tram,RNV 6,,,#956b25,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
+vrn-rnv-tram,RNV 6A,,,#956b25,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
+vrn-rnv-tram,RNV 6E,,,#956b25,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
+vrn-rnv-tram,RNV 7,,,#ffcc00,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
+vrn-rnv-tram,RNV 8,,,#e17500,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
+vrn-rnv-tram,RNV 9,,,#93c23b,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
+vrn-rnv-tram,RNV 10,,,#a60f80,#ffffff,,rectangle,,7911,RNV HD-MA-Weinheim (Strab)
+vrn-rnv-tram,RNV 15,,,#f7ab63,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
+vrn-rnv-tram,RNV 16,,,#5e6baf,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
+vrn-rnv-tram,RNV 21,,,#e3000b,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
+vrn-rnv-tram,RNV 22,,,#fdc300,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
+vrn-rnv-tram,RNV 23,,,#e48e00,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
+vrn-rnv-tram,RNV 24,,,#8c1d75,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
+vrn-rnv-tram,RNV 25,,,#93c23b,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
+vrn-rnv-tram,RNV 26,,,#f39b9a,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
+vrn-rnv-tram,RNV X,,,#9d9d9d,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
 vrn-sbahn-rn,S1,db-regio-ag-mitte,4-801539-1,#ed1c24,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
 vrn-sbahn-rn,S1X,db-regio-ag-mitte,4-801539-1x,#ed1c24,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
 vrn-sbahn-rn,S2,db-regio-ag-mitte,4-801539-2,#1575c5,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
@@ -2011,115 +2011,115 @@ vrr-hst,540,,5-vrr050-540,#364a9c,#ffffff,,rectangle-rounded-corner,,7662,Hagene
 vrr-hst,541,,5-vrr050-541,#e63758,#ffffff,,rectangle-rounded-corner,,7662,Hagener Straßenbahn AG Bus
 vrr-hst,542,,5-vrr050-542,#71c837,#ffffff,,rectangle-rounded-corner,,7662,Hagener Straßenbahn AG Bus
 vrr-hst,543,,5-vrr050-543,#f49b00,#ffffff,,rectangle-rounded-corner,,7662,Hagener Straßenbahn AG Bus
-vrr-rheinbahn,U70,,7-vrr070-70,#71b2d0,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
-vrr-rheinbahn,U71,,7-vrr070-71,#59c6f2,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
-vrr-rheinbahn,U72,,7-vrr070-72,#25b8c5,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
-vrr-rheinbahn,U73,,7-vrr070-73,#4465ad,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
-vrr-rheinbahn,U75,,7-vrr070-75,#008fc2,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
-vrr-rheinbahn,U76,,7-vrr070-76,#0063af,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
-vrr-rheinbahn,U77,,7-vrr070-77,#7197cf,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
-vrr-rheinbahn,U78,,7-vrr070-78,#009adf,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
-vrr-rheinbahn,U79,,7-vrr070-79,#009a93,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
-vrr-rheinbahn,U83,,7-vrr070-83,#1d3a8f,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
-vrr-rheinbahn,701,,8-vrr071-701,#f07d00,#ffffff,,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,704,,8-vrr071-704,#bd1616,#ffffff,,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,705,,8-vrr071-705,#c0087f,#ffffff,,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,706,,8-vrr071-706,#e30613,#ffffff,,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,707,,8-vrr071-707,#7e1974,#ffffff,,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,708,,8-vrr071-708,#f29eb7,#ffffff,,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,709,,8-vrr071-709,#e94190,#ffffff,,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,721,,5-vrr072-721,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,722,,5-vrr072-722,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,723,,5-vrr072-723,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,724,,5-vrr072-724,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,725,,5-vrr072-725,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,726,,5-vrr072-726,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,727,,5-vrr072-727,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,728,,5-vrr072-728,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,729,,5-vrr072-729,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,730,,5-vrr072-730,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,731,,5-vrr072-731,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,732,,5-vrr072-732,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,733,,5-vrr072-733,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,734,,5-vrr072-734,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,735,,5-vrr072-735,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,736,,5-vrr072-736,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,737,,5-vrr072-737,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,738,,5-vrr072-738,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,741,,5-vrr072-741,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,742,,5-vrr072-742,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,743,,5-vrr072-743,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,745,,5-vrr072-745,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,746,,5-vrr072-746,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,747,,5-vrr072-747,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,748,,5-vrr072-748,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,749,,5-vrr072-749,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,751,,5-vrr072-751,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,752,,5-vrr072-752,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,753,,5-vrr072-753,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,754,,5-vrr072-754,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,756,,5-vrr072-756,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,757,,5-vrr072-757,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,758,,5-vrr072-758,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,759,,5-vrr072-759,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,760,,5-vrr072-760,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,761,,5-vrr072-761,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,770,,5-vrr072-770,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,771,,5-vrr072-771,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,772,,5-vrr072-772,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,773,,5-vrr072-773,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,774,,5-vrr072-774,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,776,,5-vrr072-776,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,777,,5-vrr072-777,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,778,,5-vrr072-778,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,779,,5-vrr072-779,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,780,,5-vrr072-780,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,781,,5-vrr072-781,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,782,,5-vrr072-782,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,783,,5-vrr072-783,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,784,,5-vrr072-784,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,785,,5-vrr072-785,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,786,,5-vrr072-786,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,787,,5-vrr072-787,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,788,,5-vrr072-788,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,789,,5-vrr072-789,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,790,,5-vrr072-790,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,791,,5-vrr072-791,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,792,,5-vrr072-792,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,805,,5-vrr072-805,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,807,,5-vrr072-807,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,810,,5-vrr072-810,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,812,,5-vrr072-812,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,815,,5-vrr072-815,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,817,,5-vrr072-817,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,827,,5-vrr072-827,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,828,,5-vrr072-828,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,829,,5-vrr072-829,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,830,,5-vrr072-830,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,831,,5-vrr072-831,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,832,,5-vrr072-832,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,833,,5-vrr072-833,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,834,,5-vrr072-834,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,835,,5-vrr072-835,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,836,,5-vrr072-836,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,839,,5-vrr072-839,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,863,,5-vrr072-863,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,891,,5-vrr072-891,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,896,,5-vrr072-896,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,M1,,5-vrr073-m1,#3bb954,#ffffff,,rectangle,,12211,Rheinbahn MetroBus
-vrr-rheinbahn,M2,,5-vrr073-m2,#3bb954,#ffffff,,rectangle,Q130545061,12211,Rheinbahn MetroBus
-vrr-rheinbahn,M3,,5-vrr073-m3,#3bb954,#ffffff,,rectangle,,12211,Rheinbahn MetroBus
-vrr-rheinbahn,SB19,,5-vrr072-sb19,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,SB50,,5-vrr072-sb50,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,SB51,,5-vrr072-sb51,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,SB52,,5-vrr072-sb52,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,SB53,,5-vrr072-sb53,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,SB55,,5-vrr072-sb55,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,SB57,,5-vrr072-sb57,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,SB59,,5-vrr072-sb59,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,SB68,,5-vrr072-sb68,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,SB79,,5-vrr072-sb79,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,SkyT,,8-vrr077-skyt,#53b6ed,#ffffff,,rectangle,Q17996837,7766,Rheinbahn SkyTrain
+vrr-rheinbahn,U70,,,#71b2d0,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
+vrr-rheinbahn,U71,,,#59c6f2,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
+vrr-rheinbahn,U72,,,#25b8c5,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
+vrr-rheinbahn,U73,,,#4465ad,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
+vrr-rheinbahn,U75,,,#008fc2,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
+vrr-rheinbahn,U76,,,#0063af,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
+vrr-rheinbahn,U77,,,#7197cf,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
+vrr-rheinbahn,U78,,,#009adf,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
+vrr-rheinbahn,U79,,,#009a93,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
+vrr-rheinbahn,U83,,,#1d3a8f,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
+vrr-rheinbahn,701,,,#f07d00,#ffffff,,rectangle,,7763,Rheinbahn Strab
+vrr-rheinbahn,704,,,#bd1616,#ffffff,,rectangle,,7763,Rheinbahn Strab
+vrr-rheinbahn,705,,,#c0087f,#ffffff,,rectangle,,7763,Rheinbahn Strab
+vrr-rheinbahn,706,,,#e30613,#ffffff,,rectangle,,7763,Rheinbahn Strab
+vrr-rheinbahn,707,,,#7e1974,#ffffff,,rectangle,,7763,Rheinbahn Strab
+vrr-rheinbahn,708,,,#f29eb7,#ffffff,,rectangle,,7763,Rheinbahn Strab
+vrr-rheinbahn,709,,,#e94190,#ffffff,,rectangle,,7763,Rheinbahn Strab
+vrr-rheinbahn,721,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,722,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,723,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,724,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,725,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,726,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,727,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,728,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,729,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,730,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,731,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,732,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,733,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,734,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,735,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,736,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,737,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,738,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,741,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,742,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,743,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,745,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,746,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,747,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,748,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,749,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,751,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,752,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,753,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,754,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,756,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,757,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,758,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,759,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,760,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,761,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,770,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,771,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,772,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,773,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,774,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,776,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,777,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,778,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,779,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,780,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,781,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,782,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,783,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,784,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,785,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,786,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,787,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,788,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,789,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,790,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,791,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,792,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,805,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,807,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,810,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,812,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,815,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,817,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,827,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,828,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,829,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,830,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,831,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,832,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,833,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,834,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,835,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,836,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,839,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,863,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,891,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,896,,,#f1db68,#696969,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,M1,,,#3bb954,#ffffff,,rectangle,,12211,Rheinbahn MetroBus
+vrr-rheinbahn,M2,,,#3bb954,#ffffff,,rectangle,Q130545061,12211,Rheinbahn MetroBus
+vrr-rheinbahn,M3,,,#3bb954,#ffffff,,rectangle,,12211,Rheinbahn MetroBus
+vrr-rheinbahn,SB19,,,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,SB50,,,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,SB51,,,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,SB52,,,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,SB53,,,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,SB55,,,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,SB57,,,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,SB59,,,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,SB68,,,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,SB79,,,#40909c,#ffffff,#40909c,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,SkyT,,,#53b6ed,#ffffff,,rectangle,Q17996837,7766,Rheinbahn SkyTrain
 vrr-ruhrbahn,U11,,7-vrr010-11,#313390,#ffffff,,rectangle,,7638,"Essener Verkehrs AG, U-Bahn"
 vrr-ruhrbahn,U17,,7-vrr010-17,#6bb7e5,#ffffff,,rectangle,,7638,"Essener Verkehrs AG, U-Bahn"
 vrr-ruhrbahn,U18,,7-vrr013-18,#1187d2,#ffffff,,rectangle,,7638,"Essener Verkehrs AG, U-Bahn"
