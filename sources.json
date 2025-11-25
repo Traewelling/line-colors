@@ -802,6 +802,20 @@
         ]
     },
     {
+        "shortOperatorName": "mvv-mvg-bus",
+        "contributors": [
+            {
+                "github": "coffeeandtrains"
+            }
+        ],
+        "sources": [
+            {
+                "name": "MVV Gesamtfahrplan",
+                "source": "https://www.mvg.de/dam/jcr:6ec4cb8c-46c8-4f87-90ec-b1578c56b0df/MVV-Gesamtfahrplan_2025_241222_web.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mvv-mvg-tram",
         "contributors": [
             {
@@ -832,9 +846,16 @@
             },
             {
                 "github": "sebiIO"
+            },
+            {
+                "github": "coffeeandtrains"
             }
         ],
         "sources": [
+            {
+                "name": "MVV Gesamtfahrplan 2025",
+                "source": "https://www.mvg.de/dam/jcr:6ec4cb8c-46c8-4f87-90ec-b1578c56b0df/MVV-Gesamtfahrplan_2025_241222_web.pdf"
+            },
             {
                 "name": "MVV Netzplan Gesamtnetz 2024",
                 "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2024/2024_layout_MVV_Regio_1_GESAMT_SCR.pdf"
@@ -2757,6 +2778,34 @@
         ]
     },
     {
+        "shortOperatorName": "wt-kottenstedte",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Regionallinien im Kreis Gütersloh",
+                "source": "https://owlverkehr.de/pdf/Liniennetzpl%C3%A4ne/2022_08_01_Netzplan_Regionallinien_KreisGT_Web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wt-mindenbus",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Minden",
+                "source": "https://www.minden.de/dokumente/Flyer_Plakate/neuer-netzplan-2025.pdf?cid=1bvs"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "wt-mobiel",
         "contributors": [
             {
@@ -2778,6 +2827,20 @@
             {
                 "name": "NachtBus-Linie N14: Fahrplan & Linienweg",
                 "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/NachtBus/N14_Fahrplan_und_Linienweg.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wt-oeynhauser",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "BO1 (428)",
+                "source": "https://www.oeynhauser.de/wp-content/uploads/2020/07/MHV_Pocketfolder_BO1_screen.pdf"
             }
         ]
     },
@@ -2813,6 +2876,34 @@
             {
                 "name": "Netzplan Steinfurt Süd",
                 "source": "https://www.rvm-online.de/fileadmin/startseite_rvm/fahrgast/fahrt_planen/liniennetzplan/steinfurt_sued_liniennetzplan_2021.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wt-sbbs",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Bad Salzuflen",
+                "source": "https://owlverkehr.de/pdf/Liniennetzpl%C3%A4ne/Bad_Salzuflen_14.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wt-sbgt",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Stadtbus Gütersloh",
+                "source": "https://www.stadtbus-gt.de/multi-wGlobal/wGlobal/scripts/accessDocument.php?forceDownload=1&document=/stadtbus-wAssets/docs/liniennetz/Liniennetzplan_Stadtbus_Guetersloh.pdf"
             }
         ]
     },
@@ -2853,6 +2944,10 @@
             {
                 "name": "NachtBus-Linie N14: Fahrplan & Linienweg",
                 "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/NachtBus/N14_Fahrplan_und_Linienweg.pdf"
+            },
+            {
+                "name": "Netzplan Regionallinien im Kreis Gütersloh",
+                "source": "https://owlverkehr.de/pdf/Liniennetzpl%C3%A4ne/2022_08_01_Netzplan_Regionallinien_KreisGT_Web.pdf"
             }
         ]
     },
