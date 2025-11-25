@@ -816,6 +816,20 @@
         ]
     },
     {
+        "shortOperatorName": "mvv-mvg-bus",
+        "contributors": [
+            {
+                "github": "coffeeandtrains"
+            }
+        ],
+        "sources": [
+            {
+                "name": "MVV Gesamtfahrplan",
+                "source": "https://www.mvg.de/dam/jcr:6ec4cb8c-46c8-4f87-90ec-b1578c56b0df/MVV-Gesamtfahrplan_2025_241222_web.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mvv-mvg-tram",
         "contributors": [
             {
@@ -846,9 +860,16 @@
             },
             {
                 "github": "sebiIO"
+            },
+            {
+                "github": "coffeeandtrains"
             }
         ],
         "sources": [
+            {
+                "name": "MVV Gesamtfahrplan 2025",
+                "source": "https://www.mvg.de/dam/jcr:6ec4cb8c-46c8-4f87-90ec-b1578c56b0df/MVV-Gesamtfahrplan_2025_241222_web.pdf"
+            },
             {
                 "name": "MVV Netzplan Gesamtnetz 2024",
                 "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2024/2024_layout_MVV_Regio_1_GESAMT_SCR.pdf"
