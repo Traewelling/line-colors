@@ -1645,6 +1645,38 @@ vbn-nwb-regio-s-bahn,RS 3,nordwestbahn,4-n1-rs3,#93bf30,#ffffff,,rectangle-round
 vbn-nwb-regio-s-bahn,RS 30,nordwestbahn,4-n1-rs30,#4faf3b,#ffffff,,rectangle-rounded-corner,,12638,NordWestBahn
 vbn-nwb-regio-s-bahn,RS 4,nordwestbahn,4-n1-rs4,#e2000b,#ffffff,,rectangle-rounded-corner,,12638,NordWestBahn
 vbn-nwb-regio-s-bahn,RS 6,nordwestbahn,4-n1-rs6,#899bb9,#ffffff,,rectangle-rounded-corner,,12638,NordWestBahn
+vdl,T1,,,#622e93,#ffffff,,rectangle,111,Luxtram
+vdl,2,,,#a9ce26,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,3,,,#a9ce26,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,4,,,#4eb6d0,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,5,,,#a9ce26,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,6,,,#4eb6d0,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,7,,,#4eb6d0,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,8,,,#4eb6d0,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,9,,,#a9ce26,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,10,,,#4eb6d0,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,11,,,#dd198c,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,12,,,#dd198c,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,13,,,#4eb6d0,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,14,,,#4eb6d0,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,15,,,#dd198c,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,16,,,#dd198c,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,17,,,#ea9500,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,18,,,#4eb6d0,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,19,,,#b3a896,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,20,,,#b3a896,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,21,,,#b3a896,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,22,,,#4eb6d0,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,23,,,#eba4c8,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,24,,,#eba4c8,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,25,,,#eba4c8,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,26,,,#a0d4db,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,27,,,#c5b2d6,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,29,,,#a0d4db,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,30,,,#a0d4db,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,31,,,#b3a896,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,32,,,#b3a896,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
+vdl,33,,,#a9ce26,#ffffff,,rectangle,6,Ville de Luxembourg - Service Autobus
 vgn-db-sbn,S 1,db-regio-ag-bayern,4-800721-1,#92292e,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 vgn-db-sbn,S 2,db-regio-ag-bayern,4-800721-2,#4dbd38,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 vgn-db-sbn,S 3,db-regio-ag-bayern,4-800721-3,#f1471d,#ffffff,,rectangle,,10446,DB Regio AG Bayern
