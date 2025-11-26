@@ -240,7 +240,7 @@ db-regio-stuttgart,MEX 17a,,,#561d6f,#ffffff,,rectangle,Q131584401,14172,SWEG Ba
 db-regio-stuttgart,MEX 17c,,,#ec2933,#ffffff,,rectangle,Q131584403,14172,SWEG Bahn Stuttgart
 db-regio-stuttgart,MEX 18,,,#009c48,#ffffff,,rectangle,Q131584398,14172,SWEG Bahn Stuttgart
 db-regio-stuttgart,RB 10a,,,#014f9f,#ffffff,,rectangle,Q131587496,14172,SWEG Bahn Stuttgart
-db-regio-stuttgart,RB 17,,,,#561d6f,#ffffff,,rectangle,Q131584392,14172,SWEG Bahn Stuttgart
+db-regio-stuttgart,RB 17,,,#561d6f,#ffffff,,rectangle,Q131584392,14172,SWEG Bahn Stuttgart
 db-regio-stuttgart,RB 18,,,#009c48,#ffffff,,rectangle,Q131583989,14172,SWEG Bahn Stuttgart
 db-regio-stuttgart,RB 71,,,#ec2933,#ffffff,,rectangle,Q131584394,14172,SWEG Bahn Stuttgart
 db-regio-sudost,RB 51,db-regio-ag-sudost,rb-51,#469cd7,#ffffff,,rectangle,,10437,DB Regio AG Südost
