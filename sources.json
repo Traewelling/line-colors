@@ -1635,7 +1635,7 @@
         ]
     },
     {
-        "shortOperatorName": "sweg-stuttgart",
+        "shortOperatorName": "db-regio-stuttgart",
         "contributors": [
             {
                 "github": "oneiricbotcelot"
@@ -1656,6 +1656,10 @@
             {
                 "name": "Streckenfahrplan MEX12/RE10 2025",
                 "source": "https://www.sweg.de/fileadmin/user_upload/pdf/fahrplaene/stuttgart-neckartal/stuttgart-neckartal-2025/2025_Jahresfahrplan_Tuebingen-Mannheim_RE10-MEX12.pdf?version=1733907884"
+            },
+            {
+                "name": "Liniennetzkarte Regionalverkehr 2026",
+                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_14-12-2025_barrierefrei.pdf"
             }
         ]
     },
