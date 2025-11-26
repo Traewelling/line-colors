@@ -653,6 +653,8 @@ mvv-mvg-bus,196,,,#325868,#ffffff,,rectangle,,14943,Bus München
 mvv-mvg-bus,197,,,#325868,#ffffff,,rectangle,,14943,Bus München
 mvv-mvg-bus,198,,,#325868,#ffffff,,rectangle,,14943,Bus München
 mvv-mvg-bus,199,,,#31567e,#ffffff,,rectangle,,14943,Bus München
+mvv-mvg-bus,N80,,,#ffffff,#2f5465,#2f5465,rectangle,,14941,NachtBus München
+mvv-mvg-bus,N81,,,#ffffff,#2f5465,#2f5465,rectangle,,14941,NachtBus München
 mvv-mvg-bus,X30,,,#798674,#ffffff,,rectangle,Q63436634,14942,ExpressBus München
 mvv-mvg-bus,X35,,,#b5a226,#ffffff,,rectangle,,14942,ExpressBus München
 mvv-mvg-bus,X36,,,#657077,#ffffff,,rectangle,,14942,ExpressBus München
@@ -735,6 +737,13 @@ mvv-regional-bus,872,,,#386455,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,873,,,#5f7e39,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,874,,,#5a838e,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,875,,,#4d89c5,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,8000,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,8200,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,8300,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,8400,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,8500,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,8700,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,8800,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi  
 mvv-regional-bus,X200,,5-mvvrbu-x200,#9b7839,#ffffff,,rectangle,,7688,ExpressBus
 mvv-regional-bus,X201,,5-mvvrbu-x201,#35794d,#ffffff,,rectangle,Q75278052,7688,ExpressBus
 mvv-regional-bus,X202,,5-mvvrbu-x202,#883562,#ffffff,,rectangle,,7688,ExpressBus

@@ -826,6 +826,10 @@
             {
                 "name": "MVV Gesamtfahrplan",
                 "source": "https://www.mvg.de/dam/jcr:6ec4cb8c-46c8-4f87-90ec-b1578c56b0df/MVV-Gesamtfahrplan_2025_241222_web.pdf"
+            },
+            {
+                "name": "MVG Nachtlinien",
+                "source": "https://www.mvg.de/dam/jcr:f284bcc9-3751-4388-9a2e-b6e8917999b1/A4-Nachtnetz-2025-Web.pdf"
             }
         ]
     },
