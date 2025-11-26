@@ -2066,6 +2066,20 @@
         ]
     },
     {
+        "shortOperatorName": "vpe-pforzheim",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Stadtverkehr Pforzheim",
+                "source": "https://www.pforzheimfaehrtbus.de/wp-content/uploads/2022/11/Liniennetzplan_SV-Pforzheim_2021-2022-2023.pdf"
+            }
+        ]
+    },    
+    {
         "shortOperatorName": "vr",
         "contributors": [
             {
