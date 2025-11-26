@@ -1755,6 +1755,12 @@ vgn-vag-ubahn,U 3,,7-vanuba-3,#4dc2bb,#ffffff,,rectangle,,13651,U-Bahn Nürnberg
 vias,RB10,vias-gmbh,via-rb10,#e3a02e,#ffffff,,rectangle-rounded-corner,,10932,VIAS GmbH
 vlexx,RE3,vlexx,re-3,#e3a023,#ffffff,,rectangle-rounded-corner,,10951,vlexx
 vlexx,RE17,vlexx,re-17,#c77db4,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+vms-chemnitzbahn,C11,,,#ab98c4,#ffffff,,pill,,14974,Chemnitzer Modell1
+vms-chemnitzbahn,C13,,,#62b9bd,#ffffff,,pill,,14974,Chemnitzer Modell1
+vms-chemnitzbahn,C14,,,#edab53,#ffffff,,pill,,14974,Chemnitzer Modell1
+vms-chemnitzbahn,C15,,,#a8342e,#ffffff,,pill,,14974,Chemnitzer Modell1
+vms-chemnitzbahn,RB37,,,#2e4e95,#ffffff,,rectangle,,10851,City-Bahn Chemnitz
+vms-chemnitzbahn,RB92,,,#1c2851,#ffffff,,rectangle,,10851,City-Bahn Chemnitz
 vmt-evag-tram,1,,8-rmteva-1,#f18700,#ffffff,,rectangle,,11742,Erfurter Verkehrsbetriebe AG
 vmt-evag-tram,2,,8-rmteva-2,#e3000b,#ffffff,,rectangle,,11742,Erfurter Verkehrsbetriebe AG
 vmt-evag-tram,3,,8-rmteva-3,#67095f,#ffffff,,rectangle,,11742,Erfurter Verkehrsbetriebe AG
