@@ -1,4 +1,4 @@
-shortOperatorName,lineName,hafasOperatorCode,hafasLineId,backgroundColor,textColor,borderColor,shape,wikidataQid, delfiAgencyID, delfiAgencyName
+shortOperatorName,lineName,hafasOperatorCode,hafasLineId,backgroundColor,textColor,borderColor,shape,wikidataQid,delfiAgencyID,delfiAgencyName,VBNagencyID,VBNagencyName
 agilis,RB 15,agilis,ag-rb15,#24b27d,#ffffff,,rectangle,Q130542089,10838,agilis
 agilis,RB 17,agilis,ag-rb17,#90bf26,#ffffff,,rectangle,Q130542097,10838,agilis
 agilis,RB 18,agilis,ag-rb18,#ff9999,#ffffff,,rectangle,Q104149638,10838,agilis

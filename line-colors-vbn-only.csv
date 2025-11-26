@@ -1,0 +1,381 @@
+shortOperatorName,lineName,backgroundColor,textColor,borderColor,shape,wikidataQid,delfiAgencyID,delfiAgencyName
+
+bsag,1,#00a54f,#ffffff,,rectangle,Q104796303,12020,Bremer Straßenbahn AG
+bsag,1E,#00a54f,#ffffff,,rectangle,,12020,Bremer Straßenbahn AG
+bsag,1S,#00a54f,#ffffff,,rectangle,Q112609280,12020,Bremer Straßenbahn AG
+bsag,2,#0166b3,#ffffff,,rectangle,Q112609282,12020,Bremer Straßenbahn AG
+bsag,3,#00aeef,#ffffff,,rectangle,Q98313027,12020,Bremer Straßenbahn AG
+bsag,4,#ee1d23,#ffffff,,rectangle,Q112609286,12020,Bremer Straßenbahn AG
+bsag,4S,#ee1d23,#ffffff,,rectangle,Q112609287,12020,Bremer Straßenbahn AG
+bsag,5,#00aab8,#ffffff,,rectangle,Q112609290,12020,Bremer Straßenbahn AG
+bsag,5S,#00aab8,#ffffff,,rectangle,,12020,Bremer Straßenbahn AG
+bsag,6,#feca0a,#000000,,rectangle,Q112609293,12020,Bremer Straßenbahn AG
+bsag,6E,#feca0a,#000000,,rectangle,,12020,Bremer Straßenbahn AG
+bsag,8,#8bc63e,#ffffff,,rectangle,Q112609295,12020,Bremer Straßenbahn AG
+bsag,10,#15258e,#ffffff,,rectangle,Q112609299,12020,Bremer Straßenbahn AG
+bsag,14,#8bc63e,#ffffff,,rectangle,,12020,Bremer Straßenbahn AG
+bsag,20,#8bc63e,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,21,#00aeef,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,22,#a69dcd,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,24,#951b81,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,25,#009640,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,26,#e30613,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,27,#ef7d00,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,28,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG
+bsag,29,#95c11f,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,31,#95c11f,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,33,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG
+bsag,34,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG
+bsag,37,#951b81,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,38,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG
+bsag,39,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG
+bsag,40,#e30613,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,41,#e30613,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,41S,#e30613,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,42,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG
+bsag,44,#ef7d00,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,52,#94c01f,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,55,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG
+bsag,57,#ef7d00,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,58,#ef7d00,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,61,#009fe3,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,62,#009640,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,63,#312783,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,63S,#312783,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,65,#94c01f,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,66,#94c01f,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,80,#94c01f,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,81,#009640,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,82,#ef7d00,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,90,#312783,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,91,#009fe3,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,92,#009fe3,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,93,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG
+bsag,94,#e30613,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,95,#ef7d00,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,96,#951b81,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+bsag,98,#009640,#ffffff,,pill,,12020,Bremer Straßenbahn AG
+
+
+bsvg-braunschweig,1,#e2000a,#ffffff,,rectangle,Q121253956,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,1E,#e2000a,#ffffff,,rectangle,Q121253956,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,10,#e2000a,#ffffff,,rectangle,Q121253957,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,2,#93c019,#ffffff,,rectangle,Q121253958,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,2E,#93c019,#ffffff,,rectangle,Q121253958,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,3,#006430,#ffffff,,rectangle,Q121253959,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,3E,#006430,#ffffff,,rectangle,Q121253959,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,4,#009ee2,#ffffff,,rectangle,Q121253960,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,4E,#009ee2,#ffffff,,rectangle,Q121253960,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,5,#f39100,#ffffff,,rectangle,Q121253961,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,5E,#f39100,#ffffff,,rectangle,Q121253961,12021,Braunschweiger Verkehrs-GmbH
+
+
+hvv-akn,A 1,#f7931d,#ffffff,,pill,Q19368804,10833,AKN Eisenbahn AG
+hvv-akn,A 2,#f7931d,#ffffff,,pill,Q19582807,10833,AKN Eisenbahn AG
+hvv-akn,A 3,#f7931d,#ffffff,,pill,Q19606155,10833,AKN Eisenbahn AG
+hvv-db-sbhh,S 1,#4da553,#ffffff,,pill,Q19377130,10375,S-Bahn Hamburg
+hvv-db-sbhh,S 2,#95334a,#ffffff,,pill,Q19390036,10375,S-Bahn Hamburg
+hvv-db-sbhh,S 3,#512c75,#ffffff,,pill,Q19368685,10375,S-Bahn Hamburg
+hvv-db-sbhh,S 5,#3b87a9,#ffffff,,pill,Q63451353,10375,S-Bahn Hamburg
+hvv-db-sbhh,S 7,#c07b35,#ffffff,,pill,Q136881945,10375,S-Bahn Hamburg
+hvv-had,61,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
+hvv-had,62,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
+hvv-had,64,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
+hvv-had,65,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
+hvv-had,66,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
+hvv-had,72,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
+hvv-had,73,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
+hvv-had,75,#009bb6,#ffffff,,trapezoid,,15139,HADAG-ZVU
+hvv-hha,U 1,#0072bc,#ffffff,,rectangle,Q248623,15141,Hochbahn U-Bahn
+hvv-hha,U 2,#ee1d23,#ffffff,,rectangle,Q275451,15141,Hochbahn U-Bahn
+hvv-hha,U 3,#ffdc01,#ffffff,,rectangle,Q781351,15141,Hochbahn U-Bahn
+hvv-hha,U 4,#00aaad,#ffffff,,rectangle,Q209739,15141,Hochbahn U-Bahn
+hvv-hha,5,#eb4630,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,6,#18257b,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,8,#c49569,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,9,#5fb358,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,10,#ed753a,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,11,#903634,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,14,#dc424d,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,16,#571445,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,17,#62685f,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,18,#6b80be,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,19,#f4ba4f,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,20,#519bd2,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,23,#e74796,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,24,#f8d258,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,25,#0c653c,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,26,#bcd25d,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,27,#11adde,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,28,#7e9bb4,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,30,#df864a,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,40,#df864a,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,42,#4e955b,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,43,#ca3752,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,603,#000000,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,604,#000000,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,605,#000000,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,606,#000000,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,607,#000000,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,608,#000000,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,617,#000000,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,618,#000000,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,640,#000000,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,641,#000000,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,X11,#5fb358,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,X22,#5fb358,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,X27,#eb452e,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,X35,#eb452e,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,X40,#73c4a2,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,X61,#ed7339,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,X65,#52b4dc,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-hha,X86,#ebc353,#ffffff,,hexagon,,15140,Hochbahn Bus
+hvv-kvi,X66,#6780bf,#ffffff,,hexagon,,15143,KVIPVH
+hvv-kvi,X89,#8cc359,#ffffff,,hexagon,,15143,KVIPVH
+hvv-kvi,X99,#bc3c95,#ffffff,,hexagon,,15143,KVIPVH
+
+hvv-vhh,1,#bcd25d,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,2,#f4b94f,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,3,#bc3d95,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,15,#4bbf9d,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,21,#234ea3,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,22,#712f91,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,29,#522a90,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,32,#522a90,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,601,#000000,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,602,#000000,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,609,#000000,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,610,#000000,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,619,#000000,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,621,#000000,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,627,#000000,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,629,#000000,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,638,#000000,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,639,#000000,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,649,#000000,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,658,#000000,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,668,#000000,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,669,#000000,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,X3,#722f91,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,X30,#8e332a,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,X32,#bf9466,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,X33,#ffffff,#173e84,#173e84,hexagon,,15146,VHH Bus
+hvv-vhh,X80,#ebc353,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,X81,#30653c,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,X82,#8697b1,#ffffff,,hexagon,,15146,VHH Bus
+hvv-vhh,X95,#c06936,#ffffff,,hexagon,,15146,VHH Bus
+
+regiobus-hannover,170,#ffffff,#2c2e35,#ff9027,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,300,#ffffff,#2c2e35,#903da0,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,301,#ffffff,#2c2e35,#ff2e17,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,310,#ffffff,#2c2e35,#af2a21,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,320,#ffffff,#2c2e35,#0155ae,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,360,#ffffff,#2c2e35,#ff2e17,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,365,#ffffff,#2c2e35,#95cc45,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,366,#ffffff,#2c2e35,#35ccf6,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,367,#ffffff,#2c2e35,#ff9027,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,380,#ffffff,#2c2e35,#fb3199,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,381,#ffffff,#2c2e35,#3ebc6d,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,382,#ffffff,#2c2e35,#ff9027,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,383,#ffffff,#2c2e35,#35ccf6,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,385,#ffffff,#2c2e35,#95cc45,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,400,#ffffff,#2c2e35,#3ebc6d,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,404,#ffffff,#2c2e35,#ff2e17,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,410,#ffffff,#2c2e35,#ff9027,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,421,#ffffff,#2c2e35,#35ccf6,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,430,#ffffff,#2c2e35,#af2a21,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,431,#ffffff,#2c2e35,#95cc45,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,460,#ffffff,#2c2e35,#95cc45,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,490,#ffffff,#2c2e35,#95cc45,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,492,#ffffff,#2c2e35,#35ccf6,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,500,#ffffff,#2c2e35,#ff2e17,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,510,#ffffff,#2c2e35,#af2a21,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,520,#ffffff,#2c2e35,#ff2e17,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,521,#ffffff,#2c2e35,#8ce0f8,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,522,#ffffff,#2c2e35,#fb3199,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,523,#ffffff,#2c2e35,#3ebc6d,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,530,#ffffff,#2c2e35,#fb3199,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,532,#ffffff,#2c2e35,#903da0,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,534,#ffffff,#2c2e35,#0155ae,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,540,#ffffff,#2c2e35,#9b2e4c,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,560,#ffffff,#2c2e35,#35ccf6,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,561,#ffffff,#2c2e35,#ffbe32,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,562,#ffffff,#2c2e35,#3ebc6d,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,570,#ffffff,#2c2e35,#ff2e17,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,571,#ffffff,#2c2e35,#fc87bf,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,572,#ffffff,#2c2e35,#35ccf6,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,573,#ffffff,#2c2e35,#903da0,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,574,#ffffff,#2c2e35,#3ebc6d,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,575,#ffffff,#2c2e35,#ff9027,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,580,#ffffff,#2c2e35,#95cc45,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,600,#ffffff,#2c2e35,#ffbe32,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,616,#ffffff,#2c2e35,#ff2e17,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,620,#ffffff,#2c2e35,#903da0,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,621,#ffffff,#2c2e35,#ffeb3d,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,630,#ffffff,#2c2e35,#3ebc6d,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,635,#ffffff,#2c2e35,#ff2e17,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,636,#ffffff,#2c2e35,#0073c0,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,638,#ffffff,#2c2e35,#8ce0f8,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,639,#ffffff,#2c2e35,#ff2e17,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,651,#ffffff,#2c2e35,#ff9027,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,652,#ffffff,#2c2e35,#3ebc6d,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,690,#ffffff,#2c2e35,#af2a21,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,692,#ffffff,#2c2e35,#903da0,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,694,#ffffff,#2c2e35,#ffbe32,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,695,#ffffff,#2c2e35,#ff2e17,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,696,#ffffff,#2c2e35,#ff9027,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,697,#ffffff,#2c2e35,#009edd,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,698,#ffffff,#2c2e35,#102694,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,700,#ffffff,#2c2e35,#ffbe32,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,701,#ffffff,#2c2e35,#9b2e4c,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,710,#ffffff,#2c2e35,#53afbb,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,711,#ffffff,#2c2e35,#903da0,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,715,#ffffff,#2c2e35,#fc87bf,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,740,#ffffff,#2c2e35,#35ccf6,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,741,#ffffff,#2c2e35,#102694,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,745,#ffffff,#2c2e35,#95cc45,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,760,#ffffff,#2c2e35,#3ebc6d,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,780,#ffffff,#2c2e35,#117b40,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,785,#ffffff,#2c2e35,#fb3199,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,801,#ffffff,#2c2e35,#903da0,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,802,#ffffff,#2c2e35,#ffeb3d,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,820,#ffffff,#2c2e35,#0073c0,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,830,#ffffff,#2c2e35,#ffadb2,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,831,#ffffff,#2c2e35,#117b40,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,835,#ffffff,#2c2e35,#ff2e17,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,840,#ffffff,#2c2e35,#53afbb,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,850,#ffffff,#2c2e35,#9b2e4c,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,860,#ffffff,#2c2e35,#ff9027,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,865,#ffffff,#2c2e35,#ffbe32,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,870,#ffffff,#2c2e35,#fb3199,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,900,#ffffff,#2c2e35,#35ccf6,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,905,#ffffff,#2c2e35,#ff9027,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,906,#ffffff,#2c2e35,#0073c0,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,907,#ffffff,#2c2e35,#af2a21,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,910,#ffffff,#2c2e35,#00ab4f,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,916,#ffffff,#2c2e35,#fb3199,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,917,#ffffff,#2c2e35,#ff9027,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,920,#ffffff,#2c2e35,#95cc45,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,926,#ffffff,#2c2e35,#903da0,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,927,#ffffff,#2c2e35,#35ccf6,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,930,#ffffff,#2c2e35,#ffbe32,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,938,#ffffff,#2c2e35,#ff2e17,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,946,#ffffff,#2c2e35,#fc87bf,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,948,#ffffff,#2c2e35,#117b40,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,949,#ffffff,#2c2e35,#9b2e4c,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,950,#ffffff,#2c2e35,#00ab4f,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,962,#ffffff,#2c2e35,#ff2e17,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,963,#ffffff,#2c2e35,#ffbe32,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,964,#ffffff,#2c2e35,#8ce0f8,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,965,#ffffff,#2c2e35,#3ebc6d,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,966,#ffffff,#2c2e35,#0073c0,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,967,#ffffff,#2c2e35,#95cc45,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,968,#ffffff,#2c2e35,#fb3199,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,N31,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,N41,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,N43,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,N50,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,N56,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,N57,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,N62,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,N63,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,N70,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
+regiobus-hannover,N94,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
+
+s-bahn-hannover,S 1,#846daa,#ffffff,,pill,Q63433445,13776,S-Bahn Hannover
+s-bahn-hannover,S 2,#007a3d,#ffffff,,pill,Q63433449,13776,S-Bahn Hannover
+s-bahn-hannover,S 21,#007a3d,#ffffff,,pill,Q63433451,13776,S-Bahn Hannover
+s-bahn-hannover,S 3,#cc69a6,#ffffff,,pill,Q63433452,13776,S-Bahn Hannover
+s-bahn-hannover,S 4,#9b2b48,#ffffff,,pill,Q63433455,13776,S-Bahn Hannover
+s-bahn-hannover,S 5,#f18700,#ffffff,,pill,Q63433456,13776,S-Bahn Hannover
+s-bahn-hannover,S 51,#f18700,#ffffff,,pill,Q63433457,13776,S-Bahn Hannover
+s-bahn-hannover,S 6,#004f9f,#ffffff,,pill,Q63433460,13776,S-Bahn Hannover
+s-bahn-hannover,S 7,#afcb27,#ffffff,,pill,Q63433461,13776,S-Bahn Hannover
+s-bahn-hannover,S 8,#1794ca,#ffffff,,pill,Q63433462,13776,S-Bahn Hannover
+
+uestra,1,#ffffff,#2c2e35,#ff2e3e,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,2,#ffffff,#2c2e35,#ff2e3e,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,3,#ffffff,#2c2e35,#0073c0,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,4,#ffffff,#2c2e35,#ffac2e,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,5,#ffffff,#2c2e35,#ffac2e,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,6,#ffffff,#2c2e35,#ffac2e,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,7,#ffffff,#2c2e35,#0073c0,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,8,#ffffff,#2c2e35,#ff2e3e,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,9,#ffffff,#2c2e35,#0073c0,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,10,#ffffff,#2c2e35,#6dc248,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,11,#ffffff,#2c2e35,#ffac2e,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,12,#ffffff,#2c2e35,#6dc248,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,13,#ffffff,#2c2e35,#0073c0,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,17,#ffffff,#2c2e35,#6dc248,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,100,#ffffff,#2c2e35,#fb3199,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,120,#ffffff,#2c2e35,#ff9027,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,121,#ffffff,#2c2e35,#95cc45,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,122,#ffffff,#2c2e35,#95cc45,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,123,#ffffff,#2c2e35,#fc87bf,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,124,#ffffff,#2c2e35,#95cc45,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,125,#ffffff,#2c2e35,#ff2e17,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,126,#ffffff,#2c2e35,#ff2e17,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,127,#ffffff,#2c2e35,#ffbe32,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,128,#ffffff,#2c2e35,#af2a21,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,129,#ffffff,#2c2e35,#fc5cac,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,130,#ffffff,#2c2e35,#95cc45,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,133,#ffffff,#2c2e35,#ffbe32,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,134,#ffffff,#2c2e35,#3ebc6d,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,135,#ffffff,#2c2e35,#3ebc6d,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,136,#ffffff,#2c2e35,#af2a21,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,137,#ffffff,#2c2e35,#ff9027,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,200,#ffffff,#2c2e35,#fc87bf,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,253,#ffffff,#2c2e35,#ff9027,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,254,#ffffff,#2c2e35,#35ccf6,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,267,#ffffff,#2c2e35,#3ebc6d,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,330,#ffffff,#2c2e35,#ffbe32,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,340,#ffffff,#2c2e35,#ff2e17,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,341,#ffffff,#2c2e35,#3ebc6d,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,345,#ffffff,#2c2e35,#ffbe32,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,346,#ffffff,#2c2e35,#903da0,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,347,#ffffff,#2c2e35,#ff9027,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,348,#ffffff,#2c2e35,#fc87bf,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,363,#ffffff,#2c2e35,#ff9027,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,371,#ffffff,#2c2e35,#0155ae,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,372,#ffffff,#2c2e35,#35ccf6,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,373,#ffffff,#2c2e35,#ff9027,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,390,#ffffff,#2c2e35,#95cc45,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,420,#ffffff,#2c2e35,#fc87bf,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,450,#ffffff,#2c2e35,#ffbe32,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,470,#ffffff,#2c2e35,#fc87bf,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,480,#ffffff,#2c2e35,#3ebc6d,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,581,#ffffff,#2c2e35,#903da0,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,610,#ffffff,#2c2e35,#3ebc6d,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,611,#ffffff,#2c2e35,#af2a21,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,631,#ffffff,#2c2e35,#95cc45,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+uestra,800,#ffffff,#2c2e35,#35ccf6,pill,,554,üstra Hannoversche Verkehrsbetriebe AG
+
+
+
+regio-s-bahn,RS 1,#00448b,#ffffff,,,,12638,NordWestBahn
+regio-s-bahn,RS 2,#e89023,#ffffff,,,,12638,NordWestBahn
+regio-s-bahn,RS 3,#93bf30,#ffffff,,,,12638,NordWestBahn
+regio-s-bahn,RS 30,#4faf3b,#ffffff,,,,12638,NordWestBahn
+regio-s-bahn,RS 4,#e2000b,#ffffff,,,,12638,NordWestBahn
+regio-s-bahn,RS 6,#899bb9,#ffffff,,,,12638,NordWestBahn
+
+vos-osnabrueck,10,#8c61a0,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+vos-osnabrueck,12,#2c247d,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+vos-osnabrueck,13,#469cde,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+vos-osnabrueck,14,#dc6d2b,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+vos-osnabrueck,15,#eba83b,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+vos-osnabrueck,16,#347841,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+vos-osnabrueck,17,#4aa563,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+vos-osnabrueck,18,#3479bd,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+vos-osnabrueck,19,#1f4d98,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+vos-osnabrueck,20,#8c61a0,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+vos-osnabrueck,21,#8c61a0,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+vos-osnabrueck,M1,#408f54,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+vos-osnabrueck,M2,#30277e,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+vos-osnabrueck,M3,#9ebf43,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+vos-osnabrueck,M4,#c42f26,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+vos-osnabrueck,M5,#d35b95,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+
+westfalenbahn,RE 15,#ea9d22,#ffffff,,rectangle,,13291,WestfalenBahn
+westfalenbahn,RE 60,#00a3de,#ffffff,,rectangle,,13291,WestfalenBahn
+westfalenbahn,RE 70,#005174,#ffffff,,rectangle,,13291,WestfalenBahn
