@@ -1,5 +1,5 @@
 shortOperatorName,lineName,backgroundColor,textColor,borderColor,shape,wikidataQid,delfiAgencyID,delfiAgencyName
-
+### VBN IDs aren't set!!!! ###
 bsag,1,#00a54f,#ffffff,,rectangle,Q104796303,12020,Bremer Straßenbahn AG
 bsag,1E,#00a54f,#ffffff,,rectangle,,12020,Bremer Straßenbahn AG
 bsag,1S,#00a54f,#ffffff,,rectangle,Q112609280,12020,Bremer Straßenbahn AG

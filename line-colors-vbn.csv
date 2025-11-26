@@ -49,17 +49,17 @@ brb,RB 83,bayerische-regiobahn,brb-rb83,#ffffff,#bf73bf,#bf73bf,rectangle,,10969
 brb,RE 5,bayerische-regiobahn,brb-re5,#00416d,#ffffff,,rectangle,,10969,Bayerische Regiobahn,,
 brb,S3,bayerische-regiobahn,4-l8-s3,#2aa335,#ffffff,,pill,,10969,Bayerische Regiobahn,,
 brb,S4,bayerische-regiobahn,4-l8-s4,#a765a2,#ffffff,,pill,,10969,Bayerische Regiobahn,,
-bsvg-braunschweig,1,,,#e2000a,#ffffff,,rectangle,Q121253956,12021,Braunschweiger Verkehrs-GmbH,,
-bsvg-braunschweig,1E,,,#e2000a,#ffffff,,rectangle,Q121253956,12021,Braunschweiger Verkehrs-GmbH,,
-bsvg-braunschweig,10,,,#e2000a,#ffffff,,rectangle,Q121253957,12021,Braunschweiger Verkehrs-GmbH,,
-bsvg-braunschweig,2,,,#93c019,#ffffff,,rectangle,Q121253958,12021,Braunschweiger Verkehrs-GmbH,,
-bsvg-braunschweig,2E,,,#93c019,#ffffff,,rectangle,Q121253958,12021,Braunschweiger Verkehrs-GmbH,,
-bsvg-braunschweig,3,,,#006430,#ffffff,,rectangle,Q121253959,12021,Braunschweiger Verkehrs-GmbH,,
-bsvg-braunschweig,3E,,,#006430,#ffffff,,rectangle,Q121253959,12021,Braunschweiger Verkehrs-GmbH,,
-bsvg-braunschweig,4,,,#009ee2,#ffffff,,rectangle,Q121253960,12021,Braunschweiger Verkehrs-GmbH,,
-bsvg-braunschweig,4E,,,#009ee2,#ffffff,,rectangle,Q121253960,12021,Braunschweiger Verkehrs-GmbH,,
-bsvg-braunschweig,5,,,#f39100,#ffffff,,rectangle,Q121253961,12021,Braunschweiger Verkehrs-GmbH,,
-bsvg-braunschweig,5E,,,#f39100,#ffffff,,rectangle,Q121253961,12021,Braunschweiger Verkehrs-GmbH,,
+bsvg-braunschweig,1,,,#e2000a,#ffffff,,rectangle,Q121253956,12021,Braunschweiger Verkehrs-GmbH,231,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,1E,,,#e2000a,#ffffff,,rectangle,Q121253956,12021,Braunschweiger Verkehrs-GmbH,231,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,10,,,#e2000a,#ffffff,,rectangle,Q121253957,12021,Braunschweiger Verkehrs-GmbH,231,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,2,,,#93c019,#ffffff,,rectangle,Q121253958,12021,Braunschweiger Verkehrs-GmbH,231,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,2E,,,#93c019,#ffffff,,rectangle,Q121253958,12021,Braunschweiger Verkehrs-GmbH,231,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,3,,,#006430,#ffffff,,rectangle,Q121253959,12021,Braunschweiger Verkehrs-GmbH,231,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,3E,,,#006430,#ffffff,,rectangle,Q121253959,12021,Braunschweiger Verkehrs-GmbH,231,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,4,,,#009ee2,#ffffff,,rectangle,Q121253960,12021,Braunschweiger Verkehrs-GmbH,231,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,4E,,,#009ee2,#ffffff,,rectangle,Q121253960,12021,Braunschweiger Verkehrs-GmbH,231,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,5,,,#f39100,#ffffff,,rectangle,Q121253961,12021,Braunschweiger Verkehrs-GmbH,231,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,5E,,,#f39100,#ffffff,,rectangle,Q121253961,12021,Braunschweiger Verkehrs-GmbH,231,Braunschweiger Verkehrs-GmbH
 ceske-drahy,RE 25,ceske-drahy,ex-352,#006666,#ffffff,,rectangle,,12634,Ceske Drahy,,
 ceske-drahy,RE 25,ceske-drahy,ex-354,#006666,#ffffff,,rectangle,,12634,Ceske Drahy,,
 ceske-drahy,RE 25,ceske-drahy,ex-362,#006666,#ffffff,,rectangle,,12634,Ceske Drahy,,
@@ -1595,61 +1595,61 @@ vbg,RB 1,vogtlandbahn-die-landerbahn-gmbh-dlb,vbg-rb1,#e30613,#ffffff,,rectangle
 vbg,RB 2,vogtlandbahn-die-landerbahn-gmbh-dlb,vbg-rb2,#0067b0,#ffffff,,rectangle-rounded-corner,,10382,vogtlandbahn - Die Länderbahn GmbH DLB,,
 vbg,RB 4,vogtlandbahn-die-landerbahn-gmbh-dlb,vbg-rb4,#954b3f,#ffffff,,rectangle-rounded-corner,,10382,vogtlandbahn - Die Länderbahn GmbH DLB,,
 vbg,RB 5,vogtlandbahn-die-landerbahn-gmbh-dlb,vbg-rb5,#009641,#ffffff,,rectangle-rounded-corner,,10382,vogtlandbahn - Die Länderbahn GmbH DLB,,
-vbn-bsag,1,bremer-strassenbahn-ag,8-webbtr-1,#00a54f,#ffffff,,rectangle,Q104796303,12020,Bremer Straßenbahn AG,,
-vbn-bsag,1E,bremer-strassenbahn-ag,8-webbtr-1e,#00a54f,#ffffff,,rectangle,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,1S,bremer-strassenbahn-ag,8-webbtr-1s,#00a54f,#ffffff,,rectangle,Q112609280,12020,Bremer Straßenbahn AG,,
-vbn-bsag,2,bremer-strassenbahn-ag,8-webbtr-2,#0166b3,#ffffff,,rectangle,Q112609282,12020,Bremer Straßenbahn AG,,
-vbn-bsag,3,bremer-strassenbahn-ag,8-webbtr-3,#00aeef,#ffffff,,rectangle,Q98313027,12020,Bremer Straßenbahn AG,,
-vbn-bsag,4,bremer-strassenbahn-ag,8-webbtr-4,#ee1d23,#ffffff,,rectangle,Q112609286,12020,Bremer Straßenbahn AG,,
-vbn-bsag,4S,bremer-strassenbahn-ag,8-webbtr-4s,#ee1d23,#ffffff,,rectangle,Q112609287,12020,Bremer Straßenbahn AG,,
-vbn-bsag,5,bremer-strassenbahn-ag,8-webbtr-5,#00aab8,#ffffff,,rectangle,Q112609290,12020,Bremer Straßenbahn AG,,
-vbn-bsag,5S,bremer-strassenbahn-ag,8-webbtr-5s,#00aab8,#ffffff,,rectangle,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,6,bremer-strassenbahn-ag,8-webbtr-6,#feca0a,#000000,,rectangle,Q112609293,12020,Bremer Straßenbahn AG,,
-vbn-bsag,6E,bremer-strassenbahn-ag,8-webbtr-6e,#feca0a,#000000,,rectangle,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,8,bremer-strassenbahn-ag,8-webbtr-8,#8bc63e,#ffffff,,rectangle,Q112609295,12020,Bremer Straßenbahn AG,,
-vbn-bsag,10,bremer-strassenbahn-ag,8-webbtr-10,#15258e,#ffffff,,rectangle,Q112609299,12020,Bremer Straßenbahn AG,,
-vbn-bsag,14,bremer-strassenbahn-ag,8-webbtr-14,#8bc63e,#ffffff,,rectangle,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,20,,5-webbbu-20,#8bc63e,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,21,,5-webbbu-21,#00aeef,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,22,,5-webbbu-22,#a69dcd,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,24,,5-webbbu-24,#951b81,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,25,,5-webbbu-25,#009640,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,26,,5-webbbu-26,#e30613,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,27,,5-webbbu-27,#ef7d00,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,28,,5-webbbu-28,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,29,,5-webbbu-29,#95c11f,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,31,,5-webbbu-31,#95c11f,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,33,,5-webbbu-33,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,34,,5-webbbu-34,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,37,,5-webbbu-37,#951b81,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,38,,5-webbbu-38,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,39,,5-webbbu-39,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,40,,5-webbbu-40,#e30613,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,41,,5-webbbu-41,#e30613,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,41S,,5-webbbu-41s,#e30613,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,42,,5-webbbu-42,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,44,,5-webbbu-44,#ef7d00,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,52,,5-webbbu-52,#94c01f,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,55,,5-webbbu-55,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,57,,5-webbbu-57,#ef7d00,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,58,,5-webbbu-58,#ef7d00,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,61,,5-webbbu-61,#009fe3,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,62,,5-webbbu-62,#009640,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,63,,5-webbbu-63,#312783,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,63S,,5-webvol-63s,#312783,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,65,,5-webbbu-65,#94c01f,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,66,,5-webbbu-66,#94c01f,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,80,,5-webbbu-80,#94c01f,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,81,,5-webbbu-81,#009640,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,82,,5-webbbu-82,#ef7d00,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,90,,5-webbbu-90,#312783,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,91,,5-webbbu-91,#009fe3,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,92,,5-webbbu-92,#009fe3,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,93,,5-webbbu-93,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,94,,5-webbbu-94,#e30613,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,95,,5-webbbu-95,#ef7d00,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,96,,5-webbbu-96,#951b81,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
-vbn-bsag,98,,5-webbbu-98,#009640,#ffffff,,pill,,12020,Bremer Straßenbahn AG,,
+vbn-bsag,1,bremer-strassenbahn-ag,8-webbtr-1,#00a54f,#ffffff,,rectangle,Q104796303,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,1E,bremer-strassenbahn-ag,8-webbtr-1e,#00a54f,#ffffff,,rectangle,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,1S,bremer-strassenbahn-ag,8-webbtr-1s,#00a54f,#ffffff,,rectangle,Q112609280,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,2,bremer-strassenbahn-ag,8-webbtr-2,#0166b3,#ffffff,,rectangle,Q112609282,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,3,bremer-strassenbahn-ag,8-webbtr-3,#00aeef,#ffffff,,rectangle,Q98313027,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,4,bremer-strassenbahn-ag,8-webbtr-4,#ee1d23,#ffffff,,rectangle,Q112609286,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,4S,bremer-strassenbahn-ag,8-webbtr-4s,#ee1d23,#ffffff,,rectangle,Q112609287,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,5,bremer-strassenbahn-ag,8-webbtr-5,#00aab8,#ffffff,,rectangle,Q112609290,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,5S,bremer-strassenbahn-ag,8-webbtr-5s,#00aab8,#ffffff,,rectangle,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,6,bremer-strassenbahn-ag,8-webbtr-6,#feca0a,#000000,,rectangle,Q112609293,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,6E,bremer-strassenbahn-ag,8-webbtr-6e,#feca0a,#000000,,rectangle,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,8,bremer-strassenbahn-ag,8-webbtr-8,#8bc63e,#ffffff,,rectangle,Q112609295,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,10,bremer-strassenbahn-ag,8-webbtr-10,#15258e,#ffffff,,rectangle,Q112609299,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,14,bremer-strassenbahn-ag,8-webbtr-14,#8bc63e,#ffffff,,rectangle,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,20,,5-webbbu-20,#8bc63e,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,21,,5-webbbu-21,#00aeef,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,22,,5-webbbu-22,#a69dcd,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,24,,5-webbbu-24,#951b81,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,25,,5-webbbu-25,#009640,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,26,,5-webbbu-26,#e30613,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,27,,5-webbbu-27,#ef7d00,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,28,,5-webbbu-28,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,29,,5-webbbu-29,#95c11f,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,31,,5-webbbu-31,#95c11f,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,33,,5-webbbu-33,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,34,,5-webbbu-34,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,37,,5-webbbu-37,#951b81,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,38,,5-webbbu-38,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,39,,5-webbbu-39,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,40,,5-webbbu-40,#e30613,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,41,,5-webbbu-41,#e30613,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,41S,,5-webbbu-41s,#e30613,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,42,,5-webbbu-42,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,44,,5-webbbu-44,#ef7d00,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,52,,5-webbbu-52,#94c01f,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,55,,5-webbbu-55,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,57,,5-webbbu-57,#ef7d00,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,58,,5-webbbu-58,#ef7d00,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,61,,5-webbbu-61,#009fe3,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,62,,5-webbbu-62,#009640,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,63,,5-webbbu-63,#312783,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,63S,,5-webvol-63s,#312783,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,65,,5-webbbu-65,#94c01f,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,66,,5-webbbu-66,#94c01f,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,80,,5-webbbu-80,#94c01f,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,81,,5-webbbu-81,#009640,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,82,,5-webbbu-82,#ef7d00,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,90,,5-webbbu-90,#312783,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,91,,5-webbbu-91,#009fe3,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,92,,5-webbbu-92,#009fe3,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,93,,5-webbbu-93,#ffcc00,#000000,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,94,,5-webbbu-94,#e30613,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,95,,5-webbbu-95,#ef7d00,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,96,,5-webbbu-96,#951b81,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
+vbn-bsag,98,,5-webbbu-98,#009640,#ffffff,,pill,,12020,Bremer Straßenbahn AG,326,Bremer Straßenbahn AG
 vbn-nwb-regio-s-bahn,RS 1,nordwestbahn,4-n1-rs1,#00448b,#ffffff,,rectangle-rounded-corner,,12638,NordWestBahn,,
 vbn-nwb-regio-s-bahn,RS 2,nordwestbahn,4-n1-rs2,#e89023,#ffffff,,rectangle-rounded-corner,,12638,NordWestBahn,,
 vbn-nwb-regio-s-bahn,RS 3,nordwestbahn,4-n1-rs3,#93bf30,#ffffff,,rectangle-rounded-corner,,12638,NordWestBahn,,
