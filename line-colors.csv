@@ -230,8 +230,8 @@ db-regio-nordost,S2,db-regio-ag-nordost,4-800156-2,#a0138e,#ffffff,,rectangle,,1
 db-regio-nordost,S2X,db-regio-ag-nordost,4-800156-2x,#a0138e,#ffffff,,rectangle,,10434,DB Regio AG Nordost
 db-regio-nordost,S3,db-regio-ag-nordost,4-800156-3,#a64c35,#ffffff,,rectangle,,10434,DB Regio AG Nordost
 db-regio-stuttgart,RE 6,,,#ebaf2d,#ffffff,,rectangle,Q131584411,14172,SWEG Bahn Stuttgart
-db-regio-stuttgart,RE 10a,,,#014f9f,#ffffff,,rectangle,Q131584412,14172,SWEG Bahn Stuttgart
-db-regio-stuttgart,RE 10b,,,#014f9f,#ffffff,,rectangle,Q131584450,14172,SWEG Bahn Stuttgart
+db-regio-stuttgart,RE 10a,,,#9f5a2c,#ffffff,,rectangle,Q131584412,14172,SWEG Bahn Stuttgart
+db-regio-stuttgart,RE 10b,,,#9f5a2c,#ffffff,,rectangle,Q131584450,14172,SWEG Bahn Stuttgart
 db-regio-stuttgart,RE 18,,,#009c48,#ffffff,,rectangle,Q131583931,14172,SWEG Bahn Stuttgart
 db-regio-stuttgart,RE 71,,,#b6921d,#ffffff,,rectangle,Q131584454,14172,SWEG Bahn Stuttgart
 db-regio-stuttgart,MEX 12,,,#f27320,#ffffff,,rectangle,Q131584405,14172,SWEG Bahn Stuttgart
@@ -239,7 +239,7 @@ db-regio-stuttgart,MEX 17,,,#561d6f,#ffffff,,rectangle,Q131584401,14172,SWEG Bah
 db-regio-stuttgart,MEX 17a,,,#561d6f,#ffffff,,rectangle,Q131584401,14172,SWEG Bahn Stuttgart
 db-regio-stuttgart,MEX 17c,,,#ec2933,#ffffff,,rectangle,Q131584403,14172,SWEG Bahn Stuttgart
 db-regio-stuttgart,MEX 18,,,#009c48,#ffffff,,rectangle,Q131584398,14172,SWEG Bahn Stuttgart
-db-regio-stuttgart,RB 10a,,,#014f9f,#ffffff,,rectangle,Q131587496,14172,SWEG Bahn Stuttgart
+db-regio-stuttgart,RB 10a,,,#9f5a2c,#ffffff,,rectangle,Q131587496,14172,SWEG Bahn Stuttgart
 db-regio-stuttgart,RB 17,,,#561d6f,#ffffff,,rectangle,Q131584392,14172,SWEG Bahn Stuttgart
 db-regio-stuttgart,RB 18,,,#009c48,#ffffff,,rectangle,Q131583989,14172,SWEG Bahn Stuttgart
 db-regio-stuttgart,RB 71,,,#ec2933,#ffffff,,rectangle,Q131584394,14172,SWEG Bahn Stuttgart
