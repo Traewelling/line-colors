@@ -696,10 +696,45 @@ mvv-regional-bus,684,,5-mvvrbu-684,#377a5d,#ffffff,,rectangle,,14943,Bus Münche
 mvv-regional-bus,687,,5-mvvrbu-687,#6a6153,#ffffff,,rectangle,,14943,Bus München
 mvv-regional-bus,688,,5-mvvrbu-688,#b8ae36,#ffffff,,rectangle,,14943,Bus München
 mvv-regional-bus,691,,5-mvvrbu-691,#4d8240,#ffffff,,rectangle,,14943,Bus München
-mvv-regional-bus,851,,5-mvvrbu-851,#91431f,#ffffff,,rectangle,,14943,Bus München
-mvv-regional-bus,857,,5-mvvrbu-857,#5b66a9,#ffffff,,rectangle,,14943,Bus München
-mvv-regional-bus,858,,5-mvvrbu-858,#769851,#ffffff,,rectangle,,14943,Bus München
-mvv-regional-bus,859,,5-mvvrbu-859,#2f4b6b,#ffffff,,rectangle,,14943,Bus München
+mvv-regional-bus,736,,,#3a67a6,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,803,,,#2f5465,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,804,,,#b8ae4c,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,805,,,#700734,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,807,,,#335b5f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,810,,,#a20a33,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,820,,,#68aa69,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,822,,,#afc454,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,823,,,#c4a8ba,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,825,,,#bd8d36,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,826,,,#49813f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,828,,,#5a9fdb,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,830,,,#86af3c,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,831,,,#2f5465,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,832,,,#477d94,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,835,,,#9d127d,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,838,,,#365f9a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,839,,,#c29a24,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,840,,,#2f5465,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,843,,,#294892,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,845,,,#2f5465,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,851,,5-mvvrbu-851,#b73624,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,852,,,#d48921,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,853,,,#baac44,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,854,,,#4d89c5,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,855,,,#4d89c5,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,856,,,#ccb0ab,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,857,,5-mvvrbu-857,#537bbc,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,858,,5-mvvrbu-858,#88ad5a,#ffffff,,rectangle,Q64518487,7687,MVV-Regionalbus
+mvv-regional-bus,859,,5-mvvrbu-859,#386482,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,860,,,#669339,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,861,,,#2f5465,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,862,,,#bc0a17,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,863,,,#8e598a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,871,,,#b20172,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,872,,,#386455,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,873,,,#5f7e39,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,874,,,#5a838e,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,875,,,#4d89c5,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,X200,,5-mvvrbu-x200,#9b7839,#ffffff,,rectangle,,7688,ExpressBus
 mvv-regional-bus,X201,,5-mvvrbu-x201,#35794d,#ffffff,,rectangle,Q75278052,7688,ExpressBus
 mvv-regional-bus,X202,,5-mvvrbu-x202,#883562,#ffffff,,rectangle,,7688,ExpressBus
