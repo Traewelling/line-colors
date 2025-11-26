@@ -2412,6 +2412,20 @@
         ]
     },
     {
+        "shortOperatorName": "vrs-rvk",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Busnetz 2025 - Bonn / Rhein-Sieg-Kreis (linksrheinisch)",
+                "source": "https://www.vrs.de/fileadmin/02_Verbindungen/Liniennetz/Schienen-_und_Busnetzplaene/Busnetz2025_BonnRheinSiegKreis_lrh.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrs-stadtbahn",
         "contributors": [
             {

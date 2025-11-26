@@ -2295,6 +2295,27 @@ vrs-kvb,193,,,#f39205,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,195,,,#f29ec4,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,196,,,#a85e24,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,197,,,#929292,#ffffff,,rectangle,,7969,Kölner VB
+vrs-rvk,740,,,#929292,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,741,,,#929292,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,745,,,#929292,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,747,,,#929292,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,749,,,#929292,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,751,,,#929292,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,753,,,#929292,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,800,,,#B66E11,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,812,,,#6A8CC7,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,817,,,#958D00,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,818,,,#CBBE00,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,843,,,#B81E8E,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,845,,,#F6941F,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,855,,,#EA028C,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,856,,,#EA028C,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,857,,,#0089D0,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,858,,,#00A856,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,859,,,#98CA3D,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,880,,,#000000,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,881,,,#A95FA6,#ffffff,,rectangle,7974,Meckenheim
+vrs-rvk,882,,,#1596B3,#ffffff,,rectangle,7974,Meckenheim
 vrs-stadtbahn,1,,8-vrs001-1,#e1081c,#ffffff,,rectangle-rounded-corner,Q63442516,7969,Kölner VB
 vrs-stadtbahn,3,,8-vrs001-3,#f29ec2,#ffffff,,rectangle-rounded-corner,Q63442521,7969,Kölner VB
 vrs-stadtbahn,4,,8-vrs001-4,#eb72a5,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
