@@ -974,6 +974,17 @@ nvs,16,,5-vwmbus-16,#a65a44,#ffffff,,pill,,8219,Schwerin Bus
 nvs,17,,5-vwmbus-17,#afca05,#ffffff,,pill,,8219,Schwerin Bus
 nvs,18,,5-vwmbus-18,#00963f,#ffffff,,pill,,8219,Schwerin Bus
 nvs,19,,5-vwmbus-19,#f7a940,#ffffff,,pill,,8219,Schwerin Bus
+nvv-kassel-tram,1,,,#e30513,#ffffff,,rectangle,,9142,KVG Tram
+nvv-kassel-tram,2,,,#ffffff,#0069b4,#0069b4,rectangle,,9142,KVG Tram
+nvv-kassel-tram,3,,,#94c11e,#ffffff,,rectangle,,9142,KVG Tram
+nvv-kassel-tram,4,,,#f08100,#ffffff,,rectangle,,9142,KVG Tram
+nvv-kassel-tram,5,,,#7e5ca3,#ffffff,,rectangle,,9142,KVG Tram
+nvv-kassel-tram,6,,,#894e37,#ffffff,,rectangle,,9142,KVG Tram
+nvv-kassel-tram,7,,,#fbb900,#ffffff,,rectangle,,9142,KVG Tram
+nvv-kassel-tram,8,,,#00a4df,#ffffff,,rectangle,,9142,KVG Tram
+nvv-rt,RT1,,,#e30513,#ffffff,,rectangle,,9142,KVG Tram
+nvv-rt,RT4,,,#e30513,#ffffff,,rectangle,,9142,KVG Tram
+nvv-rt,RT5,,,#e30513,#ffffff,,rectangle,,9142,KVG Tram
 oberpfalzbahn-dlb,RB 23,oberpfalzbahn-die-landerbahn-gmbh-dlb,rb23,#6cc3d9,#ffffff,,rectangle,,10923,oberpfalzbahn - Die Länderbahn GmbH DLB
 oberpfalzbahn-dlb,RB 27,oberpfalzbahn-die-landerbahn-gmbh-dlb,rb27,#ffb200,#ffffff,,rectangle,,10923,oberpfalzbahn - Die Länderbahn GmbH DLB
 oberpfalzbahn-dlb,RB 28,oberpfalzbahn-die-landerbahn-gmbh-dlb,rb28,#90bf26,#ffffff,,rectangle,,10923,oberpfalzbahn - Die Länderbahn GmbH DLB
