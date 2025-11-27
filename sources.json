@@ -826,6 +826,10 @@
             {
                 "name": "MVV Gesamtfahrplan",
                 "source": "https://www.mvg.de/dam/jcr:6ec4cb8c-46c8-4f87-90ec-b1578c56b0df/MVV-Gesamtfahrplan_2025_241222_web.pdf"
+            },
+            {
+                "name": "MVG Nachtlinien",
+                "source": "https://www.mvg.de/dam/jcr:f284bcc9-3751-4388-9a2e-b6e8917999b1/A4-Nachtnetz-2025-Web.pdf"
             }
         ]
     },
@@ -944,6 +948,20 @@
         ]
     },
     {
+        "shortOperatorName": "naldo-tuebus",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Stadtnetz Tübingen",
+                "source": "https://www.tuebus.de/fileadmin/user_upload/3Fahrgaeste/TueBus_2502_LNP_web.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "nvs",
         "contributors": [
             {
@@ -954,6 +972,34 @@
             {
                 "name": "Liniennetz Nahverkehr Schwerin",
                 "source": "https://www.nahverkehr-schwerin.de/_Resources/Persistent/5/9/d/5/59d5a5fd8655710d24f5ae6e26f6861f7dfac243/Liniennetz_2023-12-23.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "nvv-kassel-tram",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz KasselPlus",
+                "source": "https://www.kvg.de/fileadmin/kvg/Dokumente/Plaene/Netzplaene/2025/Liniennetz_KasselPlus_Schematisch.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "nvv-rt",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz KasselPlus",
+                "source": "https://www.kvg.de/fileadmin/kvg/Dokumente/Plaene/Netzplaene/2025/Liniennetz_KasselPlus_Schematisch.pdf"
             }
         ]
     },
@@ -1635,7 +1681,7 @@
         ]
     },
     {
-        "shortOperatorName": "sweg-stuttgart",
+        "shortOperatorName": "db-regio-stuttgart",
         "contributors": [
             {
                 "github": "oneiricbotcelot"
@@ -1656,6 +1702,10 @@
             {
                 "name": "Streckenfahrplan MEX12/RE10 2025",
                 "source": "https://www.sweg.de/fileadmin/user_upload/pdf/fahrplaene/stuttgart-neckartal/stuttgart-neckartal-2025/2025_Jahresfahrplan_Tuebingen-Mannheim_RE10-MEX12.pdf?version=1733907884"
+            },
+            {
+                "name": "Liniennetzkarte Regionalverkehr 2026",
+                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_14-12-2025_barrierefrei.pdf"
             }
         ]
     },
@@ -1856,6 +1906,28 @@
         ]
     },
     {
+        "shortOperatorName": "verkehrsbetriebe-bachstein",
+        "contributors": [
+            {
+                "github": "h1treX"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Busliniennetzplan Region Wolfsburg",
+                "source": "https://www.vb-bachstein.de/fileadmin/user/pdf/informationen/liniennetz_wolfsburg.pdf"
+            },
+            {
+                "name": "Busliniennetzplan Region Wolfenbüttel",
+                "source": "https://www.vb-bachstein.de/fileadmin/user/pdf/informationen/liniennetz_hornburg.PDF"
+            },
+            {
+                "name": "Liniennetzplan Region Salzgitter - Baddeckenstedt",
+                "source": "https://www.vb-bachstein.de/fileadmin/user/pdf/informationen/liniennetz_region_salzgitter_08-2025-2.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vgi-brb",
         "contributors": [
             {
@@ -1982,6 +2054,20 @@
         ]
     },
     {
+        "shortOperatorName": "vms-chemnitzbahn",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz City-Bahn Chemnitz",
+                "source": "https://www.city-bahn.de/wp-content/uploads/2023/02/cm2_netz_v_76641.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vmt-evag-tram",
         "contributors": [
             {
@@ -2065,6 +2151,20 @@
             }
         ]
     },
+    {
+        "shortOperatorName": "vpe-pforzheim",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Stadtverkehr Pforzheim",
+                "source": "https://www.pforzheimfaehrtbus.de/wp-content/uploads/2022/11/Liniennetzplan_SV-Pforzheim_2021-2022-2023.pdf"
+            }
+        ]
+    },    
     {
         "shortOperatorName": "vr",
         "contributors": [
@@ -2412,6 +2512,20 @@
         ]
     },
     {
+        "shortOperatorName": "vrs-rvk",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Busnetz 2025 - Bonn / Rhein-Sieg-Kreis (linksrheinisch)",
+                "source": "https://www.vrs.de/fileadmin/02_Verbindungen/Liniennetz/Schienen-_und_Busnetzplaene/Busnetz2025_BonnRheinSiegKreis_lrh.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrs-stadtbahn",
         "contributors": [
             {
@@ -2442,6 +2556,27 @@
             {
                 "name": "SWB Liniennetz Busse linksrheinisch 2024",
                 "source": "https://www.swb-busundbahn.de/fileadmin/fahrplandateien/liniennetzplaene/SLNP_Bonn_LiRhein.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrs-wupsi",
+        "contributors": [
+            {
+                "github": "chloe-haj"
+            },
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVB Busse in Köln 2024 - gesamt",
+                "source": "https://www.kvb.koeln/fahrtinfo/liniennetzplaene.html?INCLUDEMODUL=dokumente_einzeln2.mod/inc.download.php&downDokument=5078"
+            },
+            {
+                "name": "wupsi Busnetz Leverusen 2024",
+                "source": "https://www.wupsi.de/fileadmin/user_upload/Busnetz_Leverkusen_2024.pdf"
             }
         ]
     },
@@ -2646,6 +2781,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-ssb-bus",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "SSB Busliniennetzplan",
+                "source": "https://download.vvs.de/SSB-Busliniennetz_A0.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-ssb-nachtbus",
         "contributors": [
             {
@@ -2664,6 +2813,9 @@
         "contributors": [
             {
                 "github": "jheubuch"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
@@ -3013,6 +3165,24 @@
             {
                 "name": "Netzplan Regionallinien im Kreis Gütersloh",
                 "source": "https://owlverkehr.de/pdf/Liniennetzpl%C3%A4ne/2022_08_01_Netzplan_Regionallinien_KreisGT_Web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wvg-wolfsburg",
+        "contributors": [
+            {
+                "github": "h1treX"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetzplan für WOB gültig ab 21. Oktober 2024 (Mo - Sa: bis 20 Uhr)",
+                "source": "https://www.wvg.de/fileadmin/wvg/downloads/Fahrplaene_Stadtlinien_Schulfahrten/Liniennetz/Gesamtliniennetzplan_Bushaltestellen_mit_Legende_Nov_2024_01.pdf"
+            },
+            {
+                "name": "Bus-Liniennetzplan für WOB gültig ab 21. Oktober 2024 (Mo – Sa: ab 20 Uhr, Sonntag: ganztägig)",
+                "source": "https://www.wvg.de/fileadmin/wvg/downloads/Fahrplaene_Stadtlinien_Schulfahrten/Liniennetz/Gesamtliniennetzplan_Nacht.pdf"
             }
         ]
     },
