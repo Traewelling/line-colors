@@ -2417,6 +2417,20 @@
         ]
     },
     {
+        "shortOperatorName": "vrr-sr",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Linienplan Remscheid",
+                "source": "https://www.stadtwerke-remscheid.de/app/uploads/2025/05/Liniennetzplan_Tagverkehr_2024-1.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrr-swk",
         "contributors": [
             {
