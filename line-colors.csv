@@ -1857,6 +1857,18 @@ vos-osnabrueck,M2,,5-webos1-m2,#30277e,#ffffff,,rectangle,,7817,Verkehrsgemeinsc
 vos-osnabrueck,M3,,5-webos1-m3,#9ebf43,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
 vos-osnabrueck,M4,,5-webos1-m4,#c42f26,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
 vos-osnabrueck,M5,,5-webos1-m5,#d35b95,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+vpe-pforzheim,1,,,#0864af,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,2,,,#0abbee,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,3,,,#e32126,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,4,,,#0a9749,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,5,,,#c99e69,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,6,,,#f6ab1c,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,7,,,#fcd40a,#000000,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,9,,,#a13f91,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,10,,,#e85125,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,11,,,#a8b27b,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,16,,,#0386c8,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,17,,,#31b4a2,#ffffff,,rectangle-rounded-corner,,8103,RVS
 vr,A,vr,4-10-a,#8c4799,#ffffff,,rectangle-rounded-corner,Q118874158,,
 vr,D,vr,4-10-d,#58a618,#ffffff,,rectangle-rounded-corner,Q118874955,,
 vr,E,vr,4-10-e,#8c4799,#ffffff,,rectangle-rounded-corner,Q118869683,,
@@ -2271,41 +2283,9 @@ vrr-xbus,X28,,bus-x85,#6aac46,#ffffff,,rectangle,,,
 vrr-xbus,X32,,bus-x32,#6aac46,#ffffff,,rectangle,,7713,NIAG
 vrr-xbus,X42,,bus-x42,#6aac46,#ffffff,,rectangle,,7776,Stadtwerke Oberhausen
 vrr-xbus,X49,,bus-x49,#6aac46,#ffffff,,rectangle,,7790,Vestische Straßenbahnen GmbH Bus
-vrs-bus,201,,5-vrs003-201,#faad19,#ffffff,,rectangle,,,
-vrs-bus,202,,5-vrs003-202,#b8427d,#ffffff,,rectangle,,,
-vrs-bus,203,,5-vrs003-203,#f7abb2,#ffffff,,rectangle,,,
-vrs-bus,204,,5-vrs003-204,#1b81c4,#ffffff,,rectangle,,,
-vrs-bus,205,,5-vrs003-205,#1b81c4,#ffffff,,rectangle,,,
-vrs-bus,206,,5-vrs003-206,#00a956,#ffffff,,rectangle,,,
-vrs-bus,207,,5-vrs003-207,#f79832,#ffffff,,rectangle,,,
-vrs-bus,208,,5-vrs003-208,#d263a5,#ffffff,,rectangle,,,
-vrs-bus,209,,5-vrs003-209,#d263a5,#ffffff,,rectangle,,,
-vrs-bus,211,,5-vrs003-211,#ee1b2b,#ffffff,,rectangle,,,
-vrs-bus,212,,5-vrs003-212,#1cbfdf,#ffffff,,rectangle,,,
-vrs-bus,213,,5-vrs003-213,#aab2d9,#ffffff,,rectangle,,,
-vrs-bus,214,,5-vrs003-214,#1b81c4,#ffffff,,rectangle,,,
-vrs-bus,215,,5-vrs003-215,#835645,#ffffff,,rectangle,,,
-vrs-bus,217,,5-vrs003-217,#b56d38,#ffffff,,rectangle,,,
-vrs-bus,218,,5-vrs003-218,#7ea17b,#ffffff,,rectangle,,,
-vrs-bus,222,,5-vrs003-222,#00aaad,#ffffff,,rectangle,,,
-vrs-bus,227,,5-vrs003-227,#ac99c9,#ffffff,,rectangle,,,
-vrs-bus,229,,5-vrs003-229,#fec70c,#9c9c9c,,rectangle,,,
-vrs-bus,232,,5-vrs003-232,#f5864b,#ffffff,,rectangle,,,
-vrs-bus,244,,5-vrs003-244,#0090c6,#ffffff,,rectangle,,,
-vrs-bus,251,,5-vrs003-251,#c18ba5,#ffffff,,rectangle,,,
-vrs-bus,253,,5-vrs003-253,#91ce9a,#ffffff,,rectangle,,,
-vrs-bus,254,,5-vrs003-254,#faaa4a,#ffffff,,rectangle,,,
-vrs-bus,255,,5-vrs003-255,#007dad,#ffffff,,rectangle,,,
-vrs-bus,257,,5-vrs003-257,#a6565c,#ffffff,,rectangle,,,
-vrs-bus,258,,5-vrs003-258,#1ca852,#ffffff,,rectangle,,,
 vrs-bus,260,,,#86526b,#ffffff,,rectangle,,,
 vrs-bus,AST 227,,9-vrs003-227,#f36e31,#ffffff,,rectangle,,,
 vrs-bus,Berg. FahrradBus,,5-vrs016-bf,#000000,#ffffff,,rectangle,,,
-vrs-bus,SB20,,5-vrs003-sb20,#f36e31,#ffffff,,rectangle,,,
-vrs-bus,SB22,,5-vrs003-sb22,#a5612e,#ffffff,,rectangle,,,
-vrs-bus,SB23,,5-vrs003-sb23,#00a54f,#ffffff,,rectangle,,,
-vrs-bus,SB24,,5-vrs003-sb24,#008540,#ffffff,,rectangle,,,
-vrs-bus,SB25,,5-vrs003-sb25,#00a9e2,#ffffff,,rectangle,,,
 vrs-bus,SB33,,5-vrr076-sb33,#81c9ef,#ffffff,,rectangle,,,
 vrs-bus,SB42,,5-vrs003-sb25,#176438,#ffffff,,rectangle,,,
 vrs-bus,SB69,,5-vrs006-sb69,#df6a3c,#ffffff,,rectangle,,,
@@ -2371,6 +2351,27 @@ vrs-kvb,193,,,#f39205,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,195,,,#f29ec4,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,196,,,#a85e24,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,197,,,#929292,#ffffff,,rectangle,,7969,Kölner VB
+vrs-rvk,740,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,741,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,745,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,747,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,749,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,751,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,753,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,800,,,#b66e11,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,812,,,#6a8cc7,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,817,,,#958d00,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,818,,,#cbbe00,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,843,,,#b81e8e,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,845,,,#f6941f,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,855,,,#ea028c,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,856,,,#ea028c,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,857,,,#0089d0,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,858,,,#00a856,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,859,,,#98ca3d,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,880,,,#000000,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,881,,,#a95fa6,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,882,,,#1596b3,#ffffff,,rectangle,,7974,Meckenheim
 vrs-stadtbahn,1,,8-vrs001-1,#e1081c,#ffffff,,rectangle-rounded-corner,Q63442516,7969,Kölner VB
 vrs-stadtbahn,3,,8-vrs001-3,#f29ec2,#ffffff,,rectangle-rounded-corner,Q63442521,7969,Kölner VB
 vrs-stadtbahn,4,,8-vrs001-4,#eb72a5,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
@@ -2417,6 +2418,38 @@ vrs-swb,637,,,#e86741,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,638,,,#e86741,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,639,,,#a65c41,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,SB60,,,#859268,#ffffff,,rectangle,,7971,Stadtwerke Bonn
+vrs-wupsi,201,,5-vrs003-201,#faad19,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,202,,5-vrs003-202,#b8427d,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,203,,5-vrs003-203,#f7abb2,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,204,,5-vrs003-204,#1b81c4,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,205,,5-vrs003-205,#1b81c4,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,206,,5-vrs003-206,#00a956,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,207,,5-vrs003-207,#f79832,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,208,,5-vrs003-208,#d263a5,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,209,,5-vrs003-209,#d263a5,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,211,,5-vrs003-211,#ee1b2b,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,212,,5-vrs003-212,#1cbfdf,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,213,,5-vrs003-213,#aab2d9,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,214,,5-vrs003-214,#1b81c4,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,215,,5-vrs003-215,#835645,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,217,,5-vrs003-217,#b56d38,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,218,,5-vrs003-218,#7ea17b,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,222,,5-vrs003-222,#00aaad,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,227,,5-vrs003-227,#ac99c9,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,229,,5-vrs003-229,#fec70c,#9c9c9c,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,232,,5-vrs003-232,#f5864b,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,244,,5-vrs003-244,#0090c6,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,251,,5-vrs003-251,#c18ba5,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,253,,5-vrs003-253,#91ce9a,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,254,,5-vrs003-254,#faaa4a,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,255,,5-vrs003-255,#007dad,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,257,,5-vrs003-257,#a6565c,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,258,,5-vrs003-258,#1ca852,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,SB20,,5-vrs003-sb20,#f36e31,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,SB22,,5-vrs003-sb22,#a5612e,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,SB23,,5-vrs003-sb23,#00a54f,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,SB24,,5-vrs003-sb24,#008540,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,SB25,,5-vrs003-sb25,#00a9e2,#ffffff,,rectangle,,9338,wupsi GmbH
 vst-oebb,S1,osterreichische-bundesbahnen,4-81-1-1714993-5236532,#0fa14a,#ffffff,,rectangle-rounded-corner,,,
 vst-oebb,S3,osterreichische-bundesbahnen,4-81-3-1714993-5236532,#ed028c,#ffffff,,rectangle-rounded-corner,,,
 vst-oebb,S5,osterreichische-bundesbahnen,4-81-5-1714993-5236532,#892890,#ffffff,,rectangle-rounded-corner,,,
