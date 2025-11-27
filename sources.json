@@ -2412,6 +2412,20 @@
         ]
     },
     {
+        "shortOperatorName": "vrs-rvk",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Busnetz 2025 - Bonn / Rhein-Sieg-Kreis (linksrheinisch)",
+                "source": "https://www.vrs.de/fileadmin/02_Verbindungen/Liniennetz/Schienen-_und_Busnetzplaene/Busnetz2025_BonnRheinSiegKreis_lrh.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrs-stadtbahn",
         "contributors": [
             {
@@ -2442,6 +2456,27 @@
             {
                 "name": "SWB Liniennetz Busse linksrheinisch 2024",
                 "source": "https://www.swb-busundbahn.de/fileadmin/fahrplandateien/liniennetzplaene/SLNP_Bonn_LiRhein.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrs-wupsi",
+        "contributors": [
+            {
+                "github": "chloe-haj"
+            },
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVB Busse in Köln 2024 - gesamt",
+                "source": "https://www.kvb.koeln/fahrtinfo/liniennetzplaene.html?INCLUDEMODUL=dokumente_einzeln2.mod/inc.download.php&downDokument=5078"
+            },
+            {
+                "name": "wupsi Busnetz Leverusen 2024",
+                "source": "https://www.wupsi.de/fileadmin/user_upload/Busnetz_Leverkusen_2024.pdf"
             }
         ]
     },
