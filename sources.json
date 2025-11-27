@@ -958,6 +958,34 @@
         ]
     },
     {
+        "shortOperatorName": "nvv-kassel-tram",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz KasselPlus",
+                "source": "https://www.kvg.de/fileadmin/kvg/Dokumente/Plaene/Netzplaene/2025/Liniennetz_KasselPlus_Schematisch.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "nvv-rt",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz KasselPlus",
+                "source": "https://www.kvg.de/fileadmin/kvg/Dokumente/Plaene/Netzplaene/2025/Liniennetz_KasselPlus_Schematisch.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "rvf-sbahn",
         "contributors": [
             {
