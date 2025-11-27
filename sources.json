@@ -470,6 +470,20 @@
         ]
     },
     {
+        "shortOperatorName": "infrago-GS-HA-W-K",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Generalsanierung Hagen-Wuppertal-Köln",
+                "source": "https://generalsanierung.db-ersatzverkehr.de/ersatzverkehr/Generalsanierungen/Hagen-Wuppertal-Koeln"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "hans",
         "contributors": [
             {
