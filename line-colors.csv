@@ -1776,6 +1776,26 @@ vdl,30,,,#a0d4db,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vdl,31,,,#b3a896,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vdl,32,,,#b3a896,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vdl,33,,,#a9ce26,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
+verkehrsbetriebe-bachstein,151,,,#009de2,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,153,,,#e20715,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,160,,,#009340,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,161,,,#312681,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,162,,,#f09100,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,163,,,#e5007c,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,165,,,#dfdb00,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,335,,,#94be1f,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,650,,,#a05292,#ffffff,,hexagon,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,656,,,#28225c,#ffffff,,hexagon,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,658,,,#e5213d,#ffffff,,hexagon,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,660,,,#f39200,#ffffff,,hexagon,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,750,,,#e2000e,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,751,,,#2e2482,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,752,,,#00953f,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,753,,,#35a9e0,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,754,,,#f39100,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,755,,,#dddb00,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,756,,,#e5007c,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,757,,,#82348b,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
 vgn-db-sbn,S 1,db-regio-ag-bayern,4-800721-1,#92292e,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 vgn-db-sbn,S 2,db-regio-ag-bayern,4-800721-2,#4dbd38,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 vgn-db-sbn,S 3,db-regio-ag-bayern,4-800721-3,#f1471d,#ffffff,,rectangle,,10446,DB Regio AG Bayern
