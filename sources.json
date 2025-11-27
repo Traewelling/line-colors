@@ -1906,6 +1906,28 @@
         ]
     },
     {
+        "shortOperatorName": "verkehrsbetriebe-bachstein",
+        "contributors": [
+            {
+                "github": "h1treX"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Busliniennetzplan Region Wolfsburg",
+                "source": "https://www.vb-bachstein.de/fileadmin/user/pdf/informationen/liniennetz_wolfsburg.pdf"
+            },
+            {
+                "name": "Busliniennetzplan Region Wolfenbüttel",
+                "source": "https://www.vb-bachstein.de/fileadmin/user/pdf/informationen/liniennetz_hornburg.PDF"
+            },
+            {
+                "name": "Liniennetzplan Region Salzgitter - Baddeckenstedt",
+                "source": "https://www.vb-bachstein.de/fileadmin/user/pdf/informationen/liniennetz_region_salzgitter_08-2025-2.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vgi-brb",
         "contributors": [
             {
@@ -3150,6 +3172,24 @@
             {
                 "name": "Netzplan Regionallinien im Kreis Gütersloh",
                 "source": "https://owlverkehr.de/pdf/Liniennetzpl%C3%A4ne/2022_08_01_Netzplan_Regionallinien_KreisGT_Web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wvg-wolfsburg",
+        "contributors": [
+            {
+                "github": "h1treX"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetzplan für WOB gültig ab 21. Oktober 2024 (Mo - Sa: bis 20 Uhr)",
+                "source": "https://www.wvg.de/fileadmin/wvg/downloads/Fahrplaene_Stadtlinien_Schulfahrten/Liniennetz/Gesamtliniennetzplan_Bushaltestellen_mit_Legende_Nov_2024_01.pdf"
+            },
+            {
+                "name": "Bus-Liniennetzplan für WOB gültig ab 21. Oktober 2024 (Mo – Sa: ab 20 Uhr, Sonntag: ganztägig)",
+                "source": "https://www.wvg.de/fileadmin/wvg/downloads/Fahrplaene_Stadtlinien_Schulfahrten/Liniennetz/Gesamtliniennetzplan_Nacht.pdf"
             }
         ]
     },

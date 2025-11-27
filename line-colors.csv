@@ -1800,6 +1800,26 @@ vdl,30,,,#a0d4db,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vdl,31,,,#b3a896,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vdl,32,,,#b3a896,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vdl,33,,,#a9ce26,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
+verkehrsbetriebe-bachstein,151,,,#009de2,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,153,,,#e20715,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,160,,,#009340,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,161,,,#312681,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,162,,,#f09100,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,163,,,#e5007c,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,165,,,#dfdb00,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,335,,,#94be1f,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,650,,,#a05292,#ffffff,,hexagon,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,656,,,#28225c,#ffffff,,hexagon,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,658,,,#e5213d,#ffffff,,hexagon,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,660,,,#f39200,#ffffff,,hexagon,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,750,,,#e2000e,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,751,,,#2e2482,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,752,,,#00953f,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,753,,,#35a9e0,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,754,,,#f39100,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,755,,,#dddb00,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,756,,,#e5007c,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,757,,,#82348b,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
 vgn-db-sbn,S 1,db-regio-ag-bayern,4-800721-1,#92292e,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 vgn-db-sbn,S 2,db-regio-ag-bayern,4-800721-2,#4dbd38,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 vgn-db-sbn,S 3,db-regio-ag-bayern,4-800721-3,#f1471d,#ffffff,,rectangle,,10446,DB Regio AG Bayern
@@ -2995,6 +3015,24 @@ wt-swms,N82,,,#d93932,#ffffff,,rectangle,,7813,Stadtwerke Münster
 wt-swms,N83,,,#3b87ca,#ffffff,,rectangle,,7813,Stadtwerke Münster
 wt-swms,N84,,,#9669a7,#ffffff,,rectangle,,7813,Stadtwerke Münster
 wt-swms,N85,,,#e8993f,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wvg-wolfsburg,201,,,#e44b48,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,202,,,#2cbca9,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,203,,,#6558a6,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,204,,,#e7b011,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,211,,,#00bee8,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,212,,,#f4822a,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,213,,,#229a9f,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,215,,,#25b34b,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,216,,,#a4ce3a,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,218,,,#0082c5,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,221,,,#900f11,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,222,,,#006d70,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,223,,,#42357a,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,224,,,#c25d2b,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,225,,,#0d7a31,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,226,,,#779b29,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,227,,,#064d80,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,230,,,#00944e,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
 zvnl-bus,60,,5-naslvb-60,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
 zvnl-bus,65,,5-naslvb-65,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
 zvnl-bus,70,,5-naslvb-70,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
