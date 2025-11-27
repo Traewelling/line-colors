@@ -60,6 +60,39 @@ bsvg-braunschweig,4,,,#009ee2,#ffffff,,rectangle,Q121253960,12021,Braunschweiger
 bsvg-braunschweig,4E,,,#009ee2,#ffffff,,rectangle,Q121253960,12021,Braunschweiger Verkehrs-GmbH
 bsvg-braunschweig,5,,,#f39100,#ffffff,,rectangle,Q121253961,12021,Braunschweiger Verkehrs-GmbH
 bsvg-braunschweig,5E,,,#f39100,#ffffff,,rectangle,Q121253961,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,411,,,#b1a85c,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,412,,,#009ee2,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,413,,,#00953e,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,414,,,#5ac5f1,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,416,,,#f39100,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,417,,,#9b9c9c,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,418,,,#d35c9e,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,419,,,#0068b3,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,420,,,#6e6e6d,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,421,,,#c14d96,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,422,,,#9b0600,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,423,,,#9b0600,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,424,,,#e0b500,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,426,,,#804796,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,427,,,#70ba6e,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,430,,,#6e6e6d,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,431,,,#ebc56b,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,433,,,#ec6da6,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,434,,,#a20600,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,435,,,#e2000a,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,436,,,#0f3f93,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,437,,,#9b9c9c,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,445,,,#8bbd1d,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,450,,,#6e6e6d,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,454,,,#ffd000,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,455,,,#9b9c9c,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,464,,,#9b9c9c,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,465,,,#e94d33,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,466,,,#e94d33,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,471,,,#23318a,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,480,,,#6e6e6d,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,481,,,#9b9c9c,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
+bsvg-braunschweig,482,,,#8bbd1d,#ffffff,,rectangle,,12021,Braunschweiger Verkehrs-GmbH
 ceske-drahy,RE 25,ceske-drahy,ex-352,#006666,#ffffff,,rectangle,,12634,Ceske Drahy
 ceske-drahy,RE 25,ceske-drahy,ex-354,#006666,#ffffff,,rectangle,,12634,Ceske Drahy
 ceske-drahy,RE 25,ceske-drahy,ex-362,#006666,#ffffff,,rectangle,,12634,Ceske Drahy
@@ -69,30 +102,37 @@ cfl,RB 83,cfl,rb-83,#895da7,#ffffff,,rectangle,,10459,CFL1
 cfl,RB 87,cfl,rb-87,#895da7,#ffffff,,rectangle,,10459,CFL1
 db-fernverkehr-ag,RE 87,db-fernverkehr-ag,re-87,#cc0066,#ffffff,,rectangle,,10918,DB Fernverkehr (Codesharing)
 db-regio-ag-baden-wurttemberg,RE 2,db-regio-ag-baden-wurttemberg,re-2,#0069b4,#ffffff,,rectangle,Q88627355,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 3,db-regio-ag-baden-wurttemberg,re-3,#e5007d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RE 3,db-regio-ag-baden-wurttemberg,re-3,#e5007d,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RB 3,,,#e5007d,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
 db-regio-ag-baden-wurttemberg,RE 4,db-regio-ag-baden-wurttemberg,re-4,#a05a2c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 5,db-regio-ag-baden-wurttemberg,re-5,#724019,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 6,db-regio-ag-baden-wurttemberg,re-6,#4d4d4d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RE 5,,,#724019,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RE 6,,,#4d4d4d,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RB 6,,,#4d4d4d,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
 db-regio-ag-baden-wurttemberg,RE 7,db-regio-ag-baden-wurttemberg,re-7,#ed6e19,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 14a,db-regio-ag-baden-wurttemberg,14a,#f39794,#000000,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 14b,db-regio-ag-baden-wurttemberg,14b,#02aa9e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RE 14a,,,#f39794,#000000,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 14a,,,#f39794,#000000,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RE 14b,,,#02aa9e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 14b,,,#02aa9e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,MEX 19,db-regio-ag-baden-wurttemberg,19,#999999,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 26,db-regio-ag-baden-wurttemberg,rb-26,#009fe3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 27,db-regio-ag-baden-wurttemberg,rb-27,#008c3c,#ffffff,,rectangle,Q130280632,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 28,db-regio-ag-baden-wurttemberg,rb-28,#724019,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 30,db-regio-ag-baden-wurttemberg,rb-30,#571d70,#ffffff,,rectangle,Q130280647,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 31,db-regio-ag-baden-wurttemberg,rb-31,#00a99d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 32,db-regio-ag-baden-wurttemberg,rb-32,#008c3c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 37,db-regio-ag-baden-wurttemberg,rb-37,#aec90a,#ffffff,,rectangle,Q130283617,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 50,db-regio-ag-baden-wurttemberg,re-50,#b5931c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 52,db-regio-ag-baden-wurttemberg,rb-52,#00a99d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 53,db-regio-ag-baden-wurttemberg,rb-53,#561c6f,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 55,db-regio-ag-baden-wurttemberg,re-55,#b0599e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 63,db-regio-ag-baden-wurttemberg,rb-63,#d30730,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 72,db-regio-ag-baden-wurttemberg,rb-72,#008c3c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 74,db-regio-ag-baden-wurttemberg,rb-74,#0a69b2,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 93,db-regio-ag-baden-wurttemberg,rb-93,#009fe3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 93,db-regio-ag-baden-wurttemberg,re-93,#009fe3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RE 31,,,#00a99d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 32,,,#008c3c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 37,,,#aec90a,#ffffff,,rectangle,Q130283617,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RE 50,,,#b5931c,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RB 52,,,#00a99d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 53,,,#561c6f,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 53,,,#561c6f,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RE 55,,,#b0599e,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RB 55,,,#b0599e,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RB 63,,,#d30730,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RB 72,,,#008c3c,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RB 74,,,#0a69b2,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RB 93,,,#009fe3,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RE 93,,,#009fe3,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
 db-regio-ag-baden-wurttemberg,MEX 90,db-regio-ag-baden-wurttemberg,90,#e5007d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 200,db-regio-ag-baden-wurttemberg,re-200,#aa0344,#ffffff,,rectangle,Q114680512,10443,DB Regio AG Baden-Württemberg
 db-regio-bayern,RB 6,db-regio-ag-bayern,rb-6,#e50000,#ffffff,,rectangle,,10446,DB Regio AG Bayern
@@ -160,7 +200,7 @@ db-regio-bayern,RE 79,db-regio-ag-bayern,re-79,#800080,#ffffff,,rectangle,,10446
 db-regio-mitte,RE1,db-regio-ag-mitte-suwex,re-1,#be1b40,#ffffff,,rectangle-rounded-corner,Q112773387,10445,SÜWEX
 db-regio-mitte,RE2,db-regio-ag-mitte-suwex,re-2,#e3a023,#ffffff,,rectangle-rounded-corner,,10445,SÜWEX
 db-regio-mitte,RE4,db-regio-ag-mitte-suwex,re-4,#970c7e,#ffffff,,rectangle-rounded-corner,Q112996721,10445,SÜWEX
-db-regio-mitte,RE6,db-regio-ag-mitte,re-6,#f15921,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RE6,db-regio-ag-mitte,re-6,#f15921,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
 db-regio-mitte,RE 11,db-regio-ag-mitte-suwex,re-11,#895da7,#ffffff,,rectangle,,10445,SÜWEX
 db-regio-mitte,RE14,db-regio-ag-mitte-suwex,re-14,#970c7e,#ffffff,,rectangle-rounded-corner,Q112996572,10445,SÜWEX
 db-regio-mitte,RE20,db-regio-ag-mitte,re-20,#ee1d23,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
@@ -171,9 +211,9 @@ db-regio-mitte,RE30,db-regio-ag-mitte,re-30,#e30019,#ffffff,,rectangle-rounded-c
 db-regio-mitte,RB45,db-regio-ag-mitte,rb-45,#8bc63f,#ffffff,,rectangle-rounded-corner,Q98152720,10440,DB Regio AG Mitte Region Hessen
 db-regio-mitte,RB46,db-regio-ag-mitte,rb-46,#00805f,#ffffff,,rectangle-rounded-corner,Q98152733,10440,DB Regio AG Mitte Region Hessen
 db-regio-mitte,RE50,db-regio-ag-mitte,re-50,#e30019,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RB51,db-regio-ag-mitte,rb-51,#00805f,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RB53,db-regio-ag-mitte,rb-53,#40ae49,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RB55,db-regio-ag-mitte,rb-55,#005824,#ffffff,,rectangle-rounded-corner,Q108435213,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RB51,db-regio-ag-mitte,rb-51,#00805f,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
+db-regio-mitte,RB53,db-regio-ag-mitte,rb-53,#40ae49,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
+db-regio-mitte,RB55,db-regio-ag-mitte,rb-55,#005824,#ffffff,,rectangle-rounded-corner,Q108435213,10449,DB Regio AG Mitte Region Südwest
 db-regio-mitte,RE40,db-regio-ag-mitte,re-40,#ff9027,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
 db-regio-mitte,RB41,db-regio-ag-mitte,rb-41,#00ab4f,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
 db-regio-mitte,RB44,db-regio-ag-mitte,rb-44,#7ac547,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
@@ -229,6 +269,20 @@ db-regio-nordost,S1,db-regio-ag-nordost,4-800156-1,#00a998,#ffffff,,rectangle,,1
 db-regio-nordost,S2,db-regio-ag-nordost,4-800156-2,#a0138e,#ffffff,,rectangle,,10434,DB Regio AG Nordost
 db-regio-nordost,S2X,db-regio-ag-nordost,4-800156-2x,#a0138e,#ffffff,,rectangle,,10434,DB Regio AG Nordost
 db-regio-nordost,S3,db-regio-ag-nordost,4-800156-3,#a64c35,#ffffff,,rectangle,,10434,DB Regio AG Nordost
+db-regio-stuttgart,RE 6,,,#ebaf2d,#ffffff,,rectangle,Q131584411,14172,SWEG Bahn Stuttgart
+db-regio-stuttgart,RE 10a,,,#9f5a2c,#ffffff,,rectangle,Q131584412,14172,SWEG Bahn Stuttgart
+db-regio-stuttgart,RE 10b,,,#9f5a2c,#ffffff,,rectangle,Q131584450,14172,SWEG Bahn Stuttgart
+db-regio-stuttgart,RE 18,,,#009c48,#ffffff,,rectangle,Q131583931,14172,SWEG Bahn Stuttgart
+db-regio-stuttgart,RE 71,,,#b6921d,#ffffff,,rectangle,Q131584454,14172,SWEG Bahn Stuttgart
+db-regio-stuttgart,MEX 12,,,#f27320,#ffffff,,rectangle,Q131584405,14172,SWEG Bahn Stuttgart
+db-regio-stuttgart,MEX 17,,,#561d6f,#ffffff,,rectangle,Q131584401,14172,SWEG Bahn Stuttgart
+db-regio-stuttgart,MEX 17a,,,#561d6f,#ffffff,,rectangle,Q131584401,14172,SWEG Bahn Stuttgart
+db-regio-stuttgart,MEX 17c,,,#ec2933,#ffffff,,rectangle,Q131584403,14172,SWEG Bahn Stuttgart
+db-regio-stuttgart,MEX 18,,,#009c48,#ffffff,,rectangle,Q131584398,14172,SWEG Bahn Stuttgart
+db-regio-stuttgart,RB 10a,,,#9f5a2c,#ffffff,,rectangle,Q131587496,14172,SWEG Bahn Stuttgart
+db-regio-stuttgart,RB 17,,,#561d6f,#ffffff,,rectangle,Q131584392,14172,SWEG Bahn Stuttgart
+db-regio-stuttgart,RB 18,,,#009c48,#ffffff,,rectangle,Q131583989,14172,SWEG Bahn Stuttgart
+db-regio-stuttgart,RB 71,,,#ec2933,#ffffff,,rectangle,Q131584394,14172,SWEG Bahn Stuttgart
 db-regio-sudost,RB 51,db-regio-ag-sudost,rb-51,#469cd7,#ffffff,,rectangle,,10437,DB Regio AG Südost
 db-regio-sudost,RE 7,db-regio-ag-sudost,re-7,#992e00,#ffffff,,rectangle,Q1885609,10437,DB Regio AG Südost
 db-regio-sudost,RE 13,db-regio-ag-sudost,re-13,#ebaa3b,#ffffff,,rectangle,Q113505112,10437,DB Regio AG Südost
@@ -664,6 +718,8 @@ mvv-mvg-bus,196,,,#325868,#ffffff,,rectangle,,14943,Bus München
 mvv-mvg-bus,197,,,#325868,#ffffff,,rectangle,,14943,Bus München
 mvv-mvg-bus,198,,,#325868,#ffffff,,rectangle,,14943,Bus München
 mvv-mvg-bus,199,,,#31567e,#ffffff,,rectangle,,14943,Bus München
+mvv-mvg-bus,N80,,,#ffffff,#2f5465,#2f5465,rectangle,,14941,NachtBus München
+mvv-mvg-bus,N81,,,#ffffff,#2f5465,#2f5465,rectangle,,14941,NachtBus München
 mvv-mvg-bus,X30,,,#798674,#ffffff,,rectangle,Q63436634,14942,ExpressBus München
 mvv-mvg-bus,X35,,,#b5a226,#ffffff,,rectangle,,14942,ExpressBus München
 mvv-mvg-bus,X36,,,#657077,#ffffff,,rectangle,,14942,ExpressBus München
@@ -707,10 +763,52 @@ mvv-regional-bus,684,,5-mvvrbu-684,#377a5d,#ffffff,,rectangle,,14943,Bus Münche
 mvv-regional-bus,687,,5-mvvrbu-687,#6a6153,#ffffff,,rectangle,,14943,Bus München
 mvv-regional-bus,688,,5-mvvrbu-688,#b8ae36,#ffffff,,rectangle,,14943,Bus München
 mvv-regional-bus,691,,5-mvvrbu-691,#4d8240,#ffffff,,rectangle,,14943,Bus München
-mvv-regional-bus,851,,5-mvvrbu-851,#91431f,#ffffff,,rectangle,,14943,Bus München
-mvv-regional-bus,857,,5-mvvrbu-857,#5b66a9,#ffffff,,rectangle,,14943,Bus München
-mvv-regional-bus,858,,5-mvvrbu-858,#769851,#ffffff,,rectangle,,14943,Bus München
-mvv-regional-bus,859,,5-mvvrbu-859,#2f4b6b,#ffffff,,rectangle,,14943,Bus München
+mvv-regional-bus,736,,,#3a67a6,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,803,,,#2f5465,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,804,,,#b8ae4c,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,805,,,#700734,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,807,,,#335b5f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,810,,,#a20a33,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,820,,,#68aa69,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,822,,,#afc454,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,823,,,#c4a8ba,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,825,,,#bd8d36,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,826,,,#49813f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,828,,,#5a9fdb,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,830,,,#86af3c,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,831,,,#2f5465,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,832,,,#477d94,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,835,,,#9d127d,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,838,,,#365f9a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,839,,,#c29a24,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,840,,,#2f5465,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,843,,,#294892,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,845,,,#2f5465,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,851,,5-mvvrbu-851,#b73624,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,852,,,#d48921,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,853,,,#baac44,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,854,,,#4d89c5,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,855,,,#4d89c5,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,856,,,#ccb0ab,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,857,,5-mvvrbu-857,#537bbc,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,858,,5-mvvrbu-858,#88ad5a,#ffffff,,rectangle,Q64518487,7687,MVV-Regionalbus
+mvv-regional-bus,859,,5-mvvrbu-859,#386482,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,860,,,#669339,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,861,,,#2f5465,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,862,,,#bc0a17,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,863,,,#8e598a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,871,,,#b20172,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,872,,,#386455,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,873,,,#5f7e39,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,874,,,#5a838e,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,875,,,#4d89c5,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,8000,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,8200,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,8300,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,8400,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,8500,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,8700,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,8800,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi  
 mvv-regional-bus,X200,,5-mvvrbu-x200,#9b7839,#ffffff,,rectangle,,7688,ExpressBus
 mvv-regional-bus,X201,,5-mvvrbu-x201,#35794d,#ffffff,,rectangle,Q75278052,7688,ExpressBus
 mvv-regional-bus,X202,,5-mvvrbu-x202,#883562,#ffffff,,rectangle,,7688,ExpressBus
@@ -776,6 +874,21 @@ nah-sh,RE 83,erixx,erx-re83,#2d53a0,#ffffff,,rectangle,,10966,erixx
 nah-sh,RB 84,erixx,erx-rb84,#e4afd2,#000000,,rectangle,,10966,erixx
 nah-sh,RB 85,db-regio-ag-nord,rb-85,#fbb902,#000000,,rectangle,,10435,DB Regio AG Nord
 nah-sh,X 85,db-regio-ag-nord,3-b1-x85,#a9b85d,#ffffff,,rectangle,,10435,DB Regio AG Nord
+naldo-tuebus,1,,,#ce2c23,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,3,,,#cc6326,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,4,,,#92c398,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,5,,,#58102f,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,6,,,#bd9b69,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,7,,,#f9dc4a,#000000,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,8,,,#718cbd,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,9,,,#77afb0,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,10,,,#d7da47,#000000,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,11,,,#326baf,#000000,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,12,,,#cd6fa1,#000000,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,13,,,#598092,#000000,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,14,,,#205064,#000000,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,17,,,#94207b,#000000,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,19,,,#58227c,#000000,,pill,,8140,Stadtverkehr Tübingen GmbH
 neb-niederbarnimer-eisenbahn,RB12,neb-niederbarnimer-eisenbahn,rb-12,#a5027d,#ffffff,,rectangle,,10912,NEB Niederbarnimer Eisenbahn
 neb-niederbarnimer-eisenbahn,RB25,neb-niederbarnimer-eisenbahn,rb-25,#007cb0,#ffffff,,rectangle,,10912,NEB Niederbarnimer Eisenbahn
 neb-niederbarnimer-eisenbahn,RB26,neb-niederbarnimer-eisenbahn,rb-26,#009686,#ffffff,,rectangle,,10912,NEB Niederbarnimer Eisenbahn
@@ -903,6 +1016,17 @@ nvs,16,,5-vwmbus-16,#a65a44,#ffffff,,pill,,8219,Schwerin Bus
 nvs,17,,5-vwmbus-17,#afca05,#ffffff,,pill,,8219,Schwerin Bus
 nvs,18,,5-vwmbus-18,#00963f,#ffffff,,pill,,8219,Schwerin Bus
 nvs,19,,5-vwmbus-19,#f7a940,#ffffff,,pill,,8219,Schwerin Bus
+nvv-kassel-tram,1,,,#e30513,#ffffff,,rectangle,,9142,KVG Tram
+nvv-kassel-tram,2,,,#ffffff,#0069b4,#0069b4,rectangle,,9142,KVG Tram
+nvv-kassel-tram,3,,,#94c11e,#ffffff,,rectangle,,9142,KVG Tram
+nvv-kassel-tram,4,,,#f08100,#ffffff,,rectangle,,9142,KVG Tram
+nvv-kassel-tram,5,,,#7e5ca3,#ffffff,,rectangle,,9142,KVG Tram
+nvv-kassel-tram,6,,,#894e37,#ffffff,,rectangle,,9142,KVG Tram
+nvv-kassel-tram,7,,,#fbb900,#ffffff,,rectangle,,9142,KVG Tram
+nvv-kassel-tram,8,,,#00a4df,#ffffff,,rectangle,,9142,KVG Tram
+nvv-rt,RT1,,,#e30513,#ffffff,,rectangle,,9142,KVG Tram
+nvv-rt,RT4,,,#e30513,#ffffff,,rectangle,,9142,KVG Tram
+nvv-rt,RT5,,,#e30513,#ffffff,,rectangle,,9142,KVG Tram
 oberpfalzbahn-dlb,RB 23,oberpfalzbahn-die-landerbahn-gmbh-dlb,rb23,#6cc3d9,#ffffff,,rectangle,,10923,oberpfalzbahn - Die Länderbahn GmbH DLB
 oberpfalzbahn-dlb,RB 27,oberpfalzbahn-die-landerbahn-gmbh-dlb,rb27,#ffb200,#ffffff,,rectangle,,10923,oberpfalzbahn - Die Länderbahn GmbH DLB
 oberpfalzbahn-dlb,RB 28,oberpfalzbahn-die-landerbahn-gmbh-dlb,rb28,#90bf26,#ffffff,,rectangle,,10923,oberpfalzbahn - Die Länderbahn GmbH DLB
@@ -1415,19 +1539,6 @@ svv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1451275-5318936,#3ab048,#ffffff,
 svv-slb,R33,salzburger-lokalbahnen,,#c22438,#ffffff,,rectangle-rounded-corner,,,
 svv-slb,S1,salzburger-lokalbahnen,4-810007-1,#c22438,#ffffff,,rectangle-rounded-corner,,,
 svv-slb,S11,salzburger-lokalbahnen,4-810007-11,#c22438,#ffffff,,rectangle-rounded-corner,,,
-sweg-stuttgart,RE 6,sweg-bahn-stuttgart-gmbh,re-6,#ebaf2d,#ffffff,,rectangle,Q131584411,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,RE 10a,sweg-bahn-stuttgart-gmbh,10a,#014f9f,#ffffff,,rectangle,Q131584412,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,RE 10b,sweg-bahn-stuttgart-gmbh,10b,#014f9f,#ffffff,,rectangle,Q131584450,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,RE 71,sweg-bahn-stuttgart-gmbh,re-71,#7db83f,#ffffff,,rectangle,Q131584454,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,MEX 12,sweg-bahn-stuttgart-gmbh,12,#f27320,#ffffff,,rectangle,Q131584405,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,MEX 17a,sweg-bahn-stuttgart-gmbh,17a,#00a9df,#ffffff,,rectangle,Q131584401,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,MEX 17c,sweg-bahn-stuttgart-gmbh,17c,#ec2933,#ffffff,,rectangle,Q131584403,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,MEX 18,sweg-bahn-stuttgart-gmbh,18,#009c48,#ffffff,,rectangle,Q131584398,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,RB 17a,sweg-bahn-stuttgart-gmbh,17a,#00a9df,#ffffff,,rectangle,Q131584392,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,RB 17c,sweg-bahn-stuttgart-gmbh,17c,#ec2933,#ffffff,,rectangle,Q131584394,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,RB 18,sweg-bahn-stuttgart-gmbh,rb-18,#009c48,#ffffff,,rectangle,Q131583989,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,RE 18,sweg-bahn-stuttgart-gmbh,re-18,#009c48,#ffffff,,rectangle,Q131583931,14172,SWEG Bahn Stuttgart
-sweg-stuttgart,RB 10a,sweg-bahn-stuttgart-gmbh,10a,#014f9f,#ffffff,,rectangle,Q131587496,14172,SWEG Bahn Stuttgart
 sweg-sudwest,RB 42,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb42,#088c3c,#ffffff,,rectangle,,7916,Südwestdeutsche-Verkehrs-AG
 sweg-sudwest,RB 42a,sweg-sudwestdeutsche-landesverkehrs-gmbh,swerb42a,#f06c1c,#ffffff,,rectangle,,7916,Südwestdeutsche-Verkehrs-AG
 sweg-sudwest,RB 43,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb43,#089ce4,#ffffff,,rectangle,,7916,Südwestdeutsche-Verkehrs-AG
@@ -1437,6 +1548,7 @@ sweg-sudwest,RB 66,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb66,#014f9f,#ff
 sweg-sudwest,RB 67,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb67,#00a9df,#ffffff,,rectangle,,7916,Südwestdeutsche-Verkehrs-AG
 sweg-sudwest,RB 68,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb68,#ec2933,#ffffff,,rectangle,,7916,Südwestdeutsche-Verkehrs-AG
 sweg-sudwest,RB 69,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rb69,#f27320,#ffffff,,rectangle,,7916,Südwestdeutsche-Verkehrs-AG
+sweg-sudwest,RB76,,,#aa0044,#ffffff,,rectangle,,7916,Südwestdeutsche-Verkehrs-AG
 sweg-sudwest,RS 1,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rs1,#1d4e9e,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
 sweg-sudwest,RS 11,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rs11,#009ddb,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
 sweg-sudwest,RS 12,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rs12,#74ba24,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
@@ -1694,6 +1806,26 @@ vdl,30,,,#a0d4db,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vdl,31,,,#b3a896,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vdl,32,,,#b3a896,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vdl,33,,,#a9ce26,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
+verkehrsbetriebe-bachstein,151,,,#009de2,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,153,,,#e20715,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,160,,,#009340,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,161,,,#312681,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,162,,,#f09100,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,163,,,#e5007c,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,165,,,#dfdb00,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,335,,,#94be1f,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,650,,,#a05292,#ffffff,,hexagon,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,656,,,#28225c,#ffffff,,hexagon,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,658,,,#e5213d,#ffffff,,hexagon,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,660,,,#f39200,#ffffff,,hexagon,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,750,,,#e2000e,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,751,,,#2e2482,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,752,,,#00953f,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,753,,,#35a9e0,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,754,,,#f39100,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,755,,,#dddb00,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,756,,,#e5007c,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+verkehrsbetriebe-bachstein,757,,,#82348b,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
 vgn-db-sbn,S 1,db-regio-ag-bayern,4-800721-1,#92292e,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 vgn-db-sbn,S 2,db-regio-ag-bayern,4-800721-2,#4dbd38,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 vgn-db-sbn,S 3,db-regio-ag-bayern,4-800721-3,#f1471d,#ffffff,,rectangle,,10446,DB Regio AG Bayern
@@ -1761,6 +1893,12 @@ vgn-vag-ubahn,U 3,,7-vanuba-3,#4dc2bb,#ffffff,,rectangle,,13651,U-Bahn Nürnberg
 vias,RB10,vias-gmbh,via-rb10,#e3a02e,#ffffff,,rectangle-rounded-corner,,10932,VIAS GmbH
 vlexx,RE3,vlexx,re-3,#e3a023,#ffffff,,rectangle-rounded-corner,,10951,vlexx
 vlexx,RE17,vlexx,re-17,#c77db4,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+vms-chemnitzbahn,C11,,,#ab98c4,#ffffff,,pill,,14974,Chemnitzer Modell1
+vms-chemnitzbahn,C13,,,#62b9bd,#ffffff,,pill,,14974,Chemnitzer Modell1
+vms-chemnitzbahn,C14,,,#edab53,#ffffff,,pill,,14974,Chemnitzer Modell1
+vms-chemnitzbahn,C15,,,#a8342e,#ffffff,,pill,,14974,Chemnitzer Modell1
+vms-chemnitzbahn,RB37,,,#2e4e95,#ffffff,,rectangle,,10851,City-Bahn Chemnitz
+vms-chemnitzbahn,RB92,,,#1c2851,#ffffff,,rectangle,,10851,City-Bahn Chemnitz
 vmt-evag-tram,1,,8-rmteva-1,#f18700,#ffffff,,rectangle,,11742,Erfurter Verkehrsbetriebe AG
 vmt-evag-tram,2,,8-rmteva-2,#e3000b,#ffffff,,rectangle,,11742,Erfurter Verkehrsbetriebe AG
 vmt-evag-tram,3,,8-rmteva-3,#67095f,#ffffff,,rectangle,,11742,Erfurter Verkehrsbetriebe AG
@@ -1819,6 +1957,18 @@ vos-osnabrueck,M2,,5-webos1-m2,#30277e,#ffffff,,rectangle,,7817,Verkehrsgemeinsc
 vos-osnabrueck,M3,,5-webos1-m3,#9ebf43,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
 vos-osnabrueck,M4,,5-webos1-m4,#c42f26,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
 vos-osnabrueck,M5,,5-webos1-m5,#d35b95,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+vpe-pforzheim,1,,,#0864af,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,2,,,#0abbee,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,3,,,#e32126,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,4,,,#0a9749,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,5,,,#c99e69,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,6,,,#f6ab1c,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,7,,,#fcd40a,#000000,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,9,,,#a13f91,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,10,,,#e85125,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,11,,,#a8b27b,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,16,,,#0386c8,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,17,,,#31b4a2,#ffffff,,rectangle-rounded-corner,,8103,RVS
 vr,A,vr,4-10-a,#8c4799,#ffffff,,rectangle-rounded-corner,Q118874158,,
 vr,D,vr,4-10-d,#58a618,#ffffff,,rectangle-rounded-corner,Q118874955,,
 vr,E,vr,4-10-e,#8c4799,#ffffff,,rectangle-rounded-corner,Q118869683,,
@@ -2233,41 +2383,9 @@ vrr-xbus,X28,,bus-x85,#6aac46,#ffffff,,rectangle,,,
 vrr-xbus,X32,,bus-x32,#6aac46,#ffffff,,rectangle,,7713,NIAG
 vrr-xbus,X42,,bus-x42,#6aac46,#ffffff,,rectangle,,7776,Stadtwerke Oberhausen
 vrr-xbus,X49,,bus-x49,#6aac46,#ffffff,,rectangle,,7790,Vestische Straßenbahnen GmbH Bus
-vrs-bus,201,,5-vrs003-201,#faad19,#ffffff,,rectangle,,,
-vrs-bus,202,,5-vrs003-202,#b8427d,#ffffff,,rectangle,,,
-vrs-bus,203,,5-vrs003-203,#f7abb2,#ffffff,,rectangle,,,
-vrs-bus,204,,5-vrs003-204,#1b81c4,#ffffff,,rectangle,,,
-vrs-bus,205,,5-vrs003-205,#1b81c4,#ffffff,,rectangle,,,
-vrs-bus,206,,5-vrs003-206,#00a956,#ffffff,,rectangle,,,
-vrs-bus,207,,5-vrs003-207,#f79832,#ffffff,,rectangle,,,
-vrs-bus,208,,5-vrs003-208,#d263a5,#ffffff,,rectangle,,,
-vrs-bus,209,,5-vrs003-209,#d263a5,#ffffff,,rectangle,,,
-vrs-bus,211,,5-vrs003-211,#ee1b2b,#ffffff,,rectangle,,,
-vrs-bus,212,,5-vrs003-212,#1cbfdf,#ffffff,,rectangle,,,
-vrs-bus,213,,5-vrs003-213,#aab2d9,#ffffff,,rectangle,,,
-vrs-bus,214,,5-vrs003-214,#1b81c4,#ffffff,,rectangle,,,
-vrs-bus,215,,5-vrs003-215,#835645,#ffffff,,rectangle,,,
-vrs-bus,217,,5-vrs003-217,#b56d38,#ffffff,,rectangle,,,
-vrs-bus,218,,5-vrs003-218,#7ea17b,#ffffff,,rectangle,,,
-vrs-bus,222,,5-vrs003-222,#00aaad,#ffffff,,rectangle,,,
-vrs-bus,227,,5-vrs003-227,#ac99c9,#ffffff,,rectangle,,,
-vrs-bus,229,,5-vrs003-229,#fec70c,#9c9c9c,,rectangle,,,
-vrs-bus,232,,5-vrs003-232,#f5864b,#ffffff,,rectangle,,,
-vrs-bus,244,,5-vrs003-244,#0090c6,#ffffff,,rectangle,,,
-vrs-bus,251,,5-vrs003-251,#c18ba5,#ffffff,,rectangle,,,
-vrs-bus,253,,5-vrs003-253,#91ce9a,#ffffff,,rectangle,,,
-vrs-bus,254,,5-vrs003-254,#faaa4a,#ffffff,,rectangle,,,
-vrs-bus,255,,5-vrs003-255,#007dad,#ffffff,,rectangle,,,
-vrs-bus,257,,5-vrs003-257,#a6565c,#ffffff,,rectangle,,,
-vrs-bus,258,,5-vrs003-258,#1ca852,#ffffff,,rectangle,,,
 vrs-bus,260,,,#86526b,#ffffff,,rectangle,,,
 vrs-bus,AST 227,,9-vrs003-227,#f36e31,#ffffff,,rectangle,,,
 vrs-bus,Berg. FahrradBus,,5-vrs016-bf,#000000,#ffffff,,rectangle,,,
-vrs-bus,SB20,,5-vrs003-sb20,#f36e31,#ffffff,,rectangle,,,
-vrs-bus,SB22,,5-vrs003-sb22,#a5612e,#ffffff,,rectangle,,,
-vrs-bus,SB23,,5-vrs003-sb23,#00a54f,#ffffff,,rectangle,,,
-vrs-bus,SB24,,5-vrs003-sb24,#008540,#ffffff,,rectangle,,,
-vrs-bus,SB25,,5-vrs003-sb25,#00a9e2,#ffffff,,rectangle,,,
 vrs-bus,SB33,,5-vrr076-sb33,#81c9ef,#ffffff,,rectangle,,,
 vrs-bus,SB42,,5-vrs003-sb25,#176438,#ffffff,,rectangle,,,
 vrs-bus,SB69,,5-vrs006-sb69,#df6a3c,#ffffff,,rectangle,,,
@@ -2333,6 +2451,27 @@ vrs-kvb,193,,,#f39205,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,195,,,#f29ec4,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,196,,,#a85e24,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,197,,,#929292,#ffffff,,rectangle,,7969,Kölner VB
+vrs-rvk,740,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,741,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,745,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,747,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,749,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,751,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,753,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,800,,,#b66e11,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,812,,,#6a8cc7,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,817,,,#958d00,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,818,,,#cbbe00,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,843,,,#b81e8e,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,845,,,#f6941f,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,855,,,#ea028c,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,856,,,#ea028c,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,857,,,#0089d0,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,858,,,#00a856,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,859,,,#98ca3d,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,880,,,#000000,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,881,,,#a95fa6,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,882,,,#1596b3,#ffffff,,rectangle,,7974,Meckenheim
 vrs-stadtbahn,1,,8-vrs001-1,#e1081c,#ffffff,,rectangle-rounded-corner,Q63442516,7969,Kölner VB
 vrs-stadtbahn,3,,8-vrs001-3,#f29ec2,#ffffff,,rectangle-rounded-corner,Q63442521,7969,Kölner VB
 vrs-stadtbahn,4,,8-vrs001-4,#eb72a5,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
@@ -2379,6 +2518,38 @@ vrs-swb,637,,,#e86741,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,638,,,#e86741,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,639,,,#a65c41,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,SB60,,,#859268,#ffffff,,rectangle,,7971,Stadtwerke Bonn
+vrs-wupsi,201,,5-vrs003-201,#faad19,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,202,,5-vrs003-202,#b8427d,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,203,,5-vrs003-203,#f7abb2,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,204,,5-vrs003-204,#1b81c4,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,205,,5-vrs003-205,#1b81c4,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,206,,5-vrs003-206,#00a956,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,207,,5-vrs003-207,#f79832,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,208,,5-vrs003-208,#d263a5,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,209,,5-vrs003-209,#d263a5,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,211,,5-vrs003-211,#ee1b2b,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,212,,5-vrs003-212,#1cbfdf,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,213,,5-vrs003-213,#aab2d9,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,214,,5-vrs003-214,#1b81c4,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,215,,5-vrs003-215,#835645,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,217,,5-vrs003-217,#b56d38,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,218,,5-vrs003-218,#7ea17b,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,222,,5-vrs003-222,#00aaad,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,227,,5-vrs003-227,#ac99c9,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,229,,5-vrs003-229,#fec70c,#9c9c9c,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,232,,5-vrs003-232,#f5864b,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,244,,5-vrs003-244,#0090c6,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,251,,5-vrs003-251,#c18ba5,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,253,,5-vrs003-253,#91ce9a,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,254,,5-vrs003-254,#faaa4a,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,255,,5-vrs003-255,#007dad,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,257,,5-vrs003-257,#a6565c,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,258,,5-vrs003-258,#1ca852,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,SB20,,5-vrs003-sb20,#f36e31,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,SB22,,5-vrs003-sb22,#a5612e,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,SB23,,5-vrs003-sb23,#00a54f,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,SB24,,5-vrs003-sb24,#008540,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,SB25,,5-vrs003-sb25,#00a9e2,#ffffff,,rectangle,,9338,wupsi GmbH
 vst-oebb,S1,osterreichische-bundesbahnen,4-81-1-1714993-5236532,#0fa14a,#ffffff,,rectangle-rounded-corner,,,
 vst-oebb,S3,osterreichische-bundesbahnen,4-81-3-1714993-5236532,#ed028c,#ffffff,,rectangle-rounded-corner,,,
 vst-oebb,S5,osterreichische-bundesbahnen,4-81-5-1714993-5236532,#892890,#ffffff,,rectangle-rounded-corner,,,
@@ -2496,6 +2667,47 @@ vvs-lvl,451,,5-vvs031-451,#00b1eb,#ffffff,,rectangle,,7996,Privatunternehmer-Bus
 vvs-lvl,X43,,5-vvs031-x43,#ef7d00,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-osb,551,,5-vvs031-551,#e12b54,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-osb,551A,,5-vvs031-551a,#e12b54,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ssb-bus,X2,,,#302783,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,X4,,,#ec6ea6,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,X7,,,#008b3b,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,40,,,#ec6ea6,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,41,,,#e5007d,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,42,,,#ef7c00,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,43,,,#94c11e,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,44,,,#b10061,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,45,,,#2581c4,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,47,,,#e30513,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,50,,,#007631,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,52,,,#ec6ea6,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,53,,,#009ee3,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,54,,,#9c0f06,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,56,,,#ef7c00,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,57,,,#302783,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,58,,,#ef8161,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,59,,,#e30513,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,60,,,#fbb900,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,61,,,#eb609f,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,62,,,#00b0eb,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,64,,,#369a82,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,65,,,#ec6607,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,66,,,#13377f,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,70,,,#518095,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,71,,,#946379,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,72,,,#577c5f,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,73,,,#c3006b,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,74,,,#94c11e,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,76,,,#005ca9,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,77,,,#ea5a0b,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,80,,,#bb7a00,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,81,,,#9f4381,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,82,,,#0069b4,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,84,,,#d84c8c,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,86,,,#3aa935,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,90,,,#d6480b,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,91,,,#ef7c00,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,92,,,#009ee3,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,98,,,#951b81,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,99,,,#577c5f,#ffffff,,rectangle,,13477,Bus (SSB)
 vvs-ssb-nachtbus,N 1,,5-vvs033-n1,#3c389e,#ffffff,,rectangle,,7997,Nachtbus (SSB)
 vvs-ssb-nachtbus,N 2,,5-vvs033-n2,#6fdaf8,#ffffff,,rectangle,,7997,Nachtbus (SSB)
 vvs-ssb-nachtbus,N 3,,5-vvs033-n3,#6fdaf8,#06429a,,rectangle,,7997,Nachtbus (SSB)
@@ -2506,7 +2718,7 @@ vvs-ssb-nachtbus,N 7,,5-vvs033-n7,#ff2e1d,#ffffff,,rectangle,,7997,Nachtbus (SSB
 vvs-ssb-nachtbus,N 8,,5-vvs033-n8,#2c2e35,#ffffff,,rectangle,,7997,Nachtbus (SSB)
 vvs-ssb-nachtbus,N 9,,5-vvs033-n9,#bb298a,#ffffff,,rectangle,,7997,Nachtbus (SSB)
 vvs-ssb-nachtbus,N 10,,5-vvs033-n10,#ff8ea5,#06429a,,rectangle,,7997,Nachtbus (SSB)
-vvs-ssb-stadtbahn,SB,,3-vvs021-20,#ffb530,#24629d,,rectangle,,7993,Stadtbahn
+vvs-ssb-stadtbahn,20,,3-vvs021-20,#ffb530,#24629d,,rectangle,,7993,Stadtbahn
 vvs-ssb-stadtbahn,U 1,,8-vvs020-u1,#d39d70,#000000,,rectangle,,7993,Stadtbahn
 vvs-ssb-stadtbahn,U 11,,8-vvs020-u11,#9b9c9f,#ffffff,,rectangle,,7993,Stadtbahn
 vvs-ssb-stadtbahn,U 12,,8-vvs020-u12,#80c6ea,#000000,,rectangle,,7993,Stadtbahn
@@ -2523,7 +2735,7 @@ vvs-ssb-stadtbahn,U 6,,8-vvs020-u6,#fb3199,#ffffff,,rectangle,,7993,Stadtbahn
 vvs-ssb-stadtbahn,U 7,,8-vvs020-u7,#2bbb8f,#ffffff,,rectangle,,7993,Stadtbahn
 vvs-ssb-stadtbahn,U 8,,8-vvs020-u8,#c8b97b,#000000,,rectangle,,7993,Stadtbahn
 vvs-ssb-stadtbahn,U 9,,8-vvs020-u9,#ffd036,#000000,,rectangle,,7993,Stadtbahn
-vvs-ssb-stadtbahn,Zacke,,8-vvs021-10,#ffb530,#24629d,,rectangle,,7994,Zahnrad-/Seilbahn
+vvs-ssb-stadtbahn,10,,8-vvs021-10,#ffb530,#24629d,,rectangle,,7994,Zahnrad-/Seilbahn
 vvs-wbg,508,,5-vvs031-508,#875300,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-wbg,532,,5-vvs031-532,#5e8694,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-wbg,532A,,5-vvs031-532a,#5e8694,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
@@ -2809,6 +3021,24 @@ wt-swms,N82,,,#d93932,#ffffff,,rectangle,,7813,Stadtwerke Münster
 wt-swms,N83,,,#3b87ca,#ffffff,,rectangle,,7813,Stadtwerke Münster
 wt-swms,N84,,,#9669a7,#ffffff,,rectangle,,7813,Stadtwerke Münster
 wt-swms,N85,,,#e8993f,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wvg-wolfsburg,201,,,#e44b48,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,202,,,#2cbca9,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,203,,,#6558a6,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,204,,,#e7b011,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,211,,,#00bee8,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,212,,,#f4822a,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,213,,,#229a9f,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,215,,,#25b34b,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,216,,,#a4ce3a,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,218,,,#0082c5,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,221,,,#900f11,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,222,,,#006d70,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,223,,,#42357a,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,224,,,#c25d2b,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,225,,,#0d7a31,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,226,,,#779b29,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,227,,,#064d80,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
+wvg-wolfsburg,230,,,#00944e,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
 zvnl-bus,60,,5-naslvb-60,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
 zvnl-bus,65,,5-naslvb-65,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
 zvnl-bus,70,,5-naslvb-70,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
