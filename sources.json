@@ -1986,6 +1986,20 @@
         ]
     },
     {
+        "shortOperatorName": "vms-chemnitzbahn",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz City-Bahn Chemnitz",
+                "source": "https://www.city-bahn.de/wp-content/uploads/2023/02/cm2_netz_v_76641.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vmt-evag-tram",
         "contributors": [
             {
