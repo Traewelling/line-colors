@@ -944,6 +944,20 @@
         ]
     },
     {
+        "shortOperatorName": "naldo-tuebus",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Stadtnetz Tübingen",
+                "source": "https://www.tuebus.de/fileadmin/user_upload/3Fahrgaeste/TueBus_2502_LNP_web.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "nvs",
         "contributors": [
             {
