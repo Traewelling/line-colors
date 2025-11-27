@@ -1813,6 +1813,18 @@ vos-osnabrueck,M2,,5-webos1-m2,#30277e,#ffffff,,rectangle,,7817,Verkehrsgemeinsc
 vos-osnabrueck,M3,,5-webos1-m3,#9ebf43,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
 vos-osnabrueck,M4,,5-webos1-m4,#c42f26,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
 vos-osnabrueck,M5,,5-webos1-m5,#d35b95,#ffffff,,rectangle,,7817,Verkehrsgemeinschaft Osnabrück
+vpe-pforzheim,1,,,#0864af,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,2,,,#0abbee,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,3,,,#e32126,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,4,,,#0a9749,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,5,,,#c99e69,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,6,,,#f6ab1c,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,7,,,#fcd40a,#000000,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,9,,,#a13f91,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,10,,,#e85125,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,11,,,#a8b27b,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,16,,,#0386c8,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vpe-pforzheim,17,,,#31b4a2,#ffffff,,rectangle-rounded-corner,,8103,RVS
 vr,A,vr,4-10-a,#8c4799,#ffffff,,rectangle-rounded-corner,Q118874158,,
 vr,D,vr,4-10-d,#58a618,#ffffff,,rectangle-rounded-corner,Q118874955,,
 vr,E,vr,4-10-e,#8c4799,#ffffff,,rectangle-rounded-corner,Q118869683,,
