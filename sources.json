@@ -640,6 +640,32 @@
         ]
     },
     {
+        "shortOperatorName": "kvg-braunschweig",
+        "contributors": [
+            {
+                "github": "h1treX"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVG Braunschweig Liniennetzplan Helmstedt",
+                "source": "https://www.kvg-braunschweig.de/files/167832CB115/Liniennetzplan_Helmstedt.pdf"
+            },
+            {
+                "name": "Liniennetzplan Salzgitter der KVG Braunschweig",
+                "source": "https://www.kvg-braunschweig.de/files/1920E21AEAF/Salzgitter%20Netzplan%20416%20Neu%20August%20V4.pdf"
+            },
+            {
+                "name": "KVG Braunschweig Liniennetzplan Wolfenbüttel",
+                "source": "https://www.kvg-braunschweig.de/files/17BED3C1AFE/LNP%20WF%202021.pdf"
+            },
+            {
+                "name": "KVG Braunschweig Liniennetzplan Harz",
+                "source": "https://www.kvg-braunschweig.de/files/16FEB2D029F/Liniennetzplan_Harz_Dez2019.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "kvv-avg",
         "contributors": [
             {
