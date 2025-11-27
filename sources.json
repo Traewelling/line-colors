@@ -2759,6 +2759,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-ssb-bus",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "SSB Busliniennetzplan",
+                "source": "https://download.vvs.de/SSB-Busliniennetz_A0.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-ssb-nachtbus",
         "contributors": [
             {
@@ -2777,6 +2791,9 @@
         "contributors": [
             {
                 "github": "jheubuch"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [

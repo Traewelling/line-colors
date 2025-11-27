@@ -2641,6 +2641,47 @@ vvs-lvl,451,,5-vvs031-451,#00b1eb,#ffffff,,rectangle,,7996,Privatunternehmer-Bus
 vvs-lvl,X43,,5-vvs031-x43,#ef7d00,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-osb,551,,5-vvs031-551,#e12b54,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-osb,551A,,5-vvs031-551a,#e12b54,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ssb-bus,X2,,,#302783,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,X4,,,#ec6ea6,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,X7,,,#008b3b,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,40,,,#ec6ea6,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,41,,,#e5007d,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,42,,,#ef7c00,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,43,,,#94c11e,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,44,,,#b10061,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,45,,,#2581c4,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,47,,,#e30513,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,50,,,#007631,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,52,,,#ec6ea6,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,53,,,#009ee3,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,54,,,#9c0f06,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,56,,,#ef7c00,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,57,,,#302783,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,58,,,#ef8161,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,59,,,#e30513,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,60,,,#fbb900,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,61,,,#eb609f,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,62,,,#00b0eb,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,64,,,#369a82,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,65,,,#ec6607,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,66,,,#13377f,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,70,,,#518095,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,71,,,#946379,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,72,,,#577c5f,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,73,,,#c3006b,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,74,,,#94c11e,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,76,,,#005ca9,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,77,,,#ea5a0b,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,80,,,#bb7a00,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,81,,,#9f4381,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,82,,,#0069b4,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,84,,,#d84c8c,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,86,,,#3aa935,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,90,,,#d6480b,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,91,,,#ef7c00,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,92,,,#009ee3,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,98,,,#951b81,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,99,,,#577c5f,#ffffff,,rectangle,,13477,Bus (SSB)
 vvs-ssb-nachtbus,N 1,,5-vvs033-n1,#3c389e,#ffffff,,rectangle,,7997,Nachtbus (SSB)
 vvs-ssb-nachtbus,N 2,,5-vvs033-n2,#6fdaf8,#ffffff,,rectangle,,7997,Nachtbus (SSB)
 vvs-ssb-nachtbus,N 3,,5-vvs033-n3,#6fdaf8,#06429a,,rectangle,,7997,Nachtbus (SSB)
@@ -2651,7 +2692,7 @@ vvs-ssb-nachtbus,N 7,,5-vvs033-n7,#ff2e1d,#ffffff,,rectangle,,7997,Nachtbus (SSB
 vvs-ssb-nachtbus,N 8,,5-vvs033-n8,#2c2e35,#ffffff,,rectangle,,7997,Nachtbus (SSB)
 vvs-ssb-nachtbus,N 9,,5-vvs033-n9,#bb298a,#ffffff,,rectangle,,7997,Nachtbus (SSB)
 vvs-ssb-nachtbus,N 10,,5-vvs033-n10,#ff8ea5,#06429a,,rectangle,,7997,Nachtbus (SSB)
-vvs-ssb-stadtbahn,SB,,3-vvs021-20,#ffb530,#24629d,,rectangle,,7993,Stadtbahn
+vvs-ssb-stadtbahn,20,,3-vvs021-20,#ffb530,#24629d,,rectangle,,7993,Stadtbahn
 vvs-ssb-stadtbahn,U 1,,8-vvs020-u1,#d39d70,#000000,,rectangle,,7993,Stadtbahn
 vvs-ssb-stadtbahn,U 11,,8-vvs020-u11,#9b9c9f,#ffffff,,rectangle,,7993,Stadtbahn
 vvs-ssb-stadtbahn,U 12,,8-vvs020-u12,#80c6ea,#000000,,rectangle,,7993,Stadtbahn
@@ -2668,7 +2709,7 @@ vvs-ssb-stadtbahn,U 6,,8-vvs020-u6,#fb3199,#ffffff,,rectangle,,7993,Stadtbahn
 vvs-ssb-stadtbahn,U 7,,8-vvs020-u7,#2bbb8f,#ffffff,,rectangle,,7993,Stadtbahn
 vvs-ssb-stadtbahn,U 8,,8-vvs020-u8,#c8b97b,#000000,,rectangle,,7993,Stadtbahn
 vvs-ssb-stadtbahn,U 9,,8-vvs020-u9,#ffd036,#000000,,rectangle,,7993,Stadtbahn
-vvs-ssb-stadtbahn,Zacke,,8-vvs021-10,#ffb530,#24629d,,rectangle,,7994,Zahnrad-/Seilbahn
+vvs-ssb-stadtbahn,10,,8-vvs021-10,#ffb530,#24629d,,rectangle,,7994,Zahnrad-/Seilbahn
 vvs-wbg,508,,5-vvs031-508,#875300,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-wbg,532,,5-vvs031-532,#5e8694,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-wbg,532A,,5-vvs031-532a,#5e8694,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
