@@ -564,7 +564,6 @@
             }
         ]
     },
-
     {
         "shortOperatorName": "hvv-hha",
         "contributors": [
@@ -2190,7 +2189,7 @@
                 "source": "https://www.pforzheimfaehrtbus.de/wp-content/uploads/2022/11/Liniennetzplan_SV-Pforzheim_2021-2022-2023.pdf"
             }
         ]
-    },    
+    },
     {
         "shortOperatorName": "vr",
         "contributors": [
@@ -2202,6 +2201,20 @@
             {
                 "name": "VR commuter traffic route map",
                 "source": "https://www.vr.fi/en/railway-stations-and-routes/commuter-traffic#commuter-route-map"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrb-harzbus",
+        "contributors": [
+            {
+                "github": "h1treX"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz HarzBus",
+                "source": "https://www.harzbus-goslar.de/fileadmin/user/pdf/informationen/liniennetz_harzbus_08-2025.pdf"
             }
         ]
     },
@@ -3018,7 +3031,6 @@
                 "source": "https://www.nph.de/de-wAssets/docs/oepnv/angebot/Liniennetzplaene/01-Schemaplan-2023-08-24.pdf"
             }
         ]
-
     },
     {
         "shortOperatorName": "wt-go-on",
