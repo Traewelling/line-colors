@@ -2190,7 +2190,7 @@
                 "source": "https://www.pforzheimfaehrtbus.de/wp-content/uploads/2022/11/Liniennetzplan_SV-Pforzheim_2021-2022-2023.pdf"
             }
         ]
-    },    
+    },
     {
         "shortOperatorName": "vr",
         "contributors": [
@@ -2202,6 +2202,20 @@
             {
                 "name": "VR commuter traffic route map",
                 "source": "https://www.vr.fi/en/railway-stations-and-routes/commuter-traffic#commuter-route-map"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrb-sbgs",
+        "contributors": [
+            {
+                "github": "h1treX"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Stadtbus Goslar Liniennetzplan",
+                "source": "https://www.stadtbus-goslar.de/fileadmin/media-stadtbus/sbgs_fahrplaene/fp_01.09.2024/24-1778_stadtbus_lnp_din_a4_quer_v01.pdf"
             }
         ]
     },
