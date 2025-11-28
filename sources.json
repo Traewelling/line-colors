@@ -2583,6 +2583,20 @@
         ]
     },
     {
+        "shortOperatorName": "vrs-sve",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Busnetz 2025 - Kreis Euskirchen",
+                "source": "https://www.vrs.de/fileadmin/02_Verbindungen/Liniennetz/Schienen-_und_Busnetzplaene/Busnetz2025_KreisEuskirchen.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrs-swb",
         "contributors": [
             {
