@@ -2140,6 +2140,19 @@ vrb-vb,754,,,#f39100,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe B
 vrb-vb,755,,,#dddb00,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
 vrb-vb,756,,,#e5007c,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
 vrb-vb,757,,,#82348b,#ffffff,,rectangle-rounded-corner,,12096,Verkehrsbetriebe Bachstein
+vrb-vlg,100,,,#e7372a,#191919,,rectangle-rounded-corner,,12105,Verkehrsgesellschaft Landkreis Gifhorn mbH
+vrb-vlg,101,,,#91009b,#191919,,rectangle-rounded-corner,,12105,Verkehrsgesellschaft Landkreis Gifhorn mbH
+vrb-vlg,102,,,#955e42,#191919,,rectangle-rounded-corner,,12105,Verkehrsgesellschaft Landkreis Gifhorn mbH
+vrb-vlg,103,,,#ffacf2,#191919,,rectangle-rounded-corner,,12105,Verkehrsgesellschaft Landkreis Gifhorn mbH
+vrb-vlg,105,,,#ff9518,#191919,,rectangle-rounded-corner,,12105,Verkehrsgesellschaft Landkreis Gifhorn mbH
+vrb-vlg,108,,,#f0ea2c,#191919,,rectangle-rounded-corner,,12105,Verkehrsgesellschaft Landkreis Gifhorn mbH
+vrb-vlg,111,,,#5fdaef,#191919,,rectangle-rounded-corner,,12105,Verkehrsgesellschaft Landkreis Gifhorn mbH
+vrb-vlg,140,,,#66d8c7,#191919,,rectangle-rounded-corner,,12105,Verkehrsgesellschaft Landkreis Gifhorn mbH
+vrb-vlg,141,,,#65ff8c,#191919,,rectangle-rounded-corner,,12105,Verkehrsgesellschaft Landkreis Gifhorn mbH
+vrb-vlg,164,,,#b3d04b,#191919,,rectangle-rounded-corner,,12105,Verkehrsgesellschaft Landkreis Gifhorn mbH
+vrb-vlg,170,,,#90d6ab,#191919,,rectangle-rounded-corner,,12105,Verkehrsgesellschaft Landkreis Gifhorn mbH
+vrb-vlg,175,,,#ab91f8,#191919,,rectangle-rounded-corner,,12105,Verkehrsgesellschaft Landkreis Gifhorn mbH
+vrb-vlg,191,,,#379e90,#191919,#44bdad,rectangle-rounded-corner,,12105,Verkehrsgesellschaft Landkreis Gifhorn mbH
 vrb-wvg,201,,,#e44b48,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
 vrb-wvg,202,,,#2cbca9,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
 vrb-wvg,203,,,#6558a6,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
