@@ -2452,6 +2452,10 @@
         ],
         "sources": [
             {
+                "name": "Dortmund Liniennetzplan (schematisch)",
+                "source": "https://www.bus-und-bahn.de/fileadmin/user_upload/12_downloadcenter/netz-_linienplaene/liniennetzplan_schematisch.pdf"
+            },
+            {
                 "name": "Schienennetzplan Dortmund",
                 "source": "https://www.bus-und-bahn.de/fileadmin/user_upload/schienennetzplan_januar2023_a4_print_x3.pdf"
             },
