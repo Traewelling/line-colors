@@ -989,6 +989,46 @@
         ]
     },
     {
+        "shortOperatorName": "rosa-rvhi",
+        "contributors": [
+            {
+                "github": "h1treX"
+            }
+        ],
+        "sources": [
+            {
+                "name": "RVHI Liniennetz Region Hildesheim",
+                "source": "https://www.rvhi-hildesheim.de/de/Liniennetz/Liniennetzplan-Region-Hildesheim/WEB-Liniennetz-RVHI-05-08-24.pdf"
+            },
+            {
+                "name": "RVHI Liniennetz für den Stadtverkehr Alfeld",
+                "source": "https://www.rvhi-hildesheim.de/de/Liniennetz/Liniennetzplan-Stadt-Alfeld/Liniennetzplan-Stadt-Alfeld/Liniennetz-Alfeld-2018.pdf"
+            },
+            {
+                "name": "RVHI Liniennetz nachtsbus",
+                "source": "https://www.rvhi-hildesheim.de/de/Liniennetz/Liniennetzplan-Nachtsbus/Liniennetzplan-Nachtsbus/Web-Liniennetz-Nachtsbus-A4-14-08-25.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "rosa-svhi",
+        "contributors": [
+            {
+                "github": "h1treX"
+            }
+        ],
+        "sources": [
+            {
+                "name": "SVHI Tagesliniennetz",
+                "source": "https://www.svhi-hildesheim.de/de/Liniennetz/Tagesliniennetz1/Tagesliniennetz/Web-Liniennetz-SVHI-Tag-A4-07-2025.pdf"
+            },
+            {
+                "name": "SVHI Abendliniennetz",
+                "source": "https://www.svhi-hildesheim.de/de/Liniennetz/Abendliniennetz1/Abendliniennetz/Web-Liniennetz-SVHI-Abend-A4-07-2025.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "rvf-sbahn",
         "contributors": [
             {
