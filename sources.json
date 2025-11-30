@@ -2233,6 +2233,20 @@
         ]
     },
     {
+        "shortOperatorName": "vrb-vlg",
+        "contributors": [
+            {
+                "github": "h1treX"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan der Stadt Gifhorn (Zone 10)",
+                "source": "https://www.vlg-gifhorn.de/CM/images/Stadtlinien_aktualisiert.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrb-wvg",
         "contributors": [
             {
