@@ -1053,13 +1053,13 @@ pid-prague,A,dopravni-podnik-hl-m-prahy,7-540001-a,#00a54f,#ffffff,,rectangle,,,
 pid-prague,B,dopravni-podnik-hl-m-prahy,7-540001-b,#feca0a,#293219,,rectangle,,,
 pid-prague,C,dopravni-podnik-hl-m-prahy,7-540001-c,#ee1d23,#ffffff,,rectangle,,,
 polregio,RB91,polregio,r-91,#eb7405,#ffffff,,rectangle,,,
-regio-s-bahn-donau-iller,RS 2,db-regio-ag-baden-wurttemberg,rs2,#901411,#ffffff,,pill,,10443,DB Regio AG Baden-Württemberg
-regio-s-bahn-donau-iller,RS 21,db-regio-ag-baden-wurttemberg,rs21,#e92a1c,#ffffff,,pill,,10443,DB Regio AG Baden-Württemberg
-regio-s-bahn-donau-iller,RS 3,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rs3,#62358a,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
-regio-s-bahn-donau-iller,RS 5,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rs5,#00622e,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
-regio-s-bahn-donau-iller,RS 51,sweg-sudwestdeutsche-landesverkehrs-gmbh,swe-rs51,#43aa2c,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
-regio-s-bahn-donau-iller,RS 7,db-regio-ag-bayern,rs7,#234997,#ffffff,,pill,,10446,DB Regio AG Bayern
-regio-s-bahn-donau-iller,RS 71,db-regio-ag-bayern,rs71,#1398d3,#ffffff,,pill,,10446,DB Regio AG Bayern
+regio-s-bahn-donau-iller,RS 2,,,#901411,#ffffff,,pill,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+regio-s-bahn-donau-iller,RS 21,,,#e92a1c,#ffffff,,pill,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+regio-s-bahn-donau-iller,RS 3,,,#62358a,#ffffff,,pill,,,
+regio-s-bahn-donau-iller,RS 5,,,#00622e,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
+regio-s-bahn-donau-iller,RS 51,,,#43aa2c,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
+regio-s-bahn-donau-iller,RS 7,,,#234997,#ffffff,,pill,,10446,DB Regio AG Bayern
+regio-s-bahn-donau-iller,RS 71,,,#1398d3,#ffffff,,pill,,10446,DB Regio AG Bayern
 regiobus-hannover,170,,5-webrbg-170,#ffffff,#2c2e35,#ff9027,pill,,12076,RegioBus Hannover GmbH
 regiobus-hannover,300,,5-webrbg-300,#ffffff,#2c2e35,#903da0,pill,,12076,RegioBus Hannover GmbH
 regiobus-hannover,301,,5-webrbg-301,#ffffff,#2c2e35,#ff2e17,pill,,12076,RegioBus Hannover GmbH
