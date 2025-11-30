@@ -2273,6 +2273,20 @@
         ]
     },
     {
+        "shortOperatorName": "vrb-vlg",
+        "contributors": [
+            {
+                "github": "h1treX"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan der Stadt Gifhorn (Zone 10)",
+                "source": "https://www.vlg-gifhorn.de/CM/images/Stadtlinien_aktualisiert.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrb-wvg",
         "contributors": [
             {
@@ -2720,6 +2734,20 @@
         ]
     },
     {
+        "shortOperatorName": "vsn-goevb",
+        "contributors": [
+            {
+                "github": "h1treX"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Göttingen",
+                "source": "https://www.goevb.de/fileadmin/user_upload/Fahrplaene/downloads/Fahrplaene/2025/GoeVB_Liniennetzplan.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vst-oebb",
         "contributors": [
             {
@@ -3159,6 +3187,20 @@
         ]
     },
     {
+        "shortOperatorName": "wt-gronemann",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "2025_regionalbusse_im_münsterland",
+                "source": "https://www.rvm-online.de/fileadmin/startseite_rvm/fahrgast/fahrt_planen/liniennetzplan/2025_regionalbusse_im_m%C3%BCnsterland_din_a_3-stand_01.06.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "wt-kottenstedte",
         "contributors": [
             {
@@ -3251,12 +3293,15 @@
         "contributors": [
             {
                 "github": "luna-cant-code"
+            },
+            {
+                "github": "KiloBravoBFE"
             }
         ],
         "sources": [
             {
-                "name": "Netzplan Steinfurt Süd",
-                "source": "https://www.rvm-online.de/fileadmin/startseite_rvm/fahrgast/fahrt_planen/liniennetzplan/steinfurt_sued_liniennetzplan_2021.pdf"
+                "name": "2025_regionalbusse_im_münsterland",
+                "source": "https://www.rvm-online.de/fileadmin/startseite_rvm/fahrgast/fahrt_planen/liniennetzplan/2025_regionalbusse_im_m%C3%BCnsterland_din_a_3-stand_01.06.pdf"
             }
         ]
     },
@@ -3303,6 +3348,34 @@
             {
                 "name": "Netzplan NachtNetz Münster",
                 "source": "https://www.stadtwerke-muenster.de/Stadtwerke/Dokumente/Unterwegs/Stadtwerke%20MS%20-%20NachtNetz%20-%20topografisch%20-%202024-08-21.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wt-veelker",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "2025_regionalbusse_im_münsterland",
+                "source": "https://www.rvm-online.de/fileadmin/startseite_rvm/fahrgast/fahrt_planen/liniennetzplan/2025_regionalbusse_im_m%C3%BCnsterland_din_a_3-stand_01.06.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wt-wb",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "2025_regionalbusse_im_münsterland",
+                "source": "https://www.rvm-online.de/fileadmin/startseite_rvm/fahrgast/fahrt_planen/liniennetzplan/2025_regionalbusse_im_m%C3%BCnsterland_din_a_3-stand_01.06.pdf"
             }
         ]
     },
