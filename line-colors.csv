@@ -3047,6 +3047,8 @@ wt-go-on,R50,,5-vph072-r50,#ed2927,#ffffff,,rectangle,,9320,nph-Linienbündel 02
 wt-go-on,R51,,5-vph077-r51,#ed2927,#ffffff,,rectangle,,9320,nph-Linienbündel 02
 wt-go-on,S30,,5-vph080-s30,#0089cf,#ffffff,,rectangle,,9328,nph-Linienbündel 10
 wt-go-on,S40,,5-vph071-s40,#0089cf,#ffffff,,rectangle,,9319,nph-Linienbündel 01
+wt-gronemann,R27,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7808,Gronemann GmbH
+wt-gronemann,T27,,,#52a277,#ffffff,,rectangle-rounded-corner,,7808,Gronemann GmbH
 wt-kottenstedte,374,,,#f4a386,#ffffff,,pill,,7804,Kottenstedte GmbH
 wt-mindenbus,1,,,#995225,#ffffff,,pill,,14372,Minden C
 wt-mindenbus,2,,,#852d84,#ffffff,,pill,,14372,Minden C
@@ -3181,8 +3183,45 @@ wt-padersprinter,46ALF,,9-vph063-46alf,#ffffff,#9b9c9f,#9b9c9f,rectangle,,9316,P
 wt-padersprinter,47,,5-vph063-47,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,48,,5-vph063-48,#9b9c9f,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,100,,5-vph063-100,#469cd8,#ffffff,,rectangle,,9316,Padersprinter
-wt-rvm,R51,,5-vgm023-r51,#006fb9,#ffffff,,rectangle-rounded-corner,,,
-wt-rvm,S50,,5-vgm020-s50,#c24636,#ffffff,,rectangle-rounded-corner,,,
+wt-rvm,B1,,,#52a277,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,B4,,,#52a277,#ffffff,,rectangle-rounded-corner,,7798,RVM Kreis Steinfurt
+wt-rvm,B11,,,#52a277,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,B12,,,#52a277,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,C87,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,R20,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7798,RVM Kreis Steinfurt
+wt-rvm,R21,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7798,RVM Kreis Steinfurt
+wt-rvm,R22,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7794,RVM Kreis Warendorf
+wt-rvm,R24,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7794,RVM Kreis Warendorf
+wt-rvm,R26,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7798,RVM Kreis Steinfurt
+wt-rvm,R32,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7794,RVM Kreis Warendorf
+wt-rvm,R46,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7798,RVM Kreis Steinfurt
+wt-rvm,R51,,5-vgm023-r51,#2c3192,#ffffff,,rectangle-rounded-corner,,7800,Weilke Kreis ST
+wt-rvm,R61,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,R72,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7794,RVM Kreis Warendorf
+wt-rvm,R75,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7794,RVM Kreis Warendorf
+wt-rvm,R76,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,R77,,5-vgm023-r51,#2c3192,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,S10,,,#ec1f25,#ffffff,,rectangle-rounded-corner,,7798,RVM Kreis Steinfurt
+wt-rvm,S50,,5-vgm020-s50,#ec1f25,#ffffff,,rectangle-rounded-corner,,7798,RVM Kreis Steinfurt
+wt-rvm,S60,,,#ec1f25,#ffffff,,rectangle-rounded-corner,,7793,RVM Kreis Coesfeld
+wt-rvm,S70,,,#ec1f25,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,S71,,,#ec1f25,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,S90,,,#ec1f25,#ffffff,,rectangle-rounded-corner,,7793,RVM Kreis Coesfeld
+wt-rvm,T10,,,#52a277,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,T12,,,#52a277,#ffffff,,rectangle-rounded-corner,,7798,RVM Kreis Steinfurt
+wt-rvm,T29,,,#52a277,#ffffff,,rectangle-rounded-corner,,7798,RVM Kreis Steinfurt
+wt-rvm,T65,,,#52a277,#ffffff,,rectangle-rounded-corner,,7793,RVM Kreis Coesfeld
+wt-rvm,T79,,,#52a277,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,T88,,,#52a277,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,X80,,,#ec1f25,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,X90,,,#ec1f25,#ffffff,,rectangle-rounded-corner,,7793,RVM Kreis Coesfeld
+wt-rvm,473,,,#52a277,#ffffff,,rectangle-rounded-corner,,7794,RVM Kreis Warendorf
+wt-rvm,474,,,#52a277,#ffffff,,rectangle-rounded-corner,,7794,RVM Kreis Warendorf
+wt-rvm,770,,,#52a277,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,772,,,#52a277,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,773,,,#52a277,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,774,,,#52a277,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,783,,,#52a277,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
 wt-sbbs,940AL,,,#0c87c9,#ffffff,,rectangle,,14362,Bad Salzuflen
 wt-sbbs,941,,,#97c21f,#ffffff,,rectangle,,14362,Bad Salzuflen
 wt-sbbs,942,,,#e20c15,#ffffff,,rectangle,,14362,Bad Salzuflen
@@ -3237,6 +3276,31 @@ wt-swms,N82,,,#d93932,#ffffff,,rectangle,,7813,Stadtwerke Münster
 wt-swms,N83,,,#3b87ca,#ffffff,,rectangle,,7813,Stadtwerke Münster
 wt-swms,N84,,,#9669a7,#ffffff,,rectangle,,7813,Stadtwerke Münster
 wt-swms,N85,,,#e8993f,#ffffff,,rectangle,,7813,Stadtwerke Münster
+wt-veelker,R62,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7814,Veelker GmbH & Co. KG
+wt-veelker,R63,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7814,Veelker GmbH & Co. KG
+wt-veelker,R64,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7814,Veelker GmbH & Co. KG
+wt-veelker,R73,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7814,Veelker GmbH & Co. KG
+wt-veelker,R80,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7814,Veelker GmbH & Co. KG
+wt-veelker,R81,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7814,Veelker GmbH & Co. KG
+wt-veelker,T17,,,#52a277,#ffffff,,rectangle-rounded-corner,,7814,Veelker GmbH & Co. KG
+wt-veelker,171,,,#52a277,#ffffff,,rectangle-rounded-corner,,7814,Veelker GmbH & Co. KG
+wt-veelker,174,,,#52a277,#ffffff,,rectangle-rounded-corner,,7814,Veelker GmbH & Co. KG
+wt-veelker,182,,,#52a277,#ffffff,,rectangle-rounded-corner,,7814,Veelker GmbH & Co. KG
+wt-veelker,589,,,#52a277,#ffffff,,rectangle-rounded-corner,,7814,Veelker GmbH & Co. KG
+wt-veelker,771,,,#52a277,#ffffff,,rectangle-rounded-corner,,7814,Veelker GmbH & Co. KG
+wt-veelker,781,,,#52a277,#ffffff,,rectangle-rounded-corner,,7814,Veelker GmbH & Co. KG
+wt-veelker,782,,,#52a277,#ffffff,,rectangle-rounded-corner,,7814,Veelker GmbH & Co. KG
+wt-wb,B2,,,#52a277,#ffffff,,rectangle-rounded-corner,,7797,Westfalen Bus
+wt-wb,B3,,,#52a277,#ffffff,,rectangle-rounded-corner,,7797,Westfalen Bus
+wt-wb,C7,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7797,Westfalen Bus
+wt-wb,C8,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7797,Westfalen Bus
+wt-wb,R11,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7797,Westfalen Bus
+wt-wb,R15,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7797,Westfalen Bus
+wt-wb,S75,,,#ec1f25,#ffffff,,rectangle-rounded-corner,,7797,Westfalen Bus
+wt-wb,311,,,#52a277,#ffffff,,rectangle-rounded-corner,,7797,Westfalen Bus
+wt-wb,312,,,#52a277,#ffffff,,rectangle-rounded-corner,,7797,Westfalen Bus
+wt-wb,315,,,#52a277,#ffffff,,rectangle-rounded-corner,,7797,Westfalen Bus
+wt-wb,316,,,#52a277,#ffffff,,rectangle-rounded-corner,,7797,Westfalen Bus
 zvnl-bus,60,,5-naslvb-60,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
 zvnl-bus,65,,5-naslvb-65,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
 zvnl-bus,70,,5-naslvb-70,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
