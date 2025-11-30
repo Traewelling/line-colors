@@ -2352,7 +2352,7 @@ vrr-dsw21,477,,,#ab8bbc,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,480,,,#d93932,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,482,,,#f2bc44,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,490,,,#602772,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
-vrr-dsw21,AirportExpress,,,,#6ab658,,rectangle,,7632,Dortmunder Stadtwerke Bus
+vrr-dsw21,AirportExpress,,,#ffffff,#6ab658,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,AirportShuttle,,,#6ab658,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,U41,,,#fee702,#7b7979,#7b7979,rectangle,Q121288228,31,Dortmunder Stadtwerke U-Bahn
 vrr-dsw21,U42,,,#fab20b,#ffffff,,rectangle,Q121288273,31,Dortmunder Stadtwerke U-Bahn
