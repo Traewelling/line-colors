@@ -2734,6 +2734,20 @@
         ]
     },
     {
+        "shortOperatorName": "vsn-goevb",
+        "contributors": [
+            {
+                "github": "h1treX"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Göttingen",
+                "source": "https://www.goevb.de/fileadmin/user_upload/Downloads/Liniennetzplaene/Goettingen_Liniennetzplan_2024-12-15.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vst-oebb",
         "contributors": [
             {
