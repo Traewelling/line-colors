@@ -3009,6 +3009,7 @@ westfalenbahn,RE 15,westfalenbahn,wfb-re15,#ea9d22,#ffffff,,rectangle,,13291,Wes
 westfalenbahn,RE 60,westfalenbahn,wfb-re60,#00a3de,#ffffff,,rectangle,,13291,WestfalenBahn
 westfalenbahn,RE 70,westfalenbahn,wfb-re70,#005174,#ffffff,,rectangle,,13291,WestfalenBahn
 wt-argegt,N19,,5-owl051-n19,#f7a600,#ffffff,,rectangle,,14378,GTNord
+wt-argegt,S18,,,#002650,#ffffff,,pill,,14379,GTSüdost
 wt-argegt,43,,,#918e78,#ffffff,,pill,,14378,GTNord
 wt-argegt,48,,5-owl051-48,#39a9dc,#002650,,pill,,14378,GTNord
 wt-argegt,59,,5-owl051-59,#e2001a,#ffffff,,pill,,14378,GTNord
@@ -3115,20 +3116,20 @@ wt-mobiel,N5,,5-owl032-n5,#6a150c,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,N6,,5-owl032-n6,#ec6607,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,N7,,5-owl032-n7,#005220,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,N8,,5-owl032-n8,#009ee3,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
+wt-mobiel,N9,,,#009640,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,N11,,5-owl032-n11,#00adb9,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,N12,,5-owl032-n12,#974481,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,N14,,5-owl032-n14,#c51931,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,N15,,5-owl032-n15,#af4b21,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,N18,,5-owl032-n18,#40c0f0,#ffffff,,rectangle,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,S15,,5-owl032-s15,#002650,#ffffff,,pill,Q131862834,14366,GBN-moBiel-Stadtbahn
-wt-mobiel,S18,,5-owl032-s18,#002650,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,21,,5-owl032-21,#d75162,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,22,,5-owl032-22,#d75162,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,23,,5-owl032-23,#e85a98,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,24,,5-owl032-24,#64599e,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,25,,5-owl032-25,#97be0c,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,26,,5-owl032-26,#97be0c,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
-wt-mobiel,27,,5-owl032-27,#ee93b9,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
+wt-mobiel,27,,5-owl032-27,#f191bc,#002453,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,28,,5-owl032-28,#004178,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,29,,5-owl032-29,#f29400,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,30,,5-owl032-30,#007dc3,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
@@ -3137,7 +3138,7 @@ wt-mobiel,32,,5-owl032-32,#97be0c,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,33,,5-owl032-33,#fabc00,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,34,,5-owl032-34,#ffe500,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,36,,5-owl032-36,#a53723,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
-wt-mobiel,37,,5-owl032-37,#ee93b9,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
+wt-mobiel,37,,5-owl032-37,#f191bc,#002453,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,38,,5-owl032-38,#004178,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,39,,5-owl032-39,#004d2d,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,40,,5-owl032-40,#a53723,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
@@ -3145,6 +3146,8 @@ wt-mobiel,44,,5-owl032-44,#007dc3,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,46,,5-owl032-46,#64599e,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,47,,5-owl032-47,#64599e,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,51,,5-owl032-51,#ac8cbc,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
+wt-mobiel,52,,,#ec1f25,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
+wt-mobiel,53,,,#ee63a5,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,54,,5-owl032-54,#e20079,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,55,,5-owl032-55,#a53723,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,56,,5-owl032-56,#fabc00,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
@@ -3155,7 +3158,6 @@ wt-mobiel,87,,5-owl032-87,#004d2d,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,88,,5-owl032-88,#e85a98,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,94,,5-owl032-94,#ac8cbc,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,95,,5-owl032-95,#009036,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
-wt-mobiel,101,,5-owl032-101,#e85a98,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,121,,5-owl032-121,#b09d1e,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,122,,5-owl032-122,#007dc3,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,123,,5-owl032-123,#007dc4,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
@@ -3171,14 +3173,15 @@ wt-mobiel,155,,5-owl032-155,#39a9dc,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,156,,5-owl032-156,#a53723,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,228,,5-owl032-228,#41a62b,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,236,,5-owl032-236,#004178,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
-wt-mobiel,352,,5-owl032-352,#e2001a,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,369,,5-owl032-369,#ac8cbc,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-oeynhauser,BO 1,,,#379339,#ffffff,,rectangle,,14373,Löhne/Oey D
 wt-oeynhauser,BO 2,,,#379339,#ffffff,,rectangle,,14373,Löhne/Oey D
 wt-oeynhauser,BO 3,,,#379339,#ffffff,,rectangle,,14373,Löhne/Oey D
 wt-oeynhauser,BO 4,,,#379339,#ffffff,,rectangle,,14373,Löhne/Oey D
+wt-padersprinter,N1,,5-vph063-n1,#e30513,#000000,,rectangle,,9316,Padersprinter
 wt-padersprinter,N2,,5-vph063-n2,#37ac47,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,N4,,5-vph063-n4,#00b9f2,#ffffff,,rectangle,,9316,Padersprinter
+wt-padersprinter,N8,,5-vph063-n8,#ffed00,#000000,,rectangle,,9316,Padersprinter
 wt-padersprinter,1,,5-vph063-1,#f6c954,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,2,,5-vph063-2,#4eac91,#ffffff,,rectangle,,9316,Padersprinter
 wt-padersprinter,3,,5-vph063-3,#9c69af,#ffffff,,rectangle,,9316,Padersprinter
