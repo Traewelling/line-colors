@@ -2638,8 +2638,6 @@ vrr-xbus,X28,,bus-x85,#6aac46,#ffffff,,rectangle,,7713,NIAG
 vrr-xbus,X32,,bus-x32,#6aac46,#ffffff,,rectangle,,7713,NIAG
 vrr-xbus,X42,,bus-x42,#6aac46,#ffffff,,rectangle,,7776,Stadtwerke Oberhausen
 vrr-xbus,X49,,bus-x49,#6aac46,#ffffff,,rectangle,,7573,Busverkehr Rheinland
-vrs-bus,AST 227,,9-vrs003-227,#f36e31,#ffffff,,rectangle,,,
-vrs-bus,Berg. FahrradBus,,5-vrs016-bf,#000000,#ffffff,,rectangle,,,
 vrs-bus,SB42,,5-vrs003-sb25,#176438,#ffffff,,rectangle,,,
 vrs-kvb,106,,,#097cc1,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,118,,,#85d1f5,#ffffff,,rectangle,,7969,Kölner VB
