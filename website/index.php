@@ -260,6 +260,24 @@ include_once "../validation/common.php";
                     </div>
                 </template>
 
+                <template id="template-for-line-logo-text">
+                    <style>
+                        div {
+                            font-family: "Avenir Next Condensed", "Avenir Next", Arial, sans-serif;
+                            font-size: 2em;
+                            text-align: center;
+
+                            line-height: 1.5em;
+                            margin: 0 0.5em;
+                            display: inline-block;
+                        }
+
+                    </style>
+                    <div class="line-logo">
+                        <slot name="lineName">Wurst</slot>
+                    </div>
+                </template>
+
 
                 <!-- Templates for pills end -->
 
