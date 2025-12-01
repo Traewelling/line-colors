@@ -2820,6 +2820,10 @@
             {
                 "name": "Liniennetz Stadtverkehr Freital",
                 "source": "https://www.vvo-online.de/doc/VVO-Stadtverkehre-Freital.pdf"
+            },
+            {
+                "name": "Liniennetz Stadtverkehr Heidnau-Pirna",
+                "source": "https://www.vvo-online.de/doc/VVO-Stadtverkehre-Heidenau-Pirna.pdf"
             }
         ]
     },

@@ -2894,6 +2894,14 @@ vvo-bus,162,,,#00a77f,#ffffff,,pill,,,RVD-Busverkehr
 vvo-bus,163,,,#6e2c91,#ffffff,,pill,,,RVD-Busverkehr
 vvo-bus,164,,,#f9aa1b,#ffffff,,pill,,,RVD-Busverkehr
 vvo-bus,166,,5-voe023-166,#35a9e1,#ffffff,,pill,,,DVB-Bus
+vvo-bus,A (Heidenau),,,#008fd5,#ffffff,,pill,,,OVPS-Stadtbus
+vvo-bus,B (Heidenau),,,#ec1d35,#ffffff,,pill,,,OVPS-Stadtbus
+vvo-bus,G/L (Pirna),,,#00acdd,#ffffff,,pill,,,OVPS-Stadtbus
+vvo-bus,H/S (Pirna),,,#9d7a39,#ffffff,,pill,,,OVPS-Stadtbus
+vvo-bus,M (Pirna),,,#f27022,#ffffff,,pill,,,OVPS-Stadtbus
+vvo-bus,N (Pirna),,,#7bc243,#ffffff,,pill,,,OVPS-Stadtbus
+vvo-bus,P (Pirna),,,#5a9230,#ffffff,,pill,,,OVPS-Stadtbus
+vvo-bus,Z (Pirna),,,#f6b12f,#000000,,pill,,,OVPS-Stadtbus
 vvo-db-regio,U 28,db-regio-ag-sudost,rb-u28,#014d6f,#ffffff,,pill,,10437,DB Regio AG Südost
 vvo-db-regio,RB 33,db-regio-ag-sudost,rb-33,#ec7797,#ffffff,,rectangle,,10437,DB Regio AG Südost
 vvo-db-regio,RB 71,db-regio-ag-sudost,rb-71,#ad006f,#ffffff,,rectangle,,10437,DB Regio AG Südost
