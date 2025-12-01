@@ -1600,6 +1600,20 @@ tnw-bvb,14,basler-verkehrsbetriebe,8-85bvb-14,#f17900,#ffffff,,rectangle-rounded
 tnw-bvb,15,basler-verkehrsbetriebe,8-85bvb-15,#00943d,#ffffff,,rectangle-rounded-corner,Q16854974,823,Basler Verkehrsbetriebe
 tnw-bvb,16,basler-verkehrsbetriebe,8-85bvb-16,#a6c700,#000000,,rectangle-rounded-corner,Q16854975,823,Basler Verkehrsbetriebe
 tnw-bvb,21,basler-verkehrsbetriebe,8-85bvb-21,#00a192,#ffffff,,rectangle-rounded-corner,Q16854979,823,Basler Verkehrsbetriebe
+tnw-bvb,30,basler-verkehrsbetriebe,,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,31,basler-verkehrsbetriebe,,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,32,basler-verkehrsbetriebe,,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,33,basler-verkehrsbetriebe,,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,34,basler-verkehrsbetriebe,,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,35,basler-verkehrsbetriebe,,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,36,basler-verkehrsbetriebe,,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,38,basler-verkehrsbetriebe,,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,42,basler-verkehrsbetriebe,,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,45,basler-verkehrsbetriebe,,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,46,basler-verkehrsbetriebe,,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,47,basler-verkehrsbetriebe,,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,48,basler-verkehrsbetriebe,,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,50,basler-verkehrsbetriebe,,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
 uestra,1,ustra-hannoversche-verkehrsbetriebe-ag,8-webuet-1,#ffffff,#2c2e35,#ff2e3e,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
 uestra,2,ustra-hannoversche-verkehrsbetriebe-ag,8-webuet-2,#ffffff,#2c2e35,#ff2e3e,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
 uestra,3,ustra-hannoversche-verkehrsbetriebe-ag,8-webuet-3,#ffffff,#2c2e35,#0073c0,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
