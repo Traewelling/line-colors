@@ -2888,7 +2888,11 @@ vvo-bus,93,,9-voe023-93,#9c9661,#ffffff,,pill,,,DVB-Bus
 vvo-bus,98A,,5-voe022-98a,#b1aa6e,#ffffff,,pill,,,MüllerBusReisen
 vvo-bus,98B,,5-voe022-98b,#dbd186,#ffffff,,pill,,,MüllerBusReisen
 vvo-bus,98C,,5-voe022-98c,#c6be7a,#ffffff,,pill,,,MüllerBusReisen
-vvo-bus,160,,5-voe023-160,#9c9d9d,#ffffff,,pill,,,RVD-Busverkehr
+vvo-bus,160,,5-voe023-160,#ec1d35,#ffffff,,pill,,,RVD-Busverkehr
+vvo-bus,161,,,#5a9230,#ffffff,,pill,,,RVD-Busverkehr
+vvo-bus,162,,,#00a77f,#ffffff,,pill,,,RVD-Busverkehr
+vvo-bus,163,,,#6e2c91,#ffffff,,pill,,,RVD-Busverkehr
+vvo-bus,164,,,#f9aa1b,#ffffff,,pill,,,RVD-Busverkehr
 vvo-bus,166,,5-voe023-166,#35a9e1,#ffffff,,pill,,,DVB-Bus
 vvo-db-regio,U 28,db-regio-ag-sudost,rb-u28,#014d6f,#ffffff,,pill,,10437,DB Regio AG Südost
 vvo-db-regio,RB 33,db-regio-ag-sudost,rb-33,#ec7797,#ffffff,,rectangle,,10437,DB Regio AG Südost
