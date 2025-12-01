@@ -2294,6 +2294,7 @@ vrr-bogestra,310,,8-vrr033-310,#aa3f7f,#ffffff,,rectangle-rounded-corner,,7543,B
 vrr-bogestra,316,,8-vrr030-316,#e08417,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
 vrr-bogestra,318,,8-vrr033-318,#6aa99a,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
 vrr-bogestra,SB33,,,#81c9ef,#ffffff,,rectangle,,7543,BOGESTRA Schnellbus
+vrr-bvr,SB19,,,#40909c,#ffffff,,rectangle,,7573,Busverkehr Rheinland
 vrr-bvr,SB66,,,#40909c,#ffffff,,rectangle,,7573,Busverkehr Rheinland
 vrr-dsw21,400,,,#d93932,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,401,,,#8f201a,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
