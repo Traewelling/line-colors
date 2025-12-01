@@ -2807,12 +2807,23 @@
         "contributors": [
             {
                 "github": "schwamar"
+            },
+            {
+                "github": "flobo593"
             }
         ],
         "sources": [
             {
-                "name": "Liniennetz",
-                "source": "https://www.dvb.de/-/media/files/liniennetz/dvb_lnp_210524_bau_pdf.pdf"
+                "name": "Liniennetz DVB",
+                "source": "https://www.dvb.de/-/media/files/liniennetz/dvb_lnp_1108_standard_2025_pdf.pdf"
+            },
+            {
+                "name": "Liniennetz Stadtverkehr Freital",
+                "source": "https://www.vvo-online.de/doc/VVO-Stadtverkehre-Freital.pdf"
+            },
+            {
+                "name": "Liniennetz Stadtverkehr Heidnau-Pirna",
+                "source": "https://www.vvo-online.de/doc/VVO-Stadtverkehre-Heidenau-Pirna.pdf"
             }
         ]
     },
