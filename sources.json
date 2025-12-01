@@ -2427,6 +2427,20 @@
         ]
     },
     {
+        "shortOperatorName": "vrr-bvr",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Linienplan Velbert/Wülfrath",
+                "source": "https://www.vrr.de/fileadmin/user_upload/pdf/Stadtlinienplaene/Velbert.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrr-bogestra",
         "contributors": [
             {
