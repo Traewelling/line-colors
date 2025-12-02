@@ -2656,6 +2656,7 @@ vrr-xbus,X32,,bus-x32,#6aac46,#ffffff,,rectangle,,7713,NIAG
 vrr-xbus,X42,,bus-x42,#6aac46,#ffffff,,rectangle,,7776,Stadtwerke Oberhausen
 vrr-xbus,X49,,bus-x49,#6aac46,#ffffff,,rectangle,,7573,Busverkehr Rheinland
 vrs-kvb,106,,,#097cc1,#ffffff,,rectangle,,7969,Kölner VB
+vrs-kvb,117,,,#8a6cb0,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,118,,,#85d1f5,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,120,,,#e30a18,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,121,,,#a2c61e,#ffffff,,rectangle,,7969,Kölner VB
@@ -2737,6 +2738,7 @@ vrs-rvk,859,,,#98ca3d,#ffffff,,rectangle,,7974,Meckenheim
 vrs-rvk,880,,,#000000,#ffffff,,rectangle,,7974,Meckenheim
 vrs-rvk,881,,,#a95fa6,#ffffff,,rectangle,,7974,Meckenheim
 vrs-rvk,882,,,#1596b3,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,SB40,,,#9b8ec4,#ffffff,,rectangle,,7976,Bergisch Gladbach
 vrs-stadtbahn,1,,8-vrs001-1,#e1081c,#ffffff,,rectangle-rounded-corner,Q63442516,7969,Kölner VB
 vrs-stadtbahn,3,,8-vrs001-3,#f29ec2,#ffffff,,rectangle-rounded-corner,Q63442521,7969,Kölner VB
 vrs-stadtbahn,4,,8-vrs001-4,#eb72a5,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
