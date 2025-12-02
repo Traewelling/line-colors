@@ -3371,6 +3371,20 @@
         ]
     },
     {
+        "shortOperatorName": "wt-svh",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Herford",
+                "source": "https://owlverkehr.de/pdf/Liniennetzpl%C3%A4ne/Liniennetzplan-Herford_ab_1._Dezember_2025.PDF"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "wt-swms",
         "contributors": [
             {
