@@ -1176,6 +1176,22 @@ regiobus-hannover,N62,,5-webrbg-n62,#08345d,#ffffff,,pill,,12076,RegioBus Hannov
 regiobus-hannover,N63,,5-webrbg-n63,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
 regiobus-hannover,N70,,5-webrbg-n70,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
 regiobus-hannover,N94,,5-webrbg-n94,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
+rhb,IR38,,,#ea8c00,#ffffff,,rectangle,Q135618857,72,Rhätische Bahn
+rhb,RE1,,,#25a9aa,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE2,,,#a97400,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE3,,,#25a9aa,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE4,,,#a97400,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE6,,,#00549d,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE7,,,#941680,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE8,,,#683419,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE9,,,#008a39,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE13,,,#25a9aa,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE24,,,#a97400,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,R15,,,#c80205,#ffffff,,rectangle,Q135623643,72,Rhätische Bahn
+rhb,R16,,,#438bc3,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,R19,,,#a2bb04,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,S1,,,#d40074,#ffffff,,rectangle,Q115756382,72,Rhätische Bahn
+rhb,S2,,,#e8ac00,#ffffff,,rectangle,Q115756448,72,Rhätische Bahn
 rmv-db-sbahn,S1,db-regio-ag-s-bahn-rhein-main,4-800528-1,#009edd,#ffffff,,pill,,12201,DB Regio AG S-Bahn Rhein-Main
 rmv-db-sbahn,S2,db-regio-ag-s-bahn-rhein-main,4-800528-2,#ff2e17,#ffffff,,pill,,12201,DB Regio AG S-Bahn Rhein-Main
 rmv-db-sbahn,S3,db-regio-ag-s-bahn-rhein-main,4-800528-3,#00b098,#ffffff,,pill,,12201,DB Regio AG S-Bahn Rhein-Main
