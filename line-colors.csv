@@ -153,35 +153,51 @@ db-regio-bayern,RE 73,db-regio-ag-bayern,re-73,#e5a05c,#ffffff,,rectangle,,10446
 db-regio-bayern,RE 75,db-regio-ag-bayern,re-75,#e50000,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 db-regio-bayern,RE 76,db-regio-ag-bayern,re-76,#006629,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 db-regio-bayern,RE 79,db-regio-ag-bayern,re-79,#800080,#ffffff,,rectangle,,10446,DB Regio AG Bayern
-db-regio-mitte,RE1,db-regio-ag-mitte-suwex,re-1,#be1b40,#ffffff,,rectangle-rounded-corner,Q112773387,10445,SÜWEX
-db-regio-mitte,RE2,db-regio-ag-mitte-suwex,re-2,#e3a023,#ffffff,,rectangle-rounded-corner,,10445,SÜWEX
-db-regio-mitte,RE4,db-regio-ag-mitte-suwex,re-4,#970c7e,#ffffff,,rectangle-rounded-corner,Q112996721,10445,SÜWEX
-db-regio-mitte,RE6,db-regio-ag-mitte,re-6,#f15921,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
-db-regio-mitte,RE 11,db-regio-ag-mitte-suwex,re-11,#895da7,#ffffff,,rectangle,,10445,SÜWEX
-db-regio-mitte,RE14,db-regio-ag-mitte-suwex,re-14,#970c7e,#ffffff,,rectangle-rounded-corner,Q112996572,10445,SÜWEX
-db-regio-mitte,RE20,db-regio-ag-mitte,re-20,#ee1d23,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RE25,db-regio-ag-mitte,re-25,#007ec5,#ffffff,,rectangle-rounded-corner,Q98104051,10449,DB Regio AG Mitte Region Südwest
-db-regio-mitte,RB22,db-regio-ag-mitte,rb-22,#ee1d23,#ffffff,,rectangle-rounded-corner,Q130342880,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RB23,db-regio-ag-mitte,rb-23,#15c0f2,#ffffff,,rectangle-rounded-corner,Q96474187,10449,DB Regio AG Mitte Region Südwest
-db-regio-mitte,RE30,db-regio-ag-mitte,re-30,#e30019,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RB45,db-regio-ag-mitte,rb-45,#8bc63f,#ffffff,,rectangle-rounded-corner,Q98152720,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RB46,db-regio-ag-mitte,rb-46,#00805f,#ffffff,,rectangle-rounded-corner,Q98152733,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RE50,db-regio-ag-mitte,re-50,#e30019,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RB51,db-regio-ag-mitte,rb-51,#00805f,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
-db-regio-mitte,RB53,db-regio-ag-mitte,rb-53,#40ae49,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
-db-regio-mitte,RB55,db-regio-ag-mitte,rb-55,#005824,#ffffff,,rectangle-rounded-corner,Q108435213,10449,DB Regio AG Mitte Region Südwest
-db-regio-mitte,RE40,db-regio-ag-mitte,re-40,#ff9027,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RB41,db-regio-ag-mitte,rb-41,#00ab4f,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RB44,db-regio-ag-mitte,rb-44,#7ac547,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RE45,db-regio-ag-mitte,re-45,#cf631a,#ffffff,,rectangle-rounded-corner,Q126890289,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RE60,db-regio-ag-mitte,re-60,#d03831,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RB67,db-regio-ag-mitte,rb-67,#406bb1,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RB68,db-regio-ag-mitte,rb-68,#406bb1,#ffffff,,rectangle-rounded-corner,Q68930888,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RE70,db-regio-ag-mitte,re-70,#d03831,#ffffff,,rectangle-rounded-corner,Q80105383,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RE73,db-regio-ag-mitte,re-73,#ff2e17,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RB 83,db-regio-ag-mitte,rb-83,#895da7,#ffffff,,rectangle,,10449,DB Regio AG Mitte Region Südwest
-db-regio-mitte,RB 87,db-regio-ag-mitte,rb-87,#895da7,#ffffff,,rectangle,,10449,DB Regio AG Mitte Region Südwest
-db-regio-mitte,SE14,db-regio-ag-mitte-suwex,se14,#90268f,#ffffff,,rectangle-rounded-corner,,10445,SÜWEX
+db-regio-mitte,RE1,,,#be1b40,#ffffff,,rectangle-rounded-corner,Q112773387,10445,SÜWEX
+db-regio-mitte,RE2,,,#e3a023,#ffffff,,rectangle-rounded-corner,,10445,SÜWEX
+db-regio-mitte,RE4,,,#970c7e,#ffffff,,rectangle-rounded-corner,Q112996721,10445,SÜWEX
+db-regio-mitte,RE6,,,#f15921,#ffffff,,rectangle-rounded-corner,,13422,DB Regio AG Mitte
+db-regio-mitte,RE11,,,#895da7,#ffffff,,rectangle-rounded-corner,,10445,SÜWEX
+db-regio-mitte,RE14,,,#970c7e,#ffffff,,rectangle-rounded-corner,Q112996572,10445,SÜWEX
+db-regio-mitte,RE16,,,#c7416d,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
+db-regio-mitte,RE18,,,#d0252a,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
+db-regio-mitte,RE19,,,#ea028c,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
+db-regio-mitte,RE20,,,#ee1d23,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RE25,,,#007ec5,#ffffff,,rectangle-rounded-corner,Q98104051,10449,DB Regio AG Mitte Region Südwest
+db-regio-mitte,RB22,,,#ee1d23,#ffffff,,rectangle-rounded-corner,Q130342880,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RB23,,,#15c0f2,#ffffff,,rectangle-rounded-corner,Q96474187,10449,DB Regio AG Mitte Region Südwest
+db-regio-mitte,RE30,,,#e30019,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RE40,,,#ff9027,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RB41,,,#00ab4f,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RB44,,,#7ac547,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RE45,,,#cf631a,#ffffff,,rectangle-rounded-corner,Q126890289,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RB45,,,#8bc63f,#ffffff,,rectangle-rounded-corner,Q98152720,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RB46,,,#00805f,#ffffff,,rectangle-rounded-corner,Q98152733,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RE50,,,#e30019,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RB51,,,#00805f,#ffffff,,rectangle-rounded-corner,,13422,DB Regio AG Mitte
+db-regio-mitte,RB52,,,#39ba8d,#ffffff,,rectangle-rounded-corner,,13422,DB Regio AG Mitte
+db-regio-mitte,RB53,,,#40ae49,#ffffff,,rectangle-rounded-corner,,13422,DB Regio AG Mitte
+db-regio-mitte,RB54,,,#8bc640,#000000,,rectangle-rounded-corner,,13422,DB Regio AG Mitte
+db-regio-mitte,RB55,,,#005824,#ffffff,,rectangle-rounded-corner,Q108435213,13422,DB Regio AG Mitte
+db-regio-mitte,RE55,,,#005824,#ffffff,,rectangle-rounded-corner,,13422,DB Regio AG Mitte
+db-regio-mitte,RE60,,,#d03831,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RB64,,,#8bc640,#ffffff,,rectangle-rounded-corner,,13422,DB Regio AG Mitte
+db-regio-mitte,RB65,,,#02b38d,#ffffff,,rectangle-rounded-corner,,13422,DB Regio AG Mitte
+db-regio-mitte,RB66,,,#8bc640,#ffffff,,rectangle-rounded-corner,,13422,DB Regio AG Mitte
+db-regio-mitte,RB67,,,#008060,#ffffff,,rectangle-rounded-corner,,13422,DB Regio AG Mitte
+db-regio-mitte,RB67,,,#406bb1,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RB68,,,#39ba8d,#ffffff,,rectangle-rounded-corner,,13422,DB Regio AG Mitte
+db-regio-mitte,RB68,,,#406bb1,#ffffff,,rectangle-rounded-corner,Q68930888,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RE70,,,#d03831,#ffffff,,rectangle-rounded-corner,Q80105383,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RB70,,,#3dad4a,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
+db-regio-mitte,RB71,,,#005826,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
+db-regio-mitte,RE73,,,#ff2e17,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
+db-regio-mitte,RB77,,,#8bc640,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
+db-regio-mitte,RB81,,,#39ba8d,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
+db-regio-mitte,RB82,,,#8bc640,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
+db-regio-mitte,RB83,,,#895da7,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
+db-regio-mitte,RB84,,,#8bc640,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
+db-regio-mitte,RB87,,,#895da7,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
 db-regio-nordost,FEX,db-regio-ag-nordost,fex19829,#79122f,#ffffff,,rectangle,Q100533383,10434,DB Regio AG Nordost
 db-regio-nordost,RB10,db-regio-ag-nordost,rb-10,#66aa22,#ffffff,,rectangle,Q15195695,10434,DB Regio AG Nordost
 db-regio-nordost,RB11,db-regio-ag-nordost,rb-11,#ed1c24,#ffffff,,rectangle,,10434,DB Regio AG Nordost
