@@ -2076,12 +2076,19 @@
         "contributors": [
             {
                 "github": "SpielenmitLili"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
                 "name": "RMV-Schienennetzplan 2024 mit Riedbahnsperrung 15.07.-14.12.2024",
                 "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/Schienennetzplan.pdf"
+            },
+            {
+                "name": "vlexx Liniennetzplan 2025",
+                "source": "https://www.vlexx.de/media/layout2016/laenderbahn/downloads/vlexx_Liniennetzkarte_2025_komplett_A0_quer.pdf"
             }
         ]
     },

@@ -1961,8 +1961,23 @@ vgn-vag-ubahn,U 1,,7-vanuba-1,#1c62aa,#ffffff,,rectangle,,13651,U-Bahn Nürnberg
 vgn-vag-ubahn,U 2,,7-vanuba-2,#ed1c24,#ffffff,,rectangle,,13651,U-Bahn Nürnberg
 vgn-vag-ubahn,U 3,,7-vanuba-3,#4dc2bb,#ffffff,,rectangle,,13651,U-Bahn Nürnberg
 vias,RB10,vias-gmbh,via-rb10,#e3a02e,#ffffff,,rectangle-rounded-corner,,10932,VIAS GmbH
-vlexx,RE3,vlexx,re-3,#e3a023,#ffffff,,rectangle-rounded-corner,,10951,vlexx
-vlexx,RE17,vlexx,re-17,#c77db4,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+vlexx,EX,,,#0a9641,#ffffff,,rectangle-rounded-corner,,10952,vlexx1
+vlexx,RE2,,,#ec174c,#ffffff,,rectangle-rounded-corner,,10952,vlexx1
+vlexx,RE3,,,#d12025,#ffffff,,rectangle-rounded-corner,,10952,vlexx1
+vlexx,RE4,,,#f8941d,#ffffff,,rectangle-rounded-corner,,10952,vlexx1
+vlexx,RE13,,,#b91525,#ffffff,,rectangle-rounded-corner,,10952,vlexx1
+vlexx,RE15,,,#6d2983,#ffffff,,rectangle-rounded-corner,,10952,vlexx1
+vlexx,RE17,,,#f37050,#ffffff,,rectangle-rounded-corner,,10952,vlexx1
+vlexx,RB31,,,#005c95,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+vlexx,RB33,,,#004685,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+vlexx,RB34,,,#0688ca,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+vlexx,RB35,,,#0d9ad7,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+vlexx,RB44,,,#004666,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+vlexx,RB53,,,#a1cd3a,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+vlexx,RB72,,,#6d8c51,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+vlexx,RB73,,,#00785b,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+vlexx,RB74,,,#40b98c,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+vlexx,RB76,,,#92c83e,#ffffff,,rectangle-rounded-corner,,10951,vlexx
 vms-chemnitzbahn,C11,,,#ab98c4,#ffffff,,pill,,14974,Chemnitzer Modell1
 vms-chemnitzbahn,C13,,,#62b9bd,#ffffff,,pill,,14974,Chemnitzer Modell1
 vms-chemnitzbahn,C14,,,#edab53,#ffffff,,pill,,14974,Chemnitzer Modell1
