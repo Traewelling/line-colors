@@ -2629,35 +2629,6 @@
         ]
     },
     {
-        "shortOperatorName": "vrs-bus",
-        "contributors": [
-            {
-                "github": "chloe-haj"
-            },
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "KVB Busse in Köln 2024 - gesamt",
-                "source": "https://www.kvb.koeln/fahrtinfo/liniennetzplaene.html?INCLUDEMODUL=dokumente_einzeln2.mod/inc.download.php&downDokument=5078"
-            },
-            {
-                "name": "SWB Liniennetz Busse linksrheinisch 2024",
-                "source": "https://www.swb-busundbahn.de/fileadmin/fahrplandateien/liniennetzplaene/SLNP_Bonn_LiRhein.pdf"
-            },
-            {
-                "name": "wupsi Busnetz Leverusen 2024",
-                "source": "https://www.wupsi.de/fileadmin/user_upload/Busnetz_Leverkusen_2024.pdf"
-            },
-            {
-                "name": "Bergischer FahrradBus-Flyer",
-                "source": "https://www.dasbergische.de/aktiv-entspannen/radfahren/bergischer-fahrradbus"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "vrs-kvb",
         "contributors": [
             {
@@ -2752,8 +2723,12 @@
                 "source": "https://www.kvb.koeln/fahrtinfo/liniennetzplaene.html?INCLUDEMODUL=dokumente_einzeln2.mod/inc.download.php&downDokument=5078"
             },
             {
-                "name": "wupsi Busnetz Leverusen 2024",
-                "source": "https://www.wupsi.de/fileadmin/user_upload/Busnetz_Leverkusen_2024.pdf"
+                "name": "wupsi Busnetz Leverusen 2025",
+                "source": "https://www.wupsi.de/fileadmin/wupsi.de/Fahrinfo/Linien/Liniennetz/Busnetz2025_Leverkusen_neu.pdf"
+            },
+            {
+                "name": "wupsi Busnetz Rheinisch-Bergischer-Kreis 2025",
+                "source": "https://www.wupsi.de/fileadmin/wupsi.de/Fahrinfo/Linien/Liniennetz/Busnetz2025_RheinischBergischerKreis_neu.pdf"
             }
         ]
     },
