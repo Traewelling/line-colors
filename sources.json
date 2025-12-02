@@ -1324,6 +1324,18 @@
         ]
     },
     {
+        "shortOperatorName": "rhb",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": {
+            "name": "Streckennetz RhB",
+            "source": "https://assets.eu.ctfassets.net/h76myjvzsgnd/5KPMxhHde0uzbKKefpS2kI/cd736ab1ceef48ec33198c24088d371f/Linienplan_RhB.pdf"
+        }
+    },
+    {
         "shortOperatorName": "rmv-db-sbahn",
         "contributors": [
             {

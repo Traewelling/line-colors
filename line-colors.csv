@@ -1176,6 +1176,22 @@ regiobus-hannover,N62,,5-webrbg-n62,#08345d,#ffffff,,pill,,12076,RegioBus Hannov
 regiobus-hannover,N63,,5-webrbg-n63,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
 regiobus-hannover,N70,,5-webrbg-n70,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
 regiobus-hannover,N94,,5-webrbg-n94,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
+rhb,IR38,,,#ea8c00,#ffffff,,rectangle,Q135618857,72,Rhätische Bahn
+rhb,RE1,,,#25a9aa,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE2,,,#a97400,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE3,,,#25a9aa,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE4,,,#a97400,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE6,,,#00549d,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE7,,,#941680,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE8,,,#683419,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE9,,,#008a39,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE13,,,#25a9aa,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE24,,,#a97400,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,R15,,,#c80205,#ffffff,,rectangle,Q135623643,72,Rhätische Bahn
+rhb,R16,,,#438bc3,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,R19,,,#a2bb04,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,S1,,,#d40074,#ffffff,,rectangle,Q115756382,72,Rhätische Bahn
+rhb,S2,,,#e8ac00,#ffffff,,rectangle,Q115756448,72,Rhätische Bahn
 rmv-db-sbahn,S1,db-regio-ag-s-bahn-rhein-main,4-800528-1,#009edd,#ffffff,,pill,,12201,DB Regio AG S-Bahn Rhein-Main
 rmv-db-sbahn,S2,db-regio-ag-s-bahn-rhein-main,4-800528-2,#ff2e17,#ffffff,,pill,,12201,DB Regio AG S-Bahn Rhein-Main
 rmv-db-sbahn,S3,db-regio-ag-s-bahn-rhein-main,4-800528-3,#00b098,#ffffff,,pill,,12201,DB Regio AG S-Bahn Rhein-Main
@@ -1262,6 +1278,7 @@ rmv-heag-bus,A,,5-rmvheb-a,#a97b50,#ffffff,,rectangle-rounded-corner,,8641,HEAG 
 rmv-heag-bus,AH,,5-rmvheb-ah,#603711,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
 rmv-heag-bus,AIR,,5-rmvheb-air,#3f9199,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
 rmv-heag-bus,BE1,,5-rmv289-be1,#2e3092,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
+rmv-heag-bus,DG,,,#a87c51,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
 rmv-heag-bus,EB,,5-rmv289-eb,#8bc63e,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
 rmv-heag-bus,F,,5-rmvheb-f,#be1d2c,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
 rmv-heag-bus,FM,,5-rmvheb-fm,#be1d2c,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
@@ -1269,11 +1286,13 @@ rmv-heag-bus,G,,5-rmvheb-g,#fbb03f,#ffffff,,rectangle-rounded-corner,,8641,HEAG 
 rmv-heag-bus,H,,5-rmvheb-h,#652d91,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
 rmv-heag-bus,K,,5-rmvheb-k,#1074bc,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
 rmv-heag-bus,L,,5-rmvheb-l,#e984b6,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
+rmv-heag-bus,M1,,,#952d77,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
+rmv-heag-bus,M2,,,#952d77,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
+rmv-heag-bus,M3,,,#952d77,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
 rmv-heag-bus,N,,5-rmvheb-n,#9f1960,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
 rmv-heag-bus,O,,5-rmvheb-o,#9f1960,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
 rmv-heag-bus,P,,5-rmv289-p,#f7931d,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
 rmv-heag-bus,PE,,5-rmv289-pe,#f7931d,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
-rmv-heag-bus,PG,,5-rmv289-pg,#f7931d,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
 rmv-heag-bus,R,,5-rmvheb-r,#3ab54a,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
 rmv-heag-bus,WE1,,5-rmv289-we1,#63708c,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
 rmv-heag-bus,WE2,,5-rmv289-we2,#63708c,#ffffff,,rectangle-rounded-corner,,8641,HEAG Mobilo
