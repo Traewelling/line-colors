@@ -1765,6 +1765,10 @@
             {
                 "name": "TNW Liniennetz Basel und Umgebung",
                 "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
+            },
+            {
+                "name": "BLT Haltestellenfahrpläne (für Linien im Oberbaselbiet)",
+                "source": "https://www.blt.ch/fileadmin/user_upload/blt/PDF_Fahrplaene/2026/35BR01_110_A.pdf"
             }
         ]
     },
