@@ -540,6 +540,33 @@ lavv-swl,108,,5-swlbus-108,#ffed00,#000000,,rectangle,,11941,SWL
 lavv-swl,109,,5-swlbus-109,#0b9a33,#ffffff,,rectangle,,11941,SWL
 lavv-swl,110,,5-swlbus-110,#9d1680,#ffffff,,rectangle,,11941,SWL
 liege-s,S41,sncb,4-88-41,#0f6030,#ffffff,#ffffff,circle,,,
+liemobil,11,,,#fdc300,#000000,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,12,,,#283583,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,12E,,,#6e6ba9,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,13,,,#3fa535,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,13E,,,#3fa535,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,14,,,#cd1719,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,21,,,#007a8c,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,22,,,#6fa8b3,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,24,,,#0095db,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,26,,,#f39200,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,31,,,#ed6a5b,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,32,,,#a41753,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,33,,,#944127,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,35,,,#c7b649,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,36E,,,#9e1981,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,37,,,#4a5da7,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,38,,,#4d3078,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,40,,,#7b6a58,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,44,,,#bdbcbc,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,46,,,#35434f,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,48,,,#8b696b,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,N1,,,#6f6352,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,N2,,,#e64d33,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,N3,,,#80b333,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,N4,,,#666666,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,B,,,#e64d33,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,C,,,#666666,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
 mdv-lvb,1,,8-naslvt-1,#78b145,#ffffff,,rectangle,Q121343878,8872,Leipziger Verkehrsbetriebe
 mdv-lvb,2,,8-naslvt-2,#f7ce46,#000000,,rectangle,Q136824538,8872,Leipziger Verkehrsbetriebe
 mdv-lvb,3,,8-naslvt-3,#78b145,#ffffff,,rectangle,Q121344175,8872,Leipziger Verkehrsbetriebe
