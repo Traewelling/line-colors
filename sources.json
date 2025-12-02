@@ -1799,6 +1799,20 @@
         ]
     },
     {
+        "shortOperatorName": "tnw-aagl",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Haltestellenfahrpläne von der AAGL-Website, Stand Dezember 2025",
+                "source": "https://autobus.ag/oev/haltestellenfahrplaene"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "tnw-blt",
         "contributors": [
             {

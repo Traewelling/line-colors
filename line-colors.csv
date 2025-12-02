@@ -1631,6 +1631,17 @@ tlx,RB61,trilex-die-landerbahn-gmbh-dlb,tl-rb61,#438577,#ffffff,,rectangle-round
 tlx,RE1,trilex-express-die-landerbahn-gmbh-dlb,tlx-re1,#e97b3b,#ffffff,,rectangle-rounded-corner,,10890,trilex-express - Die Länderbahn GmbH DLB
 tlx,RE2,trilex-express-die-landerbahn-gmbh-dlb,tlx-re2,#db031c,#ffffff,,rectangle-rounded-corner,,10890,trilex-express - Die Länderbahn GmbH DLB
 tlx,T9,trilex-die-landerbahn-gmbh-dlb,tl-t9,#f6b90b,#ffffff,,rectangle-rounded-corner,,10892,trilex  - Die Länderbahn GmbH DLB
+tnw-aagl,70,,,#ffdd00,#000000,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,71,,,#95c11f,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,72,,,#5a6f85,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,74,,,#a36009,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,75,,,#7b77b6,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,76,,,#00a7a6,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,78,,,#f39200,#000000,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,80,,,#e4032e,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,81,,,#f088b6,#000000,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,82,,,#13a538,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,83,,,#0094d2,#ffffff,,rectangle,,811,Autobus AG Liestal
 tnw-blt,10,baselland-transport,8-850037-10,#fec800,#000000,,rectangle-rounded-corner,Q7885420,37,Baselland Transport
 tnw-blt,11,baselland-transport,8-850037-11,#e7000e,#ffffff,,rectangle-rounded-corner,Q3239102,37,Baselland Transport
 tnw-blt,E11,baselland-transport,8-850037-e11,#e7000e,#ffffff,,rectangle-rounded-corner,Q106925455,37,Baselland Transport
