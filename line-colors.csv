@@ -849,7 +849,7 @@ neb-niederbarnimer-eisenbahn,TES,neb-niederbarnimer-eisenbahn,rb-tes,#d70000,#ff
 nrw-regional,RE 1,national-express,re-1,#ff2d16,#ffffff,,rectangle-rounded-corner,,10913,National Express
 nrw-regional,RE 2,db-regio-ag-nrw,re-2,#00b8f1,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
 nrw-regional,RE 3,eurobahn,re-3,#e46e25,#ffffff,,rectangle-rounded-corner,,11049,Eurobahn
-nrw-regional,RE 4,national-express,re-4,#e88f24,#ffffff,,rectangle-rounded-corner,,10913,National Express
+nrw-regional,RE 4,national-express,re-4,#e88f24,#ffffff,,rectangle-rounded-corner,Q872372,10913,National Express
 nrw-regional,RE 5,national-express,re-5,#0182ba,#ffffff,,rectangle-rounded-corner,,10913,National Express
 nrw-regional,RE 6,national-express,re-6,#9e2a96,#ffffff,,rectangle-rounded-corner,,10913,National Express
 nrw-regional,RE 7,national-express,re-7,#052e69,#ffffff,,rectangle-rounded-corner,,10913,National Express
