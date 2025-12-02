@@ -1324,6 +1324,18 @@
         ]
     },
     {
+        "shortOperatorName": "rhb",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": {
+            "name": "Streckennetz RhB",
+            "source": "https://assets.eu.ctfassets.net/h76myjvzsgnd/5KPMxhHde0uzbKKefpS2kI/cd736ab1ceef48ec33198c24088d371f/Linienplan_RhB.pdf"
+        }
+    },
+    {
         "shortOperatorName": "rmv-db-sbahn",
         "contributors": [
             {
@@ -1765,6 +1777,10 @@
             {
                 "name": "TNW Liniennetz Basel und Umgebung",
                 "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
+            },
+            {
+                "name": "BLT Haltestellenfahrpläne (für Linien im Oberbaselbiet)",
+                "source": "https://www.blt.ch/fileadmin/user_upload/blt/PDF_Fahrplaene/2026/35BR01_110_A.pdf"
             }
         ]
     },
@@ -3340,6 +3356,20 @@
             {
                 "name": "Liniennetzplan Stadtbus Gütersloh",
                 "source": "https://www.stadtbus-gt.de/multi-wGlobal/wGlobal/scripts/accessDocument.php?forceDownload=1&document=/stadtbus-wAssets/docs/liniennetz/Liniennetzplan_Stadtbus_Guetersloh.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wt-svh",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Herford",
+                "source": "https://owlverkehr.de/pdf/Liniennetzpl%C3%A4ne/Liniennetzplan-Herford_ab_1._Dezember_2025.PDF"
             }
         ]
     },
