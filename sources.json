@@ -1879,6 +1879,20 @@
         ]
     },
     {
+        "shortOperatorName": "transn",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+            ],
+            "sources":
+            {
+                "name": "Plan de Réseau 2025",
+                "source": "https://www.transn.ch/fileadmin/transn/pdf/Plans/plan_reseau_2025_VF_sd.pdf"
+            
+            }
+    },
+    {
         "shortOperatorName": "uestra",
         "contributors": [
             {
