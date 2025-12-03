@@ -1663,11 +1663,14 @@
         "contributors": [
             {
                 "github": "TheOneWithTheBraid"
+            },
+            {
+                "github": "mtwente"
             }
         ],
         "sources": {
-            "name": "SBB: direct long-distance connections",
-            "source": "https://network.sbb.ch/en/"
+            "name": "SBB Liniennetzplan Fernverkehr, gültig ab 15.12.2024",
+            "source": "https://company.sbb.ch/content/dam/infrastruktur/trafimage/karten/FV-Liniennetzplan-de.pdf"
         }
     },
     {
