@@ -68,6 +68,20 @@
         ]
     },
     {
+        "shortOperatorName": "bob",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzkarte Regionalverkehr 2026",
+                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_16-11-2025_barrierefrei.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "brb",
         "contributors": [
             {
@@ -1669,6 +1683,20 @@
         }
     },
     {
+        "shortOperatorName": "svg-stuttgart",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzkarte Regionalverkehr 2026",
+                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_16-11-2025_barrierefrei.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "svv-brb",
         "contributors": [
             {
@@ -1767,6 +1795,20 @@
             {
                 "name": "Liniennetzplan Trilex Dezember 2023",
                 "source": "https://www.laenderbahn.com/media/laenderbahn/bilder/2023-12_Linienplan_trilex_ERWEITERT_A3_WEB.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "tnw-aagl",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Haltestellenfahrpläne von der AAGL-Website, Stand Dezember 2025",
+                "source": "https://autobus.ag/oev/haltestellenfahrplaene"
             }
         ]
     },
