@@ -722,6 +722,20 @@
         ]
     },
     {
+        "shortOperatorName": "liemobil",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz LIEmobil und Fahrplanbuch (PDF)",
+                "source": "https://liemobil.li/static/Liniennetz---gross---2025-a4447f5755c8190b23661c50589b2762.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mdv-lvb",
         "contributors": [
             {
