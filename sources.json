@@ -68,6 +68,20 @@
         ]
     },
     {
+        "shortOperatorName": "bob",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzkarte Regionalverkehr 2026",
+                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_16-11-2025_barrierefrei.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "brb",
         "contributors": [
             {
@@ -1683,6 +1697,20 @@
         }
     },
     {
+        "shortOperatorName": "svg-stuttgart",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzkarte Regionalverkehr 2026",
+                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_16-11-2025_barrierefrei.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "svv-brb",
         "contributors": [
             {
@@ -1833,6 +1861,20 @@
             {
                 "name": "TNW Liniennetz Basel und Umgebung",
                 "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "tnw-pag",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Postgelb für alle Postautos: Markenauftritt PostAuto Schweiz, Farbabklärung Barrierefreiheit",
+                "source": "https://microsites.post.ch/-/media/post-maxisites/microsites/documents/Post-RGB-Barrierefreiheit-160922.pdf"
             }
         ]
     },
