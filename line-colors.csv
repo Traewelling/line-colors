@@ -1677,6 +1677,45 @@ tnw-bvb,46,basler-verkehrsbetriebe,,#cfd0d0,#000000,,rectangle-rounded-corner,,8
 tnw-bvb,47,basler-verkehrsbetriebe,,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
 tnw-bvb,48,basler-verkehrsbetriebe,,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
 tnw-bvb,50,basler-verkehrsbetriebe,,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+transn,101,,,#312783,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,102,,,#4a96d2,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,106,,,#d682b5,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,107,,,#e30613,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,108,,,#00854c,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,109,,,#951b81,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,110,,,#7dcdbe,#ffffff,,pill,,166,Funiculaire Neuchâtel-Université - Neuchâtel-Gare
+transn,111,,,#d7e141,#000000,,pill,,15300,Transports Publics Neuchâtelois SA
+transn,112,,,#009155,#ffffff,,pill,,15300,Transports Publics Neuchâtelois SA
+transn,120,,,#ef7d00,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,121,,,#95c11f,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,122,,,#8acbc1,#000000,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,301,,,#312783,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,302,,,#e30613,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,303,,,#dedd26,#000000,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,304,,,#00854c,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,310,,,#d682b5,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,311,,,#ef7d00,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,312,,,#951b81,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,341,,,#423e8d,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,342,,,#e30613,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,343,,,#912891,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,352,,,#e30613,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,353,,,#dedd26,#000000,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,354,,,#00854c,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,360,,,#4a96d2,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,361,,,#8acbc1,#000000,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,370,,,#e6007e,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,421,,,#dedd26,#000000,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,422,,,#d682b5,#ffffff,,pill,,156,Service d'automobiles TRN (vr)
+transn,423,,,#00854c,#ffffff,,pill,,156,Service d'automobiles TRN (vr)
+transn,425,,,#e6007e,#ffffff,,pill,,156,Service d'automobiles TRN (vr)
+transn,426,,,#4696d2,#ffffff,,pill,,156,Service d'automobiles TRN (vr)
+transn,590,,,#e30613,#ffffff,,pill,,156,Service d'automobiles TRN (vr)
+transn,591,,,#00854c,#ffffff,,pill,,156,Service d'automobiles TRN (vr)
+transn,R15,,,#7dcdbe,#000000,,pill,,44,Transports Publics Neuchâtelois SA (cmn)
+transn,R21,,,#912891,#ffffff,,pill,,73,Transports Publics Neuchâtelois SA (rvt)
+transn,R22,,,#78af41,#ffffff,,pill,,44,Transports Publics Neuchâtelois SA (cmn)
+transn,R24,,,#d282b4,#ffffff,,pill,,44,Transports Publics Neuchâtelois SA (cmn)
 uestra,1,ustra-hannoversche-verkehrsbetriebe-ag,8-webuet-1,#ffffff,#2c2e35,#ff2e3e,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
 uestra,2,ustra-hannoversche-verkehrsbetriebe-ag,8-webuet-2,#ffffff,#2c2e35,#ff2e3e,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
 uestra,3,ustra-hannoversche-verkehrsbetriebe-ag,8-webuet-3,#ffffff,#2c2e35,#0073c0,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
