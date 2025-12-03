@@ -1,1 +1,135 @@
 shortOperatorName,lineName,backgroundColor,textColor,borderColor,shape,wikidataQid,GTFSAgencyID,GTFSAgencyName
+tnw-aagl,70,#ffdd00,#000000,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,71,#95c11f,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,72,#5a6f85,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,74,#a36009,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,75,#7b77b6,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,76,#00a7a6,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,78,#f39200,#000000,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,80,#e4032e,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,81,#f088b6,#000000,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,82,#13a538,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,83,#0094d2,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-blt,10,#fec800,#000000,,rectangle-rounded-corner,Q7885420,37,Baselland Transport
+tnw-blt,11,#e7000e,#ffffff,,rectangle-rounded-corner,Q3239102,37,Baselland Transport
+tnw-blt,E11,#e7000e,#ffffff,,rectangle-rounded-corner,Q106925455,37,Baselland Transport
+tnw-blt,17,#00a1e5,#ffffff,,rectangle-rounded-corner,Q16854977,37,Baselland Transport
+tnw-blt,19,#7c217d,#ffffff,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,37,#cfd0d0,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,47,#adafaf,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,58,#adafaf,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,59,#adafaf,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,60,#cfd0d0,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,61,#adafaf,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,62,#adafaf,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,64,#cfd0d0,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,65,#adafaf,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,66,#adafaf,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,92,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,93,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,105,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,106,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,107,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,108,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,109,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,110,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-bvb,1,#7c4425,#ffffff,,rectangle-rounded-corner,Q16854970,823,Basler Verkehrsbetriebe
+tnw-bvb,2,#a47e42,#ffffff,,rectangle-rounded-corner,Q16854978,823,Basler Verkehrsbetriebe
+tnw-bvb,3,#364093,#ffffff,,rectangle-rounded-corner,Q16854981,823,Basler Verkehrsbetriebe
+tnw-bvb,6,#0068b2,#ffffff,,rectangle-rounded-corner,Q16854982,823,Basler Verkehrsbetriebe
+tnw-bvb,8,#ed6aa4,#ffffff,,rectangle-rounded-corner,Q16854983,823,Basler Verkehrsbetriebe
+tnw-bvb,14,#f17900,#ffffff,,rectangle-rounded-corner,Q16854972,823,Basler Verkehrsbetriebe
+tnw-bvb,15,#00943d,#ffffff,,rectangle-rounded-corner,Q16854974,823,Basler Verkehrsbetriebe
+tnw-bvb,16,#a6c700,#000000,,rectangle-rounded-corner,Q16854975,823,Basler Verkehrsbetriebe
+tnw-bvb,21,#00a192,#ffffff,,rectangle-rounded-corner,Q16854979,823,Basler Verkehrsbetriebe
+tnw-bvb,30,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,31,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,32,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,33,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,34,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,35,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,36,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,38,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,42,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,45,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,46,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,47,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,48,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,50,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-pag,67,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,68,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,69,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,73,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,77,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,84,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,85,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,86,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,88,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,89,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,90,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,94,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,99,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,100,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,101,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,102,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,103,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,104,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,111,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,112,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,113,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,114,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,115,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,116,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,117,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,118,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,119,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,133,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,134,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,135,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,136,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,137,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,139,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,141,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,142,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,143,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,144,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,149,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+transn,101,#312783,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,102,#4a96d2,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,106,#d682b5,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,107,#e30613,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,108,#00854c,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,109,#951b81,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,110,#7dcdbe,#ffffff,,pill,,166,Funiculaire Neuchâtel-Université - Neuchâtel-Gare
+transn,111,#d7e141,#000000,,pill,,15300,Transports Publics Neuchâtelois SA
+transn,112,#009155,#ffffff,,pill,,15300,Transports Publics Neuchâtelois SA
+transn,120,#ef7d00,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,121,#95c11f,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,122,#8acbc1,#000000,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,301,#312783,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,302,#e30613,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,303,#dedd26,#000000,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,304,#00854c,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,310,#d682b5,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,311,#ef7d00,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,312,#951b81,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,341,#423e8d,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,342,#e30613,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,343,#912891,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,352,#e30613,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,353,#dedd26,#000000,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,354,#00854c,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,360,#4a96d2,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,361,#8acbc1,#000000,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,370,#e6007e,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,421,#dedd26,#000000,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,422,#d682b5,#ffffff,,pill,,156,Service d'automobiles TRN (vr)
+transn,423,#00854c,#ffffff,,pill,,156,Service d'automobiles TRN (vr)
+transn,425,#e6007e,#ffffff,,pill,,156,Service d'automobiles TRN (vr)
+transn,426,#4696d2,#ffffff,,pill,,156,Service d'automobiles TRN (vr)
+transn,590,#e30613,#ffffff,,pill,,156,Service d'automobiles TRN (vr)
+transn,591,#00854c,#ffffff,,pill,,156,Service d'automobiles TRN (vr)
+transn,R15,#7dcdbe,#000000,,pill,,44,Transports Publics Neuchâtelois SA (cmn)
+transn,R21,#912891,#ffffff,,pill,,73,Transports Publics Neuchâtelois SA (rvt)
+transn,R22,#78af41,#ffffff,,pill,,44,Transports Publics Neuchâtelois SA (cmn)
+transn,R24,#d282b4,#ffffff,,pill,,44,Transports Publics Neuchâtelois SA (cmn)
