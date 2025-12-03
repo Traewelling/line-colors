@@ -1,4 +1,73 @@
 shortOperatorName,lineName,backgroundColor,textColor,borderColor,shape,wikidataQid,GTFSAgencyID,GTFSAgencyName
+liemobil,11,#fdc300,#000000,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,12,#283583,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,12E,#6e6ba9,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,13,#3fa535,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,13E,#3fa535,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,14,#cd1719,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,21,#007a8c,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,22,#6fa8b3,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,24,#0095db,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,26,#f39200,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,31,#ed6a5b,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,32,#a41753,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,33,#944127,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,35,#c7b649,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,36E,#9e1981,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,37,#4a5da7,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,38,#4d3078,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,40,#7b6a58,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,44,#bdbcbc,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,46,#35434f,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,48,#8b696b,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,N1,#6f6352,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,N2,#e64d33,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,N3,#80b333,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,N4,#666666,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,B,#e64d33,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,C,#666666,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+rhb,IR38,#ea8c00,#ffffff,,rectangle,Q135618857,72,Rhätische Bahn
+rhb,RE1,#25a9aa,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE2,#a97400,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE3,#25a9aa,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE4,#a97400,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE6,#00549d,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE7,#941680,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE8,#683419,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE9,#008a39,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE13,#25a9aa,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE24,#a97400,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,R15,#c80205,#ffffff,,rectangle,Q135623643,72,Rhätische Bahn
+rhb,R16,#438bc3,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,R19,#a2bb04,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,S1,#d40074,#ffffff,,rectangle,Q115756382,72,Rhätische Bahn
+rhb,S2,#e8ac00,#ffffff,,rectangle,Q115756448,72,Rhätische Bahn
+s-bahn-bern-bls,S 1,#50b447,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 2,#1cb1e6,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 3,#8868b3,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 31,#b0aa38,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 4,#53c4af,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 44,#646026,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 5,#881c3f,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 51,#9cc843,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 52,#f7cf39,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 6,#f84e4d,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-rbs,S 7,#ff812d,#ffffff,,rectangle,,,
+s-bahn-bern-rbs,S 8,#191918,#ffffff,,rectangle,,,
+s-bahn-bern-rbs,S 9,#fa2d18,#ffffff,,rectangle,,,
+s-bahn-zentralschweiz-bls,S 6,#0165b6,#ffffff,,rectangle-rounded-corner,,33,BLS AG (bls)
+s-bahn-zentralschweiz-bls,S 7,#73c0e8,#ffffff,,rectangle-rounded-corner,,33,BLS AG (bls)
+s-bahn-zentralschweiz-bls,S 77,#7a84c4,#ffffff,,rectangle-rounded-corner,,33,BLS AG (bls)
+s-bahn-zentralschweiz-sbb,S 1,#1bb04d,#ffffff,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen SBB
+s-bahn-zentralschweiz-sbb,S 2,#f93f27,#ffffff,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen SBB
+s-bahn-zentralschweiz-sbb,S 3,#fe7d25,#ffffff,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen SBB
+s-bahn-zentralschweiz-sbb,S 9,#a3cf45,#ffffff,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen SBB
+s-bahn-zentralschweiz-sbb,S 99,#95b15e,#ffffff,,rectangle-rounded-corner,,11,"Schweizerische Bundesbahnen SBB
+s-bahn-zentralschweiz-zb,S 4,#aa2a3f,#ffffff,,rectangle-rounded-corner,,86,Zentralbahn
+s-bahn-zentralschweiz-zb,S 41,#055d80,#ffffff,,rectangle-rounded-corner,,86,Zentralbahn
+s-bahn-zentralschweiz-zb,S 44,#d35d68,#ffffff,,rectangle-rounded-corner,,86,Zentralbahn
+s-bahn-zentralschweiz-zb,S 5,#fb47a3,#ffffff,,rectangle-rounded-corner,,86,Zentralbahn
+s-bahn-zentralschweiz-zb,S 55,#fc87bf,#ffffff,,rectangle-rounded-corner,,86,Zentralbahn
 tnw-aagl,70,#ffdd00,#000000,,rectangle,,811,Autobus AG Liestal
 tnw-aagl,71,#95c11f,#ffffff,,rectangle,,811,Autobus AG Liestal
 tnw-aagl,72,#5a6f85,#ffffff,,rectangle,,811,Autobus AG Liestal

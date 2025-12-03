@@ -546,33 +546,6 @@ lavv-swl,108,,5-swlbus-108,#ffed00,#000000,,rectangle,,11941,SWL
 lavv-swl,109,,5-swlbus-109,#0b9a33,#ffffff,,rectangle,,11941,SWL
 lavv-swl,110,,5-swlbus-110,#9d1680,#ffffff,,rectangle,,11941,SWL
 liege-s,S41,sncb,4-88-41,#0f6030,#ffffff,#ffffff,circle,,,
-liemobil,11,,,#fdc300,#000000,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,12,,,#283583,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,12E,,,#6e6ba9,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,13,,,#3fa535,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,13E,,,#3fa535,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,14,,,#cd1719,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,21,,,#007a8c,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,22,,,#6fa8b3,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,24,,,#0095db,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,26,,,#f39200,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,31,,,#ed6a5b,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,32,,,#a41753,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,33,,,#944127,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,35,,,#c7b649,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,36E,,,#9e1981,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,37,,,#4a5da7,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,38,,,#4d3078,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,40,,,#7b6a58,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,44,,,#bdbcbc,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,46,,,#35434f,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,48,,,#8b696b,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,N1,,,#6f6352,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,N2,,,#e64d33,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,N3,,,#80b333,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,N4,,,#666666,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,B,,,#e64d33,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,C,,,#666666,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
 mdv-lvb,1,,8-naslvt-1,#78b145,#ffffff,,rectangle,Q121343878,8872,Leipziger Verkehrsbetriebe
 mdv-lvb,2,,8-naslvt-2,#f7ce46,#000000,,rectangle,Q136824538,8872,Leipziger Verkehrsbetriebe
 mdv-lvb,3,,8-naslvt-3,#78b145,#ffffff,,rectangle,Q121344175,8872,Leipziger Verkehrsbetriebe
@@ -1225,22 +1198,6 @@ regiobus-hannover,N62,,5-webrbg-n62,#08345d,#ffffff,,pill,,12076,RegioBus Hannov
 regiobus-hannover,N63,,5-webrbg-n63,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
 regiobus-hannover,N70,,5-webrbg-n70,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
 regiobus-hannover,N94,,5-webrbg-n94,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
-rhb,IR38,,,#ea8c00,#ffffff,,rectangle,Q135618857,72,Rhätische Bahn
-rhb,RE1,,,#25a9aa,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,RE2,,,#a97400,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,RE3,,,#25a9aa,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,RE4,,,#a97400,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,RE6,,,#00549d,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,RE7,,,#941680,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,RE8,,,#683419,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,RE9,,,#008a39,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,RE13,,,#25a9aa,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,RE24,,,#a97400,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,R15,,,#c80205,#ffffff,,rectangle,Q135623643,72,Rhätische Bahn
-rhb,R16,,,#438bc3,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,R19,,,#a2bb04,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,S1,,,#d40074,#ffffff,,rectangle,Q115756382,72,Rhätische Bahn
-rhb,S2,,,#e8ac00,#ffffff,,rectangle,Q115756448,72,Rhätische Bahn
 rmv-db-sbahn,S1,db-regio-ag-s-bahn-rhein-main,4-800528-1,#009edd,#ffffff,,pill,,12201,DB Regio AG S-Bahn Rhein-Main
 rmv-db-sbahn,S2,db-regio-ag-s-bahn-rhein-main,4-800528-2,#ff2e17,#ffffff,,pill,,12201,DB Regio AG S-Bahn Rhein-Main
 rmv-db-sbahn,S3,db-regio-ag-s-bahn-rhein-main,4-800528-3,#00b098,#ffffff,,pill,,12201,DB Regio AG S-Bahn Rhein-Main
@@ -1524,19 +1481,6 @@ rvf-vag-stadtbahn,2,,8-vag002-2,#35af3f,#ffffff,,rectangle,,7642,VAG - Stadtbahn
 rvf-vag-stadtbahn,3,,8-vag002-3,#f79210,#ffffff,,rectangle,,7642,VAG - Stadtbahn
 rvf-vag-stadtbahn,4,,8-vag002-4,#f033a3,#ffffff,,rectangle,,7642,VAG - Stadtbahn
 rvf-vag-stadtbahn,5,,8-vag002-5,#0994ce,#ffffff,,rectangle,,7642,VAG - Stadtbahn
-s-bahn-bern-bls,S 1,bls-ag,4-850033-1,#50b447,#ffffff,,rectangle,,,
-s-bahn-bern-bls,S 2,bls-ag,4-850033-2,#1cb1e6,#ffffff,,rectangle,,,
-s-bahn-bern-bls,S 3,bls-ag,4-850033-3,#8868b3,#ffffff,,rectangle,,,
-s-bahn-bern-bls,S 31,bls-ag,4-850033-31,#b0aa38,#ffffff,,rectangle,,,
-s-bahn-bern-bls,S 4,bls-ag,4-850033-4,#53c4af,#ffffff,,rectangle,,,
-s-bahn-bern-bls,S 44,bls-ag,4-850033-44,#646026,#ffffff,,rectangle,,,
-s-bahn-bern-bls,S 5,bls-ag,4-850033-5,#881c3f,#ffffff,,rectangle,,,
-s-bahn-bern-bls,S 51,bls-ag,4-850033-51,#9cc843,#ffffff,,rectangle,,,
-s-bahn-bern-bls,S 52,bls-ag,4-850033-52,#f7cf39,#ffffff,,rectangle,,,
-s-bahn-bern-bls,S 6,bls-ag,4-850033-6-827562-5222797,#f84e4d,#ffffff,,rectangle,,,
-s-bahn-bern-rbs,S 7,regionalverkehr-bern-solothurn,4-850088-7,#ff812d,#ffffff,,rectangle,,,
-s-bahn-bern-rbs,S 8,regionalverkehr-bern-solothurn,4-850088-8,#191918,#ffffff,,rectangle,,,
-s-bahn-bern-rbs,S 9,regionalverkehr-bern-solothurn,4-850088-9,#fa2d18,#ffffff,,rectangle,,,
 s-bahn-hannover-transdev,S 1,s-bahn-hannover-transdev,4-tdhs-1,#846daa,#ffffff,,pill,Q63433445,13776,S-Bahn Hannover
 s-bahn-hannover-transdev,S 2,s-bahn-hannover-transdev,4-tdhs-2,#007a3d,#ffffff,,pill,Q63433449,13776,S-Bahn Hannover
 s-bahn-hannover-transdev,S 21,s-bahn-hannover-transdev,4-tdhs-21,#007a3d,#ffffff,,pill,Q63433451,13776,S-Bahn Hannover
@@ -1547,19 +1491,6 @@ s-bahn-hannover-transdev,S 51,s-bahn-hannover-transdev,4-tdhs-51,#f18700,#ffffff
 s-bahn-hannover-transdev,S 6,s-bahn-hannover-transdev,4-tdhs-6,#004f9f,#ffffff,,pill,Q63433460,13776,S-Bahn Hannover
 s-bahn-hannover-transdev,S 7,s-bahn-hannover-transdev,4-tdhs-7,#afcb27,#ffffff,,pill,Q63433461,13776,S-Bahn Hannover
 s-bahn-hannover-transdev,S 8,s-bahn-hannover-transdev,4-tdhs-8,#1794ca,#ffffff,,pill,Q63433462,13776,S-Bahn Hannover
-s-bahn-zentralschweiz-bls,S 6,bls-ag,4-850033-6-924462-5234071,#0165b6,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-bls,S 7,bls-ag,4-850033-7,#73c0e8,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-bls,S 77,bls-ag,4-850033-77,#7a84c4,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-sbb,S 1,sbb,4-85-1-924462-5234071,#1bb04d,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-sbb,S 2,sbb,4-85-2-947252-5247813,#f93f27,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-sbb,S 3,sbb,4-85-3-924462-5234071,#fe7d25,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-sbb,S 9,sbb,4-85-9-924462-5234071,#a3cf45,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-sbb,S 99,sbb,4-85-99,#95b15e,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-zb,S 4,zentralbahn,4-850086-4,#aa2a3f,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-zb,S 41,zentralbahn,4-850086-41,#055d80,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-zb,S 44,zentralbahn,4-850086-44,#d35d68,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-zb,S 5,zentralbahn,4-850086-5,#fb47a3,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-zb,S 55,zentralbahn,4-850086-55,#fc87bf,#ffffff,,rectangle-rounded-corner,,,
 saarbahn,S1,saarbahn,8-vgssbs-1,#f39200,#ffffff,,rectangle,,8931,Saarbahn GmbH
 saarbahn,30,,5-vgssbb-30,#5c2483,#ffffff,,rectangle,,8931,Saarbahn GmbH
 saarbahn,101,,5-vgssbb-101,#e30613,#ffffff,,rectangle,,8931,Saarbahn GmbH
