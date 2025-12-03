@@ -1,4 +1,4 @@
-shortOperatorName,lineName,hafasOperatorCode,hafasLineId,backgroundColor,textColor,borderColor,shape,wikidataQid, delfiAgencyID, delfiAgencyName
+shortOperatorName,lineName,hafasOperatorCode,hafasLineId,backgroundColor,textColor,borderColor,shape,wikidataQid,GTFSAgencyID,GTFSAgencyName
 tnw-aagl,70,,,#ffdd00,#000000,,rectangle,,811,Autobus AG Liestal
 tnw-aagl,71,,,#95c11f,#ffffff,,rectangle,,811,Autobus AG Liestal
 tnw-aagl,72,,,#5a6f85,#ffffff,,rectangle,,811,Autobus AG Liestal

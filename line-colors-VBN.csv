@@ -1,4 +1,4 @@
-shortOperatorName,lineName,hafasOperatorCode,hafasLineId,backgroundColor,textColor,borderColor,shape,wikidataQid,delfiAgencyID,delfiAgencyName
+shortOperatorName,lineName,hafasOperatorCode,hafasLineId,backgroundColor,textColor,borderColor,shape,wikidataQid,GTFSAgencyID,GTFSAgencyName
 vrb-bsvg,1,,,#e2000a,#ffffff,,rectangle,Q121253956,12021,Braunschweiger Verkehrs-GmbH
 vrb-bsvg,1E,,,#e2000a,#ffffff,,rectangle,Q121253956,12021,Braunschweiger Verkehrs-GmbH
 vrb-bsvg,10,,,#e2000a,#ffffff,,rectangle,Q121253957,12021,Braunschweiger Verkehrs-GmbH
