@@ -68,6 +68,20 @@
         ]
     },
     {
+        "shortOperatorName": "bob",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzkarte Regionalverkehr 2026",
+                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_16-11-2025_barrierefrei.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "brb",
         "contributors": [
             {
@@ -704,6 +718,20 @@
             {
                 "name": "AbendLinie grafisch Tarifzone 100 im LAVV",
                 "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-grafisch-Abendlinie-2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "liemobil",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz LIEmobil und Fahrplanbuch (PDF)",
+                "source": "https://liemobil.li/static/Liniennetz---gross---2025-a4447f5755c8190b23661c50589b2762.pdf"
             }
         ]
     },
@@ -1669,6 +1697,20 @@
         }
     },
     {
+        "shortOperatorName": "svg-stuttgart",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzkarte Regionalverkehr 2026",
+                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_16-11-2025_barrierefrei.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "svv-brb",
         "contributors": [
             {
@@ -1823,7 +1865,7 @@
         ]
     },
     {
-        "shortOperatorName": "transn",
+        "shortOperatorName": "tnw-pag",
         "contributors": [
             {
                 "github": "mtwente"
@@ -1831,11 +1873,22 @@
         ],
         "sources": [
             {
-                "name": "Plan de Réseau 2025",
-                "source": "https://www.transn.ch/fileadmin/transn/pdf/Plans/plan_reseau_2025_VF_sd.pdf"
+                "name": "Postgelb für alle Postautos: Markenauftritt PostAuto Schweiz, Farbabklärung Barrierefreiheit",
+                "source": "https://microsites.post.ch/-/media/post-maxisites/microsites/documents/Post-RGB-Barrierefreiheit-160922.pdf"
             }
         ]
     },
+    {
+        "shortOperatorName": "transn",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+                        "sources": [
+            {
+                "name": "Plan de Réseau 2025",
+                "source": "https://www.transn.ch/fileadmin/transn/pdf/Plans/plan_reseau_2025_VF_sd.pdf"
+            },
     {
         "shortOperatorName": "uestra",
         "contributors": [
