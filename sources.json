@@ -1331,6 +1331,24 @@
         ]
     },
     {
+        "shortOperatorName": "ostwind-ab",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan S-Bahn St.Gallen/Schaffhausen/Bodensee 2025",
+                "source": "https://www.ostwind.ch/assets/resources/Dateien/Download/zonenplaene/2025/sbb-rv-stgallen-a2-2025-sid.pdf"
+            },
+            {
+                "name": "Liniennetzplan Frauenfeld-Wil 2025",
+                "source": "https://appenzellerbahnen.ch/files/appenzellerbahnen.ch/01_Reiseinformationen/02_Fahrplan/streckennetz/2025/JPG_SLNP_Ostwind_2024_Ausschnitt34_AppenzellerBahnen_825x592.jpg"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "pid-prague",
         "contributors": [
             {
