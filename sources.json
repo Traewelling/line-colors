@@ -1851,6 +1851,20 @@
         ]
     },
     {
+        "shortOperatorName": "tnw-pag",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Postgelb für alle Postautos: Markenauftritt PostAuto Schweiz, Farbabklärung Barrierefreiheit",
+                "source": "https://microsites.post.ch/-/media/post-maxisites/microsites/documents/Post-RGB-Barrierefreiheit-160922.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "uestra",
         "contributors": [
             {
