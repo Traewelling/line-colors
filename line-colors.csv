@@ -1045,6 +1045,15 @@ ostalb-mobil-stadtbus-gmuend,50,,5-ova002-50,#f47216,#ffffff,,rectangle,,14789,O
 ostalb-mobil-stadtbus-gmuend,66,,5-ova002-66,#00a650,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 ostalb-mobil-stadtbus-gmuend,70,,5-ova002-70,#2e3192,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 ostalb-mobil-stadtbus-gmuend,73,,5-ova002-73,#00adef,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
+ostwind-ab,S 15,,,#845534,#ffffff,,rectangle-rounded-corner,Q108572678,22,Appenzeller Bahnen
+ostwind-ab,S 20,,,#b6522b,#ffffff,,rectangle-rounded-corner,Q108602592,22,Appenzeller Bahnen
+ostwind-ab,S 21,,,#00908c,#ffffff,,rectangle-rounded-corner,Q106455085,22,Appenzeller Bahnen
+ostwind-ab,S 22,,,#b80e80,#ffffff,,rectangle-rounded-corner,Q108602620,22,Appenzeller Bahnen
+ostwind-ab,S 23,,,#c99115,#ffffff,,rectangle-rounded-corner,Q108602663,22,Appenzeller Bahnen
+ostwind-ab,S 24,,,#3aaa35,#ffffff,,rectangle-rounded-corner,Q108602649,22,Appenzeller Bahnen
+ostwind-ab,S 25,,,#72a8db,#ffffff,,rectangle-rounded-corner,Q108602682,22,Appenzeller Bahnen
+ostwind-ab,S 26,,,#b85f5c,#ffffff,,rectangle-rounded-corner,Q108602736,22,Appenzeller Bahnen
+ostwind-ab,841,,,#000000,#ffffff,,rectangle,,744,Automobildienst Appenzeller Bahnen
 pid-prague,1,dopravni-podnik-hl-m-prahy,8-540001-1,#ffffff,#a2cf62,#a2cf62,rectangle,,,
 pid-prague,2,dopravni-podnik-hl-m-prahy,8-540001-2,#ffffff,#f6c955,#f6c955,rectangle,,,
 pid-prague,3,dopravni-podnik-hl-m-prahy,8-540001-3,#ffffff,#4ca859,#4ca859,rectangle,,,
@@ -1532,10 +1541,40 @@ saarbahn,163,,5-vgssbb-163,#008bd2,#ffffff,,rectangle,,8931,Saarbahn GmbH
 saarbahn,164,,5-vgssbb-164,#008bd2,#ffffff,,rectangle,,8931,Saarbahn GmbH
 saarbahn,165,,5-vgssbb-165,#008bd2,#ffffff,,rectangle,,8931,Saarbahn GmbH
 saarbahn,168,,5-vgssbb-168,#008bd2,#ffffff,,rectangle,,8931,Saarbahn GmbH
-schweiz-fernverkehr,RE 6,schweizerische-bundesbahnen,re-6,#4f1a4a,#ffffff,,rectangle-rounded-corner,,,
-schweiz-fernverkehr,RE 33,schweizerische-bundesbahnen,re-33,#076867,#ffffff,,rectangle-rounded-corner,,,
-schweiz-fernverkehr,RE 37,schweizerische-bundesbahnen,re-37,#ffaa90,#2c2e35,,rectangle-rounded-corner,,,
-schweiz-fernverkehr,RE 48,schweizerische-bundesbahnen,re-48,#b9a96f,#ffffff,,rectangle-rounded-corner,,,
+schweiz-fernverkehr-bls,IR 17,,,#2d4c95,#ffffff,,rectangle-rounded-corner,Q115987430,33,BLS AG (bls)
+schweiz-fernverkehr-bls,IR 65,,,#0077ba,#ffffff,,rectangle-rounded-corner,Q116053231,33,BLS AG (bls)
+schweiz-fernverkehr-bls,IR 66,,,#2faeb3,#ffffff,,rectangle-rounded-corner,Q116053240,33,BLS AG (bls)
+schweiz-fernverkehr-sbb,IC,,,#575756,#ffffff,,rectangle-rounded-corner,Q130471236,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 1,,,#dd3221,#ffffff,,rectangle-rounded-corner,Q115929517,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 2,,,#9185be,#ffffff,,rectangle-rounded-corner,Q115932323,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 3,,,#008c3c,#ffffff,,rectangle-rounded-corner,Q115932338,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 5,,,#f39200,#ffffff,,rectangle-rounded-corner,Q115932346,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 6,,,#95c11f,#ffffff,,rectangle-rounded-corner,Q115932382,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 8,,,#0090d7,#ffffff,,rectangle-rounded-corner,Q115932389,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 21,,,#fec800,#000000,,rectangle-rounded-corner,Q115932392,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 51,,,#ae0f0a,#ffffff,,rectangle-rounded-corner,Q115932401,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 61,,,#ea5297,#ffffff,,rectangle-rounded-corner,Q115932445,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 81,,,#aac8df,#ffffff,,rectangle-rounded-corner,Q115932454,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 13,,,#2faeb3,#ffffff,,rectangle-rounded-corner,Q115973517,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 15,,,#1daf8e,#ffffff,,rectangle-rounded-corner,Q115973525,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 16,,,#a36c22,#ffffff,,rectangle-rounded-corner,Q115987375,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 27,,,#687222,#ffffff,,rectangle-rounded-corner,Q115987465,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 35,,,#00571f,#ffffff,,rectangle-rounded-corner,Q115996431,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 36,,,#af1870,#ffffff,,rectangle-rounded-corner,Q116052855,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 37,,,#c5d984,#000000,,rectangle-rounded-corner,Q116052863,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 57,,,#898e40,#ffffff,,rectangle-rounded-corner,Q137194696,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 70,,,#f193bd,#000000,,rectangle-rounded-corner,Q116053265,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 75,,,#7b468f,#ffffff,,rectangle-rounded-corner,Q116053272,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 90,,,#0078a1,#ffffff,,rectangle-rounded-corner,Q115973464,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 95,,,#8c2c6b,#ffffff,,rectangle-rounded-corner,Q131548730,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,RE 6,,,#5b1b47,#ffffff,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,RE 33,,,#006262,#ffffff,,rectangle-rounded-corner,Q131550276,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,RE 37,,,#f6af95,#2c2e35,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,RE 48,,,#c1ac6c,#ffffff,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sob,IR 13,,,#2faeb3,#ffffff,,rectangle-rounded-corner,,82,Schweizerische Südostbahn (sob)
+schweiz-fernverkehr-sob,IR 26,,,#b69495,#ffffff,,rectangle-rounded-corner,Q115987448,82,Schweizerische Südostbahn (sob)
+schweiz-fernverkehr-sob,IR 35,,,#00571f,#ffffff,,rectangle-rounded-corner,,82,Schweizerische Südostbahn (sob)
+schweiz-fernverkehr-sob,IR 46,,,#006789,#ffffff,,rectangle-rounded-corner,Q116052876,82,Schweizerische Südostbahn (sob)
 stadtlinie-limburg,LM-1,,lm-1,#0e8955,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
 stadtlinie-limburg,LM-2,,lm-2,#d6393c,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
 stadtlinie-limburg,LM-3,,lm-3,#00e0d9,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg

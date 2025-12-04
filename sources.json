@@ -1331,6 +1331,24 @@
         ]
     },
     {
+        "shortOperatorName": "ostwind-ab",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan S-Bahn St.Gallen/Schaffhausen/Bodensee 2025",
+                "source": "https://www.ostwind.ch/assets/resources/Dateien/Download/zonenplaene/2025/sbb-rv-stgallen-a2-2025-sid.pdf"
+            },
+            {
+                "name": "Liniennetzplan Frauenfeld-Wil 2025",
+                "source": "https://appenzellerbahnen.ch/files/appenzellerbahnen.ch/01_Reiseinformationen/02_Fahrplan/streckennetz/2025/JPG_SLNP_Ostwind_2024_Ausschnitt34_AppenzellerBahnen_825x592.jpg"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "pid-prague",
         "contributors": [
             {
@@ -1659,15 +1677,42 @@
         ]
     },
     {
-        "shortOperatorName": "schweiz-fernverkehr",
+        "shortOperatorName": "schweiz-fernverkehr-bls",
         "contributors": [
             {
-                "github": "TheOneWithTheBraid"
+                "github": "mtwente"
             }
         ],
         "sources": {
-            "name": "SBB: direct long-distance connections",
-            "source": "https://network.sbb.ch/en/"
+            "name": "SBB Liniennetzplan Fernverkehr, gültig ab 15.12.2024",
+            "source": "https://company.sbb.ch/content/dam/infrastruktur/trafimage/karten/FV-Liniennetzplan-de.pdf"
+        }
+    },
+    {
+        "shortOperatorName": "schweiz-fernverkehr-sbb",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            },
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": {
+            "name": "SBB Liniennetzplan Fernverkehr, gültig ab 15.12.2024",
+            "source": "https://company.sbb.ch/content/dam/infrastruktur/trafimage/karten/FV-Liniennetzplan-de.pdf"
+        }
+    },
+    {
+        "shortOperatorName": "schweiz-fernverkehr-sob",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": {
+            "name": "SBB Liniennetzplan Fernverkehr, gültig ab 15.12.2024",
+            "source": "https://company.sbb.ch/content/dam/infrastruktur/trafimage/karten/FV-Liniennetzplan-de.pdf"
         }
     },
     {
