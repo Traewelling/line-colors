@@ -1045,15 +1045,6 @@ ostalb-mobil-stadtbus-gmuend,50,,5-ova002-50,#f47216,#ffffff,,rectangle,,14789,O
 ostalb-mobil-stadtbus-gmuend,66,,5-ova002-66,#00a650,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 ostalb-mobil-stadtbus-gmuend,70,,5-ova002-70,#2e3192,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 ostalb-mobil-stadtbus-gmuend,73,,5-ova002-73,#00adef,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
-ostwind-ab,S 15,,,#845534,#ffffff,,rectangle-rounded-corner,Q108572678,22,Appenzeller Bahnen
-ostwind-ab,S 20,,,#b6522b,#ffffff,,rectangle-rounded-corner,Q108602592,22,Appenzeller Bahnen
-ostwind-ab,S 21,,,#00908c,#ffffff,,rectangle-rounded-corner,Q106455085,22,Appenzeller Bahnen
-ostwind-ab,S 22,,,#b80e80,#ffffff,,rectangle-rounded-corner,Q108602620,22,Appenzeller Bahnen
-ostwind-ab,S 23,,,#c99115,#ffffff,,rectangle-rounded-corner,Q108602663,22,Appenzeller Bahnen
-ostwind-ab,S 24,,,#3aaa35,#ffffff,,rectangle-rounded-corner,Q108602649,22,Appenzeller Bahnen
-ostwind-ab,S 25,,,#72a8db,#ffffff,,rectangle-rounded-corner,Q108602682,22,Appenzeller Bahnen
-ostwind-ab,S 26,,,#b85f5c,#ffffff,,rectangle-rounded-corner,Q108602736,22,Appenzeller Bahnen
-ostwind-ab,841,,,#000000,#ffffff,,rectangle,,744,Automobildienst Appenzeller Bahnen
 pid-prague,1,dopravni-podnik-hl-m-prahy,8-540001-1,#ffffff,#a2cf62,#a2cf62,rectangle,,,
 pid-prague,2,dopravni-podnik-hl-m-prahy,8-540001-2,#ffffff,#f6c955,#f6c955,rectangle,,,
 pid-prague,3,dopravni-podnik-hl-m-prahy,8-540001-3,#ffffff,#4ca859,#4ca859,rectangle,,,
