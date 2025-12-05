@@ -1569,6 +1569,50 @@
         ]
     },
     {
+        "shortOperatorName": "rvl-sgb",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Rheinfelden 2025",
+                "source": "https://rvl-online.de/download/4416/"
+            },
+            {
+                "name": "Liniennetzplan Schopfheim 2025",
+                "source": "https://rvl-online.de/download/7537/"
+            },
+            {
+                "name": "Liniennetzplan Grenzach-Wyhlen 2025",
+                "source": "https://rvl-online.de/download/7533/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "rvl-sweg",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Weil am Rhein 2025",
+                "source": "https://rvl-online.de/download/4415/"
+            },
+            {
+                "name": "Liniennetzplan Lörrach 2025",
+                "source": "https://rvl-online.de/download/4417/"
+            },
+            {
+                "name": "Liniennetzplan Markgräflerland 2025",
+                "source": "https://rvl-online.de/download/7539/"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "s-bahn-bern-bls",
         "contributors": [
             {
