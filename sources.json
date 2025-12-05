@@ -3518,6 +3518,20 @@
         ]
     },
     {
+        "shortOperatorName": "wt-nph-ne",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "NachtExpress-Liniennetz 2024",
+                "source": "https://www.fahr-mit.de/fahr-mit-wAssets/docs/fahrplan-und-liniennetz/NachtExpress-Liniennetz_2024.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "wt-oeynhauser",
         "contributors": [
             {
