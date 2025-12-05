@@ -2175,6 +2175,15 @@ vmt-jena-tram,1,,8-rmtjnv-1,#d8592b,#ffffff,,rectangle,,10283,Jenaer Nahverkehr 
 vmt-jena-tram,2,,8-rmtjnv-2,#f0ba46,#ffffff,,rectangle,,10283,Jenaer Nahverkehr GmbH
 vmt-jena-tram,4,,8-rmtjnv-4,#c92d24,#ffffff,,rectangle,,10283,Jenaer Nahverkehr GmbH
 vmt-jena-tram,5,,8-rmtjnv-5,#633271,#ffffff,,rectangle,,10283,Jenaer Nahverkehr GmbH
+vmt-weimar,1,,,#d42987,#ffffff,,circle,,10287,Stadtwirtschaft Weimar GmbH
+vmt-weimar,2,,,#5e111a,#ffffff,,circle,,10287,Stadtwirtschaft Weimar GmbH
+vmt-weimar,3,,,#00aba9,#ffffff,,circle,,10287,Stadtwirtschaft Weimar GmbH
+vmt-weimar,4,,,#009641,#ffffff,,circle,,10287,Stadtwirtschaft Weimar GmbH
+vmt-weimar,5,,,#5bc5f2,#ffffff,,circle,,10287,Stadtwirtschaft Weimar GmbH
+vmt-weimar,6,,,#fec917,#000000,,circle,,10287,Stadtwirtschaft Weimar GmbH
+vmt-weimar,7,,,#ba80b6,#ffffff,,circle,,10287,Stadtwirtschaft Weimar GmbH
+vmt-weimar,8,,,#4b3f92,#ffffff,,circle,,10287,Stadtwirtschaft Weimar GmbH
+vmt-weimar,9,,,#1086c5,#ffffff,,circle,,10287,Stadtwirtschaft Weimar GmbH
 vor-oebb,S1,osterreichische-bundesbahnen,4-81-1-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner,,,
 vor-oebb,S2,osterreichische-bundesbahnen,4-81-2-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner,,,
 vor-oebb,S3,osterreichische-bundesbahnen,4-81-3-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner,,,

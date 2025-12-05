@@ -2278,6 +2278,20 @@
         ]
     },
     {
+        "shortOperatorName": "vmt-weimar",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Weimar",
+                "source": "https://www.vmt-thueringen.de/fileadmin/VMT_Redaktion/Downloads/Lininenetzpl%C3%A4ne/NP_Weimar_screen.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vor-oebb",
         "contributors": [
             {
