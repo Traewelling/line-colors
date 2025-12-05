@@ -3086,6 +3086,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-frank-stoeckle",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Landkreis Göppingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-fmo",
         "contributors": [
             {
@@ -3096,6 +3110,20 @@
             {
                 "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
                 "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-hildenbrand",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Landkreis Göppingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
             }
         ]
     },
@@ -3124,6 +3152,48 @@
             {
                 "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
                 "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-ovg",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Landkreis Göppingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-rab",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Landkreis Göppingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-schlienz",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Expressbus-Liniennetz",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Expressbus-Liniennetz.pdf"
             }
         ]
     },
