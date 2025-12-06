@@ -1533,6 +1533,35 @@ rvf-vag-stadtbahn,2,,8-vag002-2,#35af3f,#ffffff,,rectangle,,7642,VAG - Stadtbahn
 rvf-vag-stadtbahn,3,,8-vag002-3,#f79210,#ffffff,,rectangle,,7642,VAG - Stadtbahn
 rvf-vag-stadtbahn,4,,8-vag002-4,#f033a3,#ffffff,,rectangle,,7642,VAG - Stadtbahn
 rvf-vag-stadtbahn,5,,8-vag002-5,#0994ce,#ffffff,,rectangle,,7642,VAG - Stadtbahn
+rvl-sgb,7300,,,#2fac66,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7301,,,#f39200,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7302,,,#2fac66,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7304,,,#f39200,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7307,,,#f39200,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7308,,,#2fac66,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7309,,,#2fac66,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7310,,,#2fac66,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7311,,,#00a19a,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7312,,,#36a9e1,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7312.1,,,#006633,#ffffff,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7313,,,#2fac66,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sweg,1,,,#ffffff,#95c11f,#95c11f,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,2,,,#ffffff,#936037,#936037,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,3,,,#ffffff,#f39200,#f39200,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,6,,,#ffffff,#009640,#009640,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,7,,,#ffffff,#312783,#312783,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,8,,,#ffffff,#878787,#878787,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,8 AST,,,#ffffff,#936037,#936037,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,9,,,#ffffff,#95c11f,#95c11f,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,10,,,#ffffff,#36a9e1,#36a9e1,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,12,,,#ffffff,#2fac66,#2fac66,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,15,,,#ffffff,#36a9e1,#36a9e1,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,16,,,#ffffff,#82368c,#82368c,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,17,,,#ffffff,#36a9e1,#36a9e1,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,54,,,#ffffff,#00a19a,#00a19a,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,55,,,#ffffff,#575756,#575756,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,66,,,#ffffff,#f39200,#f39200,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,220,,,#ffffff,#ffdd00,#ffdd00,rectangle,,14868,SWEG_WL_EM
 s-bahn-bern-bls,S 1,bls-ag,4-850033-1,#50b447,#ffffff,,rectangle,,,
 s-bahn-bern-bls,S 2,bls-ag,4-850033-2,#1cb1e6,#ffffff,,rectangle,,,
 s-bahn-bern-bls,S 3,bls-ag,4-850033-3,#8868b3,#ffffff,,rectangle,,,
