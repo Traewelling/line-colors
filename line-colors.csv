@@ -605,6 +605,40 @@ mitteldeutsche-regiobahn,RE 6,mitteldeutsche-regiobahn,re-6,#9e60a4,#ffffff,,rec
 mitteldeutsche-regiobahn,RB 30,mitteldeutsche-regiobahn,rb-30,#ed9126,#ffffff,,rectangle-rounded-corner,,10853,Mitteldeutsche Regiobahn
 mitteldeutsche-regiobahn,RB 45,mitteldeutsche-regiobahn,rb-45,#ed694a,#ffffff,,rectangle-rounded-corner,,10853,Mitteldeutsche Regiobahn
 mitteldeutsche-regiobahn,RB 110,mitteldeutsche-regiobahn,rb-110,#a2cbba,#ffffff,,rectangle-rounded-corner,,10853,Mitteldeutsche Regiobahn
+mobiju-pag,1,,,#0064e9,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,2,,,#ef2c2c,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,6,,,#ff8021,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,7,,,#8800a3,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,8,,,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,11,,,#ab3900,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,20,,,#7d538f,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,21,,,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,22,,,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,32,,,#0064e9,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,33,,,#ef2c2c,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,34,,,#60af00,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,35,,,#dbdbdb,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,41,,,#ff8021,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,50,,,#0064e9,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,51,,,#ef2c2c,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,52,,,#60af00,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,61,,,#0064e9,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,62,,,#ef2c2c,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,70,,,#0064e9,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,71,,,#ef2c2c,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,72,,,#60af00,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,73,,,#ff8021,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,74,,,#8800a3,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,75,,,#fbf500,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,76,,,#f57eec,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,77,,,#ace6ff,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,78,,,#c1f6be,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,81,,,#ab3900,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,N10,,,#000000,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,N21,,,#000000,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,N22,,,#000000,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,N23,,,#000000,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,N26,,,#000000,#ffffff,,rectangle,,801,PostAuto AG
 mvb-magdeburg,51,,5-nasmbb-51,#38529b,#ffffff,,pill,,8891,Magdeburger Verkehrsbetriebe
 mvb-magdeburg,52,,5-nasmbb-52,#e8a038,#ffffff,,pill,,8891,Magdeburger Verkehrsbetriebe
 mvb-magdeburg,53,,5-nasmbb-53,#f7ce46,#000000,,pill,,8891,Magdeburger Verkehrsbetriebe
