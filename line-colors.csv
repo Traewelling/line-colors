@@ -605,6 +605,40 @@ mitteldeutsche-regiobahn,RE 6,mitteldeutsche-regiobahn,re-6,#9e60a4,#ffffff,,rec
 mitteldeutsche-regiobahn,RB 30,mitteldeutsche-regiobahn,rb-30,#ed9126,#ffffff,,rectangle-rounded-corner,,10853,Mitteldeutsche Regiobahn
 mitteldeutsche-regiobahn,RB 45,mitteldeutsche-regiobahn,rb-45,#ed694a,#ffffff,,rectangle-rounded-corner,,10853,Mitteldeutsche Regiobahn
 mitteldeutsche-regiobahn,RB 110,mitteldeutsche-regiobahn,rb-110,#a2cbba,#ffffff,,rectangle-rounded-corner,,10853,Mitteldeutsche Regiobahn
+mobiju-pag,1,,,#0064e9,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,2,,,#ef2c2c,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,6,,,#ff8021,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,7,,,#8800a3,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,8,,,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,11,,,#ab3900,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,20,,,#7d538f,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,21,,,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,22,,,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,32,,,#0064e9,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,33,,,#ef2c2c,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,34,,,#60af00,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,35,,,#dbdbdb,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,41,,,#ff8021,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,50,,,#0064e9,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,51,,,#ef2c2c,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,52,,,#60af00,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,61,,,#0064e9,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,62,,,#ef2c2c,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,70,,,#0064e9,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,71,,,#ef2c2c,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,72,,,#60af00,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,73,,,#ff8021,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,74,,,#8800a3,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,75,,,#fbf500,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,76,,,#f57eec,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,77,,,#ace6ff,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,78,,,#c1f6be,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,81,,,#ab3900,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,N10,,,#000000,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,N21,,,#000000,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,N22,,,#000000,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,N23,,,#000000,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,N26,,,#000000,#ffffff,,rectangle,,801,PostAuto AG
 mvb-magdeburg,51,,5-nasmbb-51,#38529b,#ffffff,,pill,,8891,Magdeburger Verkehrsbetriebe
 mvb-magdeburg,52,,5-nasmbb-52,#e8a038,#ffffff,,pill,,8891,Magdeburger Verkehrsbetriebe
 mvb-magdeburg,53,,5-nasmbb-53,#f7ce46,#000000,,pill,,8891,Magdeburger Verkehrsbetriebe
@@ -1533,6 +1567,35 @@ rvf-vag-stadtbahn,2,,8-vag002-2,#35af3f,#ffffff,,rectangle,,7642,VAG - Stadtbahn
 rvf-vag-stadtbahn,3,,8-vag002-3,#f79210,#ffffff,,rectangle,,7642,VAG - Stadtbahn
 rvf-vag-stadtbahn,4,,8-vag002-4,#f033a3,#ffffff,,rectangle,,7642,VAG - Stadtbahn
 rvf-vag-stadtbahn,5,,8-vag002-5,#0994ce,#ffffff,,rectangle,,7642,VAG - Stadtbahn
+rvl-sgb,7300,,,#2fac66,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7301,,,#f39200,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7302,,,#2fac66,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7304,,,#f39200,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7307,,,#f39200,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7308,,,#2fac66,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7309,,,#2fac66,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7310,,,#2fac66,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7311,,,#00a19a,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7312,,,#36a9e1,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7312.1,,,#006633,#ffffff,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sgb,7313,,,#2fac66,#000000,,rectangle-rounded-corner,,14786,SBG-Waldshut
+rvl-sweg,1,,,#ffffff,#95c11f,#95c11f,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,2,,,#ffffff,#936037,#936037,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,3,,,#ffffff,#f39200,#f39200,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,6,,,#ffffff,#009640,#009640,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,7,,,#ffffff,#312783,#312783,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,8,,,#ffffff,#878787,#878787,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,8 AST,,,#ffffff,#936037,#936037,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,9,,,#ffffff,#95c11f,#95c11f,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,10,,,#ffffff,#36a9e1,#36a9e1,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,12,,,#ffffff,#2fac66,#2fac66,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,15,,,#ffffff,#36a9e1,#36a9e1,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,16,,,#ffffff,#82368c,#82368c,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,17,,,#ffffff,#36a9e1,#36a9e1,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,54,,,#ffffff,#00a19a,#00a19a,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,55,,,#ffffff,#575756,#575756,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,66,,,#ffffff,#f39200,#f39200,rectangle,,14868,SWEG_WL_EM
+rvl-sweg,220,,,#ffffff,#ffdd00,#ffdd00,rectangle,,14868,SWEG_WL_EM
 s-bahn-bern-bls,S 1,bls-ag,4-850033-1,#50b447,#ffffff,,rectangle,,,
 s-bahn-bern-bls,S 2,bls-ag,4-850033-2,#1cb1e6,#ffffff,,rectangle,,,
 s-bahn-bern-bls,S 3,bls-ag,4-850033-3,#8868b3,#ffffff,,rectangle,,,
@@ -2149,6 +2212,20 @@ vms-chemnitzbahn,C14,,,#edab53,#ffffff,,pill,,14974,Chemnitzer Modell1
 vms-chemnitzbahn,C15,,,#a8342e,#ffffff,,pill,,14974,Chemnitzer Modell1
 vms-chemnitzbahn,RB37,,,#2e4e95,#ffffff,,rectangle,,10851,City-Bahn Chemnitz
 vms-chemnitzbahn,RB92,,,#1c2851,#ffffff,,rectangle,,10851,City-Bahn Chemnitz
+vms-svz-bus,10,,,#285f8e,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,11,,,#2f277e,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,12,,,#3e8cc9,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,13,,,#54b7e9,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,23,,,#f1bc40,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,23,,,#ebaa45,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,24,,,#cf7b45,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,25,,,#e0844b,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,27,,,#a5842a,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,29,,,#e08230,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,31,,,#86929a,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,32,,,#a5acb0,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-tram,3,,,#ad2b23,#ffffff,,rectangle,,7832,SVZ Zwickau Strab
+vms-svz-tram,4,,,#d02e26,#ffffff,,rectangle,,7832,SVZ Zwickau Strab
 vmt-evag-tram,1,,8-rmteva-1,#f18700,#ffffff,,rectangle,,11742,Erfurter Verkehrsbetriebe AG
 vmt-evag-tram,2,,8-rmteva-2,#e3000b,#ffffff,,rectangle,,11742,Erfurter Verkehrsbetriebe AG
 vmt-evag-tram,3,,8-rmteva-3,#67095f,#ffffff,,rectangle,,11742,Erfurter Verkehrsbetriebe AG
@@ -2173,8 +2250,18 @@ vmt-jena-bus,47,,5-rmtjnv-47,#665a9d,#ffffff,,pill,,10283,Jenaer Nahverkehr GmbH
 vmt-jena-bus,48,,5-rmtjnv-48,#c3c66d,#ffffff,,pill,,10283,Jenaer Nahverkehr GmbH
 vmt-jena-tram,1,,8-rmtjnv-1,#d8592b,#ffffff,,rectangle,,10283,Jenaer Nahverkehr GmbH
 vmt-jena-tram,2,,8-rmtjnv-2,#f0ba46,#ffffff,,rectangle,,10283,Jenaer Nahverkehr GmbH
+vmt-jena-tram,3,,,#765c1b,#ffffff,,rectangle,,10283,Jenaer Nahverkehr GmbH
 vmt-jena-tram,4,,8-rmtjnv-4,#c92d24,#ffffff,,rectangle,,10283,Jenaer Nahverkehr GmbH
 vmt-jena-tram,5,,8-rmtjnv-5,#633271,#ffffff,,rectangle,,10283,Jenaer Nahverkehr GmbH
+vmt-weimar,1,,,#d42987,#ffffff,,circle,,10287,Stadtwirtschaft Weimar GmbH
+vmt-weimar,2,,,#5e111a,#ffffff,,circle,,10287,Stadtwirtschaft Weimar GmbH
+vmt-weimar,3,,,#00aba9,#ffffff,,circle,,10287,Stadtwirtschaft Weimar GmbH
+vmt-weimar,4,,,#009641,#ffffff,,circle,,10287,Stadtwirtschaft Weimar GmbH
+vmt-weimar,5,,,#5bc5f2,#ffffff,,circle,,10287,Stadtwirtschaft Weimar GmbH
+vmt-weimar,6,,,#fec917,#000000,,circle,,10287,Stadtwirtschaft Weimar GmbH
+vmt-weimar,7,,,#ba80b6,#ffffff,,circle,,10287,Stadtwirtschaft Weimar GmbH
+vmt-weimar,8,,,#4b3f92,#ffffff,,circle,,10287,Stadtwirtschaft Weimar GmbH
+vmt-weimar,9,,,#1086c5,#ffffff,,circle,,10287,Stadtwirtschaft Weimar GmbH
 vor-oebb,S1,osterreichische-bundesbahnen,4-81-1-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner,,,
 vor-oebb,S2,osterreichische-bundesbahnen,4-81-2-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner,,,
 vor-oebb,S3,osterreichische-bundesbahnen,4-81-3-1821578-5360392,#0097d5,#ffffff,,rectangle-rounded-corner,,,
@@ -3194,6 +3281,31 @@ vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,rb-64,#b6931d,#ffffff,,rectangle,,1
 vvs-fmo,443,friedrich-muller-omnibusunternehmen-gmbh,5-rbgfmo-443,#009097,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,444,friedrich-muller-omnibusunternehmen-gmbh,5-rbgfmo-444,#415b70,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,444A,friedrich-muller-omnibusunternehmen-gmbh,5-rbgfmo-444a,#415b70,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-frank-stoeckle,904,,,#a6ce38,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-frank-stoeckle,906,,,#bc8e32,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-frank-stoeckle,920,,,#7ed4f7,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-frank-stoeckle,920A,,,#7ed4f7,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-frank-stoeckle,921,,,#7c52a1,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-frank-stoeckle,921A,,,#7c52a1,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-frank-stoeckle,922,,,#bc8e32,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-frank-stoeckle,922A,,,#bc8e32,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,961,,,#c40075,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,964,,,#fdba4c,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,965,,,#5da9dd,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,965A,,,#5da9dd,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,966,,,#a3cf62,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,966A,,,#a3cf62,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,967,,,#f15a22,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,968,,,#f15a22,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,980,,,#f58232,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,980A,,,#f58232,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,981,,,#bd4b9c,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,981A,,,#bd4b9c,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,982,,,#0089cf,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,983,,,#00a650,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,983A,,,#00a650,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,984,,,#ffc707,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,984A,,,#ffc707,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-lvl,413,,5-vvs031-413,#96c2e9,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-lvl,415,,5-vvs031-415,#c6bd7f,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-lvl,420,,5-vvs031-420,#e94190,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
@@ -3219,6 +3331,51 @@ vvs-lvl,451,,5-vvs031-451,#00b1eb,#ffffff,,rectangle,,7996,Privatunternehmer-Bus
 vvs-lvl,X43,,5-vvs031-x43,#ef7d00,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-osb,551,,5-vvs031-551,#e12b54,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-osb,551A,,5-vvs031-551a,#e12b54,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,911,,,#0095da,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,911A,,,#0095da,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,912,,,#80a0d3,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,912A,,,#80a0d3,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,913,,,#73c48e,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,913A,,,#73c48e,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,914,,,#d6df23,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,914A,,,#d6df23,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,915,,,#a3cf62,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,916,,,#f89f6d,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,916A,,,#f89f6d,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,917,,,#a154a1,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,918,,,#939598,#ffffff,#ffffff,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,931,,,#00a6e5,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,931A,,,#00a6e5,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,932,,,#00793b,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,932A,,,#00793b,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,933,,,#95d5d2,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,933A,,,#95d5d2,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,934,,,#f6adcd,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,934A,,,#f6adcd,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,935,,,#7d4900,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,935A,,,#7d4900,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,940,,,#00a650,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,941,,,#8881be,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,941A,,,#8881be,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,942,,,#f59ac2,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovg,X93,,,#ffcb04,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-rab,350,,,#ec008c,#ffffff,,rectangle-rounded-corner,,7624,RAB
+vvs-rab,924,,,#c81d6f,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-rab,950,,,#f389b8,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-rab,950A,,,#f389b8,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-rab,951,,,#00793b,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-rab,951A,,,#00793b,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-rab,957,,,#6c3f99,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-rab,958,,,#00a99c,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-rab,958A,,,#00a99c,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-rab,959,,,#f89e76,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-rab,970,,,#0072bc,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-rab,971,,,#f5821f,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-rab,972,,,#ed1a3a,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-rab,972A,,,#ed1a3a,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,X10,,,#00addc,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,X20,,,#00addc,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,X60,,,#00addc,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-ssb-bus,X2,,,#302783,#ffffff,,rectangle,,13477,Bus (SSB)
 vvs-ssb-bus,X4,,,#ec6ea6,#ffffff,,rectangle,,13477,Bus (SSB)
 vvs-ssb-bus,X7,,,#008b3b,#ffffff,,rectangle,,13477,Bus (SSB)
@@ -3489,6 +3646,16 @@ wt-mobiel,156,,5-owl032-156,#a53723,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,228,,5-owl032-228,#41a62b,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,236,,5-owl032-236,#004178,#ffffff,,pill,,14366,GBN-moBiel-Stadtbahn
 wt-mobiel,369,,5-owl032-369,#ac8cbc,#002650,,pill,,14366,GBN-moBiel-Stadtbahn
+wt-nph-ne,NE11,,,#fdc300,#000000,,rectangle,,9318,nph-NachtExpress
+wt-nph-ne,NE12,,,#eb5f1c,#ffffff,,rectangle,,9318,nph-NachtExpress
+wt-nph-ne,NE13,,,#3eb497,#ffffff,,rectangle,,9318,nph-NachtExpress
+wt-nph-ne,NE14,,,#cd171b,#ffffff,,rectangle,,9318,nph-NachtExpress
+wt-nph-ne,NE15,,,#12a537,#ffffff,,rectangle,,9318,nph-NachtExpress
+wt-nph-ne,NE16,,,#f9d2e5,#000000,,rectangle,,9318,nph-NachtExpress
+wt-nph-ne,NE17,,,#009ee3,#ffffff,,rectangle,,9318,nph-NachtExpress
+wt-nph-ne,NE18,,,#ad8100,#ffffff,,rectangle,,9318,nph-NachtExpress
+wt-nph-ne,NE19,,,#107527,#ffffff,,rectangle,,9318,nph-NachtExpress
+wt-nph-ne,NE20,,,#e5007d,#ffffff,,rectangle,,9318,nph-NachtExpress
 wt-oeynhauser,BO 1,,,#379339,#ffffff,,rectangle,,14373,Löhne/Oey D
 wt-oeynhauser,BO 2,,,#379339,#ffffff,,rectangle,,14373,Löhne/Oey D
 wt-oeynhauser,BO 3,,,#379339,#ffffff,,rectangle,,14373,Löhne/Oey D
