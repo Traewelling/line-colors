@@ -2178,6 +2178,20 @@ vms-chemnitzbahn,C14,,,#edab53,#ffffff,,pill,,14974,Chemnitzer Modell1
 vms-chemnitzbahn,C15,,,#a8342e,#ffffff,,pill,,14974,Chemnitzer Modell1
 vms-chemnitzbahn,RB37,,,#2e4e95,#ffffff,,rectangle,,10851,City-Bahn Chemnitz
 vms-chemnitzbahn,RB92,,,#1c2851,#ffffff,,rectangle,,10851,City-Bahn Chemnitz
+vms-svz-bus,10,,,#285f8e,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,11,,,#2f277e,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,12,,,#3e8cc9,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,13,,,#54b7e9,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,23,,,#f1bc40,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,23,,,#ebaa45,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,24,,,#cf7b45,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,25,,,#e0844b,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,27,,,#a5842a,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,29,,,#e08230,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,31,,,#86929a,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-bus,32,,,#a5acb0,#ffffff,,circle,,7833,SVZ Zwickau Bus
+vms-svz-tram,3,,,#ad2b23,#ffffff,,rectangle,,7832,SVZ Zwickau Strab
+vms-svz-tram,4,,,#d02e26,#ffffff,,rectangle,,7832,SVZ Zwickau Strab
 vmt-evag-tram,1,,8-rmteva-1,#f18700,#ffffff,,rectangle,,11742,Erfurter Verkehrsbetriebe AG
 vmt-evag-tram,2,,8-rmteva-2,#e3000b,#ffffff,,rectangle,,11742,Erfurter Verkehrsbetriebe AG
 vmt-evag-tram,3,,8-rmteva-3,#67095f,#ffffff,,rectangle,,11742,Erfurter Verkehrsbetriebe AG
@@ -2202,6 +2216,7 @@ vmt-jena-bus,47,,5-rmtjnv-47,#665a9d,#ffffff,,pill,,10283,Jenaer Nahverkehr GmbH
 vmt-jena-bus,48,,5-rmtjnv-48,#c3c66d,#ffffff,,pill,,10283,Jenaer Nahverkehr GmbH
 vmt-jena-tram,1,,8-rmtjnv-1,#d8592b,#ffffff,,rectangle,,10283,Jenaer Nahverkehr GmbH
 vmt-jena-tram,2,,8-rmtjnv-2,#f0ba46,#ffffff,,rectangle,,10283,Jenaer Nahverkehr GmbH
+vmt-jena-tram,3,,,#765c1b,#ffffff,,rectangle,,10283,Jenaer Nahverkehr GmbH
 vmt-jena-tram,4,,8-rmtjnv-4,#c92d24,#ffffff,,rectangle,,10283,Jenaer Nahverkehr GmbH
 vmt-jena-tram,5,,8-rmtjnv-5,#633271,#ffffff,,rectangle,,10283,Jenaer Nahverkehr GmbH
 vmt-weimar,1,,,#d42987,#ffffff,,circle,,10287,Stadtwirtschaft Weimar GmbH

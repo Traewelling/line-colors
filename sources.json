@@ -2280,6 +2280,34 @@
         ]
     },
     {
+        "shortOperatorName": "vms-svz-bus",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Nahverkehr Zwickau",
+                "source": "https://www.nahverkehr-zwickau.de/liniennetz.php"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vms-svz-tram",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Nahverkehr Zwickau",
+                "source": "https://www.nahverkehr-zwickau.de/liniennetz.php"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vmt-evag-tram",
         "contributors": [
             {
