@@ -68,6 +68,20 @@
         ]
     },
     {
+        "shortOperatorName": "bob",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzkarte Regionalverkehr 2026",
+                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_16-11-2025_barrierefrei.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "brb",
         "contributors": [
             {
@@ -213,6 +227,9 @@
             },
             {
                 "github": "SpielenmitLili"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
@@ -239,6 +256,10 @@
             {
                 "name": "JUIL 2025_Carte reseau CFL_DE_A3_PRINT",
                 "source": "https://www.cfl.lu/getattachment/cc0c66f9-2074-476a-8140-7557866b17a2/juil-2025_carte-reseau-cfl_de_a3_print.pdf"
+            },
+            {
+                "name": "Liniennetzplan Rheinland-Pfalz Stand 2025",
+                "source": "https://www.zoepnv-sued.de/fileadmin/user_upload/RLP_Liniennetzplan_Stand-03-2025_02.pdf"
             }
         ]
     },
@@ -701,6 +722,20 @@
         ]
     },
     {
+        "shortOperatorName": "liemobil",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz LIEmobil und Fahrplanbuch (PDF)",
+                "source": "https://liemobil.li/static/Liniennetz---gross---2025-a4447f5755c8190b23661c50589b2762.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mdv-lvb",
         "contributors": [
             {
@@ -762,6 +797,36 @@
             {
                 "name": "Netzplan Mitteldeutsche Regiobahn",
                 "source": "https://download.transdev.de/transdev/uploads/mdr/media_document/26/original.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "mobiju-pag",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Plan du réseau de transports publics en Ajoie 2025",
+                "source": "https://www.mobiju.ch/files/155/Ajoie/25_JU_Ajoie.pdf"
+            },
+            {
+                "name": "Plan du réseau de transports publics dans l'agglomération de Delémont 2025",
+                "source": "https://www.mobiju.ch/files/156/Del%C3%A9mont/25_JU_Delemont.pdf"
+            },
+            {
+                "name": "Plan du réseau de transports publics dans les Franches-Montagnes et dans le Clos du Doubs 2025",
+                "source": "https://www.mobiju.ch/files/158/Franches-Montagnes/25_JU_Franches%20Montagnes_Clos-du-Doubs.pdf"
+            },
+            {
+                "name": "Plan du réseau de transports publics dans la Haute-Sorne 2025",
+                "source": "https://www.mobiju.ch/files/157/Haute-Sorne/24_25_JU_Haute-Sorne.pdf"
+            },
+            {
+                "name": "Plan du réseau de transports publics de Moutier 2025",
+                "source": "https://www.mobiju.ch/files/152/Moutier/24_25_JU_BE_Moutier.pdf"
             }
         ]
     },
@@ -1296,6 +1361,24 @@
         ]
     },
     {
+        "shortOperatorName": "ostwind-ab",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan S-Bahn St.Gallen/Schaffhausen/Bodensee 2025",
+                "source": "https://www.ostwind.ch/assets/resources/Dateien/Download/zonenplaene/2025/sbb-rv-stgallen-a2-2025-sid.pdf"
+            },
+            {
+                "name": "Liniennetzplan Frauenfeld-Wil 2025",
+                "source": "https://appenzellerbahnen.ch/files/appenzellerbahnen.ch/01_Reiseinformationen/02_Fahrplan/streckennetz/2025/JPG_SLNP_Ostwind_2024_Ausschnitt34_AppenzellerBahnen_825x592.jpg"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "pid-prague",
         "contributors": [
             {
@@ -1516,6 +1599,50 @@
         ]
     },
     {
+        "shortOperatorName": "rvl-sgb",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Rheinfelden 2025",
+                "source": "https://rvl-online.de/download/4416/"
+            },
+            {
+                "name": "Liniennetzplan Schopfheim 2025",
+                "source": "https://rvl-online.de/download/7537/"
+            },
+            {
+                "name": "Liniennetzplan Grenzach-Wyhlen 2025",
+                "source": "https://rvl-online.de/download/7533/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "rvl-sweg",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Weil am Rhein 2025",
+                "source": "https://rvl-online.de/download/4415/"
+            },
+            {
+                "name": "Liniennetzplan Lörrach 2025",
+                "source": "https://rvl-online.de/download/4417/"
+            },
+            {
+                "name": "Liniennetzplan Markgräflerland 2025",
+                "source": "https://rvl-online.de/download/7539/"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "s-bahn-bern-bls",
         "contributors": [
             {
@@ -1624,15 +1751,42 @@
         ]
     },
     {
-        "shortOperatorName": "schweiz-fernverkehr",
+        "shortOperatorName": "schweiz-fernverkehr-bls",
         "contributors": [
             {
-                "github": "TheOneWithTheBraid"
+                "github": "mtwente"
             }
         ],
         "sources": {
-            "name": "SBB: direct long-distance connections",
-            "source": "https://network.sbb.ch/en/"
+            "name": "SBB Liniennetzplan Fernverkehr, gültig ab 15.12.2024",
+            "source": "https://company.sbb.ch/content/dam/infrastruktur/trafimage/karten/FV-Liniennetzplan-de.pdf"
+        }
+    },
+    {
+        "shortOperatorName": "schweiz-fernverkehr-sbb",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            },
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": {
+            "name": "SBB Liniennetzplan Fernverkehr, gültig ab 15.12.2024",
+            "source": "https://company.sbb.ch/content/dam/infrastruktur/trafimage/karten/FV-Liniennetzplan-de.pdf"
+        }
+    },
+    {
+        "shortOperatorName": "schweiz-fernverkehr-sob",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": {
+            "name": "SBB Liniennetzplan Fernverkehr, gültig ab 15.12.2024",
+            "source": "https://company.sbb.ch/content/dam/infrastruktur/trafimage/karten/FV-Liniennetzplan-de.pdf"
         }
     },
     {
@@ -1660,6 +1814,20 @@
             "name": "RSPN 2025",
             "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
         }
+    },
+    {
+        "shortOperatorName": "svg-stuttgart",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzkarte Regionalverkehr 2026",
+                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_16-11-2025_barrierefrei.pdf"
+            }
+        ]
     },
     {
         "shortOperatorName": "svv-brb",
@@ -1764,6 +1932,20 @@
         ]
     },
     {
+        "shortOperatorName": "tnw-aagl",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Haltestellenfahrpläne von der AAGL-Website, Stand Dezember 2025",
+                "source": "https://autobus.ag/oev/haltestellenfahrplaene"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "tnw-blt",
         "contributors": [
             {
@@ -1800,6 +1982,34 @@
                 "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
             }
         ]
+    },
+    {
+        "shortOperatorName": "tnw-pag",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Postgelb für alle Postautos: Markenauftritt PostAuto Schweiz, Farbabklärung Barrierefreiheit",
+                "source": "https://microsites.post.ch/-/media/post-maxisites/microsites/documents/Post-RGB-Barrierefreiheit-160922.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "transn",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+            ],
+            "sources":
+            {
+                "name": "Plan de Réseau 2025",
+                "source": "https://www.transn.ch/fileadmin/transn/pdf/Plans/plan_reseau_2025_VF_sd.pdf"
+            
+            }
     },
     {
         "shortOperatorName": "uestra",
@@ -2069,12 +2279,19 @@
         "contributors": [
             {
                 "github": "SpielenmitLili"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
                 "name": "RMV-Schienennetzplan 2024 mit Riedbahnsperrung 15.07.-14.12.2024",
                 "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/Schienennetzplan.pdf"
+            },
+            {
+                "name": "vlexx Liniennetzplan 2025",
+                "source": "https://www.vlexx.de/media/layout2016/laenderbahn/downloads/vlexx_Liniennetzkarte_2025_komplett_A0_quer.pdf"
             }
         ]
     },
@@ -2089,6 +2306,34 @@
             {
                 "name": "Liniennetz City-Bahn Chemnitz",
                 "source": "https://www.city-bahn.de/wp-content/uploads/2023/02/cm2_netz_v_76641.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vms-svz-bus",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Nahverkehr Zwickau",
+                "source": "https://www.nahverkehr-zwickau.de/liniennetz.php"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vms-svz-tram",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Nahverkehr Zwickau",
+                "source": "https://www.nahverkehr-zwickau.de/liniennetz.php"
             }
         ]
     },
@@ -2131,6 +2376,20 @@
             {
                 "name": "Netzplan Jena",
                 "source": "https://www.stadtwerke-jena.de/dam/jcr:05b477be-daab-48d5-87ea-f1776d8cd747/Netzplan_Jena_A4_web_2024.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vmt-weimar",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Weimar",
+                "source": "https://www.vmt-thueringen.de/fileadmin/VMT_Redaktion/Downloads/Lininenetzpl%C3%A4ne/NP_Weimar_screen.pdf"
             }
         ]
     },
@@ -2932,6 +3191,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-frank-stoeckle",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Landkreis Göppingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-fmo",
         "contributors": [
             {
@@ -2942,6 +3215,20 @@
             {
                 "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
                 "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-hildenbrand",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Landkreis Göppingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
             }
         ]
     },
@@ -2970,6 +3257,48 @@
             {
                 "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
                 "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-ovg",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Landkreis Göppingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-rab",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Landkreis Göppingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-schlienz",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Expressbus-Liniennetz",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Expressbus-Liniennetz.pdf"
             }
         ]
     },
@@ -3276,6 +3605,20 @@
             {
                 "name": "NachtBus-Linie N14: Fahrplan & Linienweg",
                 "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/NachtBus/N14_Fahrplan_und_Linienweg.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wt-nph-ne",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "NachtExpress-Liniennetz 2024",
+                "source": "https://www.fahr-mit.de/fahr-mit-wAssets/docs/fahrplan-und-liniennetz/NachtExpress-Liniennetz_2024.pdf"
             }
         ]
     },
