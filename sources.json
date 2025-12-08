@@ -2994,6 +2994,10 @@
             {
                 "name": "SWB Liniennetz Busse linksrheinisch 2024",
                 "source": "https://www.swb-busundbahn.de/fileadmin/fahrplandateien/liniennetzplaene/SLNP_Bonn_LiRhein.pdf"
+            },
+            {
+                "name": "SWB Nachtnetz 2025",
+                "source": "https://www.swb-busundbahn.de/fileadmin/fahrplandateien/liniennetzplaene/Nachtnetz_Bonn.pdf"
             }
         ]
     },
