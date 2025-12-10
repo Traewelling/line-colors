@@ -801,6 +801,36 @@
         ]
     },
     {
+        "shortOperatorName": "mobiju-pag",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Plan du réseau de transports publics en Ajoie 2025",
+                "source": "https://www.mobiju.ch/files/155/Ajoie/25_JU_Ajoie.pdf"
+            },
+            {
+                "name": "Plan du réseau de transports publics dans l'agglomération de Delémont 2025",
+                "source": "https://www.mobiju.ch/files/156/Del%C3%A9mont/25_JU_Delemont.pdf"
+            },
+            {
+                "name": "Plan du réseau de transports publics dans les Franches-Montagnes et dans le Clos du Doubs 2025",
+                "source": "https://www.mobiju.ch/files/158/Franches-Montagnes/25_JU_Franches%20Montagnes_Clos-du-Doubs.pdf"
+            },
+            {
+                "name": "Plan du réseau de transports publics dans la Haute-Sorne 2025",
+                "source": "https://www.mobiju.ch/files/157/Haute-Sorne/24_25_JU_Haute-Sorne.pdf"
+            },
+            {
+                "name": "Plan du réseau de transports publics de Moutier 2025",
+                "source": "https://www.mobiju.ch/files/152/Moutier/24_25_JU_BE_Moutier.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mvb-magdeburg",
         "contributors": [
             {
@@ -2280,6 +2310,34 @@
         ]
     },
     {
+        "shortOperatorName": "vms-svz-bus",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Nahverkehr Zwickau",
+                "source": "https://www.nahverkehr-zwickau.de/liniennetz.php"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vms-svz-tram",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Nahverkehr Zwickau",
+                "source": "https://www.nahverkehr-zwickau.de/liniennetz.php"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vmt-evag-tram",
         "contributors": [
             {
@@ -2936,6 +2994,10 @@
             {
                 "name": "SWB Liniennetz Busse linksrheinisch 2024",
                 "source": "https://www.swb-busundbahn.de/fileadmin/fahrplandateien/liniennetzplaene/SLNP_Bonn_LiRhein.pdf"
+            },
+            {
+                "name": "SWB Nachtnetz 2025",
+                "source": "https://www.swb-busundbahn.de/fileadmin/fahrplandateien/liniennetzplaene/Nachtnetz_Bonn.pdf"
             }
         ]
     },
@@ -3200,6 +3262,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-nachtbus",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Nachtverkehr im VVS",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Nachtverkehr/Nachtverkehr_im_VVS.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-osb",
         "contributors": [
             {
@@ -3242,7 +3318,7 @@
         ]
     },
     {
-        "shortOperatorName": "vvs-schlienz",
+        "shortOperatorName": "vvs-relex",
         "contributors": [
             {
                 "github": "wittighausen"
@@ -3252,6 +3328,24 @@
             {
                 "name": "Expressbus-Liniennetz",
                 "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Expressbus-Liniennetz.pdf"
+            },
+            {
+                "name": "Bus-Liniennetz Landkreis Göppingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-ruftaxi",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Nachtverkehr im VVS",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Nachtverkehr/Nachtverkehr_im_VVS.pdf"
             }
         ]
     },
