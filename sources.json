@@ -998,6 +998,24 @@
         ]
     },
     {
+        "shortOperatorName": "nah-sh-swhl",
+        "contributors": [
+            {
+                "github": "JoelB911"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Region Lübeck 2026",
+                "source": "https://a.storyblok.com/f/187280/x/ec9280f0ba/web_swlue_slnp_12-2025_a3.pdf"
+            },
+            {
+                "name": "Linien-Übersicht | Stadtwerke Lübeck",
+                "source": "https://www.swhl.de/mobil/fahrplanauskunft/linien/"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "naldo-tuebus",
         "contributors": [
             {
