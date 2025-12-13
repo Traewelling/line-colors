@@ -1061,10 +1061,10 @@ oberpfalzbahn-dlb,RB 23,oberpfalzbahn-die-landerbahn-gmbh-dlb,rb23,#6cc3d9,#ffff
 oberpfalzbahn-dlb,RB 27,oberpfalzbahn-die-landerbahn-gmbh-dlb,rb27,#ffb200,#ffffff,,rectangle,,10923,oberpfalzbahn - Die Länderbahn GmbH DLB
 oberpfalzbahn-dlb,RB 28,oberpfalzbahn-die-landerbahn-gmbh-dlb,rb28,#90bf26,#ffffff,,rectangle,,10923,oberpfalzbahn - Die Länderbahn GmbH DLB
 oberpfalzbahn-dlb,RB 29,oberpfalzbahn-die-landerbahn-gmbh-dlb,rb29,#ff6600,#ffffff,,rectangle,,10923,oberpfalzbahn - Die Länderbahn GmbH DLB
+odeg,RB10,,,#5cb445,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 odeg,RB13,ostdeutsche-eisenbahn-gmbh,rb-13,#3f4545,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 odeg,RB14,ostdeutsche-eisenbahn-gmbh,rb-14,#196e76,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 odeg,RB15,ostdeutsche-eisenbahn-gmbh,rb-15,#00a998,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-odeg,RB17,ostdeutsche-eisenbahn-gmbh,rb-17,#dd4daf,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 odeg,RB18,ostdeutsche-eisenbahn-gmbh,rb-18,#399fdf,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 odeg,RB19,ostdeutsche-eisenbahn-gmbh,rb-19,#f46717,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 odeg,RB33,ostdeutsche-eisenbahn-gmbh,rb-33,#a5027d,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
@@ -1074,9 +1074,10 @@ odeg,RB51,ostdeutsche-eisenbahn-gmbh,rb-51,#da6ba2,#ffffff,,rectangle,,8569,ODEG
 odeg,RB64,ostdeutsche-eisenbahn-gmbh,rb-64,#006552,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 odeg,RB65,ostdeutsche-eisenbahn-gmbh,rb-65,#0066ad,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 odeg,RE1,ostdeutsche-eisenbahn-gmbh,re-1,#e2001a,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RE3,,,#f37a22,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 odeg,RE8,ostdeutsche-eisenbahn-gmbh,re-8,#775fb0,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 odeg,RE9,ostdeutsche-eisenbahn-gmbh,re-9,#b51d48,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-odeg,RE10,ostdeutsche-eisenbahn-gmbh,re-10,#775fb0,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
+odeg,RE50,,,#0087cb,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 ooevv-linz-linien,3,linz-linien-ag-strassenbahn-stadt-linz,8-810031-3,#a3238e,#ffffff,,rectangle,,,
 ooevv-linz-linien,4,linz-linien-ag-strassenbahn-stadt-linz,8-810031-4,#c40352,#ffffff,,rectangle,,,
 ooevv-oebb,S1,osterreichische-bundesbahnen,4-81-1-1589920-5372014,#ee7f00,#ffffff,,rectangle-rounded-corner,,,
@@ -1985,7 +1986,6 @@ vbb-db-sbahn,S26,s-bahn-berlin,4-08-26,#047939,#ffffff,,pill,,1,S-Bahn Berlin Gm
 vbb-db-sbahn,S3,s-bahn-berlin,4-08-3,#026597,#ffffff,,pill,,1,S-Bahn Berlin GmbH
 vbb-db-sbahn,S41,s-bahn-berlin,4-08-41,#aa3c1f,#ffffff,,pill,,1,S-Bahn Berlin GmbH
 vbb-db-sbahn,S42,s-bahn-berlin,4-08-42,#ba622d,#ffffff,,pill,,1,S-Bahn Berlin GmbH
-vbb-db-sbahn,S45,s-bahn-berlin,4-08-45,#aa3c1f,#ffffff,,pill,,1,S-Bahn Berlin GmbH
 vbb-db-sbahn,S46,s-bahn-berlin,4-08-46,#ca8539,#ffffff,,pill,,1,S-Bahn Berlin GmbH
 vbb-db-sbahn,S47,s-bahn-berlin,4-08-47,#ca8539,#ffffff,,pill,,1,S-Bahn Berlin GmbH
 vbb-db-sbahn,S5,s-bahn-berlin,4-08-5,#ea561c,#ffffff,,pill,,1,S-Bahn Berlin GmbH
