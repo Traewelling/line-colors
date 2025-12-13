@@ -2602,22 +2602,22 @@ vrn-rnv-tram,RNV 24,,,#8c1d75,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
 vrn-rnv-tram,RNV 25,,,#93c23b,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
 vrn-rnv-tram,RNV 26,,,#f39b9a,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
 vrn-rnv-tram,RNV X,,,#9d9d9d,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
-vrn-sbahn-rn,S1,db-regio-ag-mitte,4-801539-1,#ed1c24,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
-vrn-sbahn-rn,S1X,db-regio-ag-mitte,4-801539-1x,#ed1c24,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
-vrn-sbahn-rn,S2,db-regio-ag-mitte,4-801539-2,#1575c5,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
-vrn-sbahn-rn,S3,db-regio-ag-mitte,4-801539-3,#fddd04,#231f20,,pill,,10449,DB Regio AG Mitte Region Südwest
-vrn-sbahn-rn,S4,db-regio-ag-mitte,4-801539-4,#00a650,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
-vrn-sbahn-rn,S5,db-regio-ag-mitte,4-801518-5,#f68a25,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
-vrn-sbahn-rn,S5X,db-regio-ag-mitte,4-801518-5x,#f68a25,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
-vrn-sbahn-rn,S6,db-regio-ag-mitte,4-801518-6,#40c1f3,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
-vrn-sbahn-rn,S7,db-regio-ag-mitte,4-801539-7,#ffffff,#ef249c,#ef249c,pill,,10449,DB Regio AG Mitte Region Südwest
-vrn-sbahn-rn,S8,db-regio-ag-mitte,4-801518-8,#a25bad,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
-vrn-sbahn-rn,S9,db-regio-ag-mitte,4-801518-9,#73c82c,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
-vrn-sbahn-rn,S9X,db-regio-ag-mitte,4-801518-9x,#73c82c,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
-vrn-sbahn-rn,S33,db-regio-ag-mitte,4-801539-33,#833aa1,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
-vrn-sbahn-rn,S39,db-regio-ag-mitte,4-801539-39,#ffffff,#bf5810,#bf5810,pill,,10449,DB Regio AG Mitte Region Südwest
-vrn-sbahn-rn,S44,db-regio-ag-mitte,4-801539-44,#ffffff,#00a650,#00a650,pill,,10449,DB Regio AG Mitte Region Südwest
-vrn-sbahn-rn,S51,db-regio-ag-mitte,4-801518-51,#f68a25,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
+vrn-sbahn-rn,S1,,,#ed1c24,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
+vrn-sbahn-rn,S2,,,#1575c5,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
+vrn-sbahn-rn,RE2,,,#1575c5,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
+vrn-sbahn-rn,S3,,,#fddd04,#231f20,,pill,,10449,DB Regio AG Mitte Region Südwest
+vrn-sbahn-rn,S4,,,#00a650,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
+vrn-sbahn-rn,S5,,,#9d4d23,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
+vrn-sbahn-rn,S6,,,#40c1f3,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
+vrn-sbahn-rn,S7,,,#f79837,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
+vrn-sbahn-rn,RE7,,,#f79837,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
+vrn-sbahn-rn,S8,,,#ed4b9b,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
+vrn-sbahn-rn,S9,,,#73c82c,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
+vrn-sbahn-rn,RE9,,,#73c82c,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
+vrn-sbahn-rn,S10,,,#a26fa9,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
+vrn-sbahn-rn,S12,,,#f4a9ca,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
+vrn-sbahn-rn,S33,,,#833aa1,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
+vrn-sbahn-rn,S44,,,#0e8d86,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
 vrr-bogestra,U35,,7-vrr032-35,#2350a9,#ffffff,,rectangle-rounded-corner,,7542,"BOGESTRA Stadtbahn, Linie U35"
 vrr-bogestra,301,,8-vrr033-301,#00a650,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
 vrr-bogestra,302,,8-vrr033-302,#86bbe0,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
