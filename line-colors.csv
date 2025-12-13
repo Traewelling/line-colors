@@ -267,14 +267,13 @@ db-regio-sudost,RE 57,db-regio-ag-sudost,re-57,#992e00,#ffffff,,rectangle,,10437
 db-regio-sudost,S1,db-regio-ag-sudost,4-800486-1,#f5de2b,#000000,,pill,,10437,DB Regio AG Südost
 db-regio-sudost,S2,db-regio-ag-sudost,4-8004a9-2,#18a2e3,#ffffff,,pill,,10437,DB Regio AG Südost
 db-regio-sudost,S3,db-regio-ag-sudost,4-800486-3,#e1001e,#ffffff,,pill,,10437,DB Regio AG Südost
+db-regio-sudost,S30,db-regio-ag-sudost,4-800486-3,#e1001e,#ffffff,,pill,,10437,DB Regio AG Südost
 db-regio-sudost,S4,db-regio-ag-sudost,4-800486-4,#109644,#ffffff,,pill,,10437,DB Regio AG Südost
 db-regio-sudost,S5,db-regio-ag-sudost,4-800486-5,#ed7c1c,#ffffff,,pill,,10437,DB Regio AG Südost
 db-regio-sudost,S5X,db-regio-ag-sudost,4-800486-5x,#fdce5c,#ffffff,,pill,,10437,DB Regio AG Südost
 db-regio-sudost,S6,db-regio-ag-sudost,4-800486-6,#5c1239,#ffffff,,pill,,10437,DB Regio AG Südost
 db-regio-sudost,S8,db-regio-ag-sudost,4-8004a9-8,#5c2582,#ffffff,,pill,,10437,DB Regio AG Südost
 db-regio-sudost,S9,db-regio-ag-sudost,4-8004a9-9,#be006b,#ffffff,,pill,,10437,DB Regio AG Südost
-db-regio-sudost,S10,db-regio-ag-sudost,4-800486-10,#ffffff,#000000,#f5de2b,pill,,10437,DB Regio AG Südost
-db-regio-sudost,S47,db-regio-ag-sudost,4-8004a9-47,#53af4c,#ffffff,,pill,,10437,DB Regio AG Südost
 db-regionetz-sudostbayernbahn,RE 4,db-regionetz-verkehrs-gmbh-sudostbayernbahn,re-4,#ffffff,#992e00,#992e00,rectangle,,10448,DB RegioNetz Verkehrs GmbH Südostbayernbahn
 db-regionetz-sudostbayernbahn,RB 32,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-32,#e5a05c,#ffffff,,rectangle,,10448,DB RegioNetz Verkehrs GmbH Südostbayernbahn
 db-regionetz-sudostbayernbahn,RB 40,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-40,#e5a05c,#ffffff,,rectangle,,10448,DB RegioNetz Verkehrs GmbH Südostbayernbahn
@@ -3121,8 +3120,19 @@ vrs-swb,636,,,#af3031,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,637,,,#e86741,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,638,,,#e86741,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,639,,,#a65c41,#ffffff,,rectangle,,7971,Stadtwerke Bonn
+vrs-swb,N1,,,#ffffff,#6c125a,,rectangle,,7971,Stadtwerke Bonn
+vrs-swb,N2,,,#ffffff,#2f6d49,,rectangle,,7971,Stadtwerke Bonn
+vrs-swb,N3,,,#ffffff,#d72f8a,,rectangle,,7971,Stadtwerke Bonn
+vrs-swb,N4,,,#ffffff,#b83734,,rectangle,,7971,Stadtwerke Bonn
+vrs-swb,N5,,,#ffffff,#e3813b,,rectangle,,7971,Stadtwerke Bonn
+vrs-swb,N6,,,#ffffff,#889998,,rectangle,,7971,Stadtwerke Bonn
+vrs-swb,N7,,,#ffffff,#7c7056,,rectangle,,7971,Stadtwerke Bonn
+vrs-swb,N8,,,#ffffff,#49a25a,,rectangle,,7971,Stadtwerke Bonn
+vrs-swb,N9,,,#ffffff,#7ebe7a,,rectangle,,7971,Stadtwerke Bonn
+vrs-swb,N10,,,#ffffff,#e7cf51,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,SB60,,,#859268,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,SB69,,,#df6a3c,#ffffff,,rectangle,,7971,Stadtwerke Bonn
+vrs-swb,T638,,,#9e6045,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-wupsi,201,,5-vrs003-201,#faad19,#ffffff,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,202,,5-vrs003-202,#b8427d,#ffffff,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,203,,5-vrs003-203,#f7abb2,#ffffff,,rectangle,,9338,wupsi GmbH
@@ -3331,6 +3341,54 @@ vvs-lvl,433,,5-vvs031-433,#e3d100,#000000,,rectangle,,7996,Privatunternehmer-Bus
 vvs-lvl,433A,,5-vvs031-433a,#e3d100,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-lvl,451,,5-vvs031-451,#00b1eb,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-lvl,X43,,5-vvs031-x43,#ef7d00,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-nachtbus,N11,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N12,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N13,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N14,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N15,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N16,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N18,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N19,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N21,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N22,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N24,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N30,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N31,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N36,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N40,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N41,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N42,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N43,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N44,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N46,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N47,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N48,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N52,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N53,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N55,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N56,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N57,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N58,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N62,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N63,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N65,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N70,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N73,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N74,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N75,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N77,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N80,,,#004797,#ffffff,,rectangle,,14908,Bus Alb-Bodensee
+vvs-nachtbus,N85,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N87,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N89,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N90,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N91,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N92,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N93,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N94,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N96,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N97,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N98,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
 vvs-osb,551,,5-vvs031-551,#e12b54,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-osb,551A,,5-vvs031-551a,#e12b54,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-ovg,911,,,#0095da,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
@@ -3360,7 +3418,6 @@ vvs-ovg,940,,,#00a650,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-
 vvs-ovg,941,,,#8881be,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-ovg,941A,,,#8881be,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-ovg,942,,,#f59ac2,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
-vvs-ovg,X93,,,#ffcb04,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-rab,350,,,#ec008c,#ffffff,,rectangle-rounded-corner,,7624,RAB
 vvs-rab,924,,,#c81d6f,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-rab,950,,,#f389b8,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
@@ -3375,9 +3432,60 @@ vvs-rab,970,,,#0072bc,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-
 vvs-rab,971,,,#f5821f,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-rab,972,,,#ed1a3a,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-rab,972A,,,#ed1a3a,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
-vvs-schlienz,X10,,,#00addc,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-schlienz,X20,,,#00addc,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-schlienz,X60,,,#00addc,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-relex,X10,,,#00addc,#ffffff,,rectangle,,13478,Expressbus Relex1
+vvs-relex,X20,,,#00addc,#ffffff,,rectangle,,13478,Expressbus Relex1
+vvs-relex,X60,,,#00addc,#ffffff,,rectangle,,13478,Expressbus Relex1
+vvs-relex,X93,,,#ffcb04,#000000,,rectangle-rounded-corner,,13478,Expressbus Relex1
+vvs-ruftaxi,RT92,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT161,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT163,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT165,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT202,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT206,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT217,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT380,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT386,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT413,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT663,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT670,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT753,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT759,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT760,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT763,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT766,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT775,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT779,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT780,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT782,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT783,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT791,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT828,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT904,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT915,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT916,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT917,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT918,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT920,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT922,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT924,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT934,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT935,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT941,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT971,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT982,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT4,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
+vvs-ruftaxi,RT6,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
+vvs-ruftaxi,RT7,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
+vvs-ruftaxi,RT16,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
+vvs-ruftaxi,RT17,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
+vvs-ruftaxi,RT37,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
+vvs-ruftaxi,RT38,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
+vvs-ruftaxi,RT39,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
+vvs-ruftaxi,RT46,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
+vvs-ruftaxi,RT70,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
+vvs-ruftaxi,RTN99,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
+vvs-ruftaxi,RT225,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
+vvs-ruftaxi,RT644,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
 vvs-ssb-bus,X2,,,#302783,#ffffff,,rectangle,,13477,Bus (SSB)
 vvs-ssb-bus,X4,,,#ec6ea6,#ffffff,,rectangle,,13477,Bus (SSB)
 vvs-ssb-bus,X7,,,#008b3b,#ffffff,,rectangle,,13477,Bus (SSB)

@@ -2979,6 +2979,10 @@
             {
                 "name": "SWB Liniennetz Busse linksrheinisch 2024",
                 "source": "https://www.swb-busundbahn.de/fileadmin/fahrplandateien/liniennetzplaene/SLNP_Bonn_LiRhein.pdf"
+            },
+            {
+                "name": "SWB Nachtnetz 2025",
+                "source": "https://www.swb-busundbahn.de/fileadmin/fahrplandateien/liniennetzplaene/Nachtnetz_Bonn.pdf"
             }
         ]
     },
@@ -3247,6 +3251,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-nachtbus",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Nachtverkehr im VVS",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Nachtverkehr/Nachtverkehr_im_VVS.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-osb",
         "contributors": [
             {
@@ -3289,7 +3307,7 @@
         ]
     },
     {
-        "shortOperatorName": "vvs-schlienz",
+        "shortOperatorName": "vvs-relex",
         "contributors": [
             {
                 "github": "wittighausen"
@@ -3299,6 +3317,24 @@
             {
                 "name": "Expressbus-Liniennetz",
                 "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Expressbus-Liniennetz.pdf"
+            },
+            {
+                "name": "Bus-Liniennetz Landkreis Göppingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-ruftaxi",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Nachtverkehr im VVS",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Nachtverkehr/Nachtverkehr_im_VVS.pdf"
             }
         ]
     },
