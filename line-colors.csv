@@ -931,7 +931,7 @@ neb-niederbarnimer-eisenbahn,TES,neb-niederbarnimer-eisenbahn,rb-tes,#d70000,#ff
 nrw-regional,RE 1,national-express,re-1,#ff2d16,#ffffff,,rectangle-rounded-corner,,10913,National Express
 nrw-regional,RE 2,db-regio-ag-nrw,re-2,#00b8f1,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
 nrw-regional,RE 3,eurobahn,re-3,#e46e25,#ffffff,,rectangle-rounded-corner,,11049,Eurobahn
-nrw-regional,RE 4,national-express,re-4,#e88f24,#ffffff,,rectangle-rounded-corner,,10913,National Express
+nrw-regional,RE 4,national-express,re-4,#e88f24,#ffffff,,rectangle-rounded-corner,Q872372,10913,National Express
 nrw-regional,RE 5,national-express,re-5,#0182ba,#ffffff,,rectangle-rounded-corner,,10913,National Express
 nrw-regional,RE 6,national-express,re-6,#9e2a96,#ffffff,,rectangle-rounded-corner,,10913,National Express
 nrw-regional,RE 7,national-express,re-7,#052e69,#ffffff,,rectangle-rounded-corner,,10913,National Express
@@ -954,7 +954,6 @@ nrw-regional,RB 25,db-regio-ag-nrw,rb-25,#7a7c80,#ffffff,,rectangle-rounded-corn
 nrw-regional,RB 26,mittelrheinbahn-trans-regio,rb-26,#7a7c80,#ffffff,,rectangle-rounded-corner,,10946,MittelrheinBahn (Trans Regio)
 nrw-regional,RB 27,db-regio-ag-nrw,rb-27,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
 nrw-regional,RB 28,rurtalbahn,rtb-rb28,#7a7c80,#ffffff,,rectangle-rounded-corner,,10858,Rurtalbahn
-nrw-regional,RE 29,sncb,re-29,#d594c8,#ffffff,,rectangle-rounded-corner,,12622,SNCB
 nrw-regional,RB 30,db-regio-ag-nrw,rb-30,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
 nrw-regional,RB 31,rheinruhrbahn-transdev,rrb-rb31,#7a7c80,#ffffff,,rectangle-rounded-corner,,14173,RheinRuhrBahn
 nrw-regional,RB 32,db-regio-ag-nrw,rb-32,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
@@ -1005,8 +1004,6 @@ nrw-regional,RB 84,nordwestbahn,nwb-rb84,#7a7c80,#ffffff,,rectangle-rounded-corn
 nrw-regional,RB 85,nordwestbahn,nwb-rb85,#7a7c80,#ffffff,,rectangle-rounded-corner,,12638,NordWestBahn
 nrw-regional,RB 89,eurobahn,rb-89,#7a7c80,#ffffff,,rectangle-rounded-corner,,11049,Eurobahn
 nrw-regional,RB 90,hlb-hessenbahn-gmbh,hlb-rb90,#7a7c80,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
-nrw-regional,RB 91,vias-rail-gmbh,via-rb91,#7a7c80,#ffffff,,rectangle-rounded-corner,,10933,VIAS Rail GmbH
-nrw-regional,RB 91,hlb-hessenbahn-gmbh,hlb-rb91,#7a7c80,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
 nrw-regional,RB 92,hlb-hessenbahn-gmbh,hlb-rb92,#7a7c80,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
 nrw-regional,RB 93,hlb-hessenbahn-gmbh,hlb-rb93,#7a7c80,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
 nrw-regional,RB 94,db-regionetz-verkehrs-gmbh-kurhessenbahn,rb-94,#7a7c80,#ffffff,,rectangle-rounded-corner,,10441,DB RegioNetz Verkehrs GmbH Kurhessenbahn
@@ -2630,12 +2627,16 @@ vrr-bogestra,309,,8-vrr033-309,#2e3192,#ffffff,,rectangle-rounded-corner,,7543,B
 vrr-bogestra,310,,8-vrr033-310,#aa3f7f,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
 vrr-bogestra,316,,8-vrr030-316,#e08417,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
 vrr-bogestra,318,,8-vrr033-318,#6aa99a,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
+vrr-bogestra,SB33,,,#81c9ef,#ffffff,,rectangle,,7543,BOGESTRA Schnellbus
+vrr-bvr,SB19,,,#40909c,#ffffff,,rectangle,,7573,Busverkehr Rheinland
+vrr-bvr,SB66,,,#40909c,#ffffff,,rectangle,,7573,Busverkehr Rheinland
 vrr-dsw21,400,,,#d93932,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,401,,,#8f201a,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,410,,,#de6537,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,411,,,#6ab658,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,412,,,#f2bc44,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,414,,,#ab8bbc,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
+vrr-dsw21,415,,,#6e982c,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,416,,,#754b16,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,417,,,#b16fa8,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,420,,,#de6f93,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
@@ -2675,6 +2676,7 @@ vrr-dsw21,463,,,#f1c245,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,464,,,#ffffff,#9bc3e6,#9bc3e6,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,465,,,#f4c446,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,466,,,#3e8d89,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
+vrr-dsw21,469,,,#3e8d89,#74bbe7,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,470,,,#de6f93,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,471,,,#3e8d89,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-dsw21,472,,,#84b9e3,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
@@ -2964,22 +2966,17 @@ vrr-wsw,CE64,,5-vrr066-ce64,#d12f2b,#ffffff,,rectangle,Q2537722,8016,Wuppertaler
 vrr-wsw,CE65,,5-vrr066-ce65,#d12f2b,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
 vrr-wsw,Uni,,bus-uni,#9c9d9d,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
 vrr-wsw,E860,,bus-e860,#c27629,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
-vrr-xbus,X05,,bus-x05,#6aac46,#ffffff,,rectangle,,,
+vrr-xbus,X05,,bus-x05,#6aac46,#ffffff,,rectangle,,7573,Busverkehr Rheinland
 vrr-xbus,X13,,bus-x13,#6aac46,#ffffff,,rectangle,,7632,Dortmunder Stadtwerke Bus
 vrr-xbus,X13,,bus-x13,#6aac46,#ffffff,,rectangle,,7790,Vestische Straßenbahnen GmbH Bus
-vrr-xbus,X27,,bus-x27,#6aac46,#ffffff,,rectangle,,,
-vrr-xbus,X28,,bus-x85,#6aac46,#ffffff,,rectangle,,,
+vrr-xbus,X27,,bus-x27,#6aac46,#ffffff,,rectangle,,7573,Busverkehr Rheinland
+vrr-xbus,X28,,bus-x85,#6aac46,#ffffff,,rectangle,,7573,Busverkehr Rheinland
+vrr-xbus,X28,,bus-x85,#6aac46,#ffffff,,rectangle,,7713,NIAG
 vrr-xbus,X32,,bus-x32,#6aac46,#ffffff,,rectangle,,7713,NIAG
 vrr-xbus,X42,,bus-x42,#6aac46,#ffffff,,rectangle,,7776,Stadtwerke Oberhausen
-vrr-xbus,X49,,bus-x49,#6aac46,#ffffff,,rectangle,,7790,Vestische Straßenbahnen GmbH Bus
-vrs-bus,260,,,#86526b,#ffffff,,rectangle,,,
-vrs-bus,AST 227,,9-vrs003-227,#f36e31,#ffffff,,rectangle,,,
-vrs-bus,Berg. FahrradBus,,5-vrs016-bf,#000000,#ffffff,,rectangle,,,
-vrs-bus,SB33,,5-vrr076-sb33,#81c9ef,#ffffff,,rectangle,,,
-vrs-bus,SB42,,5-vrs003-sb25,#176438,#ffffff,,rectangle,,,
-vrs-bus,SB69,,5-vrs006-sb69,#df6a3c,#ffffff,,rectangle,,,
-vrs-bus,X24,,5-vrs003-x24,#243d98,#ffffff,,rectangle,,,
+vrr-xbus,X49,,bus-x49,#6aac46,#ffffff,,rectangle,,7573,Busverkehr Rheinland
 vrs-kvb,106,,,#097cc1,#ffffff,,rectangle,,7969,Kölner VB
+vrs-kvb,117,,,#8a6cb0,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,118,,,#85d1f5,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,120,,,#e30a18,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,121,,,#a2c61e,#ffffff,,rectangle,,7969,Kölner VB
@@ -3040,6 +3037,7 @@ vrs-kvb,193,,,#f39205,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,195,,,#f29ec4,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,196,,,#a85e24,#ffffff,,rectangle,,7969,Kölner VB
 vrs-kvb,197,,,#929292,#ffffff,,rectangle,,7969,Kölner VB
+vrs-rvk,260,,,#86526b,#ffffff,,rectangle,,7977,Wermelskirchcen
 vrs-rvk,740,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
 vrs-rvk,741,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
 vrs-rvk,745,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
@@ -3048,7 +3046,6 @@ vrs-rvk,749,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
 vrs-rvk,751,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
 vrs-rvk,753,,,#929292,#ffffff,,rectangle,,7974,Meckenheim
 vrs-rvk,800,,,#b66e11,#ffffff,,rectangle,,7974,Meckenheim
-vrs-rvk,812,,,#6a8cc7,#ffffff,,rectangle,,7974,Meckenheim
 vrs-rvk,817,,,#958d00,#ffffff,,rectangle,,7974,Meckenheim
 vrs-rvk,818,,,#cbbe00,#ffffff,,rectangle,,7974,Meckenheim
 vrs-rvk,843,,,#b81e8e,#ffffff,,rectangle,,7974,Meckenheim
@@ -3061,6 +3058,7 @@ vrs-rvk,859,,,#98ca3d,#ffffff,,rectangle,,7974,Meckenheim
 vrs-rvk,880,,,#000000,#ffffff,,rectangle,,7974,Meckenheim
 vrs-rvk,881,,,#a95fa6,#ffffff,,rectangle,,7974,Meckenheim
 vrs-rvk,882,,,#1596b3,#ffffff,,rectangle,,7974,Meckenheim
+vrs-rvk,SB40,,,#9b8ec4,#ffffff,,rectangle,,7976,Bergisch Gladbach
 vrs-stadtbahn,1,,8-vrs001-1,#e1081c,#ffffff,,rectangle-rounded-corner,Q63442516,7969,Kölner VB
 vrs-stadtbahn,3,,8-vrs001-3,#f29ec2,#ffffff,,rectangle-rounded-corner,Q63442521,7969,Kölner VB
 vrs-stadtbahn,4,,8-vrs001-4,#eb72a5,#ffffff,,rectangle-rounded-corner,,7969,Kölner VB
@@ -3133,6 +3131,7 @@ vrs-swb,N8,,,#ffffff,#49a25a,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,N9,,,#ffffff,#7ebe7a,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,N10,,,#ffffff,#e7cf51,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,SB60,,,#859268,#ffffff,,rectangle,,7971,Stadtwerke Bonn
+vrs-swb,SB69,,,#df6a3c,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,T638,,,#9e6045,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-wupsi,201,,5-vrs003-201,#faad19,#ffffff,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,202,,5-vrs003-202,#b8427d,#ffffff,,rectangle,,9338,wupsi GmbH
@@ -3156,16 +3155,19 @@ vrs-wupsi,229,,5-vrs003-229,#fec70c,#9c9c9c,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,232,,5-vrs003-232,#f5864b,#ffffff,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,244,,5-vrs003-244,#0090c6,#ffffff,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,251,,5-vrs003-251,#c18ba5,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,252,,,#f06772,#ffffff,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,253,,5-vrs003-253,#91ce9a,#ffffff,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,254,,5-vrs003-254,#faaa4a,#ffffff,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,255,,5-vrs003-255,#007dad,#ffffff,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,257,,5-vrs003-257,#a6565c,#ffffff,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,258,,5-vrs003-258,#1ca852,#ffffff,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,SB20,,5-vrs003-sb20,#f36e31,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,SB21,,,#6ebf45,#ffffff,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,SB22,,5-vrs003-sb22,#a5612e,#ffffff,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,SB23,,5-vrs003-sb23,#00a54f,#ffffff,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,SB24,,5-vrs003-sb24,#008540,#ffffff,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,SB25,,5-vrs003-sb25,#00a9e2,#ffffff,,rectangle,,9338,wupsi GmbH
+vrs-wupsi,SB42,,,#176438,#ffffff,,rectangle,,9338,wupsi GmbH
 vsn-goevb,11,,,#ffffff,#f49800,#f49800,rectangle-rounded-corner,,12043,Göttinger Verkehrsbetriebe (GöVB)
 vsn-goevb,12,,,#f49800,#ffffff,,rectangle-rounded-corner,,12043,Göttinger Verkehrsbetriebe (GöVB)
 vsn-goevb,21,,,#ffffff,#cb1417,#cb1417,rectangle-rounded-corner,,12043,Göttinger Verkehrsbetriebe (GöVB)
