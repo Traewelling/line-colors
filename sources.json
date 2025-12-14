@@ -3220,6 +3220,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-fischle",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Esslingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-esslingen.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-frank-stoeckle",
         "contributors": [
             {
@@ -3364,6 +3378,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-schlienz",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Esslingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-esslingen.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-ssb-bus",
         "contributors": [
             {
@@ -3405,6 +3433,20 @@
             {
                 "name": "Netzplan Stadtbahn Stuttgart",
                 "source": "https://download.vvs.de/Stadtbahn_Liniennetz.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-sve",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Esslingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-esslingen.pdf"
             }
         ]
     },
