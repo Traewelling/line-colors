@@ -1750,6 +1750,7 @@ saarbahn,164,,5-vgssbb-164,#008bd2,#ffffff,,rectangle,,8931,Saarbahn GmbH
 saarbahn,165,,5-vgssbb-165,#008bd2,#ffffff,,rectangle,,8931,Saarbahn GmbH
 saarbahn,168,,5-vgssbb-168,#008bd2,#ffffff,,rectangle,,8931,Saarbahn GmbH
 schweiz-fernverkehr-bls,IR 17,,,#2d4c95,#ffffff,,rectangle-rounded-corner,Q115987430,33,BLS AG (bls)
+schweiz-fernverkehr-bls,IR 56,,,#ba4e97,#ffffff,,rectangle-rounded-corner,Q137386184,33,BLS AG (bls)
 schweiz-fernverkehr-bls,IR 65,,,#0077ba,#ffffff,,rectangle-rounded-corner,Q116053231,33,BLS AG (bls)
 schweiz-fernverkehr-bls,IR 66,,,#2faeb3,#ffffff,,rectangle-rounded-corner,Q116053240,33,BLS AG (bls)
 schweiz-fernverkehr-sbb,IC,,,#575756,#ffffff,,rectangle-rounded-corner,Q130471236,11,Schweizerische Bundesbahnen
@@ -1770,6 +1771,7 @@ schweiz-fernverkehr-sbb,IR 27,,,#687222,#ffffff,,rectangle-rounded-corner,Q11598
 schweiz-fernverkehr-sbb,IR 35,,,#00571f,#ffffff,,rectangle-rounded-corner,Q115996431,11,Schweizerische Bundesbahnen
 schweiz-fernverkehr-sbb,IR 36,,,#af1870,#ffffff,,rectangle-rounded-corner,Q116052855,11,Schweizerische Bundesbahnen
 schweiz-fernverkehr-sbb,IR 37,,,#c5d984,#000000,,rectangle-rounded-corner,Q116052863,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 55,,,#b3a400,#ffffff,,rectangle-rounded-corner,Q137407349,11,Schweizerische Bundesbahnen
 schweiz-fernverkehr-sbb,IR 57,,,#898e40,#ffffff,,rectangle-rounded-corner,Q137194696,11,Schweizerische Bundesbahnen
 schweiz-fernverkehr-sbb,IR 70,,,#f193bd,#000000,,rectangle-rounded-corner,Q116053265,11,Schweizerische Bundesbahnen
 schweiz-fernverkehr-sbb,IR 75,,,#7b468f,#ffffff,,rectangle-rounded-corner,Q116053272,11,Schweizerische Bundesbahnen
