@@ -3718,6 +3718,10 @@
             {
                 "name": "01-Schemaplan-2023-08-24",
                 "source": "https://www.nph.de/de-wAssets/docs/oepnv/angebot/Liniennetzplaene/01-Schemaplan-2023-08-24.pdf"
+            },
+            {
+                "name": "Interaktiver Netzplan fahr mit",
+                "source": "https://netzplan.fahr-mit.de/index.php/de/karte/init/haltestelle/523"
             }
         ]
     },
@@ -3732,6 +3736,10 @@
             {
                 "name": "01-Schemaplan-2023-08-24",
                 "source": "https://www.nph.de/de-wAssets/docs/oepnv/angebot/Liniennetzplaene/01-Schemaplan-2023-08-24.pdf"
+            },
+            {
+                "name": "Interaktiver Netzplan fahr mit",
+                "source": "https://netzplan.fahr-mit.de/index.php/de/karte/init/haltestelle/523"
             }
         ]
     },
