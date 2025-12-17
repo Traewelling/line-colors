@@ -10,12 +10,19 @@
             },
             {
                 "github": "oneiricbotcelot"
+            },
+            {
+                "github": "Sheigutn"
             }
         ],
         "sources": [
             {
                 "name": "BEG Liniennetzplan Bayern 2024",
                 "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+            },
+            {
+                "name": "BEG Liniennetzplan Bayern 2026",
+                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2026/liniennetzplan-bayern-2026.pdf"
             }
         ]
     },
@@ -1511,6 +1518,24 @@
         ]
     },
     {
+        "shortOperatorName": "ostwind-vbsh",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Region Schaffhausen 2026",
+                "source": "https://api.vbsh.ch/fileadmin/data/assets/pdf/dateien-2026/netzplan-region-schaffhausen-2026.pdf"
+            },
+            {
+                "name": "Nachtnetz Region Schaffhausen 2026",
+                "source": "https://api.vbsh.ch/fileadmin/data/assets/pdf/Dateien_2024/2024-nachtnetzplan_sh.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "pid-prague",
         "contributors": [
             {
@@ -2089,8 +2114,8 @@
         ],
         "sources": [
             {
-                "name": "TNW Liniennetz Basel und Umgebung",
-                "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
+                "name": "TNW Liniennetz Basel und Umgebung 2026",
+                "source": "https://www.bvb.ch/wp-content/bvb/dokumente/liniennetzplan/2026/Liniennetzplan_2026.pdf"
             },
             {
                 "name": "BLT Haltestellenfahrpläne (für Linien im Oberbaselbiet)",
@@ -2110,8 +2135,8 @@
         ],
         "sources": [
             {
-                "name": "TNW Liniennetz Basel und Umgebung",
-                "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
+                "name": "TNW Liniennetz Basel und Umgebung 2026",
+                "source": "https://www.bvb.ch/wp-content/bvb/dokumente/liniennetzplan/2026/Liniennetzplan_2026.pdf"
             }
         ]
     },
