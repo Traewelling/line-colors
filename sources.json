@@ -806,16 +806,39 @@
         "contributors": [
             {
                 "github": "connectingwings"
+            },
+            {
+                "github": "Sheigutn"
             }
         ],
         "sources": [
             {
-                "name": "StadtLinie grafisch Tarifzone 100 im LAVV",
-                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-grafisch-Stadtlinie-2023.pdf"
+                "name": "Liniennetzplan MVV Linien 601 bis 614 (ehemalige Stadtlinien)",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-Linien-601-bis-614.pdf"
             },
             {
-                "name": "AbendLinie grafisch Tarifzone 100 im LAVV",
-                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-grafisch-Abendlinie-2023.pdf"
+                "name": "Liniennetzplan MVV Linien 620 bis 629 (ehemalige Abendlinien)",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-Linien-620-bis-629.pdf"
+            },
+            {
+                "name": "Linie 615 Ergolding HBF",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Linie-615-Ergolding-HBF.pdf"
+            },
+            {
+                "name": "Linie 616 Auloh Auwaldsiedlung HBF",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Linie-616-Auloh-Auwaldsiedlung-HBF.pdf"
+            },
+            {
+                "name": "Linie 617 Eugenbach HBF",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-Linien-620-bis-629.pdf"
+            },
+            {
+                "name": "Linie 618 Metzental HBF",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Linie-618-Metzental-HBF.pdf"
+            },
+            {
+                "name": "Linie 619 Lurzenhof Hochschule HBF",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Linie-619-Lurzenhof-Hochschule-HBF.pdf"
             }
         ]
     },
