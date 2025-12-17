@@ -1495,6 +1495,24 @@
         ]
     },
     {
+        "shortOperatorName": "ostwind-vbsh",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Region Schaffhausen 2026",
+                "source": "https://api.vbsh.ch/fileadmin/data/assets/pdf/dateien-2026/netzplan-region-schaffhausen-2026.pdf"
+            },
+            {
+                "name": "Nachtnetz Region Schaffhausen 2026",
+                "source": "https://api.vbsh.ch/fileadmin/data/assets/pdf/Dateien_2024/2024-nachtnetzplan_sh.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "pid-prague",
         "contributors": [
             {

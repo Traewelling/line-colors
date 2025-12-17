@@ -1193,6 +1193,32 @@ ostwind-ab,S 24,,,#3aaa35,#ffffff,,rectangle-rounded-corner,Q108602649,22,Appenz
 ostwind-ab,S 25,,,#72a8db,#ffffff,,rectangle-rounded-corner,Q108602682,22,Appenzeller Bahnen
 ostwind-ab,S 26,,,#b85f5c,#ffffff,,rectangle-rounded-corner,Q108602736,22,Appenzeller Bahnen
 ostwind-ab,841,,,#000000,#ffffff,,rectangle,,744,Automobildienst Appenzeller Bahnen
+ostwind-vbsh,1,,,#006834,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,3,,,#d54a07,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,4,,,#2c2c2b,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,5,,,#009dd4,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,6,,,#fdc300,#000000,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,7,,,#9c0b08,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,8,,,#52348b,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,9,,,#005ca9,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,10,,,#aecc45,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,21,,,#cc112e,#ffffff,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,22,,,#c9cacd,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,23,,,#00a870,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,24,,,#d24f97,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,25,,,#ef7c00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,27,,,#007a43,#ffffff,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,28,,,#831d81,#ffffff,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N1,,,#ffed00,#000000,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N2,,,#ffed00,#000000,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N3,,,#ffed00,#000000,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N4,,,#ffed00,#000000,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N22,,,#ffed00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N23,,,#ffed00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N24,,,#ffed00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N25,,,#ffed00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N76,,,#ffed00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N76,,,#ffed00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
 pid-prague,1,dopravni-podnik-hl-m-prahy,8-540001-1,#ffffff,#a2cf62,#a2cf62,rectangle,,,
 pid-prague,2,dopravni-podnik-hl-m-prahy,8-540001-2,#ffffff,#f6c955,#f6c955,rectangle,,,
 pid-prague,3,dopravni-podnik-hl-m-prahy,8-540001-3,#ffffff,#4ca859,#4ca859,rectangle,,,
