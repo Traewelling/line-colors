@@ -14,6 +14,8 @@ agilis,RB 97,agilis,ag-rb97,#90bf26,#ffffff,,rectangle,Q130542106,10838,agilis
 agilis,RB 98,agilis,ag-rb98,#24b27d,#ffffff,,rectangle,Q130542107,10838,agilis
 agilis,RB 99,agilis,ag-rb99,#ffb200,#ffffff,,rectangle,Q130542108,10838,agilis
 agilis,RE 18,agilis,ag-re18,#006428,#ffffff,,rectangle,Q130542152,10838,agilis
+agilis,RE 22,,,#ff6600,#ffffff,,rectangle,Q108179529,10940,agilis-Schnellzug
+agilis,RE 50,,,#804080,#ffffff,,rectangle,Q137420105,10940,agilis-Schnellzug
 alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,re23,#ffffff,#006666,#006666,rectangle,Q130542294,10837,alex - Die Länderbahn GmbH DLB
 alex-dlb,RE 25,alex-die-landerbahn-gmbh-dlb,re25,#006666,#ffffff,,rectangle,Q130542295,10837,alex - Die Länderbahn GmbH DLB
 ams,S7,abellio-rail-mitteldeutschland-gmbh,4-ams-7,#0a579b,#ffffff,,pill,Q63217583,11961,Abellio Rail Mitteldeutschland GmbH
@@ -132,7 +134,7 @@ db-regio-bayern,RE 16,db-regio-ag-bayern,re-16,#e50000,#ffffff,,rectangle,,10446
 db-regio-bayern,RE 17,db-regio-ag-bayern,re-17,#992e00,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 db-regio-bayern,RE 19,db-regio-ag-bayern,re-19,#ff6600,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 db-regio-bayern,RE 20,db-regio-ag-bayern,re-20,#e50000,#ffffff,,rectangle,,10446,DB Regio AG Bayern
-db-regio-bayern,RE 22,db-regio-ag-bayern,re-22,#ff6600,#ffffff,,rectangle,,10446,DB Regio AG Bayern
+db-regio-bayern,RE 22,db-regio-ag-bayern,re-22,#ff6600,#ffffff,,rectangle,Q108179529,10446,DB Regio AG Bayern
 db-regio-bayern,RE 28,db-regio-ag-bayern,re-28,#e50000,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 db-regio-bayern,RE 29,db-regio-ag-bayern,re-29,#ffffff,#ff6600,#ff6600,rectangle,,10446,DB Regio AG Bayern
 db-regio-bayern,RE 30,db-regio-ag-bayern,re-30,#e50000,#ffffff,,rectangle,,10446,DB Regio AG Bayern
@@ -570,29 +572,34 @@ kvv-woehrle,162,,,#f295a0,#ffffff,,circle,,7667,Bus Wöhrle
 kvv-woehrle,162s,,,#f295a0,#ffffff,,circle,,7667,Bus Wöhrle
 kvv-woehrle,163,,,#62baea,#ffffff,,circle,,7667,Bus Wöhrle
 kvv-woehrle,164,,,#b17f4a,#ffffff,,circle,,7667,Bus Wöhrle
-lavv-swl,1,,5-swlbus-1,#85bc22,#ffffff,,rectangle,,11941,SWL
-lavv-swl,2,,5-swlbus-2,#fbba00,#000000,,rectangle,,11941,SWL
-lavv-swl,3,,5-swlbus-3,#de007d,#ffffff,,rectangle,,11941,SWL
-lavv-swl,4,,5-swlbus-4,#009ee3,#ffffff,,rectangle,,11941,SWL
-lavv-swl,5,,5-swlbus-5,#007757,#ffffff,,rectangle,,11941,SWL
-lavv-swl,6,,5-swlbus-6,#0070ba,#ffffff,,rectangle,,11941,SWL
-lavv-swl,7,,5-swlbus-7,#00b2bb,#ffffff,,rectangle,,11941,SWL
-lavv-swl,8,,5-swlbus-8,#ffed00,#000000,,rectangle,,11941,SWL
-lavv-swl,9,,5-swlbus-9,#0b9a33,#ffffff,,rectangle,,11941,SWL
-lavv-swl,10,,5-swlbus-10,#9d1680,#ffffff,,rectangle,,11941,SWL
-lavv-swl,11,,5-swlbus-11,#e3000f,#ffffff,,rectangle,,11941,SWL
-lavv-swl,12,,5-swlbus-12,#58348b,#ffffff,,rectangle,,11941,SWL
-lavv-swl,14,,5-swlbus-14,#ee7100,#ffffff,,rectangle,,11941,SWL
-lavv-swl,101,,5-swlbus-101,#85bc22,#ffffff,,rectangle,,11941,SWL
-lavv-swl,102,,5-swlbus-102,#fbba00,#000000,,rectangle,,11941,SWL
-lavv-swl,103,,5-swlbus-103,#de007d,#ffffff,,rectangle,,11941,SWL
-lavv-swl,104,,5-swlbus-104,#009ee3,#ffffff,,rectangle,,11941,SWL
-lavv-swl,105,,5-swlbus-105,#007757,#ffffff,,rectangle,,11941,SWL
-lavv-swl,106,,5-swlbus-106,#0070ba,#ffffff,,rectangle,,11941,SWL
-lavv-swl,107,,5-swlbus-107,#00b2bb,#ffffff,,rectangle,,11941,SWL
-lavv-swl,108,,5-swlbus-108,#ffed00,#000000,,rectangle,,11941,SWL
-lavv-swl,109,,5-swlbus-109,#0b9a33,#ffffff,,rectangle,,11941,SWL
-lavv-swl,110,,5-swlbus-110,#9d1680,#ffffff,,rectangle,,11941,SWL
+lavv-swl,601,,,#85bc22,#ffffff,,rectangle,,11941,SWL
+lavv-swl,602,,,#fbba00,#000000,,rectangle,,11941,SWL
+lavv-swl,603,,,#de007d,#ffffff,,rectangle,,11941,SWL
+lavv-swl,604,,,#009ee3,#ffffff,,rectangle,,11941,SWL
+lavv-swl,605,,,#007757,#ffffff,,rectangle,,11941,SWL
+lavv-swl,606,,,#0070ba,#ffffff,,rectangle,,11941,SWL
+lavv-swl,607,,,#00b2bb,#ffffff,,rectangle,,11941,SWL
+lavv-swl,608,,,#ffed00,#000000,,rectangle,,11941,SWL
+lavv-swl,609,,,#0b9a33,#ffffff,,rectangle,,11941,SWL
+lavv-swl,610,,,#9d1680,#ffffff,,rectangle,,11941,SWL
+lavv-swl,611,,,#e3000f,#ffffff,,rectangle,,11941,SWL
+lavv-swl,612,,,#58348b,#ffffff,,rectangle,,11941,SWL
+lavv-swl,614,,,#ee7100,#ffffff,,rectangle,,11941,SWL
+lavv-swl,615,,,#5f90a7,#ffffff,,rectangle,,11941,SWL
+lavv-swl,616,,,#a87555,#ffffff,,rectangle,,11941,SWL
+lavv-swl,617,,,#673e7a,#ffffff,,rectangle,,11941,SWL
+lavv-swl,618,,,#b74139,#ffffff,,rectangle,,11941,SWL
+lavv-swl,619,,,#00817f,#ffffff,,rectangle,,11941,SWL
+lavv-swl,620,,,#9d1680,#ffffff,,rectangle,,11941,SWL
+lavv-swl,621,,,#85bc22,#ffffff,,rectangle,,11941,SWL
+lavv-swl,622,,,#fbba00,#000000,,rectangle,,11941,SWL
+lavv-swl,623,,,#de007d,#ffffff,,rectangle,,11941,SWL
+lavv-swl,624,,,#009ee3,#ffffff,,rectangle,,11941,SWL
+lavv-swl,625,,,#007757,#ffffff,,rectangle,,11941,SWL
+lavv-swl,626,,,#0070ba,#ffffff,,rectangle,,11941,SWL
+lavv-swl,627,,,#00b2bb,#ffffff,,rectangle,,11941,SWL
+lavv-swl,628,,,#ffed00,#000000,,rectangle,,11941,SWL
+lavv-swl,629,,,#0b9a33,#ffffff,,rectangle,,11941,SWL
 liege-s,S41,sncb,4-88-41,#0f6030,#ffffff,#ffffff,circle,,,
 liemobil,11,,,#fdc300,#000000,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
 liemobil,12,,,#283583,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
@@ -1191,6 +1198,32 @@ ostwind-ab,S 24,,,#3aaa35,#ffffff,,rectangle-rounded-corner,Q108602649,22,Appenz
 ostwind-ab,S 25,,,#72a8db,#ffffff,,rectangle-rounded-corner,Q108602682,22,Appenzeller Bahnen
 ostwind-ab,S 26,,,#b85f5c,#ffffff,,rectangle-rounded-corner,Q108602736,22,Appenzeller Bahnen
 ostwind-ab,841,,,#000000,#ffffff,,rectangle,,744,Automobildienst Appenzeller Bahnen
+ostwind-vbsh,1,,,#006834,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,3,,,#d54a07,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,4,,,#2c2c2b,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,5,,,#009dd4,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,6,,,#fdc300,#000000,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,7,,,#9c0b08,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,8,,,#52348b,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,9,,,#005ca9,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,10,,,#aecc45,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,21,,,#cc112e,#ffffff,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,22,,,#c9cacd,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,23,,,#00a870,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,24,,,#d24f97,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,25,,,#ef7c00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,27,,,#007a43,#ffffff,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,28,,,#831d81,#ffffff,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N1,,,#ffed00,#000000,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N2,,,#ffed00,#000000,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N3,,,#ffed00,#000000,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N4,,,#ffed00,#000000,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N22,,,#ffed00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N23,,,#ffed00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N24,,,#ffed00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N25,,,#ffed00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N76,,,#ffed00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N76,,,#ffed00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
 pid-prague,1,dopravni-podnik-hl-m-prahy,8-540001-1,#ffffff,#a2cf62,#a2cf62,rectangle,,,
 pid-prague,2,dopravni-podnik-hl-m-prahy,8-540001-2,#ffffff,#f6c955,#f6c955,rectangle,,,
 pid-prague,3,dopravni-podnik-hl-m-prahy,8-540001-3,#ffffff,#4ca859,#4ca859,rectangle,,,
@@ -1849,21 +1882,24 @@ tnw-aagl,80,,,#e4032e,#ffffff,,rectangle,,811,Autobus AG Liestal
 tnw-aagl,81,,,#f088b6,#000000,,rectangle,,811,Autobus AG Liestal
 tnw-aagl,82,,,#13a538,#ffffff,,rectangle,,811,Autobus AG Liestal
 tnw-aagl,83,,,#0094d2,#ffffff,,rectangle,,811,Autobus AG Liestal
-tnw-blt,10,baselland-transport,8-850037-10,#fec800,#000000,,rectangle-rounded-corner,Q7885420,37,Baselland Transport
-tnw-blt,11,baselland-transport,8-850037-11,#e7000e,#ffffff,,rectangle-rounded-corner,Q3239102,37,Baselland Transport
-tnw-blt,E11,baselland-transport,8-850037-e11,#e7000e,#ffffff,,rectangle-rounded-corner,Q106925455,37,Baselland Transport
-tnw-blt,17,baselland-transport,8-850037-17,#00a1e5,#ffffff,,rectangle-rounded-corner,Q16854977,37,Baselland Transport
+tnw-blt,10,baselland-transport,8-850037-10,#ffcc00,#000000,,rectangle-rounded-corner,Q7885420,37,Baselland Transport
+tnw-blt,11,baselland-transport,8-850037-11,#e30613,#ffffff,,rectangle-rounded-corner,Q3239102,37,Baselland Transport
+tnw-blt,12,baselland-transport,8-850037-12,#9471ad,#ffffff,,rectangle-rounded-corner,Q106925455,37,Baselland Transport
+tnw-blt,17,baselland-transport,8-850037-17,#009fe3,#ffffff,,rectangle-rounded-corner,Q16854977,37,Baselland Transport
 tnw-blt,19,baselland-transport,,#7c217d,#ffffff,,rectangle-rounded-corner,,37,Baselland Transport
-tnw-blt,37,baselland-transport,,#cfd0d0,#000000,,rectangle-rounded-corner,,37,Baselland Transport
-tnw-blt,47,baselland-transport,,#adafaf,#000000,,rectangle-rounded-corner,,37,Baselland Transport
-tnw-blt,58,baselland-transport,,#adafaf,#000000,,rectangle-rounded-corner,,37,Baselland Transport
-tnw-blt,59,baselland-transport,,#adafaf,#000000,,rectangle-rounded-corner,,37,Baselland Transport
-tnw-blt,60,baselland-transport,,#cfd0d0,#000000,,rectangle-rounded-corner,,37,Baselland Transport
-tnw-blt,61,baselland-transport,,#adafaf,#000000,,rectangle-rounded-corner,,37,Baselland Transport
-tnw-blt,62,baselland-transport,,#adafaf,#000000,,rectangle-rounded-corner,,37,Baselland Transport
-tnw-blt,64,baselland-transport,,#cfd0d0,#000000,,rectangle-rounded-corner,,37,Baselland Transport
-tnw-blt,65,baselland-transport,,#adafaf,#000000,,rectangle-rounded-corner,,37,Baselland Transport
-tnw-blt,66,baselland-transport,,#adafaf,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,37,baselland-transport,,#d0d0d0,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,47,baselland-transport,,#aeaeae,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,49,baselland-transport,,#d0d0d0,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,56,baselland-transport,,#d0d0d0,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,58,baselland-transport,,#aeaeae,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,59,baselland-transport,,#aeaeae,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,60,baselland-transport,,#d0d0d0,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,61,baselland-transport,,#aeaeae,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,62,baselland-transport,,#aeaeae,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,63,baselland-transport,,#d0d0d0,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,64,baselland-transport,,#d0d0d0,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,65,baselland-transport,,#aeaeae,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,66,baselland-transport,,#aeaeae,#000000,,rectangle-rounded-corner,,37,Baselland Transport
 tnw-blt,92,baselland-transport,,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
 tnw-blt,93,baselland-transport,,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
 tnw-blt,105,baselland-transport,,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
@@ -1872,29 +1908,28 @@ tnw-blt,107,baselland-transport,,#bec2c3,#000000,,rectangle-rounded-corner,,37,B
 tnw-blt,108,baselland-transport,,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
 tnw-blt,109,baselland-transport,,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
 tnw-blt,110,baselland-transport,,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
-tnw-bvb,1,basler-verkehrsbetriebe,8-85bvb-1,#7c4425,#ffffff,,rectangle-rounded-corner,Q16854970,823,Basler Verkehrsbetriebe
-tnw-bvb,2,basler-verkehrsbetriebe,8-85bvb-2,#a47e42,#ffffff,,rectangle-rounded-corner,Q16854978,823,Basler Verkehrsbetriebe
-tnw-bvb,3,basler-verkehrsbetriebe,8-85bvb-3,#364093,#ffffff,,rectangle-rounded-corner,Q16854981,823,Basler Verkehrsbetriebe
-tnw-bvb,6,basler-verkehrsbetriebe,8-85bvb-6,#0068b2,#ffffff,,rectangle-rounded-corner,Q16854982,823,Basler Verkehrsbetriebe
-tnw-bvb,8,basler-verkehrsbetriebe,8-85bvb-8,#ed6aa4,#ffffff,,rectangle-rounded-corner,Q16854983,823,Basler Verkehrsbetriebe
-tnw-bvb,14,basler-verkehrsbetriebe,8-85bvb-14,#f17900,#ffffff,,rectangle-rounded-corner,Q16854972,823,Basler Verkehrsbetriebe
-tnw-bvb,15,basler-verkehrsbetriebe,8-85bvb-15,#00943d,#ffffff,,rectangle-rounded-corner,Q16854974,823,Basler Verkehrsbetriebe
-tnw-bvb,16,basler-verkehrsbetriebe,8-85bvb-16,#a6c700,#000000,,rectangle-rounded-corner,Q16854975,823,Basler Verkehrsbetriebe
-tnw-bvb,21,basler-verkehrsbetriebe,8-85bvb-21,#00a192,#ffffff,,rectangle-rounded-corner,Q16854979,823,Basler Verkehrsbetriebe
-tnw-bvb,30,basler-verkehrsbetriebe,,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
-tnw-bvb,31,basler-verkehrsbetriebe,,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
-tnw-bvb,32,basler-verkehrsbetriebe,,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
-tnw-bvb,33,basler-verkehrsbetriebe,,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
-tnw-bvb,34,basler-verkehrsbetriebe,,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
-tnw-bvb,35,basler-verkehrsbetriebe,,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
-tnw-bvb,36,basler-verkehrsbetriebe,,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
-tnw-bvb,38,basler-verkehrsbetriebe,,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
-tnw-bvb,42,basler-verkehrsbetriebe,,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
-tnw-bvb,45,basler-verkehrsbetriebe,,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
-tnw-bvb,46,basler-verkehrsbetriebe,,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
-tnw-bvb,47,basler-verkehrsbetriebe,,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
-tnw-bvb,48,basler-verkehrsbetriebe,,#adafaf,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
-tnw-bvb,50,basler-verkehrsbetriebe,,#cfd0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,1,basler-verkehrsbetriebe,8-85bvb-1,#81492b,#ffffff,,rectangle-rounded-corner,Q16854970,823,Basler Verkehrsbetriebe
+tnw-bvb,2,basler-verkehrsbetriebe,8-85bvb-2,#ab8248,#ffffff,,rectangle-rounded-corner,Q16854978,823,Basler Verkehrsbetriebe
+tnw-bvb,3,basler-verkehrsbetriebe,8-85bvb-3,#3b4395,#ffffff,,rectangle-rounded-corner,Q16854981,823,Basler Verkehrsbetriebe
+tnw-bvb,6,basler-verkehrsbetriebe,8-85bvb-6,#0069b4,#ffffff,,rectangle-rounded-corner,Q16854982,823,Basler Verkehrsbetriebe
+tnw-bvb,8,basler-verkehrsbetriebe,8-85bvb-8,#ed6ea7,#ffffff,,rectangle-rounded-corner,Q16854983,823,Basler Verkehrsbetriebe
+tnw-bvb,14,basler-verkehrsbetriebe,8-85bvb-14,#ef7d00,#ffffff,,rectangle-rounded-corner,Q16854972,823,Basler Verkehrsbetriebe
+tnw-bvb,15,basler-verkehrsbetriebe,8-85bvb-15,#009640,#ffffff,,rectangle-rounded-corner,Q16854974,823,Basler Verkehrsbetriebe
+tnw-bvb,16,basler-verkehrsbetriebe,8-85bvb-16,#afca0b,#000000,,rectangle-rounded-corner,Q16854975,823,Basler Verkehrsbetriebe
+tnw-bvb,21,basler-verkehrsbetriebe,8-85bvb-21,#00a295,#ffffff,,rectangle-rounded-corner,Q16854979,823,Basler Verkehrsbetriebe
+tnw-bvb,30,basler-verkehrsbetriebe,,#aeaeae,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,31,basler-verkehrsbetriebe,,#aeaeae,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,32,basler-verkehrsbetriebe,,#aeaeae,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,33,basler-verkehrsbetriebe,,#d0d0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,34,basler-verkehrsbetriebe,,#aeaeae,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,35,basler-verkehrsbetriebe,,#d0d0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,36,basler-verkehrsbetriebe,,#aeaeae,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,38,basler-verkehrsbetriebe,,#d0d0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,42,basler-verkehrsbetriebe,,#d0d0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,45,basler-verkehrsbetriebe,,#aeaeae,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,46,basler-verkehrsbetriebe,,#d0d0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,48,basler-verkehrsbetriebe,,#aeaeae,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,50,basler-verkehrsbetriebe,,#d0d0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
 tnw-pag,67,,,#ffcc00,#000000,,rectangle,,801,PostAuto AG
 tnw-pag,68,,,#ffcc00,#000000,,rectangle,,801,PostAuto AG
 tnw-pag,69,,,#ffcc00,#000000,,rectangle,,801,PostAuto AG
