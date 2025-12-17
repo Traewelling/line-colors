@@ -10,12 +10,19 @@
             },
             {
                 "github": "oneiricbotcelot"
+            },
+            {
+                "github": "Sheigutn"
             }
         ],
         "sources": [
             {
                 "name": "BEG Liniennetzplan Bayern 2024",
                 "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+            },
+            {
+                "name": "BEG Liniennetzplan Bayern 2026",
+                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2026/liniennetzplan-bayern-2026.pdf"
             }
         ]
     },

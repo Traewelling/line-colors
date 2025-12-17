@@ -14,6 +14,8 @@ agilis,RB 97,agilis,ag-rb97,#90bf26,#ffffff,,rectangle,Q130542106,10838,agilis
 agilis,RB 98,agilis,ag-rb98,#24b27d,#ffffff,,rectangle,Q130542107,10838,agilis
 agilis,RB 99,agilis,ag-rb99,#ffb200,#ffffff,,rectangle,Q130542108,10838,agilis
 agilis,RE 18,agilis,ag-re18,#006428,#ffffff,,rectangle,Q130542152,10838,agilis
+agilis,RE 22,,,#ff6600,#ffffff,,rectangle,Q108179529,10940,agilis-Schnellzug
+agilis,RE 50,,,#804080,#ffffff,,rectangle,Q137420105,10940,agilis-Schnellzug
 alex-dlb,RE 23,alex-die-landerbahn-gmbh-dlb,re23,#ffffff,#006666,#006666,rectangle,Q130542294,10837,alex - Die Länderbahn GmbH DLB
 alex-dlb,RE 25,alex-die-landerbahn-gmbh-dlb,re25,#006666,#ffffff,,rectangle,Q130542295,10837,alex - Die Länderbahn GmbH DLB
 ams,S7,abellio-rail-mitteldeutschland-gmbh,4-ams-7,#0a579b,#ffffff,,pill,Q63217583,11961,Abellio Rail Mitteldeutschland GmbH
@@ -132,7 +134,7 @@ db-regio-bayern,RE 16,db-regio-ag-bayern,re-16,#e50000,#ffffff,,rectangle,,10446
 db-regio-bayern,RE 17,db-regio-ag-bayern,re-17,#992e00,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 db-regio-bayern,RE 19,db-regio-ag-bayern,re-19,#ff6600,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 db-regio-bayern,RE 20,db-regio-ag-bayern,re-20,#e50000,#ffffff,,rectangle,,10446,DB Regio AG Bayern
-db-regio-bayern,RE 22,db-regio-ag-bayern,re-22,#ff6600,#ffffff,,rectangle,,10446,DB Regio AG Bayern
+db-regio-bayern,RE 22,db-regio-ag-bayern,re-22,#ff6600,#ffffff,,rectangle,Q108179529,10446,DB Regio AG Bayern
 db-regio-bayern,RE 28,db-regio-ag-bayern,re-28,#e50000,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 db-regio-bayern,RE 29,db-regio-ag-bayern,re-29,#ffffff,#ff6600,#ff6600,rectangle,,10446,DB Regio AG Bayern
 db-regio-bayern,RE 30,db-regio-ag-bayern,re-30,#e50000,#ffffff,,rectangle,,10446,DB Regio AG Bayern
