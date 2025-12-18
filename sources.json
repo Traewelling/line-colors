@@ -4069,5 +4069,23 @@
                 "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
             }
         ]
+    },
+    {
+        "shortOperatorName": "zvv-vbz",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Stadt Zürich 2026",
+                "source": "https://www.zvv.ch/content/dam/zvv/publikationen/netzpl%C3%A4ne/stadt-zuerich.pdf"
+            },
+            {
+                "name": "Nachtbus Netzplan geographisch",
+                "source": "https://www.stadt-zuerich.ch/content/dam/vbz/de/fahrplan/nachtnetz/netzplan-nachtnetz-vbz.pdf"
+            }
+        ]
     }
 ]
