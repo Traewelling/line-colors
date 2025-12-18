@@ -1082,12 +1082,15 @@
         "contributors": [
             {
                 "github": "verbuchselt"
+            },
+            {
+                "github": "dabund24"
             }
         ],
         "sources": [
             {
                 "name": "Liniennetz Stadtbus Freising",
-                "source": "https://www.freisinger-stadtwerke.de/de/Stadtbus-Parkhaeuser/Stadtbus/Prefooter/Aushang-Liniennetz-Stadtbus-A4hoch-web.pdf"
+                "source": "https://www.freisinger-stadtwerke.de/de/Stadtbus-Parkhaeuser/Stadtbus/Prefooter/Liniennetz-Stadtbus-2025-2026.pdf"
             }
         ]
     },

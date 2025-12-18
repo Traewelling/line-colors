@@ -918,22 +918,26 @@ mvv-stadtwerke-dachau,720,,5-mvvrbu-720,#ef3120,#ffffff,,rectangle,,12943,"Stadt
 mvv-stadtwerke-dachau,722,,5-mvvrbu-722,#ef3120,#ffffff,,rectangle,,12943,"Stadtwerke Dachau, Dachau1"
 mvv-stadtwerke-dachau,726,,5-mvvrbu-726,#00a880,#ffffff,,rectangle,,12943,"Stadtwerke Dachau, Dachau1"
 mvv-stadtwerke-dachau,744,,5-mvvrbu-744,#91c900,#ffffff,,rectangle,,12943,"Stadtwerke Dachau, Dachau1"
-mvv-stadtwerke-freising,620,,5-mvvrbu-620,#ed1c24,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,621,,5-mvvrbu-621,#2e3092,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,622,,5-mvvrbu-622,#a6ce38,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,623,,5-mvvrbu-623,#738377,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,624,,5-mvvrbu-624,#ed1651,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,630,,5-mvvrbu-630,#ffcb03,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,631,,5-mvvrbu-631,#35734d,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,633,,5-mvvrbu-633,#f5821f,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,634,,5-mvvrbu-634,#a25642,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,637,,5-mvvrbu-637,#795e6e,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,638,,5-mvvrbu-638,#8dd8f8,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,639,,5-mvvrbu-639,#4072aa,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,640,,5-mvvrbu-640,#b3d334,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,641,,5-mvvrbu-641,#ffcc30,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,650,,5-mvvrbu-650,#17b35c,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,651,,5-mvvrbu-651,#008742,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,630,,5-mvvrbu-630,#d4df2f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,631,,5-mvvrbu-631,#278841,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,632,,5-mvvrbu-632,#3bb54a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,633,,5-mvvrbu-633,#f58220,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,634,,5-mvvrbu-634,#a25641,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,636,,5-mvvrbu-636,#2dc3f3,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,637,,5-mvvrbu-637,#785e6f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,638,,5-mvvrbu-638,#3272ac,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,639,,5-mvvrbu-639,#2e3092,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,640,,5-mvvrbu-640,#1dabe1,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,641,,5-mvvrbu-641,#ee3b36,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,642,,5-mvvrbu-642,#8bc63f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,643,,5-mvvrbu-643,#ed1551,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,645,,5-mvvrbu-645,#eb128a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,650,,5-mvvrbu-650,#1dabe1,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,651,,5-mvvrbu-651,#ee3b36,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,652,,5-mvvrbu-652,#8bc63f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,653,,5-mvvrbu-653,#ed1551,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,654,,5-mvvrbu-654,#d6df21,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,655,,5-mvvrbu-655,#eb128a,#ffffff,,rectangle,,7687,MVV-Regionalbus
 nah-sh,RE 6,db-regio-ag-nord,re-6,#00975f,#ffffff,,rectangle,,10435,DB Regio AG Nord
 nah-sh,RB 61,nordbahn,nbe-rb61,#174094,#ffffff,,rectangle,,10919,Nordbahn Eisenbahngesellschaft
 nah-sh,RB 62,db-regio-ag-nord,rb-62,#00aeca,#000000,,rectangle,,10435,DB Regio AG Nord
