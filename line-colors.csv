@@ -4128,3 +4128,91 @@ zvnl-tram,50,,8-naslvt-50,#ffffff,#000000,#000000,rectangle,,8872,Leipziger Verk
 zvnl-tram,56,,8-naslvt-56,#ffffff,#000000,#000000,rectangle,,8872,Leipziger Verkehrsbetriebe
 zvnl-tram,N10,,8-naslvt-n10,#e1001e,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
 zvnl-tram,N17,,8-naslvt-n17,#67b337,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
+zvv-vbz,2,,,#e30613,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,3,,,#009e3d,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,4,,,#4c3c90,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,5,,,#955b29,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,6,,,#dda145,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,7,,,#1d1d1b,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,8,,,#afca0b,#000000,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,9,,,#4c3c90,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,10,,,#e8308a,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,11,,,#009e3d,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,12,,,#8cd0e5,#000000,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,13,,,#ffd500,#000000,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,14,,,#009fe3,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,15,,,#e30613,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,17,,,#a31f65,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,23,,,#ffffff,#1d1d1b,#1d1d1b,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,24,,,#ffffff,#1d1d1b,#1d1d1b,rectangle-rounded-corner,,165,Poly-Bahn Zürich
+zvv-vbz,25,,,#ffffff,#1d1d1b,#1d1d1b,rectangle-rounded-corner,,164,Dolderbahn Betriebs AG
+zvv-vbz,31,,,#a3a8d3,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,32,,,#ddb7d7,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,33,,,#ede7aa,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,37,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,38,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,39,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,40,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,42,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,44,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,45,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,46,,,#cce0aa,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,50,,,#1d1d1b,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,51,,,#1d1d1b,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,61,,,#a59d96,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,62,,,#d9cec1,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,64,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,66,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,67,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,70,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,72,,,#daafa0,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,73,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,75,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,76,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,77,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,78,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,80,,,#d9dec4,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,83,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,89,,,#d9cec1,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,91,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,99,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,161,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,165,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,184,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,185,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,307,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,701,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,703,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,704,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,743,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,745,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,751,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,912,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,916,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N1,,,#007889,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N2,,,#e20a16,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N3,,,#00892f,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N4,,,#11296f,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N5,,,#724523,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N6,,,#ca7e3c,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N7,,,#000000,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N8,,,#8ab51e,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N9,,,#8276aa,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N10,,,#e12472,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N11,,,#00892f,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N12,,,#92d6e3,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N13,,,#ffc002,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N14,,,#008dc5,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N15,,,#b41e8e,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N16,,,#103752,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N17,,,#8f224e,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N18,,,#c97eb5,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N30,,,#eb5d55,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N33,,,#007889,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N34,,,#5c328a,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N36,,,#ffc002,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N46,,,#cce0aa,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N71,,,#008dc5,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N74,,,#8f224e,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N75,,,#f35f4c,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N91,,,#463378,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
