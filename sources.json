@@ -639,6 +639,20 @@
         ]
     },
     {
+        "shortOperatorName": "kvv-anrufverkehre",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Karlsruhe und Nördlicher Landkreis Rastatt 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-LK-Karlsruhe-und-noerdlicher-LK-Rastatt.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "kvv-avg",
         "contributors": [
             {
@@ -682,12 +696,19 @@
         "contributors": [
             {
                 "github": "metrophil"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
                 "name": "KVV Liniennetzplan Bus Südlicher Landkreis Rastatt und Baden-Baden 2026",
                 "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-Landkreis-Rastatt-und-Baden-Baden.pdf"
+            },
+            {
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Karlsruhe und Nördlicher Landkreis Rastatt 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-LK-Karlsruhe-und-noerdlicher-LK-Rastatt.pdf"
             }
         ]
     },
@@ -726,11 +747,28 @@
             }
         ]
     },
+    {
+        "shortOperatorName": "kvv-swbad",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Karlsruhe und Nördlicher Landkreis Rastatt 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-LK-Karlsruhe-und-noerdlicher-LK-Rastatt.pdf"
+            }
+        ]
+    },
 	{
         "shortOperatorName": "kvv-sweg",
         "contributors": [
             {
                 "github": "metrophil"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
@@ -1082,12 +1120,15 @@
         "contributors": [
             {
                 "github": "verbuchselt"
+            },
+            {
+                "github": "dabund24"
             }
         ],
         "sources": [
             {
                 "name": "Liniennetz Stadtbus Freising",
-                "source": "https://www.freisinger-stadtwerke.de/de/Stadtbus-Parkhaeuser/Stadtbus/Prefooter/Aushang-Liniennetz-Stadtbus-A4hoch-web.pdf"
+                "source": "https://www.freisinger-stadtwerke.de/de/Stadtbus-Parkhaeuser/Stadtbus/Prefooter/Liniennetz-Stadtbus-2025-2026.pdf"
             }
         ]
     },
@@ -4081,6 +4122,24 @@
             {
                 "name": "Netzplan",
                 "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "zvv-vbz",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Stadt Zürich 2026",
+                "source": "https://www.zvv.ch/content/dam/zvv/publikationen/netzpl%C3%A4ne/stadt-zuerich.pdf"
+            },
+            {
+                "name": "Nachtbus Netzplan geographisch",
+                "source": "https://www.stadt-zuerich.ch/content/dam/vbz/de/fahrplan/nachtnetz/netzplan-nachtnetz-vbz.pdf"
             }
         ]
     }
