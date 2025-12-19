@@ -10,12 +10,19 @@
             },
             {
                 "github": "oneiricbotcelot"
+            },
+            {
+                "github": "Sheigutn"
             }
         ],
         "sources": [
             {
                 "name": "BEG Liniennetzplan Bayern 2024",
                 "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+            },
+            {
+                "name": "BEG Liniennetzplan Bayern 2026",
+                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2026/liniennetzplan-bayern-2026.pdf"
             }
         ]
     },
@@ -632,6 +639,20 @@
         ]
     },
     {
+        "shortOperatorName": "kvv-anrufverkehre",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Karlsruhe und Nördlicher Landkreis Rastatt 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-LK-Karlsruhe-und-noerdlicher-LK-Rastatt.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "kvv-avg",
         "contributors": [
             {
@@ -675,12 +696,19 @@
         "contributors": [
             {
                 "github": "metrophil"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
                 "name": "KVV Liniennetzplan Bus Südlicher Landkreis Rastatt und Baden-Baden 2026",
                 "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-Landkreis-Rastatt-und-Baden-Baden.pdf"
+            },
+            {
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Karlsruhe und Nördlicher Landkreis Rastatt 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-LK-Karlsruhe-und-noerdlicher-LK-Rastatt.pdf"
             }
         ]
     },
@@ -719,11 +747,28 @@
             }
         ]
     },
+    {
+        "shortOperatorName": "kvv-swbad",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Karlsruhe und Nördlicher Landkreis Rastatt 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-LK-Karlsruhe-und-noerdlicher-LK-Rastatt.pdf"
+            }
+        ]
+    },
 	{
         "shortOperatorName": "kvv-sweg",
         "contributors": [
             {
                 "github": "metrophil"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
@@ -799,16 +844,39 @@
         "contributors": [
             {
                 "github": "connectingwings"
+            },
+            {
+                "github": "Sheigutn"
             }
         ],
         "sources": [
             {
-                "name": "StadtLinie grafisch Tarifzone 100 im LAVV",
-                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-grafisch-Stadtlinie-2023.pdf"
+                "name": "Liniennetzplan MVV Linien 601 bis 614 (ehemalige Stadtlinien)",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-Linien-601-bis-614.pdf"
             },
             {
-                "name": "AbendLinie grafisch Tarifzone 100 im LAVV",
-                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-grafisch-Abendlinie-2023.pdf"
+                "name": "Liniennetzplan MVV Linien 620 bis 629 (ehemalige Abendlinien)",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-Linien-620-bis-629.pdf"
+            },
+            {
+                "name": "Linie 615 Ergolding HBF",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Linie-615-Ergolding-HBF.pdf"
+            },
+            {
+                "name": "Linie 616 Auloh Auwaldsiedlung HBF",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Linie-616-Auloh-Auwaldsiedlung-HBF.pdf"
+            },
+            {
+                "name": "Linie 617 Eugenbach HBF",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-Linien-620-bis-629.pdf"
+            },
+            {
+                "name": "Linie 618 Metzental HBF",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Linie-618-Metzental-HBF.pdf"
+            },
+            {
+                "name": "Linie 619 Lurzenhof Hochschule HBF",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Linie-619-Lurzenhof-Hochschule-HBF.pdf"
             }
         ]
     },
@@ -1052,12 +1120,15 @@
         "contributors": [
             {
                 "github": "verbuchselt"
+            },
+            {
+                "github": "dabund24"
             }
         ],
         "sources": [
             {
                 "name": "Liniennetz Stadtbus Freising",
-                "source": "https://www.freisinger-stadtwerke.de/de/Stadtbus-Parkhaeuser/Stadtbus/Prefooter/Aushang-Liniennetz-Stadtbus-A4hoch-web.pdf"
+                "source": "https://www.freisinger-stadtwerke.de/de/Stadtbus-Parkhaeuser/Stadtbus/Prefooter/Liniennetz-Stadtbus-2025-2026.pdf"
             }
         ]
     },
@@ -1484,6 +1555,24 @@
             {
                 "name": "Liniennetzplan Frauenfeld-Wil 2025",
                 "source": "https://appenzellerbahnen.ch/files/appenzellerbahnen.ch/01_Reiseinformationen/02_Fahrplan/streckennetz/2025/JPG_SLNP_Ostwind_2024_Ausschnitt34_AppenzellerBahnen_825x592.jpg"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ostwind-vbsh",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Region Schaffhausen 2026",
+                "source": "https://api.vbsh.ch/fileadmin/data/assets/pdf/dateien-2026/netzplan-region-schaffhausen-2026.pdf"
+            },
+            {
+                "name": "Nachtnetz Region Schaffhausen 2026",
+                "source": "https://api.vbsh.ch/fileadmin/data/assets/pdf/Dateien_2024/2024-nachtnetzplan_sh.pdf"
             }
         ]
     },
@@ -2066,8 +2155,8 @@
         ],
         "sources": [
             {
-                "name": "TNW Liniennetz Basel und Umgebung",
-                "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
+                "name": "TNW Liniennetz Basel und Umgebung 2026",
+                "source": "https://www.bvb.ch/wp-content/bvb/dokumente/liniennetzplan/2026/Liniennetzplan_2026.pdf"
             },
             {
                 "name": "BLT Haltestellenfahrpläne (für Linien im Oberbaselbiet)",
@@ -2087,8 +2176,8 @@
         ],
         "sources": [
             {
-                "name": "TNW Liniennetz Basel und Umgebung",
-                "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
+                "name": "TNW Liniennetz Basel und Umgebung 2026",
+                "source": "https://www.bvb.ch/wp-content/bvb/dokumente/liniennetzplan/2026/Liniennetzplan_2026.pdf"
             }
         ]
     },
@@ -4019,6 +4108,24 @@
             {
                 "name": "Netzplan",
                 "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "zvv-vbz",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Stadt Zürich 2026",
+                "source": "https://www.zvv.ch/content/dam/zvv/publikationen/netzpl%C3%A4ne/stadt-zuerich.pdf"
+            },
+            {
+                "name": "Nachtbus Netzplan geographisch",
+                "source": "https://www.stadt-zuerich.ch/content/dam/vbz/de/fahrplan/nachtnetz/netzplan-nachtnetz-vbz.pdf"
             }
         ]
     }
