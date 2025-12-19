@@ -1705,6 +1705,15 @@ rvl-sweg,54,,,#ffffff,#00a19a,#00a19a,rectangle,,14868,SWEG_WL_EM
 rvl-sweg,55,,,#ffffff,#575756,#575756,rectangle,,14868,SWEG_WL_EM
 rvl-sweg,66,,,#ffffff,#f39200,#f39200,rectangle,,14868,SWEG_WL_EM
 rvl-sweg,220,,,#ffffff,#ffdd00,#ffdd00,rectangle,,14868,SWEG_WL_EM
+s-bahn-basel,S1,,,#92c56e,#ffffff,,rectangle-rounded-corner,Q3239193,11,Schweizerische Bundesbahnen
+s-bahn-basel,S3,,,#3f6cb3,#ffffff,,rectangle-rounded-corner,Q3239191,11,Schweizerische Bundesbahnen
+s-bahn-basel,S5,,,#946aab,#ffffff,,rectangle-rounded-corner,Q63705361,L7____,SBB GmbH
+s-bahn-basel,S6,,,#946aab,#ffffff,,rectangle-rounded-corner,Q63705067,L7____,SBB GmbH
+s-bahn-basel,S9,,,#64358c,#ffffff,,rectangle-rounded-corner,Q3239195,11,Schweizerische Bundesbahnen
+s-bahn-basel,S11,,,#c3dca5,#000000,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen
+s-bahn-basel,S31,,,#6f9ed4,#ffffff,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen
+s-bahn-basel,S32,,,#c3dca5,#000000,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen
+s-bahn-basel,S33,,,#c3dca5,#000000,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen
 s-bahn-bern-bls,S 1,bls-ag,4-850033-1,#50b447,#ffffff,,rectangle,,,
 s-bahn-bern-bls,S 2,bls-ag,4-850033-2,#1cb1e6,#ffffff,,rectangle,,,
 s-bahn-bern-bls,S 3,bls-ag,4-850033-3,#8868b3,#ffffff,,rectangle,,,
