@@ -111,19 +111,19 @@ rhb,R16,#438bc3,#ffffff,,rectangle,,72,Rhätische Bahn
 rhb,R19,#a2bb04,#ffffff,,rectangle,,72,Rhätische Bahn
 rhb,S1,#d40074,#ffffff,,rectangle,Q115756382,72,Rhätische Bahn
 rhb,S2,#e8ac00,#ffffff,,rectangle,Q115756448,72,Rhätische Bahn
-s-bahn-bern-bls,S 1,#50b447,#ffffff,,rectangle,
-s-bahn-bern-bls,S 2,#1cb1e6,#ffffff,,rectangle,
-s-bahn-bern-bls,S 3,#8868b3,#ffffff,,rectangle,
-s-bahn-bern-bls,S 31,#b0aa38,#ffffff,,rectangle,
-s-bahn-bern-bls,S 4,#53c4af,#ffffff,,rectangle,
-s-bahn-bern-bls,S 44,#646026,#ffffff,,rectangle,
-s-bahn-bern-bls,S 5,#881c3f,#ffffff,,rectangle,
-s-bahn-bern-bls,S 51,#9cc843,#ffffff,,rectangle,
-s-bahn-bern-bls,S 52,#ffffff,,rectangle,
-s-bahn-bern-bls,S 6,#f84e4d,#ffffff,,rectangle,
-s-bahn-bern-rbs,S 7,#ff812d,#ffffff,,rectangle,
-s-bahn-bern-rbs,S 8,#ffffff,,,rectangle,
-s-bahn-bern-rbs,S 9,#fa2d18,#ffffff,,rectangle,
+s-bahn-bern-bls,S 1,#50b447,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 2,#1cb1e6,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 3,#8868b3,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 31,#b0aa38,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 4,#53c4af,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 44,#646026,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 5,#881c3f,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 51,#9cc843,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 52,#f7cf39,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 6,#f84e4d,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-rbs,S 7,#ff812d,#ffffff,,rectangle,,,
+s-bahn-bern-rbs,S 8,#191918,#ffffff,,rectangle,,,
+s-bahn-bern-rbs,S 9,#fa2d18,#ffffff,,rectangle,,,
 s-bahn-zentralschweiz-bls,S 6,#0165b6,#ffffff,,rectangle-rounded-corner,,33,BLS AG (bls)
 s-bahn-zentralschweiz-bls,S 7,#73c0e8,#ffffff,,rectangle-rounded-corner,,33,BLS AG (bls)
 s-bahn-zentralschweiz-bls,S 77,#7a84c4,#ffffff,,rectangle-rounded-corner,,33,BLS AG (bls)
