@@ -8,7 +8,7 @@ $i = 2;
 foreach ($csv as $line) {
     $lowercase_keys = ["shortOperatorName", "hafasOperatorCode", "hafasLineId", "backgroundColor", "textColor", "shape"];
     foreach ($lowercase_keys as $key) {
-        if ($line[$key] !== strtolower($line[$key])) {
+        if (isset($line[$key]) && $line[$key] !== strtolower($line[$key])) {
             throw new Error("$key is not lowercase in row $i");
         }
     }
