@@ -121,9 +121,9 @@ s-bahn-bern-bls,S 5,#881c3f,#ffffff,,rectangle,,33,BLS AG (bls)
 s-bahn-bern-bls,S 51,#9cc843,#ffffff,,rectangle,,33,BLS AG (bls)
 s-bahn-bern-bls,S 52,#f7cf39,#ffffff,,rectangle,,33,BLS AG (bls)
 s-bahn-bern-bls,S 6,#f84e4d,#ffffff,,rectangle,,33,BLS AG (bls)
-s-bahn-bern-rbs,S 7,#ff812d,#ffffff,,rectangle,,,
-s-bahn-bern-rbs,S 8,#191918,#ffffff,,rectangle,,,
-s-bahn-bern-rbs,S 9,#fa2d18,#ffffff,,rectangle,,,
+s-bahn-bern-rbs,S 7,#ff812d,#ffffff,,rectangle,,88,Regionalverkehr Bern-Solothurn
+s-bahn-bern-rbs,S 8,#191918,#ffffff,,rectangle,,88,Regionalverkehr Bern-Solothurn
+s-bahn-bern-rbs,S 9,#fa2d18,#ffffff,,rectangle,,88,Regionalverkehr Bern-Solothurn
 s-bahn-zentralschweiz-bls,S 6,#0165b6,#ffffff,,rectangle-rounded-corner,,33,BLS AG (bls)
 s-bahn-zentralschweiz-bls,S 7,#73c0e8,#ffffff,,rectangle-rounded-corner,,33,BLS AG (bls)
 s-bahn-zentralschweiz-bls,S 77,#7a84c4,#ffffff,,rectangle-rounded-corner,,33,BLS AG (bls)
