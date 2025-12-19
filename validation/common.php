@@ -1,28 +1,29 @@
 <?php
 
-// read and process DELFI colours
+// read DELFI colours
 $csv = array_map("str_getcsv", file("../line-colors.csv", FILE_SKIP_EMPTY_LINES));
 $keys = array_shift($csv);
 foreach ($csv as $i => $row) {
-    $row = array_pad($row, $max_columns, ''); // This should set the maximum amount of coloumns
     $csv[$i] = array_combine($keys, $row);
 }
 
-// read and process Swiss colours
+// read Swiss colours
 $csv_CH = array_map("str_getcsv", file("../line-colors-CH.csv", FILE_SKIP_EMPTY_LINES));
 $keys_CH = array_shift($csv_CH);
 foreach ($csv_CH as $i => $row) {
-    $row = array_pad($row, $max_columns, ''); // This should set the maximum amount of coloumns, the non-CH file has more
     $csv_CH[$i] = array_combine($keys_CH, $row);
 }
-
-// Dealing with the different amount of coloumns between the two CSV files
-$max_columns = max(count($keys), count($keys_CH));
 
 // combine both for this PHP thing
 $csv = array_merge ($csv, $csv_CH);      // This should merge both CSVs without the need of touching the code below, I hope.
 $keys = array_merge ($keys, $keys_CH);
 
+
+$linesByOperatorCode = array_reduce($csv, function ($result, $line) {
+    $result[$line["shortOperatorName"]][] = $line;
+
+    return $result;
+}, []);
 
 $linesByOperatorCode = array_reduce($csv, function ($result, $line) {
     $result[$line["shortOperatorName"]][] = $line;
