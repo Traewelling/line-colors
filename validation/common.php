@@ -1,22 +1,25 @@
 <?php
 
-// read DELFI colours
+// read and process DELFI colours
 $csv = array_map("str_getcsv", file("../line-colors.csv", FILE_SKIP_EMPTY_LINES));
 $keys = array_shift($csv);
 foreach ($csv as $i => $row) {
+    $row = array_pad($row, $max_coloumns, ''); // This should set the maximum amount of coloumns
     $csv[$i] = array_combine($keys, $row);
 }
 
-// read Swiss colours
-
+// read and process Swiss colours
 $csv_CH = array_map("str_getcsv", file("../line-colors-CH.csv", FILE_SKIP_EMPTY_LINES));
 $keys_CH = array_shift($csv_CH);
 foreach ($csv_CH as $i => $row) {
+    $row = array_pad($row, $max_coloumns, ''); // This should set the maximum amount of coloumns, the non-CH file has more
     $csv_CH[$i] = array_combine($keys_CH, $row);
 }
 
-// combine both for this PHP thing
+// Dealing with the different amount of coloumns between the two CSV files
+$max_columns = max(count($keys), count($keys_CH));
 
+// combine both for this PHP thing
 $csv = array_merge ($csv, $csv_CH);      // This should merge both CSVs without the need of touching the code below, I hope.
 $keys = array_merge ($keys, $keys_CH);
 
