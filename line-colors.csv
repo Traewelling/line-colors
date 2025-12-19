@@ -448,6 +448,14 @@ hvv-vhh,X80,,,#ebc353,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,X81,,,#30653c,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,X82,,,#8697b1,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,X95,,,#c06936,#ffffff,,hexagon,,15146,VHH Bus
+kvv-anrufverkehre,221,,,#58585a,#ffffff,,circle,,7671,Taxiverkehre
+kvv-anrufverkehre,222,,,#c3529e,#ffffff,,circle,,7671,Taxiverkehre
+kvv-anrufverkehre,223,,,#f5821f,#ffffff,,circle,,7671,Taxiverkehre
+kvv-anrufverkehre,225,,,#007238,#ffffff,,circle,,7671,Taxiverkehre
+kvv-anrufverkehre,226,,,#d71920,#ffffff,,circle,,7671,Taxiverkehre
+kvv-anrufverkehre,233,,,#58585a,#ffffff,,circle,,7671,Taxiverkehre
+kvv-anrufverkehre,240,,,#52b9e9,#ffffff,,circle,,7671,Taxiverkehre
+kvv-anrufverkehre,257,,,#8050a0,#ffffff,,circle,,7671,Taxiverkehre
 kvv-avg,S1,albtal-verkehrs-gesellschaft-mbh,4-a6s1-1,#00a76d,#ffffff,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft
 kvv-avg,S4,albtal-verkehrs-gesellschaft-mbh,4-a6s4-4,#ae4a63,#ffffff,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft
 kvv-avg,S5,albtal-verkehrs-gesellschaft-mbh,4-a6s5-5,#f69795,#ffffff,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft
@@ -466,6 +474,13 @@ kvv-avg,S71,albtal-verkehrs-gesellschaft-mbh,4-a6s71-71,#fff200,#000000,,rectang
 kvv-avg,S81,albtal-verkehrs-gesellschaft-mbh,4-a6s81-81,#6e692a,#ffffff,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft
 kvv-avg,S FEX,albtal-verkehrs-gesellschaft-mbh,4-a6s1-fex,#00a76d,#ffffff,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft
 kvv-avg,S E,albtal-verkehrs-gesellschaft-mbh,4-kvv22e-e,#ffffff,#000000,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft
+kvv-db-bus,101,,,#a97c50,#ffffff,,circle,,11071,Friedrich Müller Omnibus GmbH
+kvv-db-bus,102,,,#c3529e,#ffffff,,circle,,11071,Friedrich Müller Omnibus GmbH
+kvv-db-bus,106,,,#8050a0,#ffffff,,circle,,11071,Friedrich Müller Omnibus GmbH
+kvv-db-bus,109,,,#d71920,#ffffff,,circle,,11071,Friedrich Müller Omnibus GmbH
+kvv-db-bus,113,,,#4cb957,#ffffff,,circle,,7664,Busverkehr Nordschwarzwald GmbH
+kvv-db-bus,116,,,#f5821f,#ffffff,,circle,,7664,Busverkehr Nordschwarzwald GmbH
+kvv-db-bus,117,,,#f5929c,#ffffff,,circle,,7664,Busverkehr Nordschwarzwald GmbH
 kvv-db-bus,120,,,#ef7d00,#ffffff,,circle,,11071,Friedrich Müller Omnibus GmbH
 kvv-db-bus,121,,,#006e30,#ffffff,,circle,,11071,Friedrich Müller Omnibus GmbH
 kvv-db-bus,122,,,#432918,#ffffff,,circle,,11071,Friedrich Müller Omnibus GmbH
@@ -493,16 +508,52 @@ kvv-db-bus,194,,,#ef7d00,#ffffff,,circle,,11071,Friedrich Müller Omnibus GmbH
 kvv-db-bus,195,,,#d20a11,#ffffff,,circle,,11071,Friedrich Müller Omnibus GmbH
 kvv-db-bus,198,,,#007db1,#ffffff,,circle,,11071,Friedrich Müller Omnibus GmbH
 kvv-db-bus,X45,,,#00aaad,#ffffff,,circle,,11071,Friedrich Müller Omnibus GmbH
+kvv-eberhardt,103,,,#006ba3,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
+kvv-eberhardt,103s,,,#006ba3,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
+kvv-eberhardt,104,,,#52b9e9,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
+kvv-eberhardt,105,,,#4cb957,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
+kvv-eberhardt,110,,,#f5821f,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
+kvv-eberhardt,111,,,#007238,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
+kvv-eberhardt,112,,,#f5929c,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
+kvv-eberhardt,114,,,#3a2317,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
+kvv-eberhardt,240s,,,#52b9e9,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
+kvv-eberhardt,241,,,#a97c50,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
+kvv-eberhardt,244,,,#8050a0,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
+kvv-eberhardt,251,,,#4cb957,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
+kvv-eberhardt,252,,,#a97c50,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
+kvv-eberhardt,252s,,,#a97c50,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
+kvv-eberhardt,253,,,#3a2317,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
+kvv-eberhardt,254,,,#f5929c,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
+kvv-eberhardt,258,,,#00aaad,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
+kvv-eberhardt,259,,,#c3529e,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
 kvv-eberhardt,X44,,5-kvv002-x44,#007239,#ffffff,,circle,,14558,Bus Richard Eberhardt GmbH
 kvv-engel,151,,,#854896,#ffffff,,circle,,13817,Bus Engel
 kvv-engel,152,,,#0067a2,#ffffff,,circle,,13817,Bus Engel
+kvv-engel,153,,,#f5929c,#ffffff,,circle,,13817,Bus Engel
+kvv-engel,154,,,#a97c50,#ffffff,,circle,,13817,Bus Engel
+kvv-engel,155,,,#007238,#ffffff,,circle,,13817,Bus Engel
 kvv-engel,158,,5-kvv025-158,#f5821f,#ffffff,,circle,,13817,Bus Engel
 kvv-engel,159,,,#62baea,#ffffff,,circle,,13817,Bus Engel
 kvv-hassis,131,,,#432918,#ffffff,,circle,,10252,Bus Hassis
 kvv-hassis,132,,,#006e30,#ffffff,,circle,,10252,Bus Hassis
 kvv-hassis,133,,,#d20a11,#ffffff,,circle,,10252,Bus Hassis
 kvv-hassis,140,,,#c74a95,#ffffff,,circle,,10252,Bus Hassis
+kvv-swbad,212,,,#f5929c,#ffffff,,circle,,12171,Bus Stadtwerke Baden-Baden
+kvv-swbad,213,,,#006ba3,#ffffff,,circle,,12171,Bus Stadtwerke Baden-Baden
+kvv-swbad,214,,,#bed730,#ffffff,,circle,,12171,Bus Stadtwerke Baden-Baden
+kvv-swbad,215,,,#f5821f,#ffffff,,circle,,12171,Bus Stadtwerke Baden-Baden
+kvv-swbad,216,,,#c3529e,#ffffff,,circle,,12171,Bus Stadtwerke Baden-Baden
+kvv-swbad,218,,,#3a2317,#ffffff,,circle,,12171,Bus Stadtwerke Baden-Baden
 kvv-sweg,222,,5-kvv030-222,#c3529e,#ffffff,,circle,,10253,Bus NVW (Walz)
+kvv-sweg,227,,,#006ba3,#ffffff,,circle,,10253,Bus NVW (Walz)
+kvv-sweg,231,,,#4cb957,#ffffff,,circle,,7669,Bus VERA
+kvv-sweg,232,,,#007238,#ffffff,,circle,,7669,Bus VERA
+kvv-sweg,234,,,#8050a0,#ffffff,,circle,,7670,Bus SWEG
+kvv-sweg,234s,,,#8050a0,#ffffff,,circle,,7670,Bus SWEG
+kvv-sweg,235,,,#52b9e9,#ffffff,,circle,,7669,Bus VERA
+kvv-sweg,236,,,#3a2317,#ffffff,,circle,,7669,Bus VERA
+kvv-sweg,239,,,#f5821f,#ffffff,,circle,,7669,Bus VERA
+kvv-sweg,290,,,#006ba3,#ffffff,,circle,,10253,Bus NVW (Walz)
 kvv-sweg,X34,,5-kvv015-x34,#d71920,#ffffff,,circle,,7670,Bus SWEG
 kvv-vbk,E,,8-kvv021-e,#ffffff,#000000,,rectangle,,7672,Tram VBK
 kvv-vbk,NL1,,8-kvv021-nl1,#ed1c24,#ffffff,,rectangle,,7672,Tram VBK
@@ -601,33 +652,6 @@ lavv-swl,627,,,#00b2bb,#ffffff,,rectangle,,11941,SWL
 lavv-swl,628,,,#ffed00,#000000,,rectangle,,11941,SWL
 lavv-swl,629,,,#0b9a33,#ffffff,,rectangle,,11941,SWL
 liege-s,S41,sncb,4-88-41,#0f6030,#ffffff,#ffffff,circle,,,
-liemobil,11,,,#fdc300,#000000,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,12,,,#283583,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,12E,,,#6e6ba9,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,13,,,#3fa535,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,13E,,,#3fa535,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,14,,,#cd1719,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,21,,,#007a8c,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,22,,,#6fa8b3,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,24,,,#0095db,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,26,,,#f39200,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,31,,,#ed6a5b,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,32,,,#a41753,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,33,,,#944127,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,35,,,#c7b649,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,36E,,,#9e1981,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,37,,,#4a5da7,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,38,,,#4d3078,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,40,,,#7b6a58,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,44,,,#bdbcbc,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,46,,,#35434f,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,48,,,#8b696b,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,N1,,,#6f6352,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,N2,,,#e64d33,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,N3,,,#80b333,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,N4,,,#666666,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,B,,,#e64d33,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
-liemobil,C,,,#666666,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
 mdv-lvb,1,,8-naslvt-1,#78b145,#ffffff,,rectangle,Q121343878,8872,Leipziger Verkehrsbetriebe
 mdv-lvb,2,,8-naslvt-2,#f7ce46,#000000,,rectangle,Q136824538,8872,Leipziger Verkehrsbetriebe
 mdv-lvb,3,,8-naslvt-3,#78b145,#ffffff,,rectangle,Q121344175,8872,Leipziger Verkehrsbetriebe
@@ -918,22 +942,26 @@ mvv-stadtwerke-dachau,720,,5-mvvrbu-720,#ef3120,#ffffff,,rectangle,,12943,"Stadt
 mvv-stadtwerke-dachau,722,,5-mvvrbu-722,#ef3120,#ffffff,,rectangle,,12943,"Stadtwerke Dachau, Dachau1"
 mvv-stadtwerke-dachau,726,,5-mvvrbu-726,#00a880,#ffffff,,rectangle,,12943,"Stadtwerke Dachau, Dachau1"
 mvv-stadtwerke-dachau,744,,5-mvvrbu-744,#91c900,#ffffff,,rectangle,,12943,"Stadtwerke Dachau, Dachau1"
-mvv-stadtwerke-freising,620,,5-mvvrbu-620,#ed1c24,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,621,,5-mvvrbu-621,#2e3092,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,622,,5-mvvrbu-622,#a6ce38,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,623,,5-mvvrbu-623,#738377,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,624,,5-mvvrbu-624,#ed1651,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,630,,5-mvvrbu-630,#ffcb03,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,631,,5-mvvrbu-631,#35734d,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,633,,5-mvvrbu-633,#f5821f,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,634,,5-mvvrbu-634,#a25642,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,637,,5-mvvrbu-637,#795e6e,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,638,,5-mvvrbu-638,#8dd8f8,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,639,,5-mvvrbu-639,#4072aa,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,640,,5-mvvrbu-640,#b3d334,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,641,,5-mvvrbu-641,#ffcc30,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,650,,5-mvvrbu-650,#17b35c,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-stadtwerke-freising,651,,5-mvvrbu-651,#008742,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,630,,5-mvvrbu-630,#d4df2f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,631,,5-mvvrbu-631,#278841,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,632,,5-mvvrbu-632,#3bb54a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,633,,5-mvvrbu-633,#f58220,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,634,,5-mvvrbu-634,#a25641,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,636,,5-mvvrbu-636,#2dc3f3,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,637,,5-mvvrbu-637,#785e6f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,638,,5-mvvrbu-638,#3272ac,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,639,,5-mvvrbu-639,#2e3092,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,640,,5-mvvrbu-640,#1dabe1,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,641,,5-mvvrbu-641,#ee3b36,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,642,,5-mvvrbu-642,#8bc63f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,643,,5-mvvrbu-643,#ed1551,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,645,,5-mvvrbu-645,#eb128a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,650,,5-mvvrbu-650,#1dabe1,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,651,,5-mvvrbu-651,#ee3b36,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,652,,5-mvvrbu-652,#8bc63f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,653,,5-mvvrbu-653,#ed1551,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,654,,5-mvvrbu-654,#d6df21,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-stadtwerke-freising,655,,5-mvvrbu-655,#eb128a,#ffffff,,rectangle,,7687,MVV-Regionalbus
 nah-sh,RE 6,db-regio-ag-nord,re-6,#00975f,#ffffff,,rectangle,,10435,DB Regio AG Nord
 nah-sh,RB 61,nordbahn,nbe-rb61,#174094,#ffffff,,rectangle,,10919,Nordbahn Eisenbahngesellschaft
 nah-sh,RB 62,db-regio-ag-nord,rb-62,#00aeca,#000000,,rectangle,,10435,DB Regio AG Nord
@@ -1377,22 +1405,6 @@ regiobus-hannover,N62,,5-webrbg-n62,#08345d,#ffffff,,pill,,12076,RegioBus Hannov
 regiobus-hannover,N63,,5-webrbg-n63,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
 regiobus-hannover,N70,,5-webrbg-n70,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
 regiobus-hannover,N94,,5-webrbg-n94,#08345d,#ffffff,,pill,,12076,RegioBus Hannover GmbH
-rhb,IR38,,,#ea8c00,#ffffff,,rectangle,Q135618857,72,Rhätische Bahn
-rhb,RE1,,,#25a9aa,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,RE2,,,#a97400,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,RE3,,,#25a9aa,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,RE4,,,#a97400,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,RE6,,,#00549d,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,RE7,,,#941680,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,RE8,,,#683419,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,RE9,,,#008a39,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,RE13,,,#25a9aa,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,RE24,,,#a97400,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,R15,,,#c80205,#ffffff,,rectangle,Q135623643,72,Rhätische Bahn
-rhb,R16,,,#438bc3,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,R19,,,#a2bb04,#ffffff,,rectangle,,72,Rhätische Bahn
-rhb,S1,,,#d40074,#ffffff,,rectangle,Q115756382,72,Rhätische Bahn
-rhb,S2,,,#e8ac00,#ffffff,,rectangle,Q115756448,72,Rhätische Bahn
 rmv-db-sbahn,S1,db-regio-ag-s-bahn-rhein-main,4-800528-1,#009edd,#ffffff,,pill,,12201,DB Regio AG S-Bahn Rhein-Main
 rmv-db-sbahn,S2,db-regio-ag-s-bahn-rhein-main,4-800528-2,#ff2e17,#ffffff,,pill,,12201,DB Regio AG S-Bahn Rhein-Main
 rmv-db-sbahn,S3,db-regio-ag-s-bahn-rhein-main,4-800528-3,#00b098,#ffffff,,pill,,12201,DB Regio AG S-Bahn Rhein-Main
@@ -1728,19 +1740,6 @@ s-bahn-hannover-transdev,S 51,s-bahn-hannover-transdev,4-tdhs-51,#f18700,#ffffff
 s-bahn-hannover-transdev,S 6,s-bahn-hannover-transdev,4-tdhs-6,#004f9f,#ffffff,,pill,Q63433460,13776,S-Bahn Hannover
 s-bahn-hannover-transdev,S 7,s-bahn-hannover-transdev,4-tdhs-7,#afcb27,#ffffff,,pill,Q63433461,13776,S-Bahn Hannover
 s-bahn-hannover-transdev,S 8,s-bahn-hannover-transdev,4-tdhs-8,#1794ca,#ffffff,,pill,Q63433462,13776,S-Bahn Hannover
-s-bahn-zentralschweiz-bls,S 6,bls-ag,4-850033-6-924462-5234071,#0165b6,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-bls,S 7,bls-ag,4-850033-7,#73c0e8,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-bls,S 77,bls-ag,4-850033-77,#7a84c4,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-sbb,S 1,sbb,4-85-1-924462-5234071,#1bb04d,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-sbb,S 2,sbb,4-85-2-947252-5247813,#f93f27,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-sbb,S 3,sbb,4-85-3-924462-5234071,#fe7d25,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-sbb,S 9,sbb,4-85-9-924462-5234071,#a3cf45,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-sbb,S 99,sbb,4-85-99,#95b15e,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-zb,S 4,zentralbahn,4-850086-4,#aa2a3f,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-zb,S 41,zentralbahn,4-850086-41,#055d80,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-zb,S 44,zentralbahn,4-850086-44,#d35d68,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-zb,S 5,zentralbahn,4-850086-5,#fb47a3,#ffffff,,rectangle-rounded-corner,,,
-s-bahn-zentralschweiz-zb,S 55,zentralbahn,4-850086-55,#fc87bf,#ffffff,,rectangle-rounded-corner,,,
 saarbahn,S1,saarbahn,8-vgssbs-1,#f39200,#ffffff,,rectangle,,8931,Saarbahn GmbH
 saarbahn,30,,5-vgssbb-30,#5c2483,#ffffff,,rectangle,,8931,Saarbahn GmbH
 saarbahn,101,,5-vgssbb-101,#e30613,#ffffff,,rectangle,,8931,Saarbahn GmbH
@@ -4125,3 +4124,91 @@ zvnl-tram,50,,8-naslvt-50,#ffffff,#000000,#000000,rectangle,,8872,Leipziger Verk
 zvnl-tram,56,,8-naslvt-56,#ffffff,#000000,#000000,rectangle,,8872,Leipziger Verkehrsbetriebe
 zvnl-tram,N10,,8-naslvt-n10,#e1001e,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
 zvnl-tram,N17,,8-naslvt-n17,#67b337,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
+zvv-vbz,2,,,#e30613,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,3,,,#009e3d,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,4,,,#4c3c90,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,5,,,#955b29,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,6,,,#dda145,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,7,,,#1d1d1b,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,8,,,#afca0b,#000000,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,9,,,#4c3c90,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,10,,,#e8308a,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,11,,,#009e3d,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,12,,,#8cd0e5,#000000,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,13,,,#ffd500,#000000,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,14,,,#009fe3,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,15,,,#e30613,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,17,,,#a31f65,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,23,,,#ffffff,#1d1d1b,#1d1d1b,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,24,,,#ffffff,#1d1d1b,#1d1d1b,rectangle-rounded-corner,,165,Poly-Bahn Zürich
+zvv-vbz,25,,,#ffffff,#1d1d1b,#1d1d1b,rectangle-rounded-corner,,164,Dolderbahn Betriebs AG
+zvv-vbz,31,,,#a3a8d3,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,32,,,#ddb7d7,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,33,,,#ede7aa,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,37,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,38,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,39,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,40,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,42,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,44,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,45,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,46,,,#cce0aa,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,50,,,#1d1d1b,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,51,,,#1d1d1b,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,61,,,#a59d96,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,62,,,#d9cec1,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,64,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,66,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,67,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,70,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,72,,,#daafa0,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,73,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,75,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,76,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,77,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,78,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,80,,,#d9dec4,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,83,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,89,,,#d9cec1,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,91,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,99,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,161,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,165,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,184,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,185,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,307,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,701,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,703,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,704,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,743,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,745,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,751,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,912,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,916,,,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N1,,,#007889,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N2,,,#e20a16,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N3,,,#00892f,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N4,,,#11296f,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N5,,,#724523,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N6,,,#ca7e3c,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N7,,,#000000,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N8,,,#8ab51e,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N9,,,#8276aa,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N10,,,#e12472,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N11,,,#00892f,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N12,,,#92d6e3,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N13,,,#ffc002,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N14,,,#008dc5,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N15,,,#b41e8e,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N16,,,#103752,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N17,,,#8f224e,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N18,,,#c97eb5,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N30,,,#eb5d55,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N33,,,#007889,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N34,,,#5c328a,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N36,,,#ffc002,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N46,,,#cce0aa,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N71,,,#008dc5,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N74,,,#8f224e,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N75,,,#f35f4c,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N91,,,#463378,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
