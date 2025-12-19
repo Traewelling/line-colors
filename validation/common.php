@@ -18,6 +18,7 @@ foreach ($csv_CH as $i => $row) {
 // combine both for this PHP thing
 
 $csv = array_merge ($csv, $csv_CH);      // This should merge both CSVs without the need of touching the code below, I hope.
+$keys = array_merge ($keys, $keys_CH)
 
 
 $linesByOperatorCode = array_reduce($csv, function ($result, $line) {
