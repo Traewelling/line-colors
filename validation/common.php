@@ -4,7 +4,7 @@
 $csv = array_map("str_getcsv", file("../line-colors.csv", FILE_SKIP_EMPTY_LINES));
 $keys = array_shift($csv);
 foreach ($csv as $i => $row) {
-    $row = array_pad($row, $max_coloumns, ''); // This should set the maximum amount of coloumns
+    $row = array_pad($row, $max_columns, ''); // This should set the maximum amount of coloumns
     $csv[$i] = array_combine($keys, $row);
 }
 
@@ -12,7 +12,7 @@ foreach ($csv as $i => $row) {
 $csv_CH = array_map("str_getcsv", file("../line-colors-CH.csv", FILE_SKIP_EMPTY_LINES));
 $keys_CH = array_shift($csv_CH);
 foreach ($csv_CH as $i => $row) {
-    $row = array_pad($row, $max_coloumns, ''); // This should set the maximum amount of coloumns, the non-CH file has more
+    $row = array_pad($row, $max_columns, ''); // This should set the maximum amount of coloumns, the non-CH file has more
     $csv_CH[$i] = array_combine($keys_CH, $row);
 }
 
