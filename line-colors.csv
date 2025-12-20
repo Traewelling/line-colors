@@ -2425,7 +2425,12 @@ vrn-hetzler-pfadt,552,hetzler-pfadt,5-vrn028-552,#fe3b85,#ffffff,,pill,,13664,He
 vrn-hetzler-pfadt,553,hetzler-pfadt,5-vrn028-553,#ff5725,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
 vrn-hetzler-pfadt,554,hetzler-pfadt,5-vrn028-554,#ff902c,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
 vrn-hetzler-pfadt,555,hetzler-pfadt,5-vrn028-555,#102694,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
+vrn-hetzler-pfadt,556,rheinpfalzbus,5-rbprpb-556,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
+vrn-hetzler-pfadt,557,rheinpfalzbus,5-rbprpb-557,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
+vrn-hetzler-pfadt,558,rheinpfalzbus,5-rbprpb-558,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
+vrn-hetzler-pfadt,559,rheinpfalzbus,5-rbprpb-559,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
 vrn-hetzler-pfadt,595,hetzler-pfadt,5-vrn028-595,#1c6836,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
+vrn-hetzler-pfadt,596,rheinpfalzbus,5-rbprpb-596,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
 vrn-palatinabus,507,palatinabus,5-vrn032-507,#ab6f42,#ffffff,,pill,,7926,PalatinaBus GmbH
 vrn-palatinabus,591,palatinabus,5-vrn032-591,#2faf9f,#ffffff,,pill,,7926,PalatinaBus GmbH
 vrn-qnv-queichtal-nahverkehr,539,qnv-queichtal-nahverkehr,5-vrn050-539,#c1b89d,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
@@ -2438,18 +2443,13 @@ vrn-regionalbus,627,,5-vrn033-627,#6e1430,#ffffff,,pill,,7927,Busverkehr-Rhein-N
 vrn-regionalbus,628,,5-vrn033-628,#007abe,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
 vrn-regionalbus,629,,5-vrn033-629,#034c53,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
 vrn-regionalbus,630,busverkehr-rhein-neckar,5-rbgbrn-630,#ff2e17,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
-vrn-rheinpfalzbus,546,rheinpfalzbus,5-rbprpb-546,#45ba4b,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-rheinpfalzbus,547,rheinpfalzbus,5-rbprpb-547,#8e5a38,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-rheinpfalzbus,548,rheinpfalzbus,5-rbprpb-548,#3bb4e5,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-rheinpfalzbus,549,rheinpfalzbus,5-rbprpb-549,#ec7aba,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-rheinpfalzbus,556,rheinpfalzbus,5-rbprpb-556,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-rheinpfalzbus,557,rheinpfalzbus,5-rbprpb-557,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-rheinpfalzbus,558,rheinpfalzbus,5-rbprpb-558,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-rheinpfalzbus,559,rheinpfalzbus,5-rbprpb-559,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-rheinpfalzbus,593,rheinpfalzbus,5-rbprpb-593,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-rheinpfalzbus,594,rheinpfalzbus,5-rbprpb-594,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-rheinpfalzbus,596,rheinpfalzbus,5-rbprpb-596,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-rheinpfalzbus,598,rheinpfalzbus,5-rbprpb-598,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
+vrn-rheinpfalzbus,546,rheinpfalzbus,5-rbprpb-546,#45ba4b,#ffffff,,pill,,14428,Vorderpfalz
+vrn-rheinpfalzbus,547,rheinpfalzbus,5-rbprpb-547,#8e5a38,#ffffff,,pill,,14428,Vorderpfalz
+vrn-rheinpfalzbus,548,rheinpfalzbus,5-rbprpb-548,#3bb4e5,#ffffff,,pill,,14428,Vorderpfalz
+vrn-rheinpfalzbus,549,rheinpfalzbus,5-rbprpb-549,#ec7aba,#ffffff,,pill,,14428,Vorderpfalz
+vrn-rheinpfalzbus,593,rheinpfalzbus,5-rbprpb-593,#7f9e6b,#ffffff,#5e6e6f,pill,,14428,Vorderpfalz
+vrn-rheinpfalzbus,594,rheinpfalzbus,5-rbprpb-594,#7f9e6b,#ffffff,#5e6e6f,pill,,14428,Vorderpfalz
+vrn-rheinpfalzbus,598,rheinpfalzbus,5-rbprpb-598,#7f9e6b,#ffffff,#5e6e6f,pill,,14428,Vorderpfalz
 vrn-rnv-bus,RNV 5,,,#00965e,#ffffff,,pill,,7911,RNV HD-MA-Weinheim (Strab)
 vrn-rnv-bus,RNV 20,,,#e07500,#ffffff,,pill,,7915,RNV Heidelberg (Bus)
 vrn-rnv-bus,RNV 20A,,,#e07500,#ffffff,,pill,,7915,RNV Heidelberg (Bus)
