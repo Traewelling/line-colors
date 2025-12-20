@@ -1098,6 +1098,9 @@
             },
             {
                 "github": "coffeeandtrains"
+            },
+            {
+                "github": "Sheigutn"
             }
         ],
         "sources": [
@@ -1116,6 +1119,10 @@
             {
                 "name": "MVV-Netz Stadt Germering",
                 "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2024/2024_layout_Netz_Germering_SCR.pdf"
+            },
+            {
+                "name": "MVV-Alpenbus Linien",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/05-Mobilitaetsangebote/Alpenbus/x380x381x990_alpenbus_web.svg"
             }
         ]
     },
