@@ -948,6 +948,8 @@ mvv-regional-bus,X205,,5-mvvrbu-x205,#3c5d5b,#ffffff,,rectangle,Q110140811,7688,
 mvv-regional-bus,X206,,5-mvvrbu-x206,#545395,#ffffff,,rectangle,,7688,ExpressBus
 mvv-regional-bus,X208,,,#89ac61,#ffffff,,rectangle,,7688,ExpressBus
 mvv-regional-bus,X320,,5-mvvrbu-x320,#56823d,#ffffff,,rectangle,,7688,ExpressBus
+mvv-regional-bus,X380,,,#5e6d91,#ffffff,,rectangle,,7688,ExpressBus
+mvv-regional-bus,X381,,,#9cae26,#ffffff,,rectangle,,7688,ExpressBus
 mvv-regional-bus,X660,,5-mvvrbu-x660,#8e5c2e,#ffffff,,rectangle,Q70750523,7688,ExpressBus
 mvv-regional-bus,X730,,,#6d9c42,#ffffff,,rectangle,,7688,ExpressBus
 mvv-regional-bus,X732,,5-mvvrbu-x732,#8a892c,#ffffff,,rectangle,Q110112160,7688,ExpressBus
@@ -957,6 +959,7 @@ mvv-regional-bus,X900,,5-mvvrbu-x900,#455c95,#ffffff,,rectangle,,7688,ExpressBus
 mvv-regional-bus,X910,,5-mvvrbu-x910,#756543,#ffffff,,rectangle,Q99472439,7688,ExpressBus
 mvv-regional-bus,X920,,5-mvvrbu-x920,#769754,#ffffff,,rectangle,,7688,ExpressBus
 mvv-regional-bus,X970,,5-mvvrbu-x970,#903939,#ffffff,,rectangle,,7688,ExpressBus
+mvv-regional-bus,X990,,,#009d84,#ffffff,,rectangle,,7688,ExpressBus
 mvv-stadtwerke-dachau,716,,5-mvvrbu-716,#235798,#ffffff,,rectangle,,12943,"Stadtwerke Dachau, Dachau1"
 mvv-stadtwerke-dachau,717,,5-mvvrbu-717,#000080,#ffffff,,rectangle,,12943,"Stadtwerke Dachau, Dachau1"
 mvv-stadtwerke-dachau,718,,5-mvvrbu-718,#ffcc00,#ffffff,,rectangle,,12943,"Stadtwerke Dachau, Dachau1"
