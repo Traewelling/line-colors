@@ -140,15 +140,13 @@ include_once "../validation/common.php";
                         div {
                             font-family: "Avenir Next Condensed", "Avenir Next", Arial, sans-serif;
                             font-size: 2em;
-                            text-align: center;
 
-                            box-sizing: border-box;
                             width: 2.5em;
                             height: 2.5em;
-                            line-height: 1;
-                            padding: .6275em 0;
-                            border-radius: 1.5em;
-                            display: inline-block;
+                            border-radius: 50%;
+                            align-items: center;
+                            justify-content: center;
+                            display: inline-flex;
                         }
 
                     </style>
