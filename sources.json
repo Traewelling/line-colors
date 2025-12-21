@@ -522,6 +522,118 @@
         ]
     },
     {
+        "shortOperatorName": "hnv-db-bus",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HNV Liniennetzplan Landkreis Heilbronn 2026",
+                "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-lkhn.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hnv-gross-reisen",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HNV Liniennetzplan Landkreis Heilbronn 2026",
+                "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-lkhn.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hnv-mueller-reisen",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HNV Liniennetzplan Landkreis Heilbronn 2026",
+                "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-lkhn.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hnv-nvh",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HNV Liniennetzplan Landkreis Heilbronn 2026",
+                "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-lkhn.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hnv-ovr-ruoff",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HNV Liniennetzplan Landkreis Heilbronn 2026",
+                "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-lkhn.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hnv-sweg",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HNV Liniennetzplan Landkreis Heilbronn 2026",
+                "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-lkhn.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hnv-woehrle",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HNV Liniennetzplan Landkreis Heilbronn 2026",
+                "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-lkhn.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hnv-zuegel",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HNV Liniennetzplan Landkreis Heilbronn 2026",
+                "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-lkhn.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "hvv-akn",
         "contributors": [
             {
