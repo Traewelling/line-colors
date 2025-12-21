@@ -1,7 +1,8 @@
 # Public transport line colors
 
 This repository is made for collecting line colors in public transport lines.
-Because of our switch to Transitous, colors from countries other than Germany can now be collected and used as well. If your feed does not yet have its own .csv file and you would like to contribute colors, you can create a .csv (e.g. `line-colors-xxx.csv`) and submit it via a pull request (or open an issue).
+Because of our switch to Transitous, colors from countries other than Germany can now be collected and used as well.
+If your feed does not yet have its own .csv file and you would like to contribute colours, you can create a .csv (e.g. `line-colors-xxx.csv`) and submit it via a pull request (or open an issue).
 
 ## Structure
 
