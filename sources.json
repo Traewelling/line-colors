@@ -572,8 +572,12 @@
         ],
         "sources": [
             {
-                "name": "HNV Liniennetzplan Landkreis Heilbronn 2026",
-                "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-lkhn.pdf"
+                "name": "Liniennetz NVH",
+                "source": "https://www.sweg.de/fileadmin//user_upload/pdf/liniennetzplaene/hohenlohe-main-tauber/Liniennetz_NVH.pdf"
+            },
+            {
+                "name": "Liniennetzplan Öhringen",
+                "source": "https://nvh.de/tn-misc/download.php?index=1&folder=dl&id=17&type=pdf"
             }
         ]
     },
@@ -606,6 +610,20 @@
         ]
     },
     {
+        "shortOperatorName": "hnv-swhn",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HNV Liniennetzplan Stadt Heilbronn 2026",
+                "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-hn.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "hnv-woehrle",
         "contributors": [
             {
@@ -616,6 +634,20 @@
             {
                 "name": "HNV Liniennetzplan Landkreis Heilbronn 2026",
                 "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-lkhn.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hnv-zartmann",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Stadtbus Neckarsulm",
+                "source": "https://buszartmann.de/files/content/Zartmann/Liniennetz/2023-30-11_Schematischer-Liniennetzplan.pdf"
             }
         ]
     },
