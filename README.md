@@ -33,7 +33,7 @@ The `line-colors.csv` contains several columns:
 - `wikidataQid`: Wikidata QID for the line (if available, can be empty)
 - `delfiAgencyID`/`GTFSAgencyID`: Agency ID (for example train operating company) that is used in the (DELFI) GTFS feed
  You can find the delfiAgencyID in [DELFI's GTFS dataset](https://www.opendata-oepnv.de/ht/de/datensaetze/sharing?tx_vrrkit_view%5Bsharing%5D=eyJkYXRhc2V0IjoiZGV1dHNjaGxhbmR3ZWl0ZS1zb2xsZmFocnBsYW5kYXRlbi1ndGZzIn0)), otherwise it's the agency name and ID stated in your network's GTFS file
-- `delfiAgencyName`/`GTFSAgencyName`: Agency name that is used in the (DELFI) GTFS feed (if available, can be empty)
+- `delfiAgencyName`/`GTFSAgencyName`: Agency name that is used in the (DELFI) GTFS feed
 
 ## Projects using this data
 
