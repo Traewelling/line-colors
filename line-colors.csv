@@ -2614,36 +2614,318 @@ vrb-wvg,225,,,#0d7a31,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verke
 vrb-wvg,226,,,#779b29,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
 vrb-wvg,227,,,#064d80,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
 vrb-wvg,230,,,#00944e,#ffffff,,rectangle-rounded-corner,,12118,Wolfsburger Verkehrs-GmbH
-vrn-hetzler-pfadt,550,hetzler-pfadt,5-vrn028-550,#4f3599,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-hetzler-pfadt,552,hetzler-pfadt,5-vrn028-552,#fe3b85,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-hetzler-pfadt,553,hetzler-pfadt,5-vrn028-553,#ff5725,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-hetzler-pfadt,554,hetzler-pfadt,5-vrn028-554,#ff902c,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-hetzler-pfadt,555,hetzler-pfadt,5-vrn028-555,#102694,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-hetzler-pfadt,556,rheinpfalzbus,5-rbprpb-556,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-hetzler-pfadt,557,rheinpfalzbus,5-rbprpb-557,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-hetzler-pfadt,558,rheinpfalzbus,5-rbprpb-558,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-hetzler-pfadt,559,rheinpfalzbus,5-rbprpb-559,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-hetzler-pfadt,595,hetzler-pfadt,5-vrn028-595,#1c6836,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-hetzler-pfadt,596,rheinpfalzbus,5-rbprpb-596,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
-vrn-palatinabus,507,palatinabus,5-vrn032-507,#ab6f42,#ffffff,,pill,,7926,PalatinaBus GmbH
-vrn-palatinabus,591,palatinabus,5-vrn032-591,#2faf9f,#ffffff,,pill,,7926,PalatinaBus GmbH
-vrn-qnv-queichtal-nahverkehr,539,qnv-queichtal-nahverkehr,5-vrn050-539,#c1b89d,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
-vrn-qnv-queichtal-nahverkehr,540,qnv-queichtal-nahverkehr,5-vrn050-540,#6e6353,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
-vrn-qnv-queichtal-nahverkehr,590,qnv-queichtal-nahverkehr,5-vrn050-590,#ffc53f,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
-vrn-qnv-queichtal-nahverkehr,599,qnv-queichtal-nahverkehr,5-vrn050-599,#ff2f1a,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
-vrn-regionalbus,625,,5-vrn033-625,#0e6e46,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
-vrn-regionalbus,626,,5-vrn033-626,#509fc8,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
-vrn-regionalbus,627,,5-vrn033-627,#6e1430,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
-vrn-regionalbus,628,,5-vrn033-628,#007abe,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
-vrn-regionalbus,629,,5-vrn033-629,#034c53,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
-vrn-regionalbus,630,busverkehr-rhein-neckar,5-rbgbrn-630,#ff2e17,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
-vrn-rheinpfalzbus,546,rheinpfalzbus,5-rbprpb-546,#45ba4b,#ffffff,,pill,,14428,Vorderpfalz
-vrn-rheinpfalzbus,547,rheinpfalzbus,5-rbprpb-547,#8e5a38,#ffffff,,pill,,14428,Vorderpfalz
-vrn-rheinpfalzbus,548,rheinpfalzbus,5-rbprpb-548,#3bb4e5,#ffffff,,pill,,14428,Vorderpfalz
-vrn-rheinpfalzbus,549,rheinpfalzbus,5-rbprpb-549,#ec7aba,#ffffff,,pill,,14428,Vorderpfalz
-vrn-rheinpfalzbus,593,rheinpfalzbus,5-rbprpb-593,#7f9e6b,#ffffff,#5e6e6f,pill,,14428,Vorderpfalz
-vrn-rheinpfalzbus,594,rheinpfalzbus,5-rbprpb-594,#7f9e6b,#ffffff,#5e6e6f,pill,,14428,Vorderpfalz
-vrn-rheinpfalzbus,598,rheinpfalzbus,5-rbprpb-598,#7f9e6b,#ffffff,#5e6e6f,pill,,14428,Vorderpfalz
+vrn-behles,420,,,#f496bf,#ffffff,,pill,,14618,Behles GmbH
+vrn-behles,421,,,#7f3f98,#ffffff,,pill,,14618,Behles GmbH
+vrn-behles,424,,,#bcbec0,#58585a,#58585a,pill,,14618,Behles GmbH
+vrn-behles,426,,,#bcbec0,#58585a,#58585a,pill,,14618,Behles GmbH
+vrn-behles,427,,,#bcbec0,#58585a,#58585a,pill,,14618,Behles GmbH
+vrn-behles,428,,,#dc6e31,#ffffff,,pill,,14618,Behles GmbH
+vrn-behles,428A,,,#dc6e31,#ffffff,,pill,,14618,Behles GmbH
+vrn-behles,429,,,#7c77ac,#ffffff,,pill,,14618,Behles GmbH
+vrn-behles,430,,,#6d1f21,#ffffff,,pill,,14618,Behles GmbH
+vrn-behles,431,,,#a2c03c,#ffffff,,pill,,14618,Behles GmbH
+vrn-behles,432,,,#ef3526,#ffffff,,pill,,14618,Behles GmbH
+vrn-behles,433,,,#bcbec0,#58585a,#58585a,pill,,14618,Behles GmbH
+vrn-behles,434,,,#a57144,#ffffff,,pill,,14618,Behles GmbH
+vrn-behles,435,,,#bcbec0,#58585a,#58585a,pill,,14618,Behles GmbH
+vrn-behles,436,,,#bcbec0,#58585a,#58585a,pill,,14618,Behles GmbH
+vrn-behles,437,,,#bcbec0,#58585a,#58585a,pill,,14618,Behles GmbH
+vrn-behles,438,,,#bcbec0,#58585a,#58585a,pill,,14618,Behles GmbH
+vrn-behles,439,,,#2ab673,#ffffff,,pill,,14618,Behles GmbH
+vrn-behles,451,,,#19a84a,#ffffff,,pill,,7933,Verkehrsbetriebe Leininger Land/Behles
+vrn-behles,452,,,#f4d6a2,#ffffff,,pill,,7933,Verkehrsbetriebe Leininger Land/Behles
+vrn-behles,453,,,#f296bf,#ffffff,,pill,,7933,Verkehrsbetriebe Leininger Land/Behles
+vrn-behles,454,,,#68bad4,#ffffff,,pill,,7933,Verkehrsbetriebe Leininger Land/Behles
+vrn-behles,455,,,#ffcc35,#ffffff,,pill,,7933,Verkehrsbetriebe Leininger Land/Behles
+vrn-behles,456,,,#2e3092,#ffffff,,pill,,7933,Verkehrsbetriebe Leininger Land/Behles
+vrn-behles,457,,,#aba642,#ffffff,,pill,,7933,Verkehrsbetriebe Leininger Land/Behles
+vrn-behles,460,,,#9c1b38,#ffffff,,pill,,7933,Verkehrsbetriebe Leininger Land/Behles
+vrn-behles,461,,,#f68c2e,#ffffff,,pill,,7933,Verkehrsbetriebe Leininger Land/Behles
+vrn-behles,471,,,#7c77ac,#ffffff,,pill,,7933,Verkehrsbetriebe Leininger Land/Behles
+vrn-behles,472,,,#0c729b,#ffffff,,pill,,7933,Verkehrsbetriebe Leininger Land/Behles
+vrn-behles,473,,,#ec008c,#ffffff,,pill,,7933,Verkehrsbetriebe Leininger Land/Behles
+vrn-behles,474,,,#603912,#ffffff,,pill,,7933,Verkehrsbetriebe Leininger Land/Behles
+vrn-behles,601,,,#be1e2d,#ffffff,,pill,,14618,Behles GmbH
+vrn-behles,602,,,#f78d31,#ffffff,,pill,,14618,Behles GmbH
+vrn-behles,603,,,#bcbec0,#58585a,#58585a,pill,,14618,Behles GmbH
+vrn-behles,604,,,#bcbec0,#58585a,#58585a,pill,,14618,Behles GmbH
+vrn-behles,605,,,#92278f,#ffffff,,pill,,14618,Behles GmbH
+vrn-berberich-wallduern,846,,,#a7a9ac,#ffffff,#58585a,pill,,7936,Berberich Walldürn
+vrn-berberich-wallduern,849,,,#009f4d,#ffffff,,pill,,7936,Berberich Walldürn
+vrn-db-bus,130,,,#bf2b78,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,131,,,#1d5aa6,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,132,,,#87d0c9,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,133,,,#74390a,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,134,,,#0e9c99,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,135,,,#9b7454,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,136,,,#e5a1ba,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,137,,,#0586c5,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,266,,,#bf2648,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,267,,,#009444,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,268,,,#ec008c,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,269,,,#f78d31,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,270,,,#92278f,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,271,,,#d5df33,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,272,,,#ffe063,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,273,,,#f496bf,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,274,,,#2ab673,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,275,,,#f26522,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,276,,,#8c103d,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,277,,,#f4d6a2,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,280,,,#686f74,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,281,,,#8cc63f,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,282,,,#7c77ac,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,283,,,#603912,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,285,,,#1d5aa6,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,286,,,#62b7d2,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,287,,,#693b93,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,288,,,#ffcc31,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,289,,,#cee077,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,292,,,#00502a,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,293,,,#ea2123,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,296,,,#9e1e63,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,297,,,#9b867a,#ffffff,,pill,,13666,Westpfalz
+vrn-db-bus,482,,,#bcbec0,#58585a,#58585a,pill,,14428,Vorderpfalz
+vrn-db-bus,483,,,#a57145,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,484,,,#be1e2d,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,546,,,#45ba4b,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,547,,,#8e5a38,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,548,,,#3bb4e5,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,549,,,#ec7aba,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,561,,,#7f3f98,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,562,,,#f68631,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,563,,,#00a650,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,564,,,#ed1c24,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,565,,,#00aeef,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,566,,,#71bf44,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,567,,,#9e4d3b,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,568,,,#006eb7,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,569,,,#82aedd,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,570,,,#8c1d82,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,571,,,#2e3092,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,572,,,#939598,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,573,,,#bcbec0,#58585a,#58585a,pill,,14428,Vorderpfalz
+vrn-db-bus,574,,,#ef4172,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,575,,,#d998c4,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,580,,,#079eda,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,581,,,#f8941d,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,582,,,#f15a29,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,583,,,#bcbec0,#58585a,#58585a,pill,,14428,Vorderpfalz
+vrn-db-bus,584,,,#87c540,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,585,,,#bcbec0,#58585a,#58585a,pill,,14428,Vorderpfalz
+vrn-db-bus,586,,,#bcbec0,#58585a,#58585a,pill,,14428,Vorderpfalz
+vrn-db-bus,587,,,#006839,#ffffff,,pill,,14428,Vorderpfalz
+vrn-db-bus,593,,,#7f9e6b,#ffffff,#5e6e6f,pill,,14428,Vorderpfalz
+vrn-db-bus,594,,,#7f9e6b,#ffffff,#5e6e6f,pill,,14428,Vorderpfalz
+vrn-db-bus,598,,,#7f9e6b,#ffffff,#5e6e6f,pill,,14428,Vorderpfalz
+vrn-db-bus,624,,,#bcbec0,#58585a,#58585a,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,625,,,#923474,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,626,,,#5a96c0,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,627,,,#6d0630,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,628,,,#f78d31,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,629,,,#005056,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,630,,,#ec1f26,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,631,,,#8cc63f,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,632,,,#2e3092,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,632A,,,#1b76bc,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,633,,,#ed1c24,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,634,,,#f5821f,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,635,,,#bcbec0,#58585a,#58585a,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,636,,,#ec5ea2,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,660,,,#009447,#ffffff,,pill,,14802,DB Regio Bus Mitte GmbH H/BW
+vrn-db-bus,661,,,#6d1f21,#ffffff,,pill,,14802,DB Regio Bus Mitte GmbH H/BW
+vrn-db-bus,662,,,#ec5ea2,#ffffff,,pill,,14802,DB Regio Bus Mitte GmbH H/BW
+vrn-db-bus,663,,,#dc6e31,#ffffff,,pill,,14802,DB Regio Bus Mitte GmbH H/BW
+vrn-db-bus,689,,,#00a79e,#ffffff,,pill,,14802,DB Regio Bus Mitte GmbH H/BW
+vrn-db-bus,697,,,#bcbec0,#58585a,#58585a,pill,,14802,DB Regio Bus Mitte GmbH H/BW
+vrn-db-bus,698,,,#bcbec0,#58585a,#58585a,pill,,14802,DB Regio Bus Mitte GmbH H/BW
+vrn-db-bus,710,,,#ed1c24,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,711,,,#39b148,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,715,,,#f78d31,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,716,,,#99c63a,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,717,,,#002a5c,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,719,,,#cf9d91,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,720,,,#9e0834,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,721,,,#aaa33e,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,722,,,#f4723b,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,723,,,#9e7fba,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,724,,,#004ebe,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,725,,,#62b7d2,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,726,,,#bcbec0,#58585a,#58585a,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,732,,,#006d6d,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,735,,,#f47920,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,736,,,#004ebe,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,737,,,#00aeef,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,743,,,#ed1c24,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,744,,,#004ebe,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,745,,,#004ebe,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,746,,,#004ebe,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,748,,,#004ebe,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,749,,,#fcb040,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,751,,,#e44e6f,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,752,,,#007254,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,753,,,#3cc2cf,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,754,,,#f99d1b,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,755,,,#006cb7,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,757,,,#6c91a7,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,758,,,#2e3092,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,817,,,#0080a6,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,821,,,#273c84,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,822,,,#079eda,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,823,,,#006937,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,824,,,#988074,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,828,,,#eb1b89,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,830,,,#a7a9ac,#ffffff,#58585a,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,831,,,#a7a9ac,#ffffff,#58585a,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,832,,,#f79322,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,833,,,#ffe584,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,834,,,#8fc73f,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,835,,,#693b93,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,836,,,#560037,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,837,,,#be574f,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,838,,,#8c7224,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,840,,,#004a24,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,841,,,#bfb397,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,842,,,#00a79b,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,843,,,#dae133,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,844,,,#7c77ac,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,845,,,#a7a9ac,#ffffff,#58585a,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,899,,,#dc6e31,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-db-bus,999,,,#90278e,#ffffff,,pill,,7927,Busverkehr-Rhein-Neckar
+vrn-duerk-reisen,462,,,#38b54a,#ffffff,,pill,,13476,Dürk-Reisen
+vrn-duerk-reisen,463,,,#662d91,#ffffff,,pill,,13476,Dürk-Reisen
+vrn-duerk-reisen,464,,,#1b76bc,#ffffff,,pill,,13476,Dürk-Reisen
+vrn-duerk-reisen,465,,,#f15a29,#ffffff,,pill,,13476,Dürk-Reisen
+vrn-duerk-reisen,466,,,#fcb040,#ffffff,,pill,,13476,Dürk-Reisen
+vrn-duerk-reisen,467,,,#ed1c24,#ffffff,,pill,,13476,Dürk-Reisen
+vrn-duerk-reisen,468,,,#ee2a7b,#ffffff,,pill,,13476,Dürk-Reisen
+vrn-duerk-reisen,469,,,#009444,#ffffff,,pill,,13476,Dürk-Reisen
+vrn-hetzler-pfadt,550,,,#4f3599,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
+vrn-hetzler-pfadt,552,,,#fe3b85,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
+vrn-hetzler-pfadt,553,,,#ff5725,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
+vrn-hetzler-pfadt,554,,,#ff902c,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
+vrn-hetzler-pfadt,555,,,#102694,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
+vrn-hetzler-pfadt,556,,,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
+vrn-hetzler-pfadt,557,,,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
+vrn-hetzler-pfadt,558,,,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
+vrn-hetzler-pfadt,559,,,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
+vrn-hetzler-pfadt,595,,,#1c6836,#ffffff,,pill,,13664,Hetzler & Pfadt vorher Viabus
+vrn-hetzler-pfadt,596,,,#7f9e6b,#ffffff,#5e6e6f,pill,,13664,Hetzler & Pfadt vorher Viabus
+vrn-krauss-wolff,900,,,#527032,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,901,,,#00a650,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,902,,,#4c7c7e,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,903,,,#2e3092,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,904,,,#7ac142,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,905,,,#a2238e,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,906,,,#006c3a,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,907,,,#f68c46,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,908,,,#9f7145,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,911,,,#00a99c,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,912,,,#f89e7e,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,913,,,#37c6f4,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,914,,,#ec008c,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,915,,,#a21115,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,917,,,#009ddc,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,918,,,#9ead51,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,920,,,#00b7be,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,921,,,#e31836,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,922,,,#a2ac76,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,924,,,#ffffff,#808285,#808285,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,925,,,#ffffff,#808285,#808285,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,926,,,#ffffff,#808285,#808285,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,927,,,#ffffff,#808285,#808285,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,928,,,#c9582d,#ffffff,,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-krauss-wolff,929,,,#ffffff,#808285,#808285,pill,,9518,Reisedienst Krauss & Wolff Reisen
+vrn-mittelhaardt,502,,,#84af3f,#ffffff,,pill,,14427,Mittelhaardt Nahverkehrsgesellschaft mbH
+vrn-mittelhaardt,508,,,#7c77ac,#ffffff,,pill,,14427,Mittelhaardt Nahverkehrsgesellschaft mbH
+vrn-mittelhaardt,514,,,#693b93,#ffffff,,pill,,14427,Mittelhaardt Nahverkehrsgesellschaft mbH
+vrn-mittelhaardt,515,,,#00a79e,#ffffff,,pill,,14427,Mittelhaardt Nahverkehrsgesellschaft mbH
+vrn-palatinabus,500,,,#603912,#ffffff,,pill,,7926,PalatinaBus GmbH
+vrn-palatinabus,501,,,#096837,#ffffff,,pill,,7926,PalatinaBus GmbH
+vrn-palatinabus,503,,,#2e3092,#ffffff,,pill,,7926,PalatinaBus GmbH
+vrn-palatinabus,504,,,#d1492e,#ffffff,,pill,,7926,PalatinaBus GmbH
+vrn-palatinabus,505,,,#84af3f,#ffffff,,pill,,7926,PalatinaBus GmbH
+vrn-palatinabus,506,,,#dc6e31,#ffffff,,pill,,7926,PalatinaBus GmbH
+vrn-palatinabus,507,,,#ab6f42,#ffffff,,pill,,7926,PalatinaBus GmbH
+vrn-palatinabus,510,,,#fdb315,#ffffff,,pill,,7926,PalatinaBus GmbH
+vrn-palatinabus,511,,,#d1492e,#ffffff,,pill,,7926,PalatinaBus GmbH
+vrn-palatinabus,512,,,#ffe063,#ffffff,,pill,,7926,PalatinaBus GmbH
+vrn-palatinabus,517,,,#b72c87,#ffffff,,pill,,7926,PalatinaBus GmbH
+vrn-palatinabus,591,,,#2faf9f,#ffffff,,pill,,7926,PalatinaBus GmbH
+vrn-palatinabus,782,,,#6d1f21,#ffffff,,pill,,7926,PalatinaBus GmbH
+vrn-palatinabus,795,,,#2b3890,#ffffff,,pill,,7926,PalatinaBus GmbH
+vrn-palatinabus,796,,,#f78d31,#ffffff,,pill,,7926,PalatinaBus GmbH
+vrn-palatinabus,797,,,#d1492e,#ffffff,,pill,,7926,PalatinaBus GmbH
+vrn-paul-knuehl,848,,,#5e370f,#ffffff,,pill,,14352,Omnibusunternehmen Paul Knühl e.K.
+vrn-qnv-queichtal-nahverkehr,160,,,#f9a870,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,161,,,#7c77ac,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,170,,,#fcb13f,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,171,,,#a0368d,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,172,,,#d5df33,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,173,,,#007660,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,174,,,#004ebe,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,175,,,#004ebe,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,180,,,#f37364,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,242,,,#ec008c,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,243,,,#2b3890,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,244,,,#662d91,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,245,,,#00aeef,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,246,,,#9e1e63,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,248,,,#f15a29,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,249,,,#ac5ea2,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,250,,,#009444,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,251,,,#8cc63f,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,252,,,#d6df23,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,255,,,#ed1c24,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,256,,,#fcb040,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,258,,,#603912,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,259,,,#a97c50,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,520,,,#d998c4,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,521,,,#7c77ac,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,522,,,#92278f,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,523,,,#009f4d,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,524,,,#eb1b89,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,525,,,#f79322,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,526,,,#ffcc31,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,527,,,#079eda,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,530,,,#00635d,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,531,,,#a57145,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,532,,,#b72c87,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,534,,,#0c729b,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,535,,,#f78d31,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,537,,,#2ab673,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,538,,,#84af3f,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,539,,,#c1b89d,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,540,,,#6e6353,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,541,,,#686f74,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,543,,,#8cc63f,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,544,,,#2d3589,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,545,,,#9e1e63,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,590,,,#ffc53f,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-qnv-queichtal-nahverkehr,599,,,#ff2f1a,#ffffff,,pill,,7939,Queichtal Nahverkehrsgesellschaft
+vrn-regionalbus-westpfalz,138,,,#8c103d,#ffffff,,pill,,7940,Regionalbus-Westpfalz
+vrn-regionalbus-westpfalz,139,,,#df723d,#ffffff,,pill,,7940,Regionalbus-Westpfalz
+vrn-regionalbus-westpfalz,140,,,#a2c03c,#ffffff,,pill,,7940,Regionalbus-Westpfalz
+vrn-regionalbus-westpfalz,141,,,#d1492e,#ffffff,,pill,,7940,Regionalbus-Westpfalz
+vrn-regionalbus-westpfalz,142,,,#3bb04c,#ffffff,,pill,,7940,Regionalbus-Westpfalz
+vrn-regionalbus-westpfalz,143,,,#f4d6a2,#ffffff,,pill,,7940,Regionalbus-Westpfalz
+vrn-regionalbus-westpfalz,144,,,#006839,#ffffff,,pill,,7940,Regionalbus-Westpfalz
+vrn-regionalbus-westpfalz,145,,,#ffe063,#ffffff,,pill,,7940,Regionalbus-Westpfalz
+vrn-regionalbus-westpfalz,147,,,#6fb1d8,#ffffff,,pill,,7940,Regionalbus-Westpfalz
+vrn-regionalbus-westpfalz,148,,,#ada52e,#ffffff,,pill,,7940,Regionalbus-Westpfalz
+vrn-regionalbus-westpfalz,149,,,#693b93,#ffffff,,pill,,7940,Regionalbus-Westpfalz
+vrn-regionalbus-westpfalz,150,,,#9c7491,#ffffff,,pill,,7940,Regionalbus-Westpfalz
+vrn-regionalbus-westpfalz,153,,,#002a5c,#ffffff,,pill,,7940,Regionalbus-Westpfalz
+vrn-regionalbus-zweibruecken,231,,,#38b54a,#ffffff,,pill,,14106,Regionalbus Zweibrücken
+vrn-regionalbus-zweibruecken,232,,,#662d91,#ffffff,,pill,,14106,Regionalbus Zweibrücken
+vrn-regionalbus-zweibruecken,233,,,#009ddc,#ffffff,,pill,,14106,Regionalbus Zweibrücken
+vrn-regionalbus-zweibruecken,234,,,#fff450,#ffffff,,pill,,14106,Regionalbus Zweibrücken
+vrn-regionalbus-zweibruecken,235,,,#9e0933,#ffffff,,pill,,14106,Regionalbus Zweibrücken
+vrn-regionalbus-zweibruecken,236,,,#002a5c,#ffffff,,pill,,14106,Regionalbus Zweibrücken
+vrn-regionalbus-zweibruecken,237,,,#00a79e,#ffffff,,pill,,14106,Regionalbus Zweibrücken
+vrn-regionalbus-zweibruecken,238,,,#f26522,#ffffff,,pill,,14106,Regionalbus Zweibrücken
+vrn-regionalbus-zweibruecken,240,,,#ef3f72,#ffffff,,pill,,14106,Regionalbus Zweibrücken
+vrn-rheinfahre-altrip,98,,,#006d6d,#ffffff,,pill,,7912,Rheinfähre Altrip
 vrn-rnv-bus,RNV 5,,,#00965e,#ffffff,,pill,,7911,RNV HD-MA-Weinheim (Strab)
 vrn-rnv-bus,RNV 20,,,#e07500,#ffffff,,pill,,7915,RNV Heidelberg (Bus)
 vrn-rnv-bus,RNV 20A,,,#e07500,#ffffff,,pill,,7915,RNV Heidelberg (Bus)
@@ -2713,6 +2995,235 @@ vrn-rnv-tram,RNV 24,,,#8c1d75,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
 vrn-rnv-tram,RNV 25,,,#93c23b,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
 vrn-rnv-tram,RNV 26,,,#f39b9a,#ffffff,,rectangle,,7910,RNV Heidelberg (Strab)
 vrn-rnv-tram,RNV X,,,#9d9d9d,#ffffff,,rectangle,,7909,RNV LU-MA (Strab)
+vrn-ruftaxi,141,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,1084,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,1556,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,1557,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,1571,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2130,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2133,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2134,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2135,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2137,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2138,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2142,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2147,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2153,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2160,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2161,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2170,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2172,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2551,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2552,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2553,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2555,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2556,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2561,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2562,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2563,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2571,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2575,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2576,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2577,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2581,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2582,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2585,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2586,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2590,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2591,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2592,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2593,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2594,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2595,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2596,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2953,,,#143258,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2960,,,#bcbec0,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2965,,,#a4c13b,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2966,,,#bf2648,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2967,,,#009444,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2968,,,#ec008c,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2969,,,#f78d31,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2970,,,#92278f,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2972,,,#ffe063,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2973,,,#f496bf,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2974,,,#2ab673,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2975,,,#f26522,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2977,,,#f4d6a2,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2978,,,#00635d,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2979,,,#62b7d2,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2982,,,#7c77ac,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2983,,,#603912,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2985,,,#1d5aa6,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2989,,,#a57145,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2990,,,#fcb13f,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2992,,,#00502a,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2993,,,#ea2123,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2996,,,#9e1e63,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,2997,,,#9b867a,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4910,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4911,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4912,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4913,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4914,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4915,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4916,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4917,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4918,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4920,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4921,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4922,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4923,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4924,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4925,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4927,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4928,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4958,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4959,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4961,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4964,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4965,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4966,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4967,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4968,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4969,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4970,,,#c53694,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4971,,,#166766,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4972,,,#ca6c27,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4973,,,#4c8dcb,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4980,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4987,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4988,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,4998,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,5911,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,5915,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,5916,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,5930,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,5931,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,5932,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,5933,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,5934,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,5940,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,5946,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,5971,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,5972,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,5974,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,5978,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,5979,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,5980,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6900,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6901,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6902,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6903,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6904,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6913,,,#7c77ac,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6914,,,#00635d,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6926,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6927,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6928,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6940,,,#096837,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6948,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6961,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6962,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6963,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6967,,,#009447,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6968,,,#009447,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6971,,,#2e3092,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6972,,,#84af3f,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6973,,,#ec5ea2,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6974,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6975,,,#d1492e,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6976,,,#7c77ac,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6977,,,#00a24b,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6986,,,#00aeef,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6987,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6990 Michelbus,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6991,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6992,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6994,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6997,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,6998,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7900,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7901,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7902,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7903,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7904,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7907,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7908,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7909,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7910,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7911,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7912,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7921,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7923,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7925,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7926,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7929,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7932,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7933,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7934,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7935,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7940,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7949,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7950,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7955,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7956,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7958,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7959,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,7960,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8900,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8901,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8902,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8903,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8904,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8905,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8906,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8907,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8911,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8912,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8913,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8917,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8920,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8930,,,#939598,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8931,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8932,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8935,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8936,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8937,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8938,,,#939598,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8941,,,#939598,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8942,,,#939598,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8943,,,#939598,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8944,,,#939598,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8946,,,#939598,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8950,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8951,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8952,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8953,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,8954,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9833,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9834,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9839,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9840,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9841,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9842,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9843,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9850,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9852,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9855,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9861,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9863,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9867,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9869,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9870,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9871,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9872,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9873,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9874,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9875,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,9876,,,#1eb1af,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,SWPS 2011,,,#9e1e63,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,SWPS 2012,,,#7c77ac,#ffffff,,pill,,8211,Ruftaxi
+vrn-ruftaxi,SWPS 2013,,,#a57145,#ffffff,,pill,,8211,Ruftaxi
 vrn-sbahn-rn,S1,,,#ed1c24,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
 vrn-sbahn-rn,S2,,,#1575c5,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
 vrn-sbahn-rn,RE2,,,#1575c5,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
@@ -2729,6 +3240,200 @@ vrn-sbahn-rn,S10,,,#a26fa9,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwes
 vrn-sbahn-rn,S12,,,#f4a9ca,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
 vrn-sbahn-rn,S33,,,#833aa1,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
 vrn-sbahn-rn,S44,,,#0e8d86,#ffffff,,pill,,10449,DB Regio AG Mitte Region Südwest
+vrn-sw-bad-duerkheim,485,,,#166766,#ffffff,,pill,,7920,Stadtwerke Bad Dürkheim
+vrn-sw-bad-duerkheim,486,,,#ca6c27,#ffffff,,pill,,7920,Stadtwerke Bad Dürkheim
+vrn-sw-bad-duerkheim,487,,,#c53694,#ffffff,,pill,,7920,Stadtwerke Bad Dürkheim
+vrn-sw-bad-duerkheim,488,,,#ee322e,#ffffff,,pill,,7920,Stadtwerke Bad Dürkheim
+vrn-sw-bad-duerkheim,489,,,#f9982c,#ffffff,,pill,,7920,Stadtwerke Bad Dürkheim
+vrn-sw-bad-duerkheim,490,,,#0e74bc,#ffffff,,pill,,7920,Stadtwerke Bad Dürkheim
+vrn-sw-eberbach,801,,,#84173c,#ffffff,,pill,,7921,Stadtwerke Eberbach
+vrn-sw-eberbach,802,,,#ec1f26,#ffffff,,pill,,7921,Stadtwerke Eberbach
+vrn-sw-eberbach,803,,,#95a349,#ffffff,,pill,,7921,Stadtwerke Eberbach
+vrn-sw-eberbach,804,,,#00518d,#ffffff,,pill,,7921,Stadtwerke Eberbach
+vrn-sw-eberbach,805,,,#e6ac3d,#ffffff,,pill,,7921,Stadtwerke Eberbach
+vrn-sw-eberbach,806,,,#693b93,#ffffff,,pill,,7921,Stadtwerke Eberbach
+vrn-sw-eberbach,807,,,#00afcf,#ffffff,,pill,,7921,Stadtwerke Eberbach
+vrn-sw-eberbach,809,,,#439053,#ffffff,,pill,,7921,Stadtwerke Eberbach
+vrn-sw-kaiserslautern,SWK 101,,,#ffffff,#f37021,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK 102,,,#ffffff,#b64a9c,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK 103,,,#ffffff,#fff200,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK 104,,,#ffffff,#71bf44,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK 105,,,#ffffff,#007e3c,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK 106,,,#ffffff,#faa61a,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK 107,,,#ffffff,#a05b35,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK 108,,,#ffffff,#ffc906,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK 109,,,#ffffff,#ec008c,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK 111,,,#ffffff,#034ea2,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK 112,,,#ffffff,#00aeef,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK 113,,,#ffffff,#00b8c3,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK 114,,,#ffffff,#c44356,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK 115,,,#ffffff,#ed1c24,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK 116,,,#ffffff,#007b89,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK 117,,,#ffffff,#672d87,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK N1 / 121,,,#ffffff,#f37021,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK N2 / 122,,,#ffffff,#ed1c24,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK N3 / 123,,,#ffffff,#9b3594,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK N4 / 124,,,#ffffff,#71bf44,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK N6 / 126,,,#ffffff,#f6e901,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK N7 / 127,,,#ffffff,#ec008c,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK N10 / 129,,,#ffffff,#004a8f,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK N12 / 128,,,#ffffff,#00aeef,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-kaiserslautern,SWK N40 / 125,,,#ffffff,#00a650,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-sw-pirmasens,SWPS 201,,,#38b54a,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 202,,,#f8941d,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 203,,,#603912,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 204,,,#096837,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 205,,,#ed1c24,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 206,,,#aaa33e,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 207,,,#b72c87,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 208,,,#ffe063,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 209,,,#00a79e,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 210,,,#2e3092,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 211,,,#00aeef,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 212,,,#bcbec0,#58585a,#58585a,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-viernheim,611,,,#00aeef,#ffffff,,pill,,7924,Stadtwerke Viernheim
+vrn-sw-viernheim,612,,,#dc6e31,#ffffff,,pill,,7924,Stadtwerke Viernheim
+vrn-sw-zweibruecken,221,,,#38b54a,#ffffff,,pill,,7961,Stadtwerke Zweibrücken
+vrn-sw-zweibruecken,222,,,#fcb040,#ffffff,,pill,,7961,Stadtwerke Zweibrücken
+vrn-sw-zweibruecken,223,,,#92278f,#ffffff,,pill,,7961,Stadtwerke Zweibrücken
+vrn-sw-zweibruecken,224,,,#009ddc,#ffffff,,pill,,7961,Stadtwerke Zweibrücken
+vrn-sw-zweibruecken,225,,,#ee2a7b,#ffffff,,pill,,7961,Stadtwerke Zweibrücken
+vrn-sw-zweibruecken,226,,,#2e3092,#ffffff,,pill,,7961,Stadtwerke Zweibrücken
+vrn-sw-zweibruecken,228,,,#f15a29,#ffffff,,pill,,7961,Stadtwerke Zweibrücken
+vrn-sw-zweibruecken,229,,,#006838,#ffffff,,pill,,7961,Stadtwerke Zweibrücken
+vrn-sweg,675,,,#854896,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,701,,,#5c2e91,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,702,,,#f36e2b,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,703,,,#cb6c28,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,704,,,#f3b928,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,705,,,#f496bf,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,706,,,#00a94b,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,707,,,#312b71,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,708,,,#ee322a,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,709,,,#ffcc2a,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,712,,,#9e0933,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,713,,,#e93e70,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,718,,,#62b7d2,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,728,,,#bcbec0,#58585a,#58585a,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,730,,,#8a5d3b,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,741,,,#00a24b,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,750,,,#923474,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,761,,,#84af3f,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,762,,,#7c77ac,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,763,,,#fdb315,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,765,,,#00635d,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,767,,,#00635d,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,768,,,#00a79e,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,771,,,#7c77ac,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,772,,,#ec5ea2,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,791,,,#91c83e,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,792,,,#f295a0,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,793,,,#004ebe,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,794,,,#94050b,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,798,,,#eedb00,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-sweg,799,,,#009ddc,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-vg-main-tauber,88a,,,#7f3f98,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,88b,,,#262261,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,850,,,#00aeef,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,851,,,#00697b,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,857,,,#be202e,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,930,,,#2e3092,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,933,,,#e8ea7d,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,934,,,#8a5d3b,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,937,,,#be1e2d,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,939,,,#3a2317,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,940,,,#e8c0db,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,941,,,#da1c5c,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,942,,,#da6caa,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,943,,,#f9ed31,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,944,,,#592972,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,945,,,#9e1e63,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,949,,,#006838,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,952,,,#c19767,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,955,,,#861439,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,956,,,#bcbec0,#58585a,#58585a,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,957,,,#939598,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,958,,,#be1e2d,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,959,,,#f26522,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,961,,,#ec008c,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,962,,,#fcb040,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,963,,,#3d62ad,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,964,,,#00a79e,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,965,,,#f9a27b,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,966,,,#1b76bc,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,967,,,#003c4d,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,968,,,#6b2511,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,969,,,#f0c862,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,970,,,#003f12,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,971,,,#64c8e7,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,972,,,#e88723,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,973,,,#e1a056,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,974,,,#07a69c,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,975,,,#2ab673,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,976,,,#415a63,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,977,,,#006128,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,980,,,#856eb1,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,988,,,#bcbec0,#58585a,#58585a,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,989,,,#bcbec0,#58585a,#58585a,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vg-main-tauber,990,,,#bcbec0,#58585a,#58585a,pill,,7938,Verkehrsgemeinschaft Main-Tauber
+vrn-vgg-gersprenztal,640,,,#096837,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,641,,,#b72c87,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,642,,,#9b7454,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,643,,,#ee4237,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,644,,,#262261,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,644A,,,#262261,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,645,,,#ffde17,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,646,,,#00a79e,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,647,,,#bcbec0,#58585a,#58585a,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,664,,,#bcbec0,#58585a,#58585a,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,665,,,#dc6e31,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,665E,,,#dc6e31,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,666,,,#00635d,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,669,,,#693b93,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,670,,,#6d1f21,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,671,,,#fcb040,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,672,,,#a57145,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,673,,,#ec5ea2,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,675,,,#d1492e,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,676,,,#7c77ac,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,677,,,#bcbec0,#58585a,#58585a,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,678,,,#005e58,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,679,,,#005ead,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,680,,,#fdb315,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,681,,,#7c77ac,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,682,,,#c49a6c,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,683,,,#00aeef,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,685,,,#84af3f,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,688,,,#b72c87,#ffffff,,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,690,,,#bcbec0,#58585a,#58585a,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,692,,,#bcbec0,#58585a,#58585a,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,694,,,#bcbec0,#58585a,#58585a,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-vgg-gersprenztal,696,,,#bcbec0,#58585a,#58585a,pill,,7932,Verkehrsgesellschaft Gersprenztal/Sauter
+vrn-walter-mueller-biblis,652,,,#009f4d,#ffffff,,pill,,7935,Reisedienst Walter Müller Biblis
+vrn-zarth,401,,,#ffcf7b,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,402,,,#9e1e63,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,403,,,#00a79e,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,404,,,#df7d45,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,405,,,#693b93,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,406,,,#ec5ea2,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,407,,,#f9ed31,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,408,,,#d998c4,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,409,,,#00635d,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,410,,,#fcb13f,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,411,,,#c3b59b,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,415,,,#27aae2,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,606,,,#9bcb3b,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,609,,,#bcbec0,#58585a,#58585a,pill,,14617,Zarth GmbH2
+vrn-zarth,610,,,#262261,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,640,,,#096837,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,641,,,#b72c87,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,642,,,#9b7454,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,643,,,#ee4237,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,645,,,#ffde17,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,646,,,#07a69c,#ffffff,,pill,,14617,Zarth GmbH2
+vrn-zarth,647,,,#bcbec0,#58585a,#58585a,pill,,14617,Zarth GmbH2
+vrn-zarth,648,,,#bcbec0,#58585a,#58585a,pill,,14617,Zarth GmbH2
+vrn-zarth,649,,,#bcbec0,#58585a,#58585a,pill,,14617,Zarth GmbH2
 vrr-bogestra,U35,,7-vrr032-35,#2350a9,#ffffff,,rectangle-rounded-corner,,7542,"BOGESTRA Stadtbahn, Linie U35"
 vrr-bogestra,301,,8-vrr033-301,#00a650,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
 vrr-bogestra,302,,8-vrr033-302,#86bbe0,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
