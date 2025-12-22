@@ -3254,6 +3254,18 @@ vrn-sw-eberbach,805,,,#e6ac3d,#ffffff,,pill,,7921,Stadtwerke Eberbach
 vrn-sw-eberbach,806,,,#693b93,#ffffff,,pill,,7921,Stadtwerke Eberbach
 vrn-sw-eberbach,807,,,#00afcf,#ffffff,,pill,,7921,Stadtwerke Eberbach
 vrn-sw-eberbach,809,,,#439053,#ffffff,,pill,,7921,Stadtwerke Eberbach
+vrn-sw-pirmasens,SWPS 201,,,#38b54a,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 202,,,#f8941d,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 203,,,#603912,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 204,,,#096837,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 205,,,#ed1c24,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 206,,,#aaa33e,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 207,,,#b72c87,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 208,,,#ffe063,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 209,,,#00a79e,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 210,,,#2e3092,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 211,,,#00aeef,#ffffff,,pill,,7960,Stadtwerke Pirmasens
+vrn-sw-pirmasens,SWPS 212,,,#bcbec0,#58585a,#58585a,pill,,7960,Stadtwerke Pirmasens
 vrn-swk-kl,SWK 101,,,#ffffff,#f37021,,rectangle,,7959,Stadtwerke Kaiserslautern
 vrn-swk-kl,SWK 102,,,#ffffff,#b64a9c,,rectangle,,7959,Stadtwerke Kaiserslautern
 vrn-swk-kl,SWK 103,,,#ffffff,#fff200,,rectangle,,7959,Stadtwerke Kaiserslautern
@@ -3279,18 +3291,6 @@ vrn-swk-kl,SWK N7 / 127,,,#ffffff,#ec008c,,rectangle,,7959,Stadtwerke Kaiserslau
 vrn-swk-kl,SWK N10 / 129,,,#ffffff,#004a8f,,rectangle,,7959,Stadtwerke Kaiserslautern
 vrn-swk-kl,SWK N12 / 128,,,#ffffff,#00aeef,,rectangle,,7959,Stadtwerke Kaiserslautern
 vrn-swk-kl,SWK N40 / 125,,,#ffffff,#00a650,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-sw-pirmasens,SWPS 201,,,#38b54a,#ffffff,,pill,,7960,Stadtwerke Pirmasens
-vrn-sw-pirmasens,SWPS 202,,,#f8941d,#ffffff,,pill,,7960,Stadtwerke Pirmasens
-vrn-sw-pirmasens,SWPS 203,,,#603912,#ffffff,,pill,,7960,Stadtwerke Pirmasens
-vrn-sw-pirmasens,SWPS 204,,,#096837,#ffffff,,pill,,7960,Stadtwerke Pirmasens
-vrn-sw-pirmasens,SWPS 205,,,#ed1c24,#ffffff,,pill,,7960,Stadtwerke Pirmasens
-vrn-sw-pirmasens,SWPS 206,,,#aaa33e,#ffffff,,pill,,7960,Stadtwerke Pirmasens
-vrn-sw-pirmasens,SWPS 207,,,#b72c87,#ffffff,,pill,,7960,Stadtwerke Pirmasens
-vrn-sw-pirmasens,SWPS 208,,,#ffe063,#ffffff,,pill,,7960,Stadtwerke Pirmasens
-vrn-sw-pirmasens,SWPS 209,,,#00a79e,#ffffff,,pill,,7960,Stadtwerke Pirmasens
-vrn-sw-pirmasens,SWPS 210,,,#2e3092,#ffffff,,pill,,7960,Stadtwerke Pirmasens
-vrn-sw-pirmasens,SWPS 211,,,#00aeef,#ffffff,,pill,,7960,Stadtwerke Pirmasens
-vrn-sw-pirmasens,SWPS 212,,,#bcbec0,#58585a,#58585a,pill,,7960,Stadtwerke Pirmasens
 vrn-sw-viernheim,611,,,#00aeef,#ffffff,,pill,,7924,Stadtwerke Viernheim
 vrn-sw-viernheim,612,,,#dc6e31,#ffffff,,pill,,7924,Stadtwerke Viernheim
 vrn-sw-zweibruecken,221,,,#38b54a,#ffffff,,pill,,7961,Stadtwerke Zweibrücken
