@@ -3100,7 +3100,137 @@
             }
         ]
     },
-    {
+    	{
+        "shortOperatorName": "vrn-behles",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Grünstadt und Umgebung",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/gruenstadt_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Alzey",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/alzey_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Alzey-Worms",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/alzey_worms_nord_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Lampertheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/lampertheim_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Wonnegau-Altrhein",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/wonnegau-altrhein_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-berberich-wallduern",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Neckar-Odenwald-Kreis",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/neckar_odenwald_kreis_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-db-bus",
+        "contributors": [
+			{
+                "github": "TheOneWithTheBraid"
+            },
+			{
+                "github": "klukas144"
+            },
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "Liniennetzplan Landkreis Germersheim",
+                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+            },
+            {
+                "name": "Liniennetzplan Heppenheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/heppenheim_schematisch_vrn.pdf"
+            },
+			{
+                "name": "Liniennetzplan Kreis Kaiserslautern",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/kreis_kaiserslautern_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Ladenburg-Schriesheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/ladenburg-schriesheim_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Leimen, St. Leon-Rot und Sandhausen",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/leimen-sandhausen-walldorf_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Neckar-Odenwald-Kreis",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/neckar_odenwald_kreis_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Neckargemünd",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/neckargemuend_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Odenwald (Kreis Bergstraße)",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/odenwald_kreisbergstrasse.pdf"
+            },
+			{
+                "name": "Liniennetzplan Odenwald Süd",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/odenwald_sued_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Pfälzer Bergland - Bus",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/pfaelzer_bergland_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Rheinpfalz",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/rheinpfalz_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Schwetzingen-Hockenheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/schwetzingen_hockenheim_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Speyer",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/speyer_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Weinheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/weinheim_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-duerk-reisen",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Frankenthal",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/frankenthal_baustellenversion2025.pdf"
+            }
+        ]
+    },
+	{
         "shortOperatorName": "vrn-hetzler-pfadt",
         "contributors": [
             {
@@ -3114,45 +3244,153 @@
             }
         ]
     },
-    {
+	{
+        "shortOperatorName": "vrn-krauss-wolff",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Donnersbergkreis",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/donnersbergkreis_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-mittelhaardt",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Neustadt a.d.Wstr.",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/neustadt_schematisch.pdf"
+            }
+        ]
+    },
+	{
         "shortOperatorName": "vrn-palatinabus",
         "contributors": [
             {
                 "github": "TheOneWithTheBraid"
+            },
+			{
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
                 "name": "Liniennetzplan Landkreis Germersheim",
                 "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Landau",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/landau_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Neustadt a.d.Wstr. und Umgebung",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/neustadt_region_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Neustadt a.d.Wstr.",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/neustadt_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Sinsheim und Umgebung",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/sinsheim_netz_schematisch.pdf"
             }
         ]
     },
-    {
-        "shortOperatorName": "vrn-regionalbus",
+	{
+        "shortOperatorName": "vrn-paul-knuehl",
         "contributors": [
             {
-                "github": "klukas144"
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
-                "name": "Liniennetzplan Ladenburg-Schriesheim",
-                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/ladenburg-schriesheim_schematisch.pdf"
+                "name": "Liniennetzplan Neckar-Odenwald-Kreis",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/neckar_odenwald_kreis_schematisch.pdf"
             }
         ]
     },
-    {
-        "shortOperatorName": "vrn-rheinpfalzbus",
+	{
+        "shortOperatorName": "vrn-qnv-queichtal-nahverkehr",
         "contributors": [
             {
                 "github": "TheOneWithTheBraid"
+            },
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "Liniennetzplan Landkreis Germersheim",
+                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+            },
+            {
+                "name": "Liniennetzplan Kreis Kaiserslautern",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/kreis_kaiserslautern_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Landau",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/landau_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Pirmasens Umland",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/pirmasens_region_schematisch.pdf"
+            },
+			{
+                "name": "Queichtal und Bad Bergzabern",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/queichtal_bad_bergzabern_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-regionalbus-westpfalz",
+        "contributors": [
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
-                "name": "Liniennetzplan Landkreis Germersheim",
-                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+                "name": "Liniennetzplan Kreis Kaiserslautern",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/kreis_kaiserslautern_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-regionalbus-zweibruecken",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Zweibrücken Umland",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/zweibruecken_umland.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-rheinfahre-altrip",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Rheinpfalz",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/rheinpfalz_schematisch.pdf"
             }
         ]
     },
@@ -3195,6 +3433,48 @@
         ]
     },
     {
+        "shortOperatorName": "vrn-ruftaxi",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Bad Dürkheim Stadt",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/bad_duerkheim_stadt_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Bensheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/bensheim_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Heppenheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/heppenheim_schematisch_vrn.pdf"
+            },
+			{
+                "name": "Liniennetzplan Pfälzer Bergland - Ruftaxi",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/pfaelzer_bergland_ruftaxi.pdf"
+            },
+			{
+                "name": "Liniennetzplan Pirmasens",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/pirmasens_stadt_schematisch.pdf"
+            },
+			{
+                "name": "Stadtliniennetzplan Buchen",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/stadtliniennetzplan_buchen_2018_web.pdf"
+            },
+			{
+                "name": "Liniennetzplan Mosbach",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/stadtliniennetzplan_mosbach_2018_web.pdf"
+            },
+			{
+                "name": "Liniennetzplan Viernheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/viernheim_schematisch.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrn-sbahn-rn",
         "contributors": [
             {
@@ -3216,16 +3496,208 @@
         ]
     },
     {
-        "shortOperatorName": "vrn-qnv-queichtal-nahverkehr",
+        "shortOperatorName": "vrn-sw-bad-duerkheim",
         "contributors": [
             {
-                "github": "TheOneWithTheBraid"
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
-                "name": "Liniennetzplan Landkreis Germersheim",
-                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+                "name": "Liniennetzplan Bad Dürkheim Stadt",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/bad_duerkheim_stadt_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-sw-eberbach",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Eberbach",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/eberbach_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-sw-kaiserslautern",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Nachtbus Liniennetz Kaiserslautern",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/kaiserslautern_nacht_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Kaiserslautern",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/kaiserslautern_schematisch_s25.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-sw-pirmasens",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Pirmasens",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/pirmasens_stadt_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-sw-viernheim",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Viernheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/viernheim_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-sw-zweibruecken",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Stadt Zweibrücken",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/zweibruecken-schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-sweg",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Schwetzingen-Hockenheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/schwetzingen_hockenheim_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Sinsheim und Umgebung",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/sinsheim_netz_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Sinsheim Stadt",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/sinsheim_stadt_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Wiesloch-Walldorf und Umgebung",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/wiesloch_walldorf_schematisch.pdf"
+            },
+			{
+                "name": "KVV Liniennetzplan Bus Nördlicher Landkreis Karlsruhe 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz-Noerdlicher-Landkreis-Karlsruhe.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-vg-main-tauber",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Main-Tauber-Kreis",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/main-tauber-kreis_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Neckar-Odenwald-Kreis",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/neckar_odenwald_kreis_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-vgg-gersprenztal",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Bensheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/bensheim_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Bürstadt",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/buerstadt_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Heppenheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/heppenheim_schematisch_vrn.pdf"
+            },
+			{
+                "name": "Liniennetzplan Odenwald (Kreis Bergstraße)",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/odenwald_kreisbergstrasse.pdf"
+            },
+			{
+                "name": "Liniennetzplan Odenwald Süd",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/odenwald_sued_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-walter-mueller-biblis",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Bürstadt",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/buerstadt_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-zarth",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Bürstadt",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/buerstadt_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Lampertheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/lampertheim_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Hessisches Ried",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/ried_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Worms",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/worms_schematisch.pdf"
             }
         ]
     },
