@@ -3266,31 +3266,6 @@ vrn-sw-pirmasens,SWPS 209,,,#00a79e,#ffffff,,pill,,7960,Stadtwerke Pirmasens
 vrn-sw-pirmasens,SWPS 210,,,#2e3092,#ffffff,,pill,,7960,Stadtwerke Pirmasens
 vrn-sw-pirmasens,SWPS 211,,,#00aeef,#ffffff,,pill,,7960,Stadtwerke Pirmasens
 vrn-sw-pirmasens,SWPS 212,,,#bcbec0,#58585a,#58585a,pill,,7960,Stadtwerke Pirmasens
-vrn-swk-kl,SWK 101,,,#ffffff,#f37021,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK 102,,,#ffffff,#b64a9c,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK 103,,,#ffffff,#fff200,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK 104,,,#ffffff,#71bf44,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK 105,,,#ffffff,#007e3c,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK 106,,,#ffffff,#faa61a,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK 107,,,#ffffff,#a05b35,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK 108,,,#ffffff,#ffc906,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK 109,,,#ffffff,#ec008c,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK 111,,,#ffffff,#034ea2,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK 112,,,#ffffff,#00aeef,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK 113,,,#ffffff,#00b8c3,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK 114,,,#ffffff,#c44356,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK 115,,,#ffffff,#ed1c24,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK 116,,,#ffffff,#007b89,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK 117,,,#ffffff,#672d87,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK N1 / 121,,,#ffffff,#f37021,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK N2 / 122,,,#ffffff,#ed1c24,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK N3 / 123,,,#ffffff,#9b3594,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK N4 / 124,,,#ffffff,#71bf44,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK N6 / 126,,,#ffffff,#f6e901,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK N7 / 127,,,#ffffff,#ec008c,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK N10 / 129,,,#ffffff,#004a8f,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK N12 / 128,,,#ffffff,#00aeef,,rectangle,,7959,Stadtwerke Kaiserslautern
-vrn-swk-kl,SWK N40 / 125,,,#ffffff,#00a650,,rectangle,,7959,Stadtwerke Kaiserslautern
 vrn-sw-viernheim,611,,,#00aeef,#ffffff,,pill,,7924,Stadtwerke Viernheim
 vrn-sw-viernheim,612,,,#dc6e31,#ffffff,,pill,,7924,Stadtwerke Viernheim
 vrn-sw-zweibruecken,221,,,#38b54a,#ffffff,,pill,,7961,Stadtwerke Zweibrücken
@@ -3332,6 +3307,31 @@ vrn-sweg,793,,,#004ebe,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
 vrn-sweg,794,,,#94050b,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
 vrn-sweg,798,,,#eedb00,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
 vrn-sweg,799,,,#009ddc,#ffffff,,pill,,7916,Südwestdeutsche-Verkehrs-AG
+vrn-swk-kl,SWK 101,,,#ffffff,#f37021,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK 102,,,#ffffff,#b64a9c,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK 103,,,#ffffff,#fff200,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK 104,,,#ffffff,#71bf44,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK 105,,,#ffffff,#007e3c,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK 106,,,#ffffff,#faa61a,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK 107,,,#ffffff,#a05b35,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK 108,,,#ffffff,#ffc906,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK 109,,,#ffffff,#ec008c,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK 111,,,#ffffff,#034ea2,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK 112,,,#ffffff,#00aeef,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK 113,,,#ffffff,#00b8c3,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK 114,,,#ffffff,#c44356,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK 115,,,#ffffff,#ed1c24,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK 116,,,#ffffff,#007b89,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK 117,,,#ffffff,#672d87,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK N1 / 121,,,#ffffff,#f37021,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK N2 / 122,,,#ffffff,#ed1c24,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK N3 / 123,,,#ffffff,#9b3594,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK N4 / 124,,,#ffffff,#71bf44,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK N6 / 126,,,#ffffff,#f6e901,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK N7 / 127,,,#ffffff,#ec008c,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK N10 / 129,,,#ffffff,#004a8f,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK N12 / 128,,,#ffffff,#00aeef,,rectangle,,7959,Stadtwerke Kaiserslautern
+vrn-swk-kl,SWK N40 / 125,,,#ffffff,#00a650,,rectangle,,7959,Stadtwerke Kaiserslautern
 vrn-vgmt,88a,,,#7f3f98,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
 vrn-vgmt,88b,,,#262261,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
 vrn-vgmt,850,,,#00aeef,#ffffff,,pill,,7938,Verkehrsgemeinschaft Main-Tauber
