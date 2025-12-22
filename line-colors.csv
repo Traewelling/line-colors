@@ -38,20 +38,20 @@ bayerische-zugspitzbahn,RB 64,bayerische-zugspitzbahn,bzb-rb64,#6cc3d9,#ffffff,,
 bob,RB91,,,#afca0b,#ffffff,,rectangle,,10867,Bodensee-Oberschwaben-Bahn
 brb,RB 13,bayerische-regiobahn,brb-rb13,#ffb200,#ffffff,,rectangle,,10969,Bayerische Regiobahn
 brb,RB 14,bayerische-regiobahn,brb-rb14,#ffb200,#ffffff,,rectangle,,10969,Bayerische Regiobahn
-brb,RB 53,bayerische-regiobahn,brb-rb53,#ff9999,#ffffff,,rectangle,,10969,Bayerische Regiobahn
-brb,RB 54,bayerische-regiobahn,brb-rb54,#00ace5,#ffffff,,rectangle,,10969,Bayerische Regiobahn
-brb,RB 55,bayerische-regiobahn,brb-rb55,#ff6600,#ffffff,,rectangle,,10969,Bayerische Regiobahn
-brb,RB 56,bayerische-regiobahn,brb-rb56,#ff6600,#ffffff,,rectangle,,10969,Bayerische Regiobahn
-brb,RB 57,bayerische-regiobahn,brb-rb57,#ff6600,#ffffff,,rectangle,,10969,Bayerische Regiobahn
-brb,RB 58,bayerische-regiobahn,brb-rb58,#ffb200,#ffffff,,rectangle,,10969,Bayerische Regiobahn
+brb,RB 53,bayerische-regiobahn,brb-rb53,#ff9999,#ffffff,,rectangle,,10887,Berchtesgadener Land Bahn
+brb,RB 54,bayerische-regiobahn,brb-rb54,#00ace5,#ffffff,,rectangle,,10898,Meridian
+brb,RB 55,bayerische-regiobahn,brb-rb55,#ff6600,#ffffff,,rectangle,,8965,Bayerische Oberlandbahn
+brb,RB 56,bayerische-regiobahn,brb-rb56,#ff6600,#ffffff,,rectangle,,8965,Bayerische Oberlandbahn
+brb,RB 57,bayerische-regiobahn,brb-rb57,#ff6600,#ffffff,,rectangle,,8965,Bayerische Oberlandbahn
+brb,RB 58,bayerische-regiobahn,brb-rb58,#ffb200,#ffffff,,rectangle,,10898,Meridian
 brb,RB 67,bayerische-regiobahn,brb-rb67,#bf73bf,#ffffff,,rectangle,,10969,Bayerische Regiobahn
 brb,RB 68,bayerische-regiobahn,brb-rb68,#ffffff,#90bf26,#90bf26,rectangle,,10969,Bayerische Regiobahn
 brb,RB 69,bayerische-regiobahn,brb-rb69,#00ace5,#ffffff,,rectangle,,10969,Bayerische Regiobahn
 brb,RB 77,bayerische-regiobahn,brb-rb77,#24b27d,#ffffff,,rectangle,,10969,Bayerische Regiobahn
 brb,RB 83,bayerische-regiobahn,brb-rb83,#ffffff,#bf73bf,#bf73bf,rectangle,,10969,Bayerische Regiobahn
-brb,RE 5,bayerische-regiobahn,brb-re5,#00416d,#ffffff,,rectangle,,10969,Bayerische Regiobahn
-brb,S3,bayerische-regiobahn,4-l8-s3,#2aa335,#ffffff,,pill,,10969,Bayerische Regiobahn
-brb,S4,bayerische-regiobahn,4-l8-s4,#a765a2,#ffffff,,pill,,10969,Bayerische Regiobahn
+brb,RE 5,bayerische-regiobahn,brb-re5,#00416d,#ffffff,,rectangle,,10898,Meridian
+brb,S3,bayerische-regiobahn,4-l8-s3,#2aa335,#ffffff,,pill,,10887,Berchtesgadener Land Bahn
+brb,S4,bayerische-regiobahn,4-l8-s4,#a765a2,#ffffff,,pill,,10887,Berchtesgadener Land Bahn
 ceske-drahy,RE 25,ceske-drahy,ex-352,#006666,#ffffff,,rectangle,,12634,Ceske Drahy
 ceske-drahy,RE 25,ceske-drahy,ex-354,#006666,#ffffff,,rectangle,,12634,Ceske Drahy
 ceske-drahy,RE 25,ceske-drahy,ex-362,#006666,#ffffff,,rectangle,,12634,Ceske Drahy
