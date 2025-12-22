@@ -3755,6 +3755,10 @@
             {
                 "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
                 "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+            },
+            {
+                "name": "Liniennetzplan Leinfelden-Echterdingen 2025",
+                "source": "https://www.leinfelden-echterdingen.de/site/Leinfelden-Echterdingen-Internet/get/params_E1682530268/23496052/Liniennetzplan_LE_2025.pdf"
             }
         ]
     },
