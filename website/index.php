@@ -167,7 +167,8 @@ include_once "../validation/common.php";
                             line-height: 1.2em;
 
                             padding: 0 0.75em;
-                            clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+                            /* TODO: consider the edge case of border around a hexagon shape */
+                            clip-path: polygon(50% -100%, 100% 50%, 50% 200%, 0 50%);
                         }
 
                     </style>
