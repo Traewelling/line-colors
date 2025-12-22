@@ -3755,6 +3755,10 @@
             {
                 "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
                 "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+            },
+            {
+                "name": "Fahrplan-Merker 2026",
+                "source": "https://www.waiblingen.de/ceasy/resource/?id=29535&download=1"
             }
         ]
     },
@@ -3829,6 +3833,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-ovr",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Fahrplan-Merker 2026",
+                "source": "https://www.waiblingen.de/ceasy/resource/?id=29535&download=1"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-rab",
         "contributors": [
             {
@@ -3885,6 +3903,10 @@
             {
                 "name": "Netzplan Esslingen",
                 "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-esslingen.pdf"
+            },
+            {
+                "name": "Fahrplan-Merker 2026",
+                "source": "https://www.waiblingen.de/ceasy/resource/?id=29535&download=1"
             }
         ]
     },
