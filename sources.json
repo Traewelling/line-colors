@@ -3757,8 +3757,8 @@
                 "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
             },
             {
-                "name": "Liniennetzplan Leinfelden-Echterdingen 2025",
-                "source": "https://www.leinfelden-echterdingen.de/site/Leinfelden-Echterdingen-Internet/get/params_E1682530268/23496052/Liniennetzplan_LE_2025.pdf"
+                "name": "Fahrplan-Merker 2026",
+                "source": "https://www.waiblingen.de/ceasy/resource/?id=29535&download=1"
             }
         ]
     },
@@ -3833,6 +3833,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-ovr",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Fahrplan-Merker 2026",
+                "source": "https://www.waiblingen.de/ceasy/resource/?id=29535&download=1"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-rab",
         "contributors": [
             {
@@ -3889,6 +3903,10 @@
             {
                 "name": "Netzplan Esslingen",
                 "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-esslingen.pdf"
+            },
+            {
+                "name": "Fahrplan-Merker 2026",
+                "source": "https://www.waiblingen.de/ceasy/resource/?id=29535&download=1"
             }
         ]
     },
