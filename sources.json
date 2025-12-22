@@ -3145,7 +3145,7 @@
         ]
     },
 	{
-        "shortOperatorName": "vrn-db-bus",
+        "shortOperatorName": "vrn-brn",
         "contributors": [
 			{
                 "github": "TheOneWithTheBraid"
@@ -3320,7 +3320,7 @@
         ]
     },
 	{
-        "shortOperatorName": "vrn-qnv-queichtal-nahverkehr",
+        "shortOperatorName": "vrn-qnv",
         "contributors": [
             {
                 "github": "TheOneWithTheBraid"
@@ -3524,7 +3524,7 @@
         ]
     },
 	{
-        "shortOperatorName": "vrn-sw-kaiserslautern",
+        "shortOperatorName": "vrn-swk-kl",
         "contributors": [
             {
                 "github": "wittighausen"
@@ -3614,7 +3614,7 @@
         ]
     },
 	{
-        "shortOperatorName": "vrn-vg-main-tauber",
+        "shortOperatorName": "vrn-vgmt",
         "contributors": [
             {
                 "github": "wittighausen"
