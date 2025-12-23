@@ -2187,6 +2187,48 @@ vdl,30,,,#a0d4db,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vdl,31,,,#b3a896,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vdl,32,,,#b3a896,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vdl,33,,,#a9ce26,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
+vgc-eberhardt,715,,,#892b81,#ffffff,,rectangle,,14947,Linienbündel Nordwest
+vgc-eberhardt,724,,,#00a650,#ffffff,,rectangle,,14947,Linienbündel Nordwest
+vgc-eberhardt,820,,,#ec008c,#ffffff,,rectangle,,14947,Linienbündel Nordwest
+vgc-eberhardt,824,,,#7acdc8,#ffffff,,rectangle,,14947,Linienbündel Nordwest
+vgc-rab,300,,,#947139,#ffffff,,rectangle,,14948,Linienbündel Mitte
+vgc-rab,320,,,#00aeef,#ffffff,,rectangle,,14948,Linienbündel Mitte
+vgc-rab,420,,,#4d2f92,#ffffff,,rectangle,,14952,Linienbündel Südwest Los 2
+vgc-rab,430,,,#00a76e,#ffffff,,rectangle,,14952,Linienbündel Südwest Los 2
+vgc-rab,435,,,#f89339,#ffffff,,rectangle,,14949,Liniebündel Südost
+vgc-rab,444,,,#b72755,#ffffff,,rectangle,,14949,Liniebündel Südost
+vgc-rab,502,,,#6dcff6,#000000,,rectangle,,14949,Liniebündel Südost
+vgc-rab,540,,,#947139,#ffffff,,rectangle,,14949,Liniebündel Südost
+vgc-rab,552,,,#00a76e,#ffffff,,rectangle,,14949,Liniebündel Südost
+vgc-rab,555,,,#d0ce11,#000000,,rectangle,,14949,Liniebündel Südost
+vgc-rab,630,,,#d0ce11,#ffffff,,rectangle,,14948,Linienbündel Mitte
+vgc-rab,632,,,#947139,#ffffff,,rectangle,,14948,Linienbündel Mitte
+vgc-rab,633,,,#fcbd97,#000000,,rectangle,,14948,Linienbündel Mitte
+vgc-rab,634,,,#0072bc,#ffffff,,rectangle,,14948,Linienbündel Mitte
+vgc-rab,635,,,#ed1c24,#ffffff,,rectangle,,14948,Linienbündel Mitte
+vgc-rab,636,,,#f89339,#000000,,rectangle,,14948,Linienbündel Mitte
+vgc-rab,640,,,#00aeef,#ffffff,,rectangle,,14948,Linienbündel Mitte
+vgc-rab,641,,,#4d2f92,#ffffff,,rectangle,,14948,Linienbündel Mitte
+vgc-rab,680,,,#ffcb04,#000000,,rectangle,,14948,Linienbündel Mitte
+vgc-rab,710,,,#00a99c,#ffffff,,rectangle,,14948,Linienbündel Mitte
+vgc-rab,759,,,#ffcb04,#ffffff,,rectangle,,8008,Privatunternehmer-Bus (CW)
+vgc-rab,759,,,#ffcb04,#ffffff,,rectangle,,14949,Liniebündel Südost
+vgc-rab,760,,,#8a81b0,#ffffff,,rectangle,,14949,Liniebündel Südost
+vgc-rab,771,,,#8b2980,#ffffff,,rectangle,,14949,Liniebündel Südost
+vgc-rab,772,,,#ec008c,#ffffff,,rectangle,,14949,Liniebündel Südost
+vgc-rab,775,,,#ed1c24,#ffffff,,rectangle,,14908,Bus Alb-Bodensee
+vgc-rab,775,,,#ed1c24,#ffffff,,rectangle,,14949,Liniebündel Südost
+vgc-rab,F20,,,#8cc63f,#ffffff,,rectangle,,14952,Linienbündel Südwest Los 2
+vgc-rab,X63,,,#ec008c,#ffffff,,rectangle,,14948,Linienbündel Mitte
+vgc-rab,X78,,,#ffcb04,#000000,,rectangle,,14952,Linienbündel Südwest Los 2
+vgc-rvs,670,,,#f89339,#000000,,rectangle,,8103,RVS
+vgc-teinachtal-reisen,450,,,#ed1c24,#ffffff,,rectangle,,14951,Linienbündel Südwest Los 1
+vgc-teinachtal-reisen,520,,,#ffcb04,#000000,,rectangle,,14951,Linienbündel Südwest Los 1
+vgc-volz,661,,,#ed1c24,#ffffff,,rectangle,,7593,Calw VPC
+vgc-volz,662,,,#ffcb04,#000000,,rectangle,,7593,Calw VPC
+vgc-volz,663,,,#00a99c,#ffffff,,rectangle,,7593,Calw VPC
+vgc-volz,670,,,#f89339,#ffffff,,rectangle,,8008,Privatunternehmer-Bus (CW)
+vgc-volz,880,,,#0072bc,#ffffff,,rectangle,,7593,Calw VPC
 vgn-db-sbn,S 1,db-regio-ag-bayern,4-800721-1,#92292e,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 vgn-db-sbn,S 2,db-regio-ag-bayern,4-800721-2,#4dbd38,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 vgn-db-sbn,S 3,db-regio-ag-bayern,4-800721-3,#f1471d,#ffffff,,rectangle,,10446,DB Regio AG Bayern
