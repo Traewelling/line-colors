@@ -1949,6 +1949,21 @@ stadtlinie-limburg,LM-23,,lm-23,#598200,#ffffff,,rectangle-rounded-corner,,8733,
 stadtlinie-limburg,LM-24,,lm-24,#005baa,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
 stadtlinie-limburg,LM-25,,lm-25,#e05200,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
 stadtlinie-limburg,LM-26,,lm-26,#613fa6,#ffffff,,rectangle-rounded-corner,,8733,Stadtverkehr Limburg
+stadtwerke-passau,Linie 1,,,#ed1c24,#ffffff,,rectangle,,8121,Stadtwerke Passau
+stadtwerke-passau,Linie 2,,,#f6836c,#ffffff,,rectangle,,8121,Stadtwerke Passau
+stadtwerke-passau,Linie 3,,,#e28e30,#ffffff,,rectangle,,8121,Stadtwerke Passau
+stadtwerke-passau,Linie 4,,,#a4835b,#ffffff,,rectangle,,8121,Stadtwerke Passau
+stadtwerke-passau,Linie 5,,,#00adef,#ffffff,,rectangle,,8121,Stadtwerke Passau
+stadtwerke-passau,Linie 6,,,#1959a6,#ffffff,,rectangle,,8121,Stadtwerke Passau
+stadtwerke-passau,Linie 7,,,#076a6c,#ffffff,,rectangle,,8121,Stadtwerke Passau
+stadtwerke-passau,Linie 8,,,#f79aaa,#ffffff,,rectangle,,8121,Stadtwerke Passau
+stadtwerke-passau,Linie 9,,,#ed1682,#ffffff,,rectangle,,8121,Stadtwerke Passau
+stadtwerke-passau,Linie 10,,,#6fb57d,#ffffff,,rectangle,,8121,Stadtwerke Passau
+stadtwerke-passau,Linie 11,,,#85d3eb,#ffffff,,rectangle,,8121,Stadtwerke Passau
+stadtwerke-passau,Linie K1,,,#f16420,#ffffff,,rectangle,,8121,Stadtwerke Passau
+stadtwerke-passau,Linie K2,,,#763226,#ffffff,,rectangle,,8121,Stadtwerke Passau
+stadtwerke-passau,Linie K3,,,#763226,#ffffff,,rectangle,,8121,Stadtwerke Passau
+stadtwerke-passau,Linie K4,,,#763226,#ffffff,,rectangle,,8121,Stadtwerke Passau
 start,RB12,regionalverkehre-start-deutschland-gmbh-start-taunus,stn-rb12,#94522e,#ffffff,,rectangle-rounded-corner,,14174,Regionalverkehre Start Deutschland GmbH Taunus
 start,RB15,regionalverkehre-start-deutschland-gmbh-start-taunus,stn-rb15,#e3a02e,#ffffff,,rectangle-rounded-corner,,14174,Regionalverkehre Start Deutschland GmbH Taunus
 svg-stuttgart,RE4,,,#a05a2c,#ffffff,,rectangle,,10954,Nebenbahn Vaihingen-Enzweihingen
@@ -1982,21 +1997,6 @@ sweg-sudwest,RS11,,,#009ddb,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
 sweg-sudwest,RS12,,,#74ba24,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
 sweg-sudwest,RS2,,,#fbc707,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
 sweg-sudwest,RS4,,,#d91338,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
-stadtwerke-passau,Linie 1,,,#ed1c24,#ffffff,,rectangle,,8121,Stadtwerke Passau
-stadtwerke-passau,Linie 2,,,#f6836c,#ffffff,,rectangle,,8121,Stadtwerke Passau
-stadtwerke-passau,Linie 3,,,#e28e30,#ffffff,,rectangle,,8121,Stadtwerke Passau
-stadtwerke-passau,Linie 4,,,#a4835b,#ffffff,,rectangle,,8121,Stadtwerke Passau
-stadtwerke-passau,Linie 5,,,#00adef,#ffffff,,rectangle,,8121,Stadtwerke Passau
-stadtwerke-passau,Linie 6,,,#1959a6,#ffffff,,rectangle,,8121,Stadtwerke Passau
-stadtwerke-passau,Linie 7,,,#076a6c,#ffffff,,rectangle,,8121,Stadtwerke Passau
-stadtwerke-passau,Linie 8,,,#f79aaa,#ffffff,,rectangle,,8121,Stadtwerke Passau
-stadtwerke-passau,Linie 9,,,#ed1682,#ffffff,,rectangle,,8121,Stadtwerke Passau
-stadtwerke-passau,Linie 10,,,#6fb57d,#ffffff,,rectangle,,8121,Stadtwerke Passau
-stadtwerke-passau,Linie 11,,,#85d3eb,#ffffff,,rectangle,,8121,Stadtwerke Passau
-stadtwerke-passau,Linie K1,,,#f16420,#ffffff,,rectangle,,8121,Stadtwerke Passau
-stadtwerke-passau,Linie K2,,,#763226,#ffffff,,rectangle,,8121,Stadtwerke Passau
-stadtwerke-passau,Linie K3,,,#763226,#ffffff,,rectangle,,8121,Stadtwerke Passau
-stadtwerke-passau,Linie K4,,,#763226,#ffffff,,rectangle,,8121,Stadtwerke Passau
 tlx,L2,trilex-die-landerbahn-gmbh-dlb,tl-l2,#0f7ec0,#ffffff,,rectangle-rounded-corner,,10892,trilex  - Die Länderbahn GmbH DLB
 tlx,L24,trilex-die-landerbahn-gmbh-dlb,tl-l24,#6eae47,#ffffff,,rectangle-rounded-corner,,10892,trilex  - Die Länderbahn GmbH DLB
 tlx,L4,trilex-die-landerbahn-gmbh-dlb,tl-l4,#242320,#ffffff,,rectangle-rounded-corner,,10892,trilex  - Die Länderbahn GmbH DLB
