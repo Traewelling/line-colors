@@ -2211,6 +2211,10 @@
             {
                 "name": "Linienplan Passau",
                 "source": "https://vbp.stadtwerke-passau.de/files/dateien/bus/daten/Linienplan_2022_A3.pdf"
+            },
+            {
+                "name": "Abendverkehr Karte Passau",
+                "source": "https://vbp.stadtwerke-passau.de/files/dateien/bus/daten/Abendverkehr_Karte.pdf"
             }
         ]
     },
