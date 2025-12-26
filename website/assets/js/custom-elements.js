@@ -14,7 +14,7 @@ function toggleDetails(event) {
     }
 }
 
-["circle", "hexagon", "pill", "rectangle", "rectangle-rounded-corner", "trapezoid"].forEach((shape) =>
+["circle", "hexagon", "pill", "rectangle", "rectangle-rounded-corner", "trapezoid", "text"].forEach((shape) =>
     customElements.define("line-logo-" + shape, class extends HTMLElement {
         constructor() {
             super();
@@ -23,8 +23,9 @@ function toggleDetails(event) {
 
             const shadowRoot = this.attachShadow({ mode: "open" });
 
-            const backgroundColor = this.getAttribute("backgroundColor");
-            const textColor = this.getAttribute("textColor");
+            const colorsAreInverted = shape === "text";
+            const backgroundColor = !colorsAreInverted ? this.getAttribute("primaryColor") : undefined;
+            const textColor = this.getAttribute(!colorsAreInverted ? "secondaryColor" : "primaryColor");
             const borderColor = this.getAttribute("borderColor");
 
             let style = document.createElement("style");
