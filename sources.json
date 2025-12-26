@@ -1213,9 +1213,21 @@
         "contributors": [
             {
                 "github": "DRSchlaubi"
+            },
+            {
+                "github": "Sheigutn"
             }
         ],
-        "sources": []
+        "sources": [
+            {
+                "name": "Tramnetz München",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/A4-Tramnetz-2026-Web.pdf"
+            },
+            {
+                "name": "E7 München",
+                "source": "https://www.mvg.de/aushangfahrplan/E7_H_OFH_1.pdf"
+            }
+        ]
     },
     {
         "shortOperatorName": "mvv-mvg-ubahn",
