@@ -370,6 +370,20 @@
         ]
     },
     {
+        "shortOperatorName": "db-sev-hamburg-berlin",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Hamburg-Berlin Gesamtübersicht",
+                "source": "https://generalsanierung.db-ersatzverkehr.de/resource/blob/13364514/83211fdc304bf764638f4b26791529e4/Liniennetzplan-Hamburg-Berlin-Gesamtuebersicht-data.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "dsb-s-tog",
         "contributors": [
             {

@@ -297,6 +297,34 @@ db-regionetz-westfrankenbahn,RB 88,db-regionetz-verkehrs-gmbh-westfrankenbahn,rb
 db-regionetz-westfrankenbahn,RE 80,db-regionetz-verkehrs-gmbh-westfrankenbahn,re-80,#423f41,#ffffff,,rectangle,,10442,DB RegioNetz Verkehrs GmbH Westfrankenbahn
 db-regionetz-westfrankenbahn,RE 87,db-regionetz-verkehrs-gmbh-westfrankenbahn,re-87,#ff2e17,#ffffff,,rectangle,,10442,DB RegioNetz Verkehrs GmbH Westfrankenbahn
 db-regionetz-westfrankenbahn,RB 87,db-regionetz-verkehrs-gmbh-westfrankenbahn,rb-87,#ff2e17,#ffffff,,rectangle,,10442,DB RegioNetz Verkehrs GmbH Westfrankenbahn
+db-sev-hamburg-berlin,A,,,#17224b,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,B,,,#946ea8,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,B2,,,#233268,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,B3,,,#005853,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,B4,,,#0b8d85,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,C,,,#61a83b,#000000,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,C2,,,#eb4b9a,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,D,,,#58abdf,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,D2,,,#d47c27,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,F,,,#f27db1,#000000,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,G,,,#2460ad,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,H,,,#a30b14,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,J,,,#df1983,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,K,,,#0a5e30,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,L,,,#bb677a,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,M,,,#438741,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,P,,,#fdb82a,#000000,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,R,,,#f57f2b,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,RB47,,,#438741,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,RE20A,,,#6b4199,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,RE20B,,,#027099,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,RE20X,,,#f79422,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,S,,,#ee242c,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,T,,,#34b9af,#000000,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,X1,,,#2460ad,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,X4,,,#00706c,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,X8,,,#58abdf,#ffffff,,pill,,9287,DB Regio Bus Mitte
+db-sev-hamburg-berlin,X9,,,#6b4199,#ffffff,,pill,,9287,DB Regio Bus Mitte
 ding-swu,1,,8-ald087-1,#e52329,#ffffff,,rectangle,,7623,SWU Verkehr
 ding-swu,2,,8-ald087-2,#3fad56,#ffffff,,rectangle,,7623,SWU Verkehr
 dsb-s-tog,A,dsb-s-tog,4-860022-a,#00a8e7,#ffffff,,rectangle-rounded-corner,Q2323144,,
