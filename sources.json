@@ -2148,6 +2148,20 @@
         ]
     },
     {
+        "shortOperatorName": "sev-nuernberg-regensburg",
+        "contributors": [
+            {
+                "github": "Sheigutn"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Generalsanierung Nürnberg Regensburg",
+                "source": "https://www.vgn.de/media/liniennetz-generalsanierung.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "schweiz-fernverkehr-bls",
         "contributors": [
             {
