@@ -1072,7 +1072,6 @@ mvv-regional-bus,684,,5-mvvrbu-684,#377a5d,#ffffff,,rectangle,,14943,Bus Münche
 mvv-regional-bus,687,,5-mvvrbu-687,#6a6153,#ffffff,,rectangle,,14943,Bus München
 mvv-regional-bus,688,,5-mvvrbu-688,#b8ae36,#ffffff,,rectangle,,14943,Bus München
 mvv-regional-bus,691,,5-mvvrbu-691,#4d8240,#ffffff,,rectangle,,14943,Bus München
-mvv-regional-bus,736,,,#3a67a6,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,803,,,#2f5465,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,804,,,#b8ae4c,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,805,,,#700734,#ffffff,,rectangle,,7687,MVV-Regionalbus
@@ -1083,9 +1082,7 @@ mvv-regional-bus,822,,,#afc454,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,823,,,#c4a8ba,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,825,,,#bd8d36,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,826,,,#49813f,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,828,,,#5a9fdb,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,830,,,#86af3c,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,831,,,#2f5465,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,832,,,#477d94,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,835,,,#9d127d,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,838,,,#365f9a,#ffffff,,rectangle,,7687,MVV-Regionalbus
@@ -1111,6 +1108,21 @@ mvv-regional-bus,872,,,#386455,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,873,,,#5f7e39,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,874,,,#5a838e,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,875,,,#4d89c5,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,2100,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,4000,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,4800,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,4900,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,5010,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,5020,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,5050,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,5403,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,5621,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,5670,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,5680,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,6301,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,6302,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,6303,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,6304,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
 mvv-regional-bus,8000,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
 mvv-regional-bus,8200,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
 mvv-regional-bus,8300,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
