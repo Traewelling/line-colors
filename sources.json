@@ -10,12 +10,19 @@
             },
             {
                 "github": "oneiricbotcelot"
+            },
+            {
+                "github": "Sheigutn"
             }
         ],
         "sources": [
             {
                 "name": "BEG Liniennetzplan Bayern 2024",
                 "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+            },
+            {
+                "name": "BEG Liniennetzplan Bayern 2026",
+                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2026/liniennetzplan-bayern-2026.pdf"
             }
         ]
     },
@@ -64,6 +71,20 @@
             {
                 "name": "BEG Liniennetzplan Bayern 2024",
                 "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "bob",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzkarte Regionalverkehr 2026",
+                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_16-11-2025_barrierefrei.pdf"
             }
         ]
     },
@@ -213,6 +234,9 @@
             },
             {
                 "github": "SpielenmitLili"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
@@ -239,6 +263,10 @@
             {
                 "name": "JUIL 2025_Carte reseau CFL_DE_A3_PRINT",
                 "source": "https://www.cfl.lu/getattachment/cc0c66f9-2074-476a-8140-7557866b17a2/juil-2025_carte-reseau-cfl_de_a3_print.pdf"
+            },
+            {
+                "name": "Liniennetzplan Rheinland-Pfalz Stand 2025",
+                "source": "https://www.zoepnv-sued.de/fileadmin/user_upload/RLP_Liniennetzplan_Stand-03-2025_02.pdf"
             }
         ]
     },
@@ -338,6 +366,20 @@
             {
                 "name": "Barrierefrei WFB-Streckenkarte 2022",
                 "source": "https://assets.static-bahn.de/dam/jcr:b2f152ae-ba8a-4454-9466-e4c713472de8/Barrierefrei-WFB-Streckenkarte_2022.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "db-sev-hamburg-berlin",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Hamburg-Berlin Gesamtübersicht",
+                "source": "https://generalsanierung.db-ersatzverkehr.de/resource/blob/13364514/83211fdc304bf764638f4b26791529e4/Liniennetzplan-Hamburg-Berlin-Gesamtuebersicht-data.pdf"
             }
         ]
     },
@@ -508,6 +550,150 @@
         ]
     },
     {
+        "shortOperatorName": "hnv-db-bus",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HNV Liniennetzplan Landkreis Heilbronn 2026",
+                "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-lkhn.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hnv-gross-reisen",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HNV Liniennetzplan Landkreis Heilbronn 2026",
+                "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-lkhn.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hnv-mueller-reisen",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HNV Liniennetzplan Landkreis Heilbronn 2026",
+                "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-lkhn.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hnv-nvh",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz NVH",
+                "source": "https://www.sweg.de/fileadmin//user_upload/pdf/liniennetzplaene/hohenlohe-main-tauber/Liniennetz_NVH.pdf"
+            },
+            {
+                "name": "Liniennetzplan Öhringen",
+                "source": "https://nvh.de/tn-misc/download.php?index=1&folder=dl&id=17&type=pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hnv-ovr-ruoff",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HNV Liniennetzplan Landkreis Heilbronn 2026",
+                "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-lkhn.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hnv-sweg",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HNV Liniennetzplan Landkreis Heilbronn 2026",
+                "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-lkhn.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hnv-swhn",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HNV Liniennetzplan Stadt Heilbronn 2026",
+                "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-hn.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hnv-woehrle",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HNV Liniennetzplan Landkreis Heilbronn 2026",
+                "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-lkhn.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hnv-zartmann",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Stadtbus Neckarsulm",
+                "source": "https://buszartmann.de/files/content/Zartmann/Liniennetz/2023-30-11_Schematischer-Liniennetzplan.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "hnv-zuegel",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HNV Liniennetzplan Landkreis Heilbronn 2026",
+                "source": "https://www.h3nv.de/fileadmin/pdf/liniennetzplan-lkhn.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "hvv-akn",
         "contributors": [
             {
@@ -625,6 +811,24 @@
         ]
     },
     {
+        "shortOperatorName": "kvv-anrufverkehre",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Karlsruhe und Nördlicher Landkreis Rastatt 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-LK-Karlsruhe-und-noerdlicher-LK-Rastatt.pdf"
+            },
+            {
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Rastatt und Baden-Baden 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-Landkreis-Rastatt-und-Baden-Baden.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "kvv-avg",
         "contributors": [
             {
@@ -639,32 +843,147 @@
         ]
     },
     {
-        "shortOperatorName": "kvv-regionalbus",
+        "shortOperatorName": "kvv-db-bus",
         "contributors": [
             {
                 "github": "metrophil"
+            },
+			{
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
-                "name": "KVV Liniennetzplan Bus Nördlicher Landkreis Karlsruhe 2024",
+                "name": "KVV Liniennetzplan Bus Nördlicher Landkreis Karlsruhe 2026",
                 "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz-Noerdlicher-Landkreis-Karlsruhe.pdf"
             },
             {
-                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Karlsruhe und Nördlicher Landkreis Rastatt 2024",
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Karlsruhe und Nördlicher Landkreis Rastatt 2026",
                 "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-LK-Karlsruhe-und-noerdlicher-LK-Rastatt.pdf"
             },
             {
-                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Rastatt und Baden-Baden 2024",
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Rastatt und Baden-Baden 2026",
                 "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-Landkreis-Rastatt-und-Baden-Baden.pdf"
             }
         ]
     },
+	{
+        "shortOperatorName": "kvv-eberhardt",
+        "contributors": [
+            {
+                "github": "metrophil"
+            },
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Rastatt und Baden-Baden 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-Landkreis-Rastatt-und-Baden-Baden.pdf"
+            },
+            {
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Karlsruhe und Nördlicher Landkreis Rastatt 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-LK-Karlsruhe-und-noerdlicher-LK-Rastatt.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "kvv-engel",
+        "contributors": [
+            {
+                "github": "metrophil"
+            },
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVV Liniennetzplan Bus Nördlicher Landkreis Karlsruhe 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz-Noerdlicher-Landkreis-Karlsruhe.pdf"
+            },
+            {
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Karlsruhe und Nördlicher Landkreis Rastatt 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-LK-Karlsruhe-und-noerdlicher-LK-Rastatt.pdf"
+            }
+        ]
+    },
     {
+        "shortOperatorName": "kvv-faller",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Rastatt und Baden-Baden 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-Landkreis-Rastatt-und-Baden-Baden.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "kvv-hassis",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVV Liniennetzplan Bus Nördlicher Landkreis Karlsruhe 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz-Noerdlicher-Landkreis-Karlsruhe.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "kvv-swbad",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Karlsruhe und Nördlicher Landkreis Rastatt 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-LK-Karlsruhe-und-noerdlicher-LK-Rastatt.pdf"
+            },
+            {
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Rastatt und Baden-Baden 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-Landkreis-Rastatt-und-Baden-Baden.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "kvv-sweg",
+        "contributors": [
+            {
+                "github": "metrophil"
+            },
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Karlsruhe und Nördlicher Landkreis Rastatt 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-LK-Karlsruhe-und-noerdlicher-LK-Rastatt.pdf"
+            },
+            {
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Rastatt und Baden-Baden 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-Landkreis-Rastatt-und-Baden-Baden.pdf"
+            }
+        ]
+    },
+	{
         "shortOperatorName": "kvv-vbk",
         "contributors": [
             {
                 "github": "MrKrisKrisu"
+            },
+			{
+                "github": "metrophil"
             }
         ],
         "sources": [
@@ -679,6 +998,24 @@
             {
                 "name": "KVV Liniennetzplan Bus und Schiene Karlsruhe 2024",
                 "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Bus-und-Schiene-Karlsruhe.pdf"
+            },
+			{
+                "name": "KVV Liniennetzplan Bus Südlicher Landkreis Karlsruhe und Nördlicher Landkreis Rastatt 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz_Suedlicher-LK-Karlsruhe-und-noerdlicher-LK-Rastatt.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "kvv-woehrle",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "KVV Liniennetzplan Bus Nördlicher Landkreis Karlsruhe 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz-Noerdlicher-Landkreis-Karlsruhe.pdf"
             }
         ]
     },
@@ -701,16 +1038,53 @@
         "contributors": [
             {
                 "github": "connectingwings"
+            },
+            {
+                "github": "Sheigutn"
             }
         ],
         "sources": [
             {
-                "name": "StadtLinie grafisch Tarifzone 100 im LAVV",
-                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-grafisch-Stadtlinie-2023.pdf"
+                "name": "Liniennetzplan MVV Linien 601 bis 614 (ehemalige Stadtlinien)",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-Linien-601-bis-614.pdf"
             },
             {
-                "name": "AbendLinie grafisch Tarifzone 100 im LAVV",
-                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-grafisch-Abendlinie-2023.pdf"
+                "name": "Liniennetzplan MVV Linien 620 bis 629 (ehemalige Abendlinien)",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-Linien-620-bis-629.pdf"
+            },
+            {
+                "name": "Linie 615 Ergolding HBF",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Linie-615-Ergolding-HBF.pdf"
+            },
+            {
+                "name": "Linie 616 Auloh Auwaldsiedlung HBF",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Linie-616-Auloh-Auwaldsiedlung-HBF.pdf"
+            },
+            {
+                "name": "Linie 617 Eugenbach HBF",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Liniennetzplan-Linien-620-bis-629.pdf"
+            },
+            {
+                "name": "Linie 618 Metzental HBF",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Linie-618-Metzental-HBF.pdf"
+            },
+            {
+                "name": "Linie 619 Lurzenhof Hochschule HBF",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Linie-619-Lurzenhof-Hochschule-HBF.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "liemobil",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz LIEmobil und Fahrplanbuch (PDF)",
+                "source": "https://liemobil.li/static/Liniennetz---gross---2025-a4447f5755c8190b23661c50589b2762.pdf"
             }
         ]
     },
@@ -780,6 +1154,36 @@
         ]
     },
     {
+        "shortOperatorName": "mobiju-pag",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Plan du réseau de transports publics en Ajoie 2025",
+                "source": "https://www.mobiju.ch/files/155/Ajoie/25_JU_Ajoie.pdf"
+            },
+            {
+                "name": "Plan du réseau de transports publics dans l'agglomération de Delémont 2025",
+                "source": "https://www.mobiju.ch/files/156/Del%C3%A9mont/25_JU_Delemont.pdf"
+            },
+            {
+                "name": "Plan du réseau de transports publics dans les Franches-Montagnes et dans le Clos du Doubs 2025",
+                "source": "https://www.mobiju.ch/files/158/Franches-Montagnes/25_JU_Franches%20Montagnes_Clos-du-Doubs.pdf"
+            },
+            {
+                "name": "Plan du réseau de transports publics dans la Haute-Sorne 2025",
+                "source": "https://www.mobiju.ch/files/157/Haute-Sorne/24_25_JU_Haute-Sorne.pdf"
+            },
+            {
+                "name": "Plan du réseau de transports publics de Moutier 2025",
+                "source": "https://www.mobiju.ch/files/152/Moutier/24_25_JU_BE_Moutier.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mvb-magdeburg",
         "contributors": [
             {
@@ -837,9 +1241,21 @@
         "contributors": [
             {
                 "github": "DRSchlaubi"
+            },
+            {
+                "github": "Sheigutn"
             }
         ],
-        "sources": []
+        "sources": [
+            {
+                "name": "Tramnetz München",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/A4-Tramnetz-2026-Web.pdf"
+            },
+            {
+                "name": "E7 München",
+                "source": "https://www.mvg.de/aushangfahrplan/E7_H_OFH_1.pdf"
+            }
+        ]
     },
     {
         "shortOperatorName": "mvv-mvg-ubahn",
@@ -866,6 +1282,9 @@
             },
             {
                 "github": "coffeeandtrains"
+            },
+            {
+                "github": "Sheigutn"
             }
         ],
         "sources": [
@@ -884,6 +1303,10 @@
             {
                 "name": "MVV-Netz Stadt Germering",
                 "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2024/2024_layout_Netz_Germering_SCR.pdf"
+            },
+            {
+                "name": "MVV-Alpenbus Linien",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/05-Mobilitaetsangebote/Alpenbus/x380x381x990_alpenbus_web.svg"
             }
         ]
     },
@@ -910,12 +1333,15 @@
         "contributors": [
             {
                 "github": "verbuchselt"
+            },
+            {
+                "github": "dabund24"
             }
         ],
         "sources": [
             {
                 "name": "Liniennetz Stadtbus Freising",
-                "source": "https://www.freisinger-stadtwerke.de/de/Stadtbus-Parkhaeuser/Stadtbus/Prefooter/Aushang-Liniennetz-Stadtbus-A4hoch-web.pdf"
+                "source": "https://www.freisinger-stadtwerke.de/de/Stadtbus-Parkhaeuser/Stadtbus/Prefooter/Liniennetz-Stadtbus-2025-2026.pdf"
             }
         ]
     },
@@ -943,6 +1369,24 @@
             {
                 "name": "NAH.SH Bahnlinienplan 2024",
                 "source": "https://www.nah.sh/assets/05-Karten/BahnlinienSH_A3_2024_5.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "nah-sh-swhl",
+        "contributors": [
+            {
+                "github": "JoelB911"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Region Lübeck 2026",
+                "source": "https://a.storyblok.com/f/187280/x/ec9280f0ba/web_swlue_slnp_12-2025_a3.pdf"
+            },
+            {
+                "name": "Linien-Übersicht | Stadtwerke Lübeck",
+                "source": "https://www.swhl.de/mobil/fahrplanauskunft/linien/"
             }
         ]
     },
@@ -1310,6 +1754,42 @@
         ]
     },
     {
+        "shortOperatorName": "ostwind-ab",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan S-Bahn St.Gallen/Schaffhausen/Bodensee 2025",
+                "source": "https://www.ostwind.ch/assets/resources/Dateien/Download/zonenplaene/2025/sbb-rv-stgallen-a2-2025-sid.pdf"
+            },
+            {
+                "name": "Liniennetzplan Frauenfeld-Wil 2025",
+                "source": "https://appenzellerbahnen.ch/files/appenzellerbahnen.ch/01_Reiseinformationen/02_Fahrplan/streckennetz/2025/JPG_SLNP_Ostwind_2024_Ausschnitt34_AppenzellerBahnen_825x592.jpg"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ostwind-vbsh",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Region Schaffhausen 2026",
+                "source": "https://api.vbsh.ch/fileadmin/data/assets/pdf/dateien-2026/netzplan-region-schaffhausen-2026.pdf"
+            },
+            {
+                "name": "Nachtnetz Region Schaffhausen 2026",
+                "source": "https://api.vbsh.ch/fileadmin/data/assets/pdf/Dateien_2024/2024-nachtnetzplan_sh.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "pid-prague",
         "contributors": [
             {
@@ -1336,6 +1816,18 @@
                 "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/bahn-regionalverkehr-brandenburg-und-berlin-mit-plusbus-linien.pdf"
             }
         ]
+    },
+    {
+        "shortOperatorName": "rhb",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": {
+            "name": "Streckennetz RhB",
+            "source": "https://assets.eu.ctfassets.net/h76myjvzsgnd/5KPMxhHde0uzbKKefpS2kI/cd736ab1ceef48ec33198c24088d371f/Linienplan_RhB.pdf"
+        }
     },
     {
         "shortOperatorName": "rmv-db-sbahn",
@@ -1518,6 +2010,50 @@
         ]
     },
     {
+        "shortOperatorName": "rvl-sgb",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Rheinfelden 2025",
+                "source": "https://rvl-online.de/download/4416/"
+            },
+            {
+                "name": "Liniennetzplan Schopfheim 2025",
+                "source": "https://rvl-online.de/download/7537/"
+            },
+            {
+                "name": "Liniennetzplan Grenzach-Wyhlen 2025",
+                "source": "https://rvl-online.de/download/7533/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "rvl-sweg",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Weil am Rhein 2025",
+                "source": "https://rvl-online.de/download/4415/"
+            },
+            {
+                "name": "Liniennetzplan Lörrach 2025",
+                "source": "https://rvl-online.de/download/4417/"
+            },
+            {
+                "name": "Liniennetzplan Markgräflerland 2025",
+                "source": "https://rvl-online.de/download/7539/"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "s-bahn-bern-bls",
         "contributors": [
             {
@@ -1626,15 +2162,42 @@
         ]
     },
     {
-        "shortOperatorName": "schweiz-fernverkehr",
+        "shortOperatorName": "schweiz-fernverkehr-bls",
         "contributors": [
             {
-                "github": "TheOneWithTheBraid"
+                "github": "mtwente"
             }
         ],
         "sources": {
-            "name": "SBB: direct long-distance connections",
-            "source": "https://network.sbb.ch/en/"
+            "name": "SBB Liniennetzplan Fernverkehr, gültig ab 14.12.2025",
+            "source": "https://company.sbb.ch/content/dam/infrastruktur/trafimage/karten/FV-Liniennetzplan-de.pdf"
+        }
+    },
+    {
+        "shortOperatorName": "schweiz-fernverkehr-sbb",
+        "contributors": [
+            {
+                "github": "TheOneWithTheBraid"
+            },
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": {
+            "name": "SBB Liniennetzplan Fernverkehr, gültig ab 15.12.2025",
+            "source": "https://company.sbb.ch/content/dam/infrastruktur/trafimage/karten/FV-Liniennetzplan-de.pdf"
+        }
+    },
+    {
+        "shortOperatorName": "schweiz-fernverkehr-sob",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": {
+            "name": "SBB Liniennetzplan Fernverkehr, gültig ab 15.12.2025",
+            "source": "https://company.sbb.ch/content/dam/infrastruktur/trafimage/karten/FV-Liniennetzplan-de.pdf"
         }
     },
     {
@@ -1652,6 +2215,24 @@
         ]
     },
     {
+        "shortOperatorName": "stadtwerke-passau",
+        "contributors": [
+            {
+                "github": "Sheigutn"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Linienplan Passau",
+                "source": "https://vbp.stadtwerke-passau.de/files/dateien/bus/daten/Linienplan_2022_A3.pdf"
+            },
+            {
+                "name": "Abendverkehr Karte Passau",
+                "source": "https://vbp.stadtwerke-passau.de/files/dateien/bus/daten/Abendverkehr_Karte.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "start",
         "contributors": [
             {
@@ -1662,6 +2243,20 @@
             "name": "RSPN 2025",
             "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
         }
+    },
+    {
+        "shortOperatorName": "svg-stuttgart",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzkarte Regionalverkehr 2026",
+                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_16-11-2025_barrierefrei.pdf"
+            }
+        ]
     },
     {
         "shortOperatorName": "svv-brb",
@@ -1766,6 +2361,20 @@
         ]
     },
     {
+        "shortOperatorName": "tnw-aagl",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Haltestellenfahrpläne von der AAGL-Website, Stand Dezember 2025",
+                "source": "https://autobus.ag/oev/haltestellenfahrplaene"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "tnw-blt",
         "contributors": [
             {
@@ -1777,8 +2386,12 @@
         ],
         "sources": [
             {
-                "name": "TNW Liniennetz Basel und Umgebung",
-                "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
+                "name": "TNW Liniennetz Basel und Umgebung 2026",
+                "source": "https://www.bvb.ch/wp-content/bvb/dokumente/liniennetzplan/2026/Liniennetzplan_2026.pdf"
+            },
+            {
+                "name": "BLT Haltestellenfahrpläne (für Linien im Oberbaselbiet)",
+                "source": "https://www.blt.ch/fileadmin/user_upload/blt/PDF_Fahrplaene/2026/35BR01_110_A.pdf"
             }
         ]
     },
@@ -1794,10 +2407,38 @@
         ],
         "sources": [
             {
-                "name": "TNW Liniennetz Basel und Umgebung",
-                "source": "https://www.bvb.ch/de/wp-content/bvb/Dokumente/Liniennetzplan/2025/Liniennetz_Basel_2025.pdf"
+                "name": "TNW Liniennetz Basel und Umgebung 2026",
+                "source": "https://www.bvb.ch/wp-content/bvb/dokumente/liniennetzplan/2026/Liniennetzplan_2026.pdf"
             }
         ]
+    },
+    {
+        "shortOperatorName": "tnw-pag",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Postgelb für alle Postautos: Markenauftritt PostAuto Schweiz, Farbabklärung Barrierefreiheit",
+                "source": "https://microsites.post.ch/-/media/post-maxisites/microsites/documents/Post-RGB-Barrierefreiheit-160922.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "transn",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+            ],
+            "sources":
+            {
+                "name": "Plan de Réseau 2025",
+                "source": "https://www.transn.ch/fileadmin/transn/pdf/Plans/plan_reseau_2025_VF_sd.pdf"
+            
+            }
     },
     {
         "shortOperatorName": "uestra",
@@ -1965,6 +2606,76 @@
         ]
     },
     {
+        "shortOperatorName": "vgc-eberhardt",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan VGC",
+                "source": "https://www.vgc-online.de/downloads/pdf/strecken-tarife/VGC-Liniennetzplan.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vgc-rab",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan VGC",
+                "source": "https://www.vgc-online.de/downloads/pdf/strecken-tarife/VGC-Liniennetzplan.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vgc-rvs",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan VGC",
+                "source": "https://www.vgc-online.de/downloads/pdf/strecken-tarife/VGC-Liniennetzplan.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vgc-teinachtal-reisen",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan VGC",
+                "source": "https://www.vgc-online.de/downloads/pdf/strecken-tarife/VGC-Liniennetzplan.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vgc-volz",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan VGC",
+                "source": "https://www.vgc-online.de/downloads/pdf/strecken-tarife/VGC-Liniennetzplan.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vgn-db-sbn",
         "contributors": [
             {
@@ -2067,12 +2778,19 @@
         "contributors": [
             {
                 "github": "SpielenmitLili"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
                 "name": "RMV-Schienennetzplan 2024 mit Riedbahnsperrung 15.07.-14.12.2024",
                 "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/Schienennetzplan.pdf"
+            },
+            {
+                "name": "vlexx Liniennetzplan 2025",
+                "source": "https://www.vlexx.de/media/layout2016/laenderbahn/downloads/vlexx_Liniennetzkarte_2025_komplett_A0_quer.pdf"
             }
         ]
     },
@@ -2087,6 +2805,34 @@
             {
                 "name": "Liniennetz City-Bahn Chemnitz",
                 "source": "https://www.city-bahn.de/wp-content/uploads/2023/02/cm2_netz_v_76641.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vms-svz-bus",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Nahverkehr Zwickau",
+                "source": "https://www.nahverkehr-zwickau.de/liniennetz.php"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vms-svz-tram",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Nahverkehr Zwickau",
+                "source": "https://www.nahverkehr-zwickau.de/liniennetz.php"
             }
         ]
     },
@@ -2133,6 +2879,20 @@
         ]
     },
     {
+        "shortOperatorName": "vmt-weimar",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Weimar",
+                "source": "https://www.vmt-thueringen.de/fileadmin/VMT_Redaktion/Downloads/Lininenetzpl%C3%A4ne/NP_Weimar_screen.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vor-oebb",
         "contributors": [
             {
@@ -2175,6 +2935,80 @@
         ]
     },
     {
+        "shortOperatorName": "vpe-binder",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Regionalverkehr ab 14.12.2025",
+                "source": "https://vpe.de/pdf/uebersichtsplaene/LiniennetzplanRegioSchema_2026.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vpe-db-bus",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Regionalverkehr ab 14.12.2025",
+                "source": "https://vpe.de/pdf/uebersichtsplaene/LiniennetzplanRegioSchema_2026.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vpe-eberhardt",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Regionalverkehr ab 14.12.2025",
+                "source": "https://vpe.de/pdf/uebersichtsplaene/LiniennetzplanRegioSchema_2026.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vpe-engel",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Regionalverkehr ab 14.12.2025",
+                "source": "https://vpe.de/pdf/uebersichtsplaene/LiniennetzplanRegioSchema_2026.pdf"
+            },
+            {
+                "name": "Liniennetz Stadtbus Mühlacker ab 14.12.2025",
+                "source": "https://vpe.de/pdf/uebersichtsplaene/LiniennetzplanM%C3%BChlackerSchema_2026.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vpe-klingel",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Regionalverkehr ab 14.12.2025",
+                "source": "https://vpe.de/pdf/uebersichtsplaene/LiniennetzplanRegioSchema_2026.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vpe-pforzheim",
         "contributors": [
             {
@@ -2185,6 +3019,76 @@
             {
                 "name": "Liniennetz Stadtverkehr Pforzheim",
                 "source": "https://www.pforzheimfaehrtbus.de/wp-content/uploads/2022/11/Liniennetzplan_SV-Pforzheim_2021-2022-2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vpe-mueller",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Regionalverkehr ab 14.12.2025",
+                "source": "https://vpe.de/pdf/uebersichtsplaene/LiniennetzplanRegioSchema_2026.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vpe-seitter",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Regionalverkehr ab 14.12.2025",
+                "source": "https://vpe.de/pdf/uebersichtsplaene/LiniennetzplanRegioSchema_2026.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vpe-sweg",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Regionalverkehr ab 14.12.2025",
+                "source": "https://vpe.de/pdf/uebersichtsplaene/LiniennetzplanRegioSchema_2026.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vpe-willi-maisch",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Regionalverkehr ab 14.12.2025",
+                "source": "https://vpe.de/pdf/uebersichtsplaene/LiniennetzplanRegioSchema_2026.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vpe-woehrle",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Regionalverkehr ab 14.12.2025",
+                "source": "https://vpe.de/pdf/uebersichtsplaene/LiniennetzplanRegioSchema_2026.pdf"
             }
         ]
     },
@@ -2325,6 +3229,136 @@
         ]
     },
     {
+        "shortOperatorName": "vrn-behles",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Grünstadt und Umgebung",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/gruenstadt_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Alzey",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/alzey_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Alzey-Worms",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/alzey_worms_nord_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Lampertheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/lampertheim_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Wonnegau-Altrhein",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/wonnegau-altrhein_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-berberich-wallduern",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Neckar-Odenwald-Kreis",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/neckar_odenwald_kreis_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-brn",
+        "contributors": [
+			{
+                "github": "TheOneWithTheBraid"
+            },
+			{
+                "github": "klukas144"
+            },
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "Liniennetzplan Landkreis Germersheim",
+                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+            },
+            {
+                "name": "Liniennetzplan Heppenheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/heppenheim_schematisch_vrn.pdf"
+            },
+			{
+                "name": "Liniennetzplan Kreis Kaiserslautern",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/kreis_kaiserslautern_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Ladenburg-Schriesheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/ladenburg-schriesheim_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Leimen, St. Leon-Rot und Sandhausen",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/leimen-sandhausen-walldorf_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Neckar-Odenwald-Kreis",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/neckar_odenwald_kreis_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Neckargemünd",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/neckargemuend_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Odenwald (Kreis Bergstraße)",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/odenwald_kreisbergstrasse.pdf"
+            },
+			{
+                "name": "Liniennetzplan Odenwald Süd",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/odenwald_sued_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Pfälzer Bergland - Bus",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/pfaelzer_bergland_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Rheinpfalz",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/rheinpfalz_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Schwetzingen-Hockenheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/schwetzingen_hockenheim_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Speyer",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/speyer_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Weinheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/weinheim_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-duerk-reisen",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Frankenthal",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/frankenthal_baustellenversion2025.pdf"
+            }
+        ]
+    },
+	{
         "shortOperatorName": "vrn-hetzler-pfadt",
         "contributors": [
             {
@@ -2338,45 +3372,153 @@
             }
         ]
     },
-    {
+	{
+        "shortOperatorName": "vrn-krauss-wolff",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Donnersbergkreis",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/donnersbergkreis_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-mittelhaardt",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Neustadt a.d.Wstr.",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/neustadt_schematisch.pdf"
+            }
+        ]
+    },
+	{
         "shortOperatorName": "vrn-palatinabus",
         "contributors": [
             {
                 "github": "TheOneWithTheBraid"
+            },
+			{
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
                 "name": "Liniennetzplan Landkreis Germersheim",
                 "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Landau",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/landau_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Neustadt a.d.Wstr. und Umgebung",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/neustadt_region_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Neustadt a.d.Wstr.",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/neustadt_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Sinsheim und Umgebung",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/sinsheim_netz_schematisch.pdf"
             }
         ]
     },
-    {
-        "shortOperatorName": "vrn-regionalbus",
+	{
+        "shortOperatorName": "vrn-paul-knuehl",
         "contributors": [
             {
-                "github": "klukas144"
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
-                "name": "Liniennetzplan Ladenburg-Schriesheim",
-                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/ladenburg-schriesheim_schematisch.pdf"
+                "name": "Liniennetzplan Neckar-Odenwald-Kreis",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/neckar_odenwald_kreis_schematisch.pdf"
             }
         ]
     },
-    {
-        "shortOperatorName": "vrn-rheinpfalzbus",
+	{
+        "shortOperatorName": "vrn-qnv",
         "contributors": [
             {
                 "github": "TheOneWithTheBraid"
+            },
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "Liniennetzplan Landkreis Germersheim",
+                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+            },
+            {
+                "name": "Liniennetzplan Kreis Kaiserslautern",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/kreis_kaiserslautern_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Landau",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/landau_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Pirmasens Umland",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/pirmasens_region_schematisch.pdf"
+            },
+			{
+                "name": "Queichtal und Bad Bergzabern",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/queichtal_bad_bergzabern_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-regionalbus-westpfalz",
+        "contributors": [
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
-                "name": "Liniennetzplan Landkreis Germersheim",
-                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+                "name": "Liniennetzplan Kreis Kaiserslautern",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/kreis_kaiserslautern_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-regionalbus-zweibruecken",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Zweibrücken Umland",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/zweibruecken_umland.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-rheinfahre-altrip",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Rheinpfalz",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/rheinpfalz_schematisch.pdf"
             }
         ]
     },
@@ -2419,30 +3561,285 @@
         ]
     },
     {
+        "shortOperatorName": "vrn-ruftaxi",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Bad Dürkheim Stadt",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/bad_duerkheim_stadt_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Bensheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/bensheim_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Heppenheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/heppenheim_schematisch_vrn.pdf"
+            },
+			{
+                "name": "Liniennetzplan Pfälzer Bergland - Ruftaxi",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/pfaelzer_bergland_ruftaxi.pdf"
+            },
+			{
+                "name": "Liniennetzplan Pirmasens",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/pirmasens_stadt_schematisch.pdf"
+            },
+			{
+                "name": "Stadtliniennetzplan Buchen",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/stadtliniennetzplan_buchen_2018_web.pdf"
+            },
+			{
+                "name": "Liniennetzplan Mosbach",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/stadtliniennetzplan_mosbach_2018_web.pdf"
+            },
+			{
+                "name": "Liniennetzplan Viernheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/viernheim_schematisch.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrn-sbahn-rn",
         "contributors": [
             {
                 "github": "metrophil"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
                 "name": "Liniennetz S-Bahn Rhein-Neckar",
                 "source": "https://www.s-bahn-rheinneckar.de/fahrplan/streckenfpl"
+            },
+            {
+                "name": "Streckenkarte der S-Bahn Rhein-Neckar (gültig ab 14.12.2025)",
+                "source": "https://assets.static-bahn.de/dam/jcr:c957cf88-5b83-4596-a789-40d3889514eb/20251002_LN_S-Bahn_RN_oRE73_25_847x365.pdf"
             }
         ]
     },
     {
-        "shortOperatorName": "vrn-qnv-queichtal-nahverkehr",
+        "shortOperatorName": "vrn-sw-bad-duerkheim",
         "contributors": [
             {
-                "github": "TheOneWithTheBraid"
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
-                "name": "Liniennetzplan Landkreis Germersheim",
-                "source:": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/germersheim_schematisch.pdf"
+                "name": "Liniennetzplan Bad Dürkheim Stadt",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/bad_duerkheim_stadt_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-sw-eberbach",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Eberbach",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/eberbach_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-swk-kl",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Nachtbus Liniennetz Kaiserslautern",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/kaiserslautern_nacht_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Kaiserslautern",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/kaiserslautern_schematisch_s25.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-sw-pirmasens",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Pirmasens",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/pirmasens_stadt_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-sw-viernheim",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Viernheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/viernheim_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-sw-zweibruecken",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Stadt Zweibrücken",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/zweibruecken-schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-sweg",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Schwetzingen-Hockenheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/schwetzingen_hockenheim_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Sinsheim und Umgebung",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/sinsheim_netz_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Sinsheim Stadt",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/sinsheim_stadt_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Wiesloch-Walldorf und Umgebung",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/wiesloch_walldorf_schematisch.pdf"
+            },
+			{
+                "name": "KVV Liniennetzplan Bus Nördlicher Landkreis Karlsruhe 2026",
+                "source": "https://www.kvv.de/fileadmin/user_upload/kvv/Dateien/Fahrplaene_Netzplaene/Bus/KVV-Liniennetzplan_Busnetz-Noerdlicher-Landkreis-Karlsruhe.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-vgmt",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Main-Tauber-Kreis",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/main-tauber-kreis_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Neckar-Odenwald-Kreis",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/neckar_odenwald_kreis_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-vgg-gersprenztal",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Bensheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/bensheim_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Bürstadt",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/buerstadt_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Heppenheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/heppenheim_schematisch_vrn.pdf"
+            },
+			{
+                "name": "Liniennetzplan Odenwald (Kreis Bergstraße)",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/odenwald_kreisbergstrasse.pdf"
+            },
+			{
+                "name": "Liniennetzplan Odenwald Süd",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/odenwald_sued_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-walter-mueller-biblis",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Bürstadt",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/buerstadt_schematisch.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vrn-zarth",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Bürstadt",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/buerstadt_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Lampertheim",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/lampertheim_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Hessisches Ried",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/ried_schematisch.pdf"
+            },
+			{
+                "name": "Liniennetzplan Worms",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/worms_schematisch.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vrr-bvr",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Linienplan Velbert/Wülfrath",
+                "source": "https://www.vrr.de/fileadmin/user_upload/pdf/Stadtlinienplaene/Velbert.pdf"
             }
         ]
     },
@@ -2629,35 +4026,6 @@
         ]
     },
     {
-        "shortOperatorName": "vrs-bus",
-        "contributors": [
-            {
-                "github": "chloe-haj"
-            },
-            {
-                "github": "luna-cant-code"
-            }
-        ],
-        "sources": [
-            {
-                "name": "KVB Busse in Köln 2024 - gesamt",
-                "source": "https://www.kvb.koeln/fahrtinfo/liniennetzplaene.html?INCLUDEMODUL=dokumente_einzeln2.mod/inc.download.php&downDokument=5078"
-            },
-            {
-                "name": "SWB Liniennetz Busse linksrheinisch 2024",
-                "source": "https://www.swb-busundbahn.de/fileadmin/fahrplandateien/liniennetzplaene/SLNP_Bonn_LiRhein.pdf"
-            },
-            {
-                "name": "wupsi Busnetz Leverusen 2024",
-                "source": "https://www.wupsi.de/fileadmin/user_upload/Busnetz_Leverkusen_2024.pdf"
-            },
-            {
-                "name": "Bergischer FahrradBus-Flyer",
-                "source": "https://www.dasbergische.de/aktiv-entspannen/radfahren/bergischer-fahrradbus"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "vrs-kvb",
         "contributors": [
             {
@@ -2733,6 +4101,10 @@
             {
                 "name": "SWB Liniennetz Busse linksrheinisch 2024",
                 "source": "https://www.swb-busundbahn.de/fileadmin/fahrplandateien/liniennetzplaene/SLNP_Bonn_LiRhein.pdf"
+            },
+            {
+                "name": "SWB Nachtnetz 2025",
+                "source": "https://www.swb-busundbahn.de/fileadmin/fahrplandateien/liniennetzplaene/Nachtnetz_Bonn.pdf"
             }
         ]
     },
@@ -2752,8 +4124,12 @@
                 "source": "https://www.kvb.koeln/fahrtinfo/liniennetzplaene.html?INCLUDEMODUL=dokumente_einzeln2.mod/inc.download.php&downDokument=5078"
             },
             {
-                "name": "wupsi Busnetz Leverusen 2024",
-                "source": "https://www.wupsi.de/fileadmin/user_upload/Busnetz_Leverkusen_2024.pdf"
+                "name": "wupsi Busnetz Leverusen 2025",
+                "source": "https://www.wupsi.de/fileadmin/wupsi.de/Fahrinfo/Linien/Liniennetz/Busnetz2025_Leverkusen_neu.pdf"
+            },
+            {
+                "name": "wupsi Busnetz Rheinisch-Bergischer-Kreis 2025",
+                "source": "https://www.wupsi.de/fileadmin/wupsi.de/Fahrinfo/Linien/Liniennetz/Busnetz2025_RheinischBergischerKreis_neu.pdf"
             }
         ]
     },
@@ -2941,6 +4317,34 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-fischle",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Esslingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-esslingen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-frank-stoeckle",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Landkreis Göppingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-fmo",
         "contributors": [
             {
@@ -2951,6 +4355,24 @@
             {
                 "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
                 "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+            },
+            {
+                "name": "Fahrplan-Merker 2026",
+                "source": "https://www.waiblingen.de/ceasy/resource/?id=29535&download=1"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-hildenbrand",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Landkreis Göppingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
             }
         ]
     },
@@ -2969,6 +4391,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-nachtbus",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Nachtverkehr im VVS",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Nachtverkehr/Nachtverkehr_im_VVS.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-osb",
         "contributors": [
             {
@@ -2979,6 +4415,98 @@
             {
                 "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
                 "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-ovg",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Landkreis Göppingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-ovr",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Fahrplan-Merker 2026",
+                "source": "https://www.waiblingen.de/ceasy/resource/?id=29535&download=1"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-rab",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Landkreis Göppingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-relex",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Expressbus-Liniennetz",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Expressbus-Liniennetz.pdf"
+            },
+            {
+                "name": "Bus-Liniennetz Landkreis Göppingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-ruftaxi",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Nachtverkehr im VVS",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Nachtverkehr/Nachtverkehr_im_VVS.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-schlienz",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Esslingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-esslingen.pdf"
+            },
+            {
+                "name": "Fahrplan-Merker 2026",
+                "source": "https://www.waiblingen.de/ceasy/resource/?id=29535&download=1"
             }
         ]
     },
@@ -3024,6 +4552,20 @@
             {
                 "name": "Netzplan Stadtbahn Stuttgart",
                 "source": "https://download.vvs.de/Stadtbahn_Liniennetz.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-sve",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Esslingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-esslingen.pdf"
             }
         ]
     },
@@ -3204,6 +4746,10 @@
             {
                 "name": "01-Schemaplan-2023-08-24",
                 "source": "https://www.nph.de/de-wAssets/docs/oepnv/angebot/Liniennetzplaene/01-Schemaplan-2023-08-24.pdf"
+            },
+            {
+                "name": "Interaktiver Netzplan fahr mit",
+                "source": "https://netzplan.fahr-mit.de/index.php/de/karte/init/haltestelle/523"
             }
         ]
     },
@@ -3218,6 +4764,10 @@
             {
                 "name": "01-Schemaplan-2023-08-24",
                 "source": "https://www.nph.de/de-wAssets/docs/oepnv/angebot/Liniennetzplaene/01-Schemaplan-2023-08-24.pdf"
+            },
+            {
+                "name": "Interaktiver Netzplan fahr mit",
+                "source": "https://netzplan.fahr-mit.de/index.php/de/karte/init/haltestelle/523"
             }
         ]
     },
@@ -3285,6 +4835,20 @@
             {
                 "name": "NachtBus-Linie N14: Fahrplan & Linienweg",
                 "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/NachtBus/N14_Fahrplan_und_Linienweg.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wt-nph-ne",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "NachtExpress-Liniennetz 2024",
+                "source": "https://www.fahr-mit.de/fahr-mit-wAssets/docs/fahrplan-und-liniennetz/NachtExpress-Liniennetz_2024.pdf"
             }
         ]
     },
@@ -3365,6 +4929,20 @@
             {
                 "name": "Liniennetzplan Stadtbus Gütersloh",
                 "source": "https://www.stadtbus-gt.de/multi-wGlobal/wGlobal/scripts/accessDocument.php?forceDownload=1&document=/stadtbus-wAssets/docs/liniennetz/Liniennetzplan_Stadtbus_Guetersloh.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wt-svh",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Herford",
+                "source": "https://owlverkehr.de/pdf/Liniennetzpl%C3%A4ne/Liniennetzplan-Herford_ab_1._Dezember_2025.PDF"
             }
         ]
     },
@@ -3469,6 +5047,24 @@
             {
                 "name": "Netzplan",
                 "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "zvv-vbz",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Stadt Zürich 2026",
+                "source": "https://www.zvv.ch/content/dam/zvv/publikationen/netzpl%C3%A4ne/stadt-zuerich.pdf"
+            },
+            {
+                "name": "Nachtbus Netzplan geographisch",
+                "source": "https://www.stadt-zuerich.ch/content/dam/vbz/de/fahrplan/nachtnetz/netzplan-nachtnetz-vbz.pdf"
             }
         ]
     }

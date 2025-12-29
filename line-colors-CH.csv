@@ -1,0 +1,399 @@
+shortOperatorName,lineName,backgroundColor,textColor,borderColor,shape,wikidataQid,GTFSAgencyID,GTFSAgencyName
+liemobil,11,#fdc300,#000000,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,12,#283583,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,12E,#6e6ba9,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,13,#3fa535,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,13E,#3fa535,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,14,#cd1719,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,21,#007a8c,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,22,#6fa8b3,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,24,#0095db,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,26,#f39200,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,31,#ed6a5b,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,32,#a41753,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,33,#944127,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,35,#c7b649,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,36E,#9e1981,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,37,#4a5da7,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,38,#4d3078,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,40,#7b6a58,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,44,#bdbcbc,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,46,#35434f,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,48,#8b696b,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,N1,#6f6352,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,N2,#e64d33,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,N3,#80b333,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,N4,#666666,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,B,#e64d33,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+liemobil,C,#666666,#ffffff,,rectangle,,805,Verkehrsbetrieb LIECHTENSTEINmobil
+mobiju-pag,1,#0064e9,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,2,#ef2c2c,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,6,#ff8021,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,7,#8800a3,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,8,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,11,#ab3900,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,20,#7d538f,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,21,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,22,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,32,#0064e9,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,33,#ef2c2c,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,34,#60af00,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,35,#dbdbdb,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,41,#ff8021,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,50,#0064e9,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,51,#ef2c2c,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,52,#60af00,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,61,#0064e9,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,62,#ef2c2c,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,70,#0064e9,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,71,#ef2c2c,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,72,#60af00,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,73,#ff8021,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,74,#8800a3,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,75,#fbf500,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,76,#f57eec,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,77,#ace6ff,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,78,#c1f6be,#000000,,rectangle,,801,PostAuto AG
+mobiju-pag,81,#ab3900,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,N10,#000000,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,N21,#000000,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,N22,#000000,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,N23,#000000,#ffffff,,rectangle,,801,PostAuto AG
+mobiju-pag,N26,#000000,#ffffff,,rectangle,,801,PostAuto AG
+ostwind-ab,S 15,#845534,#ffffff,,rectangle-rounded-corner,Q108572678,22,Appenzeller Bahnen
+ostwind-ab,S 20,#b6522b,#ffffff,,rectangle-rounded-corner,Q108602592,22,Appenzeller Bahnen
+ostwind-ab,S 21,#00908c,#ffffff,,rectangle-rounded-corner,Q106455085,22,Appenzeller Bahnen
+ostwind-ab,S 22,#b80e80,#ffffff,,rectangle-rounded-corner,Q108602620,22,Appenzeller Bahnen
+ostwind-ab,S 23,#c99115,#ffffff,,rectangle-rounded-corner,Q108602663,22,Appenzeller Bahnen
+ostwind-ab,S 24,#3aaa35,#ffffff,,rectangle-rounded-corner,Q108602649,22,Appenzeller Bahnen
+ostwind-ab,S 25,#72a8db,#ffffff,,rectangle-rounded-corner,Q108602682,22,Appenzeller Bahnen
+ostwind-ab,S 26,#b85f5c,#ffffff,,rectangle-rounded-corner,Q108602736,22,Appenzeller Bahnen
+ostwind-ab,841,#000000,#ffffff,,rectangle,,744,Automobildienst Appenzeller Bahnen
+ostwind-vbsh,1,#006834,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,3,#d54a07,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,4,#2c2c2b,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,5,#009dd4,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,6,#fdc300,#000000,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,7,#9c0b08,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,8,#52348b,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,9,#005ca9,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,10,#aecc45,#ffffff,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,21,#cc112e,#ffffff,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,22,#c9cacd,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,23,#00a870,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,24,#d24f97,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,25,#ef7c00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,27,#007a43,#ffffff,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,28,#831d81,#ffffff,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N1,#ffed00,#000000,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N2,#ffed00,#000000,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N3,#ffed00,#000000,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N4,#ffed00,#000000,,rectangle,,836,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N22,#ffed00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N23,#ffed00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N24,#ffed00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N25,#ffed00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N76,#ffed00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+ostwind-vbsh,N76,#ffed00,#000000,,rectangle,,846,Verkehrsbetriebe Schaffhausen
+rhb,IR38,#ea8c00,#ffffff,,rectangle,Q135618857,72,Rhätische Bahn
+rhb,RE1,#25a9aa,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE2,#a97400,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE3,#25a9aa,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE4,#a97400,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE6,#00549d,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE7,#941680,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE8,#683419,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE9,#008a39,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE13,#25a9aa,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,RE24,#a97400,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,R15,#c80205,#ffffff,,rectangle,Q135623643,72,Rhätische Bahn
+rhb,R16,#438bc3,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,R19,#a2bb04,#ffffff,,rectangle,,72,Rhätische Bahn
+rhb,S1,#d40074,#ffffff,,rectangle,Q115756382,72,Rhätische Bahn
+rhb,S2,#e8ac00,#ffffff,,rectangle,Q115756448,72,Rhätische Bahn
+s-bahn-bern-bls,S 1,#50b447,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 2,#1cb1e6,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 3,#8868b3,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 31,#b0aa38,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 4,#53c4af,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 44,#646026,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 5,#881c3f,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 51,#9cc843,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 52,#f7cf39,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-bls,S 6,#f84e4d,#ffffff,,rectangle,,33,BLS AG (bls)
+s-bahn-bern-rbs,S 7,#ff812d,#ffffff,,rectangle,,88,Regionalverkehr Bern-Solothurn
+s-bahn-bern-rbs,S 8,#191918,#ffffff,,rectangle,,88,Regionalverkehr Bern-Solothurn
+s-bahn-bern-rbs,S 9,#fa2d18,#ffffff,,rectangle,,88,Regionalverkehr Bern-Solothurn
+s-bahn-zentralschweiz-bls,S 6,#0165b6,#ffffff,,rectangle-rounded-corner,,33,BLS AG (bls)
+s-bahn-zentralschweiz-bls,S 7,#73c0e8,#ffffff,,rectangle-rounded-corner,,33,BLS AG (bls)
+s-bahn-zentralschweiz-bls,S 77,#7a84c4,#ffffff,,rectangle-rounded-corner,,33,BLS AG (bls)
+s-bahn-zentralschweiz-sbb,S 1,#1bb04d,#ffffff,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen SBB
+s-bahn-zentralschweiz-sbb,S 2,#f93f27,#ffffff,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen SBB
+s-bahn-zentralschweiz-sbb,S 3,#fe7d25,#ffffff,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen SBB
+s-bahn-zentralschweiz-sbb,S 9,#a3cf45,#ffffff,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen SBB
+s-bahn-zentralschweiz-sbb,S 99,#95b15e,#ffffff,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen SBB
+s-bahn-zentralschweiz-zb,S 4,#aa2a3f,#ffffff,,rectangle-rounded-corner,,86,Zentralbahn
+s-bahn-zentralschweiz-zb,S 41,#055d80,#ffffff,,rectangle-rounded-corner,,86,Zentralbahn
+s-bahn-zentralschweiz-zb,S 44,#d35d68,#ffffff,,rectangle-rounded-corner,,86,Zentralbahn
+s-bahn-zentralschweiz-zb,S 5,#fb47a3,#ffffff,,rectangle-rounded-corner,,86,Zentralbahn
+s-bahn-zentralschweiz-zb,S 55,#fc87bf,#ffffff,,rectangle-rounded-corner,,86,Zentralbahn
+schweiz-fernverkehr-bls,IR 17,#2d4c95,#ffffff,,rectangle-rounded-corner,Q115987430,33,BLS AG (bls)
+schweiz-fernverkehr-bls,IR 56,#ba4e97,#ffffff,,rectangle-rounded-corner,Q137386184,33,BLS AG (bls)
+schweiz-fernverkehr-bls,IR 65,#0077ba,#ffffff,,rectangle-rounded-corner,Q116053231,33,BLS AG (bls)
+schweiz-fernverkehr-bls,IR 66,#2faeb3,#ffffff,,rectangle-rounded-corner,Q116053240,33,BLS AG (bls)
+schweiz-fernverkehr-sbb,IC,#575756,#ffffff,,rectangle-rounded-corner,Q130471236,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 1,#dd3221,#ffffff,,rectangle-rounded-corner,Q115929517,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 2,#9185be,#ffffff,,rectangle-rounded-corner,Q115932323,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 3,#008c3c,#ffffff,,rectangle-rounded-corner,Q115932338,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 5,#f39200,#ffffff,,rectangle-rounded-corner,Q115932346,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 6,#95c11f,#ffffff,,rectangle-rounded-corner,Q115932382,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 8,#0090d7,#ffffff,,rectangle-rounded-corner,Q115932389,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 21,#fec800,#000000,,rectangle-rounded-corner,Q115932392,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 51,#ae0f0a,#ffffff,,rectangle-rounded-corner,Q115932401,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 61,#ea5297,#ffffff,,rectangle-rounded-corner,Q115932445,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IC 81,#aac8df,#ffffff,,rectangle-rounded-corner,Q115932454,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 13,#2faeb3,#ffffff,,rectangle-rounded-corner,Q115973517,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 15,#1daf8e,#ffffff,,rectangle-rounded-corner,Q115973525,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 16,#a36c22,#ffffff,,rectangle-rounded-corner,Q115987375,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 27,#687222,#ffffff,,rectangle-rounded-corner,Q115987465,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 35,#00571f,#ffffff,,rectangle-rounded-corner,Q115996431,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 36,#af1870,#ffffff,,rectangle-rounded-corner,Q116052855,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 37,#c5d984,#000000,,rectangle-rounded-corner,Q116052863,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 55,#b3a400,#ffffff,,rectangle-rounded-corner,Q137407349,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 57,#898e40,#ffffff,,rectangle-rounded-corner,Q137194696,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 70,#f193bd,#000000,,rectangle-rounded-corner,Q116053265,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 75,#7b468f,#ffffff,,rectangle-rounded-corner,Q116053272,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 90,#0078a1,#ffffff,,rectangle-rounded-corner,Q115973464,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,IR 95,#8c2c6b,#ffffff,,rectangle-rounded-corner,Q131548730,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,RE 6,#5b1b47,#ffffff,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,RE 33,#006262,#ffffff,,rectangle-rounded-corner,Q131550276,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,RE 37,#f6af95,#2c2e35,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sbb,RE 48,#c1ac6c,#ffffff,,rectangle-rounded-corner,,11,Schweizerische Bundesbahnen
+schweiz-fernverkehr-sob,IR 13,#2faeb3,#ffffff,,rectangle-rounded-corner,,82,Schweizerische Südostbahn (sob)
+schweiz-fernverkehr-sob,IR 26,#b69495,#ffffff,,rectangle-rounded-corner,Q115987448,82,Schweizerische Südostbahn (sob)
+schweiz-fernverkehr-sob,IR 35,#00571f,#ffffff,,rectangle-rounded-corner,,82,Schweizerische Südostbahn (sob)
+schweiz-fernverkehr-sob,IR 46,#006789,#ffffff,,rectangle-rounded-corner,Q116052876,82,Schweizerische Südostbahn (sob)
+tnw-aagl,70,#ffdd00,#000000,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,71,#95c11f,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,72,#5a6f85,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,74,#a36009,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,75,#7b77b6,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,76,#00a7a6,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,78,#f39200,#000000,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,80,#e4032e,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,81,#f088b6,#000000,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,82,#13a538,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-aagl,83,#0094d2,#ffffff,,rectangle,,811,Autobus AG Liestal
+tnw-blt,10,#ffcc00,#000000,,rectangle-rounded-corner,Q7885420,37,Baselland Transport
+tnw-blt,11,#e30613,#ffffff,,rectangle-rounded-corner,Q3239102,37,Baselland Transport
+tnw-blt,12,#9471ad,#ffffff,,rectangle-rounded-corner,Q106925455,37,Baselland Transport
+tnw-blt,17,#009fe3,#ffffff,,rectangle-rounded-corner,Q16854977,37,Baselland Transport
+tnw-blt,19,#7c217d,#ffffff,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,37,#d0d0d0,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,47,#aeaeae,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,49,#d0d0d0,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,56,#d0d0d0,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,58,#aeaeae,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,59,#aeaeae,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,60,#d0d0d0,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,61,#aeaeae,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,62,#aeaeae,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,63,#d0d0d0,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,64,#d0d0d0,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,65,#aeaeae,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,66,#aeaeae,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,92,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,93,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,105,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,106,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,107,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,108,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,109,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-blt,110,#bec2c3,#000000,,rectangle-rounded-corner,,37,Baselland Transport
+tnw-bvb,1,#81492b,#ffffff,,rectangle-rounded-corner,Q16854970,823,Basler Verkehrsbetriebe
+tnw-bvb,2,#ab8248,#ffffff,,rectangle-rounded-corner,Q16854978,823,Basler Verkehrsbetriebe
+tnw-bvb,3,#3b4395,#ffffff,,rectangle-rounded-corner,Q16854981,823,Basler Verkehrsbetriebe
+tnw-bvb,6,#0069b4,#ffffff,,rectangle-rounded-corner,Q16854982,823,Basler Verkehrsbetriebe
+tnw-bvb,8,#ed6ea7,#ffffff,,rectangle-rounded-corner,Q16854983,823,Basler Verkehrsbetriebe
+tnw-bvb,14,#ef7d00,#ffffff,,rectangle-rounded-corner,Q16854972,823,Basler Verkehrsbetriebe
+tnw-bvb,15,#009640,#ffffff,,rectangle-rounded-corner,Q16854974,823,Basler Verkehrsbetriebe
+tnw-bvb,16,#afca0b,#000000,,rectangle-rounded-corner,Q16854975,823,Basler Verkehrsbetriebe
+tnw-bvb,21,#00a295,#ffffff,,rectangle-rounded-corner,Q16854979,823,Basler Verkehrsbetriebe
+tnw-bvb,30,,#aeaeae,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,31,,#aeaeae,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,32,,#aeaeae,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,33,,#d0d0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,34,,#aeaeae,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,35,,#d0d0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,36,,#aeaeae,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,38,,#d0d0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,42,,#d0d0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,45,,#aeaeae,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,46,,#d0d0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,48,,#aeaeae,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-bvb,50,,#d0d0d0,#000000,,rectangle-rounded-corner,,823,Basler Verkehrsbetriebe
+tnw-pag,67,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,68,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,69,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,73,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,77,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,84,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,85,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,86,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,88,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,89,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,90,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,94,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,99,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,100,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,101,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,102,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,103,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,104,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,111,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,112,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,113,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,114,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,115,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,116,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,117,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,118,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,119,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,133,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,134,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,135,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,136,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,137,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,139,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,141,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,142,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,143,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,144,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+tnw-pag,149,#ffcc00,#000000,,rectangle,,801,PostAuto AG
+transn,101,#312783,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,102,#4a96d2,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,106,#d682b5,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,107,#e30613,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,108,#00854c,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,109,#951b81,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,110,#7dcdbe,#000000,,pill,,166,Funiculaire Neuchâtel-Université - Neuchâtel-Gare
+transn,111,#d7e141,#000000,,pill,,15300,Transports Publics Neuchâtelois SA
+transn,112,#009155,#ffffff,,pill,,15300,Transports Publics Neuchâtelois SA
+transn,120,#ef7d00,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,121,#95c11f,#ffffff,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,122,#8acbc1,#000000,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,301,#312783,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,302,#e30613,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,303,#dedd26,#000000,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,304,#00854c,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,310,#d682b5,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,311,#ef7d00,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,312,#951b81,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,341,#423e8d,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,342,#e30613,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,343,#912891,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,352,#e30613,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,353,#dedd26,#000000,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,354,#00854c,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,360,#4a96d2,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,361,#8acbc1,#000000,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,370,#e6007e,#ffffff,,pill,,792,Transports Publics Neuchâtelois SA (tc)
+transn,421,#dedd26,#000000,,pill,,153,Transports Publics Neuchâtelois SA (tn)
+transn,422,#d682b5,#ffffff,,pill,,156,Service d'automobiles TRN (vr)
+transn,423,#00854c,#ffffff,,pill,,156,Service d'automobiles TRN (vr)
+transn,425,#e6007e,#ffffff,,pill,,156,Service d'automobiles TRN (vr)
+transn,426,#4696d2,#ffffff,,pill,,156,Service d'automobiles TRN (vr)
+transn,590,#e30613,#ffffff,,pill,,156,Service d'automobiles TRN (vr)
+transn,591,#00854c,#ffffff,,pill,,156,Service d'automobiles TRN (vr)
+transn,R15,#7dcdbe,#000000,,pill,Q115756883,44,Transports Publics Neuchâtelois SA (cmn)
+transn,R21,#912891,#ffffff,,pill,,73,Transports Publics Neuchâtelois SA (rvt)
+transn,R22,#78af41,#ffffff,,pill,,44,Transports Publics Neuchâtelois SA (cmn)
+transn,R24,#d282b4,#ffffff,,pill,,44,Transports Publics Neuchâtelois SA (cmn)
+zvv-vbz,2,#e30613,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,3,#009e3d,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,4,#4c3c90,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,5,#955b29,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,6,#dda145,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,7,#1d1d1b,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,8,#afca0b,#000000,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,9,#4c3c90,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,10,#e8308a,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,11,#009e3d,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,12,#8cd0e5,#000000,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,13,#ffd500,#000000,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,14,#009fe3,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,15,#e30613,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,17,#a31f65,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,23,#ffffff,#1d1d1b,#1d1d1b,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,24,#ffffff,#1d1d1b,#1d1d1b,rectangle-rounded-corner,,165,Poly-Bahn Zürich
+zvv-vbz,25,#ffffff,#1d1d1b,#1d1d1b,rectangle-rounded-corner,,164,Dolderbahn Betriebs AG
+zvv-vbz,31,#a3a8d3,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,32,#ddb7d7,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,33,#ede7aa,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,37,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,38,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,39,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,40,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,42,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,44,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,45,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,46,#cce0aa,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,50,#1d1d1b,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,51,#1d1d1b,#ffffff,,rectangle-rounded-corner,,3849,Verkehrsbetriebe Zürich INFO+
+zvv-vbz,61,#a59d96,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,62,#d9cec1,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,64,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,66,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,67,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,70,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,72,#daafa0,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,73,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,75,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,76,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,77,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,78,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,80,#d9dec4,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,83,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,89,#d9cec1,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,91,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,99,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,161,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,165,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,184,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,185,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,307,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,701,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,703,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,704,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,743,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,745,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,751,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,912,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,916,#ffffff,#1d1d1b,#86c2eb,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N1,#007889,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N2,#e20a16,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N3,#00892f,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N4,#11296f,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N5,#724523,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N6,#ca7e3c,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N7,#000000,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N8,#8ab51e,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N9,#8276aa,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N10,#e12472,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N11,#00892f,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N12,#92d6e3,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N13,#ffc002,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N14,#008dc5,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N15,#b41e8e,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N16,#103752,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N17,#8f224e,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N18,#c97eb5,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N30,#eb5d55,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N33,#007889,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N34,#5c328a,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N36,#ffc002,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N46,#cce0aa,#000000,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N71,#008dc5,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N74,#8f224e,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N75,#f35f4c,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
+zvv-vbz,N91,#463378,#ffffff,,rectangle-rounded-corner,,849,Verkehrsbetriebe Zürich
