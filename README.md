@@ -1,17 +1,23 @@
 # Public transport line colors
 
 This repository is made for collecting line colors in public transport lines.
-It is mainly focused on German public transport lines, but more lines are welcome.
+Because of our switch to Transitous, colors from countries other than Germany can now be collected and used as well.
+If your feed does not yet have its own .csv file and you would like to contribute colours, you can create a .csv (e.g. `line-colors-xxx.csv`) and submit it via a pull request (or open an issue).
 
 ## Structure
+
+First, you need to determine which file to use:
+- `line-colors.csv` is used for the `DELFI` feed (Germany)
+- `line-colors-CH.csv` is used for the `opentransportdata.swiss` feed (Switzerland)
+- `line-colors-VBN.csv` is used for the `VBN` feed (Verkehrsverbund Bremen-Niedersachsen)
 
 The `line-colors.csv` contains several columns:
 
 - `shortOperatorName`: Short operator name (i.e. vehicle keeper marking/"Halterkürzel" or another identifier for EVU)
   and a local transport network abbreviation
 - `lineName`: Displayed line name
-- `hafasOperatorCode`: DEPRECATED - used to identify the correct line, if line id is not distinct. Can be empty!
-- `hafasLineId`: DEPRECATED - identifies the HAFAS line - you can get this by requesting a departure for the line from
+- `hafasOperatorCode` - only present in line-colors.csv: DEPRECATED - used to identify the correct line, if line id is not distinct. Can be empty!
+- `hafasLineId` - only present in line-colors.csv: DEPRECATED - identifies the HAFAS line - you can get this by requesting a departure for the line from
   HAFAS (i.e.
   using [db-rest playground](https://petstore.swagger.io/?url=https%3A%2F%2Fv6.db.transport.rest%2F.well-known%2Fservice-desc%0A))
 - `backgroundColor`: Color-Hexcode for the display background color
@@ -25,9 +31,9 @@ The `line-colors.csv` contains several columns:
     - `pill`: Rectangle with completely rounded corners
     - `trapezoid` A trapezoid shape with a broad top and a narrow bottom side
 - `wikidataQid`: Wikidata QID for the line (if available, can be empty)
-- `delfiAgencyID`: Agency ID (for example train operating company) that is used in the DELFI GTFS feed (if available,
-  can be empty - You can find the delfiAgencyID in [DELFI's GTFS dataset](https://www.opendata-oepnv.de/ht/de/datensaetze/sharing?tx_vrrkit_view%5Bsharing%5D=eyJkYXRhc2V0IjoiZGV1dHNjaGxhbmR3ZWl0ZS1zb2xsZmFocnBsYW5kYXRlbi1ndGZzIn0))
-- `delfiAgencyName`: Agency name that is used in the DELFI GTFS feed (if available, can be empty)
+- `delfiAgencyID`/`GTFSAgencyID`: Agency ID (for example train operating company) that is used in the (DELFI) GTFS feed
+ You can find the delfiAgencyID in [DELFI's GTFS dataset](https://www.opendata-oepnv.de/ht/de/datensaetze/sharing?tx_vrrkit_view%5Bsharing%5D=eyJkYXRhc2V0IjoiZGV1dHNjaGxhbmR3ZWl0ZS1zb2xsZmFocnBsYW5kYXRlbi1ndGZzIn0)), otherwise it's the agency name and ID stated in your network's GTFS file
+- `delfiAgencyName`/`GTFSAgencyName`: Agency name that is used in the (DELFI) GTFS feed
 
 ## Projects using this data
 
