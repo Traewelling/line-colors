@@ -356,6 +356,17 @@ dwe-dessau,DWE,dessau-worlitzer-eisenbahn,dwe,#ffffff,#000000,#000000,rectangle,
 erfurter-bahn,RB 13,erfurter-bahn-gmbh,rb-13,#24b27d,#ffffff,,rectangle,,8654,Erfurter Bahn
 erfurter-bahn,RB 40,erfurter-bahn-gmbh,rb-40,#24b27d,#ffffff,,rectangle,,8654,Erfurter Bahn
 erfurter-bahn,RB 50,erfurter-bahn-gmbh,rb-50,#24b27d,#ffffff,,rectangle,,8654,Erfurter Bahn
+infrago-GS-HA-W-K,RB48,,,#55ace0,#ffffff,,pill,,10913,National Express
+infrago-GS-HA-W-K,RB48X,,,#68ab44,#ffffff,,pill,,10913,National Express
+infrago-GS-HA-W-K,RE4,,,#ffd204,#000000,,pill,,10913,National Express
+infrago-GS-HA-W-K,RE7X,,,#f69324,#ffffff,,pill,,10913,National Express
+infrago-GS-HA-W-K,RE13,,,#7f5c1e,#ffffff,,pill,,11049,Eurobahn
+infrago-GS-HA-W-K,RE49,,,#fdc210,#000000,,pill,,10436,DB Regio AG NRW
+infrago-GS-HA-W-K,S7,,,#bc6b28,#ffffff,,pill,,14173,RheinRuhrBahn
+infrago-GS-HA-W-K,S8,,,#397325,#ffffff,,pill,,10436,DB Regio AG NRW
+infrago-GS-HA-W-K,S9,,,#54207a,#ffffff,,pill,,10436,DB Regio AG NRW
+infrago-GS-HA-W-K,S28,,,#00a89c,#ffffff,,pill,,10894,REGIOBAHN
+infrago-GS-HA-W-K,S68,,,#f69324,#ffffff,,pill,,10436,DB Regio AG NRW
 hans,RB16,hanseatische-eisenbahn-gmbh,rb-16,#775fb0,#ffffff,,rectangle,,10927,Hanseatische Eisenbahn GmbH
 hans,RB33,hanseatische-eisenbahn-gmbh,rb-33,#ed1c24,#ffffff,,rectangle,,10927,Hanseatische Eisenbahn GmbH
 hans,RB34,hanseatische-eisenbahn-gmbh,rb-34,#0066ad,#ffffff,,rectangle,,10927,Hanseatische Eisenbahn GmbH
@@ -1259,7 +1270,6 @@ nrw-regional,RE 9,db-regio-ag-nrw,re-9,#401446,#ffffff,,rectangle-rounded-corner
 nrw-regional,RE 10,rheinruhrbahn-transdev,rrb-re10,#e66caf,#ffffff,,rectangle-rounded-corner,,14173,RheinRuhrBahn
 nrw-regional,RE 11,national-express,re-11,#5accc2,#ffffff,,rectangle-rounded-corner,,10913,National Express
 nrw-regional,RE 12,db-regio-ag-nrw,re-12,#ad294c,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
-nrw-regional,RE 13,eurobahn,re-13,#7f5c1e,#ffffff,,rectangle-rounded-corner,,11049,Eurobahn
 nrw-regional,RE 14,rheinruhrbahn-transdev,rrb-re14,#003328,#ffffff,,rectangle-rounded-corner,,14173,RheinRuhrBahn
 nrw-regional,RE 16,vias-rail-gmbh,via-re16,#0e5778,#ffffff,,rectangle-rounded-corner,,10933,VIAS Rail GmbH
 nrw-regional,RE 17,db-regio-ag-nrw,re-17,#489b40,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
@@ -1294,7 +1304,6 @@ nrw-regional,RE 44,rheinruhrbahn-transdev,rrb-re44,#6294b0,#ffffff,,rectangle-ro
 nrw-regional,RB 46,vias-rail-gmbh,via-rb46,#7a7c80,#ffffff,,rectangle-rounded-corner,,10933,VIAS Rail GmbH
 nrw-regional,RE 47,regiobahn,r-re-47,#66cdec,#ffffff,,rectangle-rounded-corner,,10894,REGIOBAHN
 nrw-regional,RB 48,national-express,rb-48,#7a7c80,#ffffff,,rectangle-rounded-corner,,10913,National Express
-nrw-regional,RE 49,db-regio-ag-nrw,re-49,#c4836b,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
 nrw-regional,RB 50,eurobahn,rb-50,#7a7c80,#ffffff,,rectangle-rounded-corner,,11049,Eurobahn
 nrw-regional,RB 51,db-regio-ag-nrw,rb-51,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
 nrw-regional,RB 52,db-regio-ag-nrw,rb-52,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
@@ -1336,15 +1345,11 @@ nrw-sbahn,S 3,db-regio-ag-nrw,4-8003l1-3,#fff200,#000000,,pill,,10436,DB Regio A
 nrw-sbahn,S 4,db-regio-ag-nrw,4-800337-4,#f5821f,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 5,db-regio-ag-nrw,4-800354-5,#80c342,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 6,db-regio-ag-nrw,4-8003s-6,#e21d3c,#ffffff,,pill,,10436,DB Regio AG NRW
-nrw-sbahn,S 7,rheinruhrbahn-transdev,4-tdrr-s7,#00afb5,#ffffff,,pill,,14173,RheinRuhrBahn
-nrw-sbahn,S 8,db-regio-ag-nrw,4-800354-8,#b23815,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 9,db-regio-ag-nrw,4-8003l1-9,#c6168d,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 11,db-regio-ag-nrw,4-8003s-11,#f26522,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 12,db-regio-ag-nrw,4-8003s-12,#4db857,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 19,db-regio-ag-nrw,4-8003s-19,#00658e,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 23,db-regio-ag-nrw,4-800352-23,#8c2a77,#ffffff,,pill,,10436,DB Regio AG NRW
-nrw-sbahn,S 28,regiobahn,4-m2-28,#4a0b4d,#ffffff,,pill,,10894,REGIOBAHN
-nrw-sbahn,S 68,db-regio-ag-nrw,4-8003s-68,#00bfe8,#ffffff,,pill,,10436,DB Regio AG NRW
 nvs,1,,8-vwmstr-1,#e5007d,#ffffff,,rectangle,,7560,Straßenbahn
 nvs,1,,5-vwmbus-1,#e5007d,#ffffff,,pill,,8219,Schwerin Bus
 nvs,2,,8-vwmstr-2,#e3000f,#ffffff,,rectangle,,7560,Straßenbahn
