@@ -1152,7 +1152,6 @@ mvv-regional-bus,X900,,5-mvvrbu-x900,#0074ad,#ffffff,,rectangle,,7688,ExpressBus
 mvv-regional-bus,X910,,5-mvvrbu-x910,#9d754d,#ffffff,,rectangle,Q99472439,7688,ExpressBus
 mvv-regional-bus,X970,,5-mvvrbu-x970,#d40049,#ffffff,,rectangle,,7688,ExpressBus
 mvv-regional-bus,X990,,,#009d84,#ffffff,,rectangle,,7688,ExpressBus
-mvv-stadtwerke-dachau,716,,5-mvvrbu-716,#235798,#ffffff,,rectangle,,12943,"Stadtwerke Dachau, Dachau1"
 mvv-stadtwerke-dachau,717,,5-mvvrbu-717,#000080,#ffffff,,rectangle,,12943,"Stadtwerke Dachau, Dachau1"
 mvv-stadtwerke-dachau,718,,5-mvvrbu-718,#ffcc00,#ffffff,,rectangle,,12943,"Stadtwerke Dachau, Dachau1"
 mvv-stadtwerke-dachau,719,,5-mvvrbu-719,#00adef,#ffffff,,rectangle,,12943,"Stadtwerke Dachau, Dachau1"
