@@ -362,17 +362,6 @@ dwe-dessau,DWE,dessau-worlitzer-eisenbahn,dwe,#ffffff,#000000,#000000,rectangle,
 erfurter-bahn,RB 13,erfurter-bahn-gmbh,rb-13,#24b27d,#ffffff,,rectangle,,8654,Erfurter Bahn
 erfurter-bahn,RB 40,erfurter-bahn-gmbh,rb-40,#24b27d,#ffffff,,rectangle,,8654,Erfurter Bahn
 erfurter-bahn,RB 50,erfurter-bahn-gmbh,rb-50,#24b27d,#ffffff,,rectangle,,8654,Erfurter Bahn
-infrago-GS-HA-W-K,RB48,,,#55ace0,#ffffff,,pill,,10913,National Express
-infrago-GS-HA-W-K,RB48X,,,#68ab44,#ffffff,,pill,,10913,National Express
-infrago-GS-HA-W-K,RE4,,,#ffd204,#000000,,pill,,10913,National Express
-infrago-GS-HA-W-K,RE7X,,,#f69324,#ffffff,,pill,,10913,National Express
-infrago-GS-HA-W-K,RE13,,,#7f5c1e,#ffffff,,pill,,11049,Eurobahn
-infrago-GS-HA-W-K,RE49,,,#fdc210,#000000,,pill,,10436,DB Regio AG NRW
-infrago-GS-HA-W-K,S7,,,#bc6b28,#ffffff,,pill,,14173,RheinRuhrBahn
-infrago-GS-HA-W-K,S8,,,#397325,#ffffff,,pill,,10436,DB Regio AG NRW
-infrago-GS-HA-W-K,S9,,,#54207a,#ffffff,,pill,,10436,DB Regio AG NRW
-infrago-GS-HA-W-K,S28,,,#00a89c,#ffffff,,pill,,10894,REGIOBAHN
-infrago-GS-HA-W-K,S68,,,#f69324,#ffffff,,pill,,10436,DB Regio AG NRW
 hans,RB16,hanseatische-eisenbahn-gmbh,rb-16,#775fb0,#ffffff,,rectangle,,10927,Hanseatische Eisenbahn GmbH
 hans,RB33,hanseatische-eisenbahn-gmbh,rb-33,#ed1c24,#ffffff,,rectangle,,10927,Hanseatische Eisenbahn GmbH
 hans,RB34,hanseatische-eisenbahn-gmbh,rb-34,#0066ad,#ffffff,,rectangle,,10927,Hanseatische Eisenbahn GmbH
@@ -639,6 +628,17 @@ hvv-vhh,X80,,,#ebc353,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,X81,,,#30653c,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,X82,,,#8697b1,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,X95,,,#c06936,#ffffff,,hexagon,,15146,VHH Bus
+infrago-gs-ha-w-k,RB48,,,#55ace0,#ffffff,,pill,,10913,National Express
+infrago-gs-ha-w-k,RB48X,,,#68ab44,#ffffff,,pill,,10913,National Express
+infrago-gs-ha-w-k,RE4,,,#ffd204,#000000,,pill,,10913,National Express
+infrago-gs-ha-w-k,RE7X,,,#f69324,#ffffff,,pill,,10913,National Express
+infrago-gs-ha-w-k,RE13,,,#7f5c1e,#ffffff,,pill,,11049,Eurobahn
+infrago-gs-ha-w-k,RE49,,,#fdc210,#000000,,pill,,10436,DB Regio AG NRW
+infrago-gs-ha-w-k,S7,,,#bc6b28,#ffffff,,pill,,14173,RheinRuhrBahn
+infrago-gs-ha-w-k,S8,,,#397325,#ffffff,,pill,,10436,DB Regio AG NRW
+infrago-gs-ha-w-k,S9,,,#54207a,#ffffff,,pill,,10436,DB Regio AG NRW
+infrago-gs-ha-w-k,S28,,,#00a89c,#ffffff,,pill,,10894,REGIOBAHN
+infrago-gs-ha-w-k,S68,,,#f69324,#ffffff,,pill,,10436,DB Regio AG NRW
 kvv-anrufverkehre,203,,,#ffd400,#000000,,circle,,7671,Taxiverkehre
 kvv-anrufverkehre,204,,,#f5821f,#ffffff,,circle,,7671,Taxiverkehre
 kvv-anrufverkehre,205,,,#a87b50,#ffffff,,circle,,7671,Taxiverkehre
