@@ -440,6 +440,20 @@
         ]
     },
     {
+        "shortOperatorName": "dingo",
+        "contributors": [
+            {
+                "github": "Sheigutn"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan der Stadtbusse in Dingolfing ab 01.01.2024",
+                "source": "https://www.stadtwerke-dingolfing.de/images/grafiken/dingolfing-final-2024-vektor.svg"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "erfurter-bahn",
         "contributors": [
             {
