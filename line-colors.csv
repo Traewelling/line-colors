@@ -327,6 +327,12 @@ db-sev-hamburg-berlin,X8,,,#58abdf,#ffffff,,pill,,9287,DB Regio Bus Mitte
 db-sev-hamburg-berlin,X9,,,#6b4199,#ffffff,,pill,,9287,DB Regio Bus Mitte
 ding-swu,1,,8-ald087-1,#e52329,#ffffff,,rectangle,,7623,SWU Verkehr
 ding-swu,2,,8-ald087-2,#3fad56,#ffffff,,rectangle,,7623,SWU Verkehr
+dingo,Blauer DINGO,,,#203b7c,#ffffff,,rectangle,,9575,Bus8
+dingo,Gelber DINGO,,,#f3cb0f,#000000,,rectangle,,9575,Bus8
+dingo,Grüner DINGO,,,#4f8437,#ffffff,,rectangle,,9575,Bus8
+dingo,Oranger DINGO,,,#d45d2b,#ffffff,,rectangle,,9575,Bus8
+dingo,Roter DINGO,,,#ac2e37,#ffffff,,rectangle,,9575,Bus8
+dingo,Türkiser DINGO,,,#80b0b3,#ffffff,,rectangle,,9575,Bus8
 dsb-s-tog,A,dsb-s-tog,4-860022-a,#00a8e7,#ffffff,,rectangle-rounded-corner,Q2323144,,
 dsb-s-tog,B,dsb-s-tog,4-860022-b,#52ae32,#ffffff,,rectangle-rounded-corner,Q1903862,,
 dsb-s-tog,Bx,dsb-s-tog,4-860022-bx,#adce6d,#ffffff,,rectangle-rounded-corner,Q2127863,,
@@ -4203,6 +4209,7 @@ vvs-db-sbs,S4,db-regio-ag-s-bahn-stuttgart,4-800643-4,#0166b3,#ffffff,,rectangle
 vvs-db-sbs,S5,db-regio-ag-s-bahn-stuttgart,4-800643-5,#00acdd,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,,rectangle,Q67501804,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectangle,Q63952011,10443,DB Regio AG Baden-Württemberg
+vvs-db-sbs,S61,,,#c2db14,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle,Q130343355,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,RB11,db-regio-ag-s-bahn-stuttgart,rb-11,#02aa9e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,rb-64,#b6931d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
@@ -4307,18 +4314,17 @@ vvs-nachtbus,N73,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
 vvs-nachtbus,N74,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
 vvs-nachtbus,N75,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
 vvs-nachtbus,N77,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
-vvs-nachtbus,N80,,,#004797,#ffffff,,rectangle,,14908,Bus Alb-Bodensee
 vvs-nachtbus,N85,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
 vvs-nachtbus,N87,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
 vvs-nachtbus,N89,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
-vvs-nachtbus,N90,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
-vvs-nachtbus,N91,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
-vvs-nachtbus,N92,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
-vvs-nachtbus,N93,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
-vvs-nachtbus,N94,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
-vvs-nachtbus,N96,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
-vvs-nachtbus,N97,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
-vvs-nachtbus,N98,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N90,,,#feb928,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N91,,,#bdd535,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N92,,,#90268e,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N93,,,#e81c88,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N94,,,#ef4130,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N96,,,#da6eab,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N97,,,#7bafde,#ffffff,,rectangle,,7998,Nachtbus (Region)
+vvs-nachtbus,N98,,,#65c39d,#ffffff,,rectangle,,7998,Nachtbus (Region)
 vvs-osb,551,,5-vvs031-551,#e12b54,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-osb,551A,,5-vvs031-551a,#e12b54,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-ovg,911,,,#0095da,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
