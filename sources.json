@@ -512,6 +512,126 @@
         ]
     },
     {
+        "shortOperatorName": "avv-ast",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Innenraum",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_liniennetz_innenraum_2025_03_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-avg",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Innenraum",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_liniennetz_innenraum_2025_03_web.pdf"
+            },
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-dmm",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-egb",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-gvg",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Innenraum",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_liniennetz_innenraum_2025_03_web.pdf"
+            },
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-rba",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-sbk",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-zzz",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "hans",
         "contributors": [
             {
