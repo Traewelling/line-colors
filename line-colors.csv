@@ -34,6 +34,59 @@ arverio-by,RE80,arverio-bayern,re-80,#006da7,#ffffff,,rectangle,Q116761629,13786
 arverio-by,RE89,arverio-bayern,re-89,#006da7,#ffffff,,rectangle,Q130789100,13786,Go-Ahead Bayern GmbH
 arverio-by,RE9,arverio-bayern,re-9,#006da7,#ffffff,,rectangle,Q130789102,13786,Go-Ahead Bayern GmbH
 arverio-by,RE96,arverio-bayern,re-96,#f9b000,#ffffff,,rectangle,Q130789109,13786,Go-Ahead Bayern GmbH
+avv-ast,70,,,#a49892,#ffffff,,circle,,12751,Anrufsammeltaxi1
+avv-ast,71,,,#a49892,#ffffff,,circle,,12751,Anrufsammeltaxi1
+avv-ast,72,,,#a49892,#ffffff,,circle,,12751,Anrufsammeltaxi1
+avv-ast,73,,,#a49892,#ffffff,,circle,,12751,Anrufsammeltaxi1
+avv-ast,74,,,#a49892,#ffffff,,circle,,12751,Anrufsammeltaxi1
+avv-ast,76,,,#b0675f,#ffffff,,circle,,12751,Anrufsammeltaxi1
+avv-ast,78,,,#b0675f,#ffffff,,circle,,12751,Anrufsammeltaxi1
+avv-avg,1,,,#e2000e,#ffffff,,rectangle,Q78199222,7500,STRASSENBAHN
+avv-avg,2,,,#0068b3,#ffffff,,rectangle,Q78198199,7500,STRASSENBAHN
+avv-avg,3,,,#ef7c00,#ffffff,,rectangle,Q99229508,7500,STRASSENBAHN
+avv-avg,4,,,#941880,#ffffff,,rectangle,Q121146092,7500,STRASSENBAHN
+avv-avg,6,,,#94c01b,#ffffff,,rectangle,Q121146595,7500,STRASSENBAHN
+avv-avg,21,,,#4a8871,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,22,,,#d27060,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,23,,,#d5b098,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,24,,,#b38d6b,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,25,,,#9a6957,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,29,,,#65679d,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,30,,,#8a99c2,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,31,,,#adcbb4,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,32,,,#64a37e,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,33,,,#a8c98b,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,35,,,#4e82c1,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,36,,,#b6c0e0,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,37,,,#d6c178,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,38,,,#b0675f,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,41,,,#bb632b,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,42,,,#c0784c,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,43,,,#ce924f,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,44,,,#c7aacc,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,48,,,#b4d5d3,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,90,,,#c43024,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,91,,,#3f67ad,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,92,,,#d68134,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,93,,,#9ebe43,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,94,,,#6ab8e8,#ffffff,,circle,,7499,OMNIBUS
+avv-dmm,592,,,#ffdc00,#000000,,circle,,8042,Demmelmair
+avv-egb,596,,,#e9c16c,#000000,,circle,,8046,Egenberger
+avv-gvg,27,,,#70b682,#ffffff,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-gvg,51,,,#ef7c00,#ffffff,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-gvg,52,,,#ef7c00,#ffffff,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-gvg,54,,,#ef7c00,#ffffff,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-gvg,55,,,#ef7c00,#ffffff,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-gvg,56,,,#a96754,#ffffff,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-gvg,57,,,#a76cab,#ffffff,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-gvg,58,,,#cfa8cf,#6f2082,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-gvg,59,,,#b0c0e4,#004e9e,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-gvg,95,,,#95348b,#ffffff,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-rba,291,,,#f18d6d,#ffffff,,circle,,13327,RBA Dillingen
+avv-rba,797,,,#c3635c,#ffffff,,circle,,13327,RBA Dillingen
+avv-sbk,798,,,#004e9e,#ffffff,,circle,,14407,Koenigsbrunn Stadtbus
+avv-zzz,395,,,#008a70,#ffffff,,circle,,14555,Wittelsbacher Land 01
+avv-zzz,694,,,#6267a2,#ffffff,,circle,,14328,Stauden 02 (ab j24)
 bayerische-zugspitzbahn,RB 64,bayerische-zugspitzbahn,bzb-rb64,#6cc3d9,#ffffff,,rectangle,,10971,Bayerische Zugspitzbahn
 bob,RB91,,,#afca0b,#ffffff,,rectangle,,10867,Bodensee-Oberschwaben-Bahn
 brb,RB 13,bayerische-regiobahn,brb-rb13,#ffb200,#ffffff,,rectangle,,10969,Bayerische Regiobahn
