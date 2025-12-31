@@ -1301,12 +1301,15 @@
         "contributors": [
             {
                 "github": "sebiIO"
+            },
+            {
+                "github": "Sheigutn",
             }
         ],
         "sources": [
             {
                 "name": "Stadtverkehrsplan Dachau",
-                "source": "https://www.stadtwerke-dachau.de/fileadmin/Media/Downloads/Downloads_Tarife_Angebote/Downloads_Mobilitaet/Dachau_SVP_2024.pdf"
+                "source": "https://www.stadtwerke-dachau.de/fileadmin/Media/Downloads/Downloads_Tarife_Angebote/Downloads_Mobilitaet/Dachau_SVP_2026_Finalstand_22.10.2025_.pdf"
             },
             {
                 "name": "Übersichtsseite - Busverkehr in Dachau",
