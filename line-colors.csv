@@ -1052,42 +1052,490 @@ mvv-mvg-ubahn,U3,,7-swm001-3,#ec6725,#ffffff,,rectangle,,8118,U-Bahn München
 mvv-mvg-ubahn,U4,,7-swm001-4,#00a984,#ffffff,,rectangle,,8118,U-Bahn München
 mvv-mvg-ubahn,U5,,7-swm001-5,#bc7a00,#ffffff,,rectangle,,8118,U-Bahn München
 mvv-mvg-ubahn,U6,,7-swm001-6,#0065ae,#ffffff,,rectangle,,8118,U-Bahn München
-mvv-regional-bus,803,,,#2f5465,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,804,,,#b8ae4c,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,805,,,#700734,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,807,,,#335b5f,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,810,,,#a20a33,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,820,,,#68aa69,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,822,,,#afc454,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,823,,,#c4a8ba,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,825,,,#bd8d36,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,826,,,#49813f,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,830,,,#86af3c,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,832,,,#477d94,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,835,,,#9d127d,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,838,,,#365f9a,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,839,,,#c29a24,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,840,,,#2f5465,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,843,,,#294892,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,845,,,#2f5465,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,851,,5-mvvrbu-851,#b73624,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,852,,,#d48921,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,853,,,#baac44,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,854,,,#4d89c5,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,855,,,#4d89c5,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,856,,,#ccb0ab,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,857,,5-mvvrbu-857,#537bbc,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,858,,5-mvvrbu-858,#88ad5a,#ffffff,,rectangle,Q64518487,7687,MVV-Regionalbus
-mvv-regional-bus,859,,5-mvvrbu-859,#386482,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,860,,,#669339,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,861,,,#2f5465,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,862,,,#bc0a17,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,863,,,#8e598a,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,871,,,#b20172,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,872,,,#386455,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,873,,,#5f7e39,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,874,,,#5a838e,#ffffff,,rectangle,,7687,MVV-Regionalbus
-mvv-regional-bus,875,,,#4d89c5,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,210,,,#00531e,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,211,,,#bb0f27,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,211V,,,#bb0f27,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,211W,,,#bb0f27,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,212,,,#243374,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,214,,,#886c42,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,214V,,,#886c42,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,215,,,#ff0065,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,216,,,#004f9f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,216V,,,#004f9f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,217,,,#c1bb00,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,218,,,#4472c4,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,219,,,#a48a7b,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,219V,,,#a48a7b,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,220,,,#5a4d67,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,220V,,,#5a4d67,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,221,,,#0088c2,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,222,,,#00a070,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,222V,,,#00a070,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,223,,,#4e8e6d,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,224,,,#d83641,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,225,,,#7297cf,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,226,,,#f59d0f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,227,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,229,,,#ce7c00,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,230,,,#a15e1e,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,230V,,,#a15e1e,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,231,,,#c63332,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,231V,,,#c63332,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,232,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,233,,,#206380,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,234,,,#e40525,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,234V,,,#e40525,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,236,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,240,,,#cb6739,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,240V,,,#cb6739,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,240W,,,#cb6739,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,241,,,#e3c42e,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,242,,,#608fa2,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,242V,,,#608fa2,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,243,,,#1d71b8,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,244,,,#da5914,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,258,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,259,,,#79ac2c,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,260,,,#00804a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,260V,,,#00804a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,261,,,#60aacc,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,262,,,#38b6ab,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,262V,,,#38b6ab,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,263,,,#9e0264,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,263V,,,#9e0264,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,264,,,#8a8baa,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,265,,,#9e0264,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,266,,,#9cad61,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,267,,,#006a96,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,267V,,,#006a96,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,268,,,#dedc00,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,269,,,#d06900,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,270,,,#0084b8,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,270V,,,#0084b8,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,271,,,#767f97,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,271V,,,#767f97,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,275,,,#0085be,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,276,,,#004f9f,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,277,,,#136939,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,278,,,#03a1b8,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,290,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,290V,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,291,,,#f9b234,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,292,,,#00a19a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,293,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,294,,,#008e36,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,295,,,#b09d00,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,299,,,#832082,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,301,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,302,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,310,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,311,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,312,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,316,,,#005ea2,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,318,,,#64a4c4,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,319,,,#c83f36,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,321,,,#004c93,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,322,,,#e30113,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,323,,,#11bae7,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,324,,,#00803d,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,325,,,#ec6724,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,331,,,#9587bf,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,332,,,#91c2ea,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,333,,,#fccb84,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,334,,,#fccb84,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,336,,,#3e938d,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,337,,,#e61e3f,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,338,,,#a6be0a,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,339,,,#5a5100,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,340,,,#004d9d,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,341,,,#005366,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,342,,,#00a454,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,343,,,#c4635e,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,344,,,#e40330,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,345,,,#f59e00,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,346,,,#898dc5,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,347,,,#99aedb,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,348,,,#dda131,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,349,,,#749530,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,352,,,#009dc5,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,353,,,#759e20,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,354,,,#5b6c5b,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,355,,,#ce861e,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,356,,,#79ac33,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,357,,,#cb1013,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,358,,,#89a645,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,359,,,#d4b200,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,360,,,#0089ca,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,361,,,#ae0f0a,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,362,,,#8a1069,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,363,,,#312a70,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,364,,,#b97138,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,366,,,#005e9d,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,367,,,#a3568c,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,368,,,#a16d27,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,368V,,,#a16d27,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,369,,,#044749,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,370,,,#e5a600,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,370V,,,#e5a600,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,371,,,#749115,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,371V,,,#749115,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,372,,,#c0a839,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,373,,,#941b50,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,373V,,,#941b50,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,374,,,#c2885c,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,375,,,#2d97ca,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,375V,,,#2d97ca,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,376,,,#d72627,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,377,,,#2fac66,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,377V,,,#2fac66,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,378,,,#00804a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,379,,,#00aedf,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,379V,,,#00aedf,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,391,,,#d7007c,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,392,,,#334d90,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,394,,,#6c9f23,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,395,,,#0083bd,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,401,,,#1d4797,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,402,,,#e5077e,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,403,,,#1b9dd9,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,404,,,#dddc05,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,405,,,#2aaa52,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,405V,,,#2aaa52,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,406,,,#e41d20,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,407,,,#a81a17,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,407V,,,#a81a17,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,408,,,#ffffff,#5db132,#5db132,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,409,,,#5ab032,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,410,,,#941d81,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,411,,,#f4981b,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,412,,,#f4981b,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,413,,,#1b9dd9,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,420,,,#941d81,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,421,,,#f4981b,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,422,,,#f4981b,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,423,,,#1b9dd9,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,424,,,#dddc05,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,426,,,#e41d20,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,427,,,##a81a17,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,429,,,#5ab032,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,431,,,#005366,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,432,,,#007ea8,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,434,,,#8e4459,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,435,,,#4ca8bf,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,436,,,#f1956c,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,437,,,#2fac66,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,438,,,#a87e04,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,439,,,#96a1c2,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,440,,,#ea580d,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,442,,,#4e8f36,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,443,,,#8fbf21,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,444,,,#005756,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,444V,,,#005756,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,445,,,#c31111,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,445V,,,#c31111,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,446,,,#b30062,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,446V,,,#b30062,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,447,,,#524c9b,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,448,,,#00a7e3,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,451,,,#fbc707,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,452,,,#dd6b6b,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,453,,,#986280,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,454,,,#007538,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,455,,,#877e4d,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,456,,,#95c11f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,459,,,#aecd60,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,460,,,#404b96,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,461,,,#004350,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,462,,,#e67e31,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,463,,,#4c9046,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,464,,,#d94130,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,465,,,#ad7023,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,465V,,,#ad7023,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,466,,,#006741,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,466V,,,#006741,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,468,,,#993d83,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,469,,,#004d2c,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,469V,,,#004d2c,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,474,,,#8b116c,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,475,,,#32bef0,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,476,,,#aca2c6,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,477,,,#005366,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,478,,,#009984,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,479,,,#005366,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,481,,,#005366,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,482,,,#7a96bc,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,488,,,#007d2b,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,489,,,#ed6b06,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,490,,,#9e357a,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,491,,,#f39230,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,492,,,#ea5617,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,493,,,#008237,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,494,,,#0092d9,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,495,,,#2b7239,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,496,,,#5b4d78,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,497,,,#009767,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,498,,,#d1c047,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,501,,,#00355b,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,501V,,,#00355b,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,502,,,#b99800,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,502V,,,#b99800,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,505,,,#3397b8,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,505V,,,#3397b8,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,507,,,#2786a9,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,511,,,#bfa010,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,511V,,,#bfa010,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,512,,,#005068,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,512V,,,#005068,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,513,,,#a66085,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,513V,,,#a66085,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,515,,,#c25b19,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,522,,,#2171b8,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,523,,,#e30113,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,524,,,#f39200,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,524V,,,#f39200,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,525,,,#38a9e1,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,526,,,#961b81,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,527,,,#00983b,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,528,,,#94c11d,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,531,,,#c9aa00,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,532,,,#6d799a,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,533,,,#007eb7,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,534,,,#adb84f,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,535,,,#9388b1,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,536,,,#5e9241,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,537,,,#5e9241,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,538,,,#59b361,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,539,,,#794c43,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,539V,,,#794c43,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,541F,,,#005366,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,541H,,,#005366,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,541S,,,#005366,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,542,,,#c17e72,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,543,,,#9cb3cf,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,545,,,#c2ac3a,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,546,,,#86aa8e,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,547,,,#648eca,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,553,,,#e6331c,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,555,,,#50362f,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,557,,,#950966,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,558,,,#89b9e5,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,559,,,#be5560,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,561,,,#769b39,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,562,,,#c0815e,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,562V,,,#c0815e,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,564,,,#0090bd,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,564V,,,#0090bd,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,565,,,#15882e,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,567,,,#165054,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,567V,,,#165054,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,568,,,#a88000,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,568V,,,#a88000,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,569,,,#b5005d,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,569V,,,#b5005d,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,570,,,#aa0c77,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,571,,,#c99e66,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,573,,,#83b995,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,574,,,#009f5e,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,575,,,#0072bc,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,576,,,#005f27,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,579,,,#e30614,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,595,,,#f9d82c,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,596,,,#6b4510,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,635,,,#a10f1f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,661,,,#114a70,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,662,,,#67b2cc,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,662V,,,#67b2cc,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,663,,,#008cb0,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,664,,,#af0e1a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,664V,,,#af0e1a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,665,,,#0099db,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,666,,,#8c8564,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,667,,,#005b81,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,668,,,#f0ad0d,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,671,,,#0a4d8d,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,678,,,#c4b92d,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,679,,,#00a04e,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,680,,,#807a8a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,681,,,#e94190,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,682,,,#f6a138,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,682V,,,#f6a138,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,683,,,#b90934,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,683V,,,#b90934,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,684,,,#00976b,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,685,,,#c98eb5,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,687,,,#887264,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,688,,,#e1ba00,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,690,,,#7f5879,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,691,,,#009d3f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,691V,,,#009d3f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,692,,,#d0d004,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,693,,,#00914c,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,694,,,#009ec0,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,695,,,#db5171,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,696,,,#4d71ac,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,698,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,698V,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,701,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,702,,,#5d7db9,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,703,,,#44934c,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,704,,,#008dca,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,705,,,#008dca,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,706,,,#00a66b,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,707,,,#ccbb00,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,708,,,#9b7a1a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,708V,,,#9b7a1a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,710,,,#a76e35,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,711,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,715,,,#7ea25e,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,721,,,#cc5c15,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,721V,,,#cc5c15,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,723,,,#ef8bb7,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,725,,,#7a7c7f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,727,,,#dc0813,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,728,,,#c299a9,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,729,,,#007fb6,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,771,,,#a8455f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,772,,,#1a3d8d,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,782,,,#c84c25,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,785,,,#836323,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,791,,,#3cbff0,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,791V,,,#3cbff0,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,803,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,804,,,#bdb042,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,805,,,#830532,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,807,,,#005a60,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,809,,,#7a243a,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,809V,,,#7a243a,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,810,,,#be0931,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,811,,,#a11734,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,812,,,#e95848,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,812V,,,#e95848,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,813,,,#844f93,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,813V,,,#844f93,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,814,,,#15458c,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,814V,,,#15458c,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,815,,,#dd75a2,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,816,,,#575b9d,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,817,,,#e59d30,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,818,,,#5d5c86,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,820,,,#2fac66,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,822,,,#a7c54a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,823,,,#cfaabd,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,825,,,#ce8e2b,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,826,,,#008237,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,829,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,830,,,#70b22a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,832,,,#007e96,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,833,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,835,,,#b80e80,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,837,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,838,,,#005f9e,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,839,,,#d09d00,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,840,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,843,,,#014795,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,845,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,851,,,#d52f18,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,852,,,#eb8a00,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,853,,,#009add,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,854,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,855,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,856,,,#d7b2ad,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,857,,,#327bbf,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,858,,,#76af52,#ffffff,,rectangle,Q64518487,7687,MVV-Regionalbus
+mvv-regional-bus,859,,,#006383,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,860,,,#49942a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,861,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,862,,,#dc0813,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,863,,,#9f598d,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,871,,,#d10175,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,872,,,#006453,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,873,,,#4d7f30,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,874,,,#3f8490,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,875,,,#008ac9,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,881,,,#3f2684,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,881V,,,#3f2684,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,882,,,#359a67,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,883,,,#e52417,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,885,,,#ec630d,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,886,,,#798c4f,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,886V,,,#798c4f,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,887,,,#058f48,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,891,,,#106d2f,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,892,,,#3174b4,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,893,,,#005366,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,894,,,#cbb53a,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,894V,,,#cbb53a,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,895,,,#ad3a2c,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,896,,,#6a98b7,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,897,,,#e3cc6e,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,899,,,#bb617e,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,901,,,#9b195b,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,902,,,#38a9e1,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,903,,,#d94c8d,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,905,,,#3c763f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,906,,,#6d9533,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,909,,,#f9b234,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,911,,,#f7a700,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,912,,,#e30113,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,913,,,#40a535,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,914,,,#179dd9,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,921,,,#be1622,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,921V,,,#be1622,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,923,,,#91a310,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,924,,,#a43577,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,928,,,#1d71b8,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,928V,,,#1d71b8,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,931,,,#61a8a4,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,932,,,#008a9a,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,934,,,#008538,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,935,,,#d12d39,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,936,,,#7d4f24,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,937,,,#7e527a,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,940,,,#2171b8,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,941,,,#2171b8,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,942,,,#e30113,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,944,,,#ffffff,#005366,#005366,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,947,,,#a50b2b,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,948,,,#a591a4,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,949,,,#733155,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,950,,,#b17f4a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,950V,,,#b17f4a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,951,,,#00a19a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,952,,,#0096c8,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,953,,,#da7a4a,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,955,,,#4c7274,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,956,,,#009640,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,957,,,#a50b2b,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,958,,,#a6165c,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,962,,,#7d4f24,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,963,,,#00b3e4,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,965,,,#404b96,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,966,,,#e6a200,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,967,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,968,,,#cfd71f,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,969,,,#65b32e,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,971,,,#76b82a,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,972,,,#e73445,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,973,,,#007f51,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,974,,,#ea5b0c,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,975,,,#1d71b8,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,976,,,#0062a1,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,977,,,#5da7a6,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,978,,,#4e8888,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,978V,,,#4e8888,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,979,,,#8ecfd0,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,980,,,#e30113,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,981,,,#df5321,#ffffff,,rectangle,,7687,MVV-Regionalbus
+mvv-regional-bus,982,,,#1e3e85,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,984,,,#8b8b0e,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,985,,,#00b2e4,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,986,,,#009559,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,987,,,#d76194,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,989,,,#006b4f,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,1041,,,#c79500,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,2019,,,#005366,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,2025,,,#04316a,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,2026,,,#04316a,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
 mvv-regional-bus,2100,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
 mvv-regional-bus,4000,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
 mvv-regional-bus,4800,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
@@ -1109,7 +1557,15 @@ mvv-regional-bus,8300,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
 mvv-regional-bus,8400,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
 mvv-regional-bus,8500,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
 mvv-regional-bus,8700,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
-mvv-regional-bus,8800,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi  
+mvv-regional-bus,8800,,,#243f5e,#ffffff,,rectangle,,7686,MVV-Ruftaxi
+mvv-regional-bus,9433,,,#d22a80,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,9441,,,#a87e04,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,9480,,,#005366,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,9505,,,#007864,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,9520,,,#740f00,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,DGF33,,,#95b83d,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,DGF34,,,#95b83d,#ffffff,,rectangle,,13521,Regionalverkehr Oberbayer (überregional)
+mvv-regional-bus,N272,,,#005366,#ffffff,,rectangle,,7687,MVV-Regionalbus
 mvv-regional-bus,X200,,5-mvvrbu-x200,#9b7839,#ffffff,,rectangle,,7688,ExpressBus
 mvv-regional-bus,X201,,5-mvvrbu-x201,#009757,#ffffff,,rectangle,Q75278052,7688,ExpressBus
 mvv-regional-bus,X202,,5-mvvrbu-x202,#c5007a,#ffffff,,rectangle,,7688,ExpressBus
