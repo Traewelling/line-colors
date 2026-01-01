@@ -1293,6 +1293,62 @@
             {
                 "name": "MVV-Alpenbus Linien",
                 "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/05-Mobilitaetsangebote/Alpenbus/x380x381x990_alpenbus_web.svg"
+            },
+            {
+                "name": "MVV-Netz Stadt Erding",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2025/2025_layout_MVV_Stadt_Erding.pdf"
+            },
+            {
+                "name": "MVV-Netz Markt Garmisch-Partenkirchen",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/2026_layout_MVV_Gemeinde_Garmisch_P_Screen.pdf"
+            },
+            {
+                "name": "MVV-Netz in den Städten Kolbermoor und Rosenheim (Tag)",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/2026_layout_MVV_Stadt_Rosenheim_Tag_Screen.pdf"
+            },
+            {
+                "name": "MVV-Netz in den Städten Kolbermoor und Rosenheim (Abend)",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/2026_layout_MVV_Stadt_Rosenheim_Abend_Screen.pdf"
+            },
+            {
+                "name": "MVV-Netz Stadt Germering",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2025/2025_layout_Netz_Germering.pdf"
+            },
+            {
+                "name": "MVV-Netz Landsberg/Kaufering",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2025/2025_layout_MVV_Stadt_Landsberg_Kaufering_SCR.pdf"
+            },
+            {
+                "name": "MVV-Netz in der Stadt Penzberg",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/2026_layout_MVV_Stadt_Penzberg_Screen.pdf"
+            },
+            {
+                "name": "MVV-Netz in Schongau, Peiting und Altenstadt",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/2026_layout_MVV_Stadt_Schongau_Screen.pdf"
+            },
+            {
+                "name": "MVV-Netz Starnberger See",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/2026_layout_MVV_StarnbergerSee_Screen.pdf"
+            },
+            {
+                "name": "MVV-Netz Stadt Weilheim",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/2026_layout_MVV_Stadt_Weilheim_Screen.pdf"
+            },
+            {
+                "name": "Verkehrslinienplan Gemeinde Poing",
+                "source": "https://www.poing.de/fileadmin/user_upload/Fahrplan_2025.jpg"
+            },
+            {
+                "name": "Ausschnitt aus dem MVV-Verkehrslinienplan Gemeinde Vaterstetten",
+                "source": "https://www.vaterstetten.de/leben-freizeit/verkehr-tourismus/bahn-bus/ausschnitt-mvv-linineplan.pdf"
+            },
+            {
+                "name": "MVV-Netz in Mühldorf und Waldkraiburg/Kraiburg",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/2026_layout_MVV_Muehlddorf_Waldkraiburg_Screen.pdf"
+            },
+            {
+                "name": "ÖPNV-Netz in Unterschleißheim",
+                "source": "https://www.unterschleissheim.de/fileadmin/_processed_/6/a/csm_Busliniennetz_Unterschleissheim_2024_919de3bf7c.png"
             }
         ]
     },
