@@ -3591,11 +3591,11 @@ vrr-bogestra,U35,,7-vrr032-35,#2350a9,#ffffff,,rectangle-rounded-corner,,7542,"B
 vrr-bogestra,301,,8-vrr033-301,#00a650,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
 vrr-bogestra,302,,8-vrr033-302,#86bbe0,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
 vrr-bogestra,305,,8-vrr033-305,#a865b9,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
-vrr-bogestra,306,,8-vrr030-306,#f0404c,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
+vrr-bogestra,306,,8-vrr030-306,#f0404c,#ffffff,,rectangle-rounded-corner,,7540,BOGESTRA City-Express
 vrr-bogestra,308,,8-vrr033-308,#99d420,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
 vrr-bogestra,309,,8-vrr033-309,#2e3192,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
 vrr-bogestra,310,,8-vrr033-310,#aa3f7f,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
-vrr-bogestra,316,,8-vrr030-316,#e08417,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
+vrr-bogestra,316,,8-vrr030-316,#e08417,#ffffff,,rectangle-rounded-corner,,7540,BOGESTRA City-Express
 vrr-bogestra,318,,8-vrr033-318,#6aa99a,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
 vrr-bogestra,SB33,,,#81c9ef,#ffffff,,rectangle,,7543,BOGESTRA Schnellbus
 vrr-bvr,SB19,,,#40909c,#ffffff,,rectangle,,7573,Busverkehr Rheinland
@@ -3675,7 +3675,7 @@ vrr-dsw21,HB5,,,#ec008c,#ffffff,,rectangle,,7633,Dortmunder Stadtwerke Hochbahn
 vrr-dsw21,HB7,,,#ec008c,#ffffff,,rectangle,,7633,Dortmunder Stadtwerke Hochbahn
 vrr-dvg,901,,8-vrr020-901,#009adf,#ffffff,,rectangle,,7634,DVG Strab
 vrr-dvg,903,,8-vrr020-903,#009adf,#ffffff,,rectangle,,7634,DVG Strab
-vrr-dvg,U79,,7-vrr020-79,#009a93,#ffffff,,rectangle,,7636,DVG
+vrr-dvg,U79,,7-vrr020-79,#009a93,#ffffff,,rectangle,,7634,DVG Strab
 vrr-hst,CE51,,5-vrr050-ce51,#c10004,#ffffff,,rectangle-rounded-corner,,7662,Hagener Straßenbahn AG Bus
 vrr-hst,CE52,,5-vrr050-ce52,#e63758,#ffffff,,rectangle-rounded-corner,,7662,Hagener Straßenbahn AG Bus
 vrr-hst,NE1,,5-vrr050-ne1,#ff2a2a,#ffffff,,rectangle-rounded-corner,,7662,Hagener Straßenbahn AG Bus
@@ -3929,7 +3929,6 @@ vrr-wsw,669,,5-vrr066-669,#286035,#ffffff,,rectangle,Q2537722,8016,Wuppertaler S
 vrr-wsw,670,,5-vrr066-670,#8d5c99,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
 vrr-wsw,60,,8-vrr064-60,#578bc1,#ffffff,,circle,Q256964,8015,Schwebebahn
 vrr-wsw,SB66,,5-vrr088-sb66,#3f8f9b,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
-vrr-wsw,SB67,,5-vrr045-sb67,#3f8f9b,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
 vrr-wsw,SB69,,5-vrr066-sb69,#3f8f9b,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
 vrr-wsw,CE62,,5-vrr066-ce62,#d12f2b,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
 vrr-wsw,CE64,,5-vrr066-ce64,#d12f2b,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
@@ -4090,6 +4089,7 @@ vrs-swb,636,,,#af3031,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,637,,,#e86741,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,638,,,#e86741,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,639,,,#a65c41,#ffffff,,rectangle,,7971,Stadtwerke Bonn
+vrs-swb,640,,,#24567f,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,N1,,,#ffffff,#6c125a,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,N2,,,#ffffff,#2f6d49,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,N3,,,#ffffff,#d72f8a,,rectangle,,7971,Stadtwerke Bonn
