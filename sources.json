@@ -5139,6 +5139,20 @@
         ]
     },
     {
+        "shortOperatorName": "wt-vku",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VKU Netzplan Bergkamen",
+                "source": "https://www.vku-online.de/fileadmin/vku_relaunch/liniennetzplaene/31131276-bergkamen-a2-12.11.2019.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "wt-wb",
         "contributors": [
             {
