@@ -440,6 +440,20 @@
         ]
     },
     {
+        "shortOperatorName": "dingo",
+        "contributors": [
+            {
+                "github": "Sheigutn"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan der Stadtbusse in Dingolfing ab 01.01.2024",
+                "source": "https://www.stadtwerke-dingolfing.de/images/grafiken/dingolfing-final-2024-vektor.svg"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "erfurter-bahn",
         "contributors": [
             {
@@ -494,6 +508,126 @@
             {
                 "name": "Go-Ahead Bayern Linienübersicht",
                 "source": "https://www.go-ahead.bayern/unterwegs-mit-go-ahead/fahrplaene"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-ast",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Innenraum",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_liniennetz_innenraum_2025_03_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-avg",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Innenraum",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_liniennetz_innenraum_2025_03_web.pdf"
+            },
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-dmm",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-egb",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-gvg",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Innenraum",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_liniennetz_innenraum_2025_03_web.pdf"
+            },
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-rba",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-sbk",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-zzz",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
             }
         ]
     },
@@ -4799,6 +4933,10 @@
             {
                 "name": "Interaktiver Netzplan fahr mit",
                 "source": "https://netzplan.fahr-mit.de/index.php/de/karte/init/haltestelle/523"
+            },
+            {
+                "name": "Liniennetz im Hochstift",
+                "source": "https://hochstiftbewegt.de/wp-content/uploads/NPH_Info-Linienfaltplan_nur-Plan.pdf"
             }
         ]
     },
@@ -4817,6 +4955,10 @@
             {
                 "name": "Interaktiver Netzplan fahr mit",
                 "source": "https://netzplan.fahr-mit.de/index.php/de/karte/init/haltestelle/523"
+            },
+            {
+                "name": "Liniennetz im Hochstift",
+                "source": "https://hochstiftbewegt.de/wp-content/uploads/NPH_Info-Linienfaltplan_nur-Plan.pdf"
             }
         ]
     },
@@ -4831,6 +4973,34 @@
             {
                 "name": "2025_regionalbusse_im_münsterland",
                 "source": "https://www.rvm-online.de/fileadmin/startseite_rvm/fahrgast/fahrt_planen/liniennetzplan/2025_regionalbusse_im_m%C3%BCnsterland_din_a_3-stand_01.06.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wt-holibri",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz im Hochstift",
+                "source": "https://hochstiftbewegt.de/wp-content/uploads/NPH_Info-Linienfaltplan_nur-Plan.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wt-koehne",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz im Hochstift",
+                "source": "https://hochstiftbewegt.de/wp-content/uploads/NPH_Info-Linienfaltplan_nur-Plan.pdf"
             }
         ]
     },
@@ -5024,6 +5194,20 @@
             {
                 "name": "2025_regionalbusse_im_münsterland",
                 "source": "https://www.rvm-online.de/fileadmin/startseite_rvm/fahrgast/fahrt_planen/liniennetzplan/2025_regionalbusse_im_m%C3%BCnsterland_din_a_3-stand_01.06.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wt-vku",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VKU Netzplan Bergkamen",
+                "source": "https://www.vku-online.de/fileadmin/vku_relaunch/liniennetzplaene/31131276-bergkamen-a2-12.11.2019.pdf"
             }
         ]
     },

@@ -34,6 +34,59 @@ arverio-by,RE80,arverio-bayern,re-80,#006da7,#ffffff,,rectangle,Q116761629,13786
 arverio-by,RE89,arverio-bayern,re-89,#006da7,#ffffff,,rectangle,Q130789100,13786,Go-Ahead Bayern GmbH
 arverio-by,RE9,arverio-bayern,re-9,#006da7,#ffffff,,rectangle,Q130789102,13786,Go-Ahead Bayern GmbH
 arverio-by,RE96,arverio-bayern,re-96,#f9b000,#ffffff,,rectangle,Q130789109,13786,Go-Ahead Bayern GmbH
+avv-ast,70,,,#a49892,#ffffff,,circle,,12751,Anrufsammeltaxi1
+avv-ast,71,,,#a49892,#ffffff,,circle,,12751,Anrufsammeltaxi1
+avv-ast,72,,,#a49892,#ffffff,,circle,,12751,Anrufsammeltaxi1
+avv-ast,73,,,#a49892,#ffffff,,circle,,12751,Anrufsammeltaxi1
+avv-ast,74,,,#a49892,#ffffff,,circle,,12751,Anrufsammeltaxi1
+avv-ast,76,,,#b0675f,#ffffff,,circle,,12751,Anrufsammeltaxi1
+avv-ast,78,,,#b0675f,#ffffff,,circle,,12751,Anrufsammeltaxi1
+avv-avg,1,,,#e2000e,#ffffff,,rectangle,Q78199222,7500,STRASSENBAHN
+avv-avg,2,,,#0068b3,#ffffff,,rectangle,Q78198199,7500,STRASSENBAHN
+avv-avg,3,,,#ef7c00,#ffffff,,rectangle,Q99229508,7500,STRASSENBAHN
+avv-avg,4,,,#941880,#ffffff,,rectangle,Q121146092,7500,STRASSENBAHN
+avv-avg,6,,,#94c01b,#ffffff,,rectangle,Q121146595,7500,STRASSENBAHN
+avv-avg,21,,,#4a8871,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,22,,,#d27060,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,23,,,#d5b098,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,24,,,#b38d6b,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,25,,,#9a6957,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,29,,,#65679d,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,30,,,#8a99c2,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,31,,,#adcbb4,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,32,,,#64a37e,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,33,,,#a8c98b,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,35,,,#4e82c1,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,36,,,#b6c0e0,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,37,,,#d6c178,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,38,,,#b0675f,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,41,,,#bb632b,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,42,,,#c0784c,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,43,,,#ce924f,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,44,,,#c7aacc,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,48,,,#b4d5d3,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,90,,,#c43024,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,91,,,#3f67ad,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,92,,,#d68134,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,93,,,#9ebe43,#ffffff,,circle,,7499,OMNIBUS
+avv-avg,94,,,#6ab8e8,#ffffff,,circle,,7499,OMNIBUS
+avv-dmm,592,,,#ffdc00,#000000,,circle,,8042,Demmelmair
+avv-egb,596,,,#e9c16c,#000000,,circle,,8046,Egenberger
+avv-gvg,27,,,#70b682,#ffffff,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-gvg,51,,,#ef7c00,#ffffff,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-gvg,52,,,#ef7c00,#ffffff,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-gvg,54,,,#ef7c00,#ffffff,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-gvg,55,,,#ef7c00,#ffffff,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-gvg,56,,,#a96754,#ffffff,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-gvg,57,,,#a76cab,#ffffff,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-gvg,58,,,#cfa8cf,#6f2082,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-gvg,59,,,#b0c0e4,#004e9e,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-gvg,95,,,#95348b,#ffffff,,circle,,7515,GVG 1 (Bündel Nr. 3)
+avv-rba,291,,,#f18d6d,#ffffff,,circle,,13327,RBA Dillingen
+avv-rba,797,,,#c3635c,#ffffff,,circle,,13327,RBA Dillingen
+avv-sbk,798,,,#004e9e,#ffffff,,circle,,14407,Koenigsbrunn Stadtbus
+avv-zzz,395,,,#008a70,#ffffff,,circle,,14555,Wittelsbacher Land 01
+avv-zzz,694,,,#6267a2,#ffffff,,circle,,14328,Stauden 02 (ab j24)
 bayerische-zugspitzbahn,RB 64,bayerische-zugspitzbahn,bzb-rb64,#6cc3d9,#ffffff,,rectangle,,10971,Bayerische Zugspitzbahn
 bob,RB91,,,#afca0b,#ffffff,,rectangle,,10867,Bodensee-Oberschwaben-Bahn
 brb,RB 13,bayerische-regiobahn,brb-rb13,#ffb200,#ffffff,,rectangle,,10969,Bayerische Regiobahn
@@ -59,7 +112,7 @@ ceske-drahy,RE 25,ceske-drahy,ex-364,#006666,#ffffff,,rectangle,,12634,Ceske Dra
 cfl,RE 11,cfl,re-11,#895da7,#ffffff,,rectangle,,10459,CFL1
 cfl,RB 83,cfl,rb-83,#895da7,#ffffff,,rectangle,,10459,CFL1
 cfl,RB 87,cfl,rb-87,#895da7,#ffffff,,rectangle,,10459,CFL1
-db-fernverkehr-ag,RE 87,db-fernverkehr-ag,re-87,#cc0066,#ffffff,,rectangle,,10918,DB Fernverkehr (Codesharing)
+db-fernverkehr-ag,IC 87,db-fernverkehr-ag,re-87,#cc0066,#ffffff,,rectangle,,10918,DB Fernverkehr (Codesharing)
 db-regio-ag-baden-wurttemberg,RE 2,db-regio-ag-baden-wurttemberg,re-2,#0069b4,#ffffff,,rectangle,Q88627355,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 3,db-regio-ag-baden-wurttemberg,re-3,#e5007d,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
 db-regio-ag-baden-wurttemberg,RB 3,,,#e5007d,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
@@ -327,6 +380,12 @@ db-sev-hamburg-berlin,X8,,,#58abdf,#ffffff,,pill,,9287,DB Regio Bus Mitte
 db-sev-hamburg-berlin,X9,,,#6b4199,#ffffff,,pill,,9287,DB Regio Bus Mitte
 ding-swu,1,,8-ald087-1,#e52329,#ffffff,,rectangle,,7623,SWU Verkehr
 ding-swu,2,,8-ald087-2,#3fad56,#ffffff,,rectangle,,7623,SWU Verkehr
+dingo,Blauer DINGO,,,#203b7c,#ffffff,,rectangle,,9575,Bus8
+dingo,Gelber DINGO,,,#f3cb0f,#000000,,rectangle,,9575,Bus8
+dingo,Grüner DINGO,,,#4f8437,#ffffff,,rectangle,,9575,Bus8
+dingo,Oranger DINGO,,,#d45d2b,#ffffff,,rectangle,,9575,Bus8
+dingo,Roter DINGO,,,#ac2e37,#ffffff,,rectangle,,9575,Bus8
+dingo,Türkiser DINGO,,,#80b0b3,#ffffff,,rectangle,,9575,Bus8
 dsb-s-tog,A,dsb-s-tog,4-860022-a,#00a8e7,#ffffff,,rectangle-rounded-corner,Q2323144,,
 dsb-s-tog,B,dsb-s-tog,4-860022-b,#52ae32,#ffffff,,rectangle-rounded-corner,Q1903862,,
 dsb-s-tog,Bx,dsb-s-tog,4-860022-bx,#adce6d,#ffffff,,rectangle-rounded-corner,Q2127863,,
@@ -3981,11 +4040,11 @@ vrr-bogestra,U35,,7-vrr032-35,#2350a9,#ffffff,,rectangle-rounded-corner,,7542,"B
 vrr-bogestra,301,,8-vrr033-301,#00a650,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
 vrr-bogestra,302,,8-vrr033-302,#86bbe0,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
 vrr-bogestra,305,,8-vrr033-305,#a865b9,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
-vrr-bogestra,306,,8-vrr030-306,#f0404c,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
+vrr-bogestra,306,,8-vrr030-306,#f0404c,#ffffff,,rectangle-rounded-corner,,7540,BOGESTRA City-Express
 vrr-bogestra,308,,8-vrr033-308,#99d420,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
 vrr-bogestra,309,,8-vrr033-309,#2e3192,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
 vrr-bogestra,310,,8-vrr033-310,#aa3f7f,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
-vrr-bogestra,316,,8-vrr030-316,#e08417,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
+vrr-bogestra,316,,8-vrr030-316,#e08417,#ffffff,,rectangle-rounded-corner,,7540,BOGESTRA City-Express
 vrr-bogestra,318,,8-vrr033-318,#6aa99a,#ffffff,,rectangle-rounded-corner,,7543,BOGESTRA Straßenbahn
 vrr-bogestra,SB33,,,#81c9ef,#ffffff,,rectangle,,7543,BOGESTRA Schnellbus
 vrr-bvr,SB19,,,#40909c,#ffffff,,rectangle,,7573,Busverkehr Rheinland
@@ -4065,7 +4124,7 @@ vrr-dsw21,HB5,,,#ec008c,#ffffff,,rectangle,,7633,Dortmunder Stadtwerke Hochbahn
 vrr-dsw21,HB7,,,#ec008c,#ffffff,,rectangle,,7633,Dortmunder Stadtwerke Hochbahn
 vrr-dvg,901,,8-vrr020-901,#009adf,#ffffff,,rectangle,,7634,DVG Strab
 vrr-dvg,903,,8-vrr020-903,#009adf,#ffffff,,rectangle,,7634,DVG Strab
-vrr-dvg,U79,,7-vrr020-79,#009a93,#ffffff,,rectangle,,7636,DVG
+vrr-dvg,U79,,7-vrr020-79,#009a93,#ffffff,,rectangle,,7634,DVG Strab
 vrr-hst,CE51,,5-vrr050-ce51,#c10004,#ffffff,,rectangle-rounded-corner,,7662,Hagener Straßenbahn AG Bus
 vrr-hst,CE52,,5-vrr050-ce52,#e63758,#ffffff,,rectangle-rounded-corner,,7662,Hagener Straßenbahn AG Bus
 vrr-hst,NE1,,5-vrr050-ne1,#ff2a2a,#ffffff,,rectangle-rounded-corner,,7662,Hagener Straßenbahn AG Bus
@@ -4319,7 +4378,6 @@ vrr-wsw,669,,5-vrr066-669,#286035,#ffffff,,rectangle,Q2537722,8016,Wuppertaler S
 vrr-wsw,670,,5-vrr066-670,#8d5c99,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
 vrr-wsw,60,,8-vrr064-60,#578bc1,#ffffff,,circle,Q256964,8015,Schwebebahn
 vrr-wsw,SB66,,5-vrr088-sb66,#3f8f9b,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
-vrr-wsw,SB67,,5-vrr045-sb67,#3f8f9b,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
 vrr-wsw,SB69,,5-vrr066-sb69,#3f8f9b,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
 vrr-wsw,CE62,,5-vrr066-ce62,#d12f2b,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
 vrr-wsw,CE64,,5-vrr066-ce64,#d12f2b,#ffffff,,rectangle,Q2537722,8016,Wuppertaler Stadtwerke
@@ -4480,6 +4538,7 @@ vrs-swb,636,,,#af3031,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,637,,,#e86741,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,638,,,#e86741,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,639,,,#a65c41,#ffffff,,rectangle,,7971,Stadtwerke Bonn
+vrs-swb,640,,,#24567f,#ffffff,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,N1,,,#ffffff,#6c125a,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,N2,,,#ffffff,#2f6d49,,rectangle,,7971,Stadtwerke Bonn
 vrs-swb,N3,,,#ffffff,#d72f8a,,rectangle,,7971,Stadtwerke Bonn
@@ -5023,59 +5082,97 @@ wt-argegt,190,,,#925900,#ffffff,,pill,,14381,GTNordwest
 wt-bvo,349,,5-owl021-349,#e20079,#ffffff,,pill,,14357,Lippe1
 wt-bvo,350,,5-owl021-350,#004e2d,#ffffff,,pill,,14357,Lippe1
 wt-bvo,351,,5-owl021-351,#97bf0d,#002650,,pill,,14357,Lippe1
-wt-bvo,S60,,5-vph082-s60,#0089cf,#ffffff,,rectangle,,9330,nph-Linienbündel 12
-wt-bvo,S85,,5-vph077-s85,#0089cf,#ffffff,,rectangle,,9325,nph-Linienbündel 07
-wt-bvo,S90,,5-vph082-s90,#0089cf,#ffffff,,rectangle,,9330,nph-Linienbündel 12
-wt-bvo,Sk1,,,#36b64b,#ffffff,,rectangle,,9330,nph-Linienbündel 12
-wt-bvo,Sk2,,,#36b64b,#ffffff,,rectangle,,9330,nph-Linienbündel 12
-wt-bvo,Sk3,,,#36b64b,#ffffff,,rectangle,,9330,nph-Linienbündel 12
-wt-bvo,R10,,5-vph076-r10,#ed2927,#ffffff,,rectangle,,9324,nph-Linienbündel 06
-wt-bvo,R11,,5-vph076-r11,#ed2927,#ffffff,,rectangle,,9324,nph-Linienbündel 06
-wt-bvo,R54,,,#ed2927,#ffffff,,rectangle,,9328,nph-Linienbündel 10
-wt-bvo,R61,,5-vph082-r61,#ed2927,#ffffff,,rectangle,,9330,nph-Linienbündel 12
-wt-bvo,R70,,5-vph076-r70,#ed2927,#ffffff,,rectangle,,9324,nph-Linienbündel 06
-wt-bvo,R71,,5-vph076-r71,#ed2927,#ffffff,,rectangle,,9324,nph-Linienbündel 06
-wt-bvo,R72,,5-vph076-r72,#ed2927,#ffffff,,rectangle,,9324,nph-Linienbündel 06
-wt-bvo,R81,,5-vph077-r81,#ed2927,#ffffff,,rectangle,,9325,nph-Linienbündel 07
+wt-bvo,410,,,#841d81,#ffffff,,rectangle,,9331,nph-Linienbündel 13
 wt-bvo,411,,,#36b64b,#ffffff,,rectangle,,9324,nph-Linienbündel 06
 wt-bvo,431,,,#36b64b,#ffffff,,rectangle,,9331,nph-Linienbündel 13
 wt-bvo,432,,,#878787,#ffffff,,rectangle,,9328,nph-Linienbündel 10
 wt-bvo,470,,,#878787,#ffffff,,rectangle,,9324,nph-Linienbündel 06
 wt-bvo,471,,,#36b64b,#ffffff,,rectangle,,9324,nph-Linienbündel 06
-wt-bvo,480,,5-vph077-480,#36b64b,#ffffff,,rectangle,,9325,nph-Linienbündel 07
+wt-bvo,480,,5-vph077-480,#7b9c6a,#ffffff,,rectangle,,9325,nph-Linienbündel 07
 wt-bvo,481,,5-vph077-481,#36b64b,#ffffff,,rectangle,,9325,nph-Linienbündel 07
 wt-bvo,485,,5-vph077-485,#36b64b,#ffffff,,rectangle,,9325,nph-Linienbündel 07
 wt-bvo,487,,5-vph077-487,#36b64b,#ffffff,,rectangle,,7812,Busverkehr Ruhr-Sieg
-wt-bvo,488,,5-vph077-488,#36b64b,#ffffff,,rectangle,,7812,Busverkehr Ruhr-Sieg
+wt-bvo,488,,5-vph077-488,#94c11c,#ffffff,,rectangle,,7812,Busverkehr Ruhr-Sieg
 wt-bvo,489,,5-vph077-489,#36b64b,#ffffff,,rectangle,,7812,Busverkehr Ruhr-Sieg
 wt-bvo,490,,,#878787,#ffffff,,rectangle,,9330,nph-Linienbündel 12
 wt-bvo,491,,,#878787,#ffffff,,rectangle,,9330,nph-Linienbündel 12
 wt-bvo,492,,,#878787,#ffffff,,rectangle,,9330,nph-Linienbündel 12
 wt-bvo,493,,,#878787,#ffffff,,rectangle,,9330,nph-Linienbündel 12
 wt-bvo,494,,,#878787,#ffffff,,rectangle,,9330,nph-Linienbündel 12
+wt-bvo,507,,,#93c244,#ffffff,,rectangle,,9326,nph-Linienbündel 08
 wt-bvo,577,,,#36b64b,#ffffff,,rectangle,,9328,nph-Linienbündel 10
+wt-bvo,Bür2,,,#db5930,#ffffff,,rectangle,,9330,nph-Linienbündel 12
+wt-bvo,Bür3,,,#e5a000,#ffffff,,rectangle,,9330,nph-Linienbündel 12
+wt-bvo,Bür4,,,#ec648c,#ffffff,,rectangle,,9330,nph-Linienbündel 12
+wt-bvo,Bür5,,,#9d7821,#ffffff,,rectangle,,9330,nph-Linienbündel 12
+wt-bvo,R10,,5-vph076-r10,#87cdd2,#ffffff,,rectangle,,9324,nph-Linienbündel 06
+wt-bvo,R11,,5-vph076-r11,#f191a3,#ffffff,,rectangle,,9324,nph-Linienbündel 06
+wt-bvo,R31,,,#cea400,#ffffff,,rectangle,,9328,nph-Linienbündel 10
+wt-bvo,R54,,,#ec642e,#ffffff,,rectangle,,9328,nph-Linienbündel 10
+wt-bvo,R61,,5-vph082-r61,#008aa2,#ffffff,,rectangle,,9330,nph-Linienbündel 12
+wt-bvo,R70,,5-vph076-r70,#42a568,#ffffff,,rectangle,,9324,nph-Linienbündel 06
+wt-bvo,R71,,5-vph076-r71,#ae75a4,#ffffff,,rectangle,,9324,nph-Linienbündel 06
+wt-bvo,R72,,5-vph076-r72,#ed2927,#ffffff,,rectangle,,9324,nph-Linienbündel 06
+wt-bvo,R81,,5-vph077-r81,#7597c6,#ffffff,,rectangle,,9325,nph-Linienbündel 07
+wt-bvo,S60,,5-vph082-s60,#95ae21,#ffffff,,rectangle,,9330,nph-Linienbündel 12
+wt-bvo,S85,,5-vph077-s85,#ac4a35,#ffffff,,rectangle,,9325,nph-Linienbündel 07
+wt-bvo,S90,,5-vph082-s90,#d20c4c,#ffffff,,rectangle,,9330,nph-Linienbündel 12
+wt-bvo,Sk1,,,#f7a600,#ffffff,,rectangle,,9330,nph-Linienbündel 12
+wt-bvo,Sk2,,,#366796,#ffffff,,rectangle,,9330,nph-Linienbündel 12
+wt-bvo,Sk3,,,#9e1168,#ffffff,,rectangle,,9330,nph-Linienbündel 12
+wt-bvo,W1,,,#6695c3,#ffffff,,rectangle,,9326,nph-Linienbündel 08
+wt-bvo,W2,,,#8baa6d,#ffffff,,rectangle,,9326,nph-Linienbündel 08
+wt-bvo,W3,,,#c89000,#ffffff,,rectangle,,9326,nph-Linienbündel 08
+wt-bvo,W4,,,#2f7449,#ffffff,,rectangle,,9326,nph-Linienbündel 08
+wt-go-on,355,,,#c60a4b,#ffffff,,rectangle,,9331,nph-Linienbündel 13
 wt-go-on,420,,,#36b64b,#ffffff,,rectangle,,9320,nph-Linienbündel 02
 wt-go-on,448,,,#878787,#ffffff,,rectangle,,9319,nph-Linienbündel 01
 wt-go-on,456,,,#36b64b,#ffffff,,rectangle,,9320,nph-Linienbündel 02
-wt-go-on,525,,,#36b64b,#ffffff,,rectangle,,9321,nph-Linienbündel 03
-wt-go-on,552,,,#36b64b,#ffffff,,rectangle,,9321,nph-Linienbündel 03
+wt-go-on,524,,,#599a6d,#ffffff,,rectangle,,9329,nph-Linienbündel 11
+wt-go-on,525,,,#35a9e1,#ffffff,,rectangle,,9321,nph-Linienbündel 03
+wt-go-on,533,,,#db6700,#ffffff,,rectangle,,9329,nph-Linienbündel 11
+wt-go-on,552,,,#a4b800,#ffffff,,rectangle,,9321,nph-Linienbündel 03
 wt-go-on,553,,,#878787,#ffffff,,rectangle,,9321,nph-Linienbündel 03
 wt-go-on,554,,,#36b64b,#ffffff,,rectangle,,9321,nph-Linienbündel 03
-wt-go-on,555,,,#36b64b,#ffffff,,rectangle,,9321,nph-Linienbündel 03
-wt-go-on,570,,,#36b64b,#ffffff,,rectangle,,9321,nph-Linienbündel 03
-wt-go-on,585,,,#36b64b,#ffffff,,rectangle,,9321,nph-Linienbündel 03
-wt-go-on,588,,,#878787,#ffffff,,rectangle,,9321,nph-Linienbündel 03
-wt-go-on,R20,,5-vph072-r20,#ed2927,#ffffff,,rectangle,,9320,nph-Linienbündel 02
-wt-go-on,R41,,5-vph071-r41,#ed2927,#ffffff,,rectangle,,9319,nph-Linienbündel 01
-wt-go-on,R45,,5-vph071-r45,#ed2927,#ffffff,,rectangle,,9319,nph-Linienbündel 01
+wt-go-on,555,,,#499434,#ffffff,,rectangle,,9321,nph-Linienbündel 03
+wt-go-on,565,,,#27969a,#ffffff,,rectangle,,9322,nph-Linienbündel 04
+wt-go-on,570,,,#c7861f,#ffffff,,rectangle,,9321,nph-Linienbündel 03
+wt-go-on,571,,,#964f8d,#ffffff,,rectangle,,9327,nph-Linienbündel 09
+wt-go-on,572,,,#1193c9,#ffffff,,rectangle,,9327,nph-Linienbündel 09
+wt-go-on,584,,,#c24e79,#ffffff,,rectangle,,9327,nph-Linienbündel 09
+wt-go-on,585,,,#0081c7,#ffffff,,rectangle,,9321,nph-Linienbündel 03
+wt-go-on,586,,,#bf6e1f,#ffffff,,rectangle,,9327,nph-Linienbündel 09
+wt-go-on,588,,,#9b90c5,#ffffff,,rectangle,,9321,nph-Linienbündel 03
+wt-go-on,590,,,#c33f18,#ffffff,,rectangle,,9323,nph-Linienbündel 05
+wt-go-on,591,,,#c8bc0c,#ffffff,,rectangle,,9327,nph-Linienbündel 09
+wt-go-on,D1,,,#ab5c59,#ffffff,,rectangle,,9331,nph-Linienbündel 13
+wt-go-on,R20,,5-vph072-r20,#9e6bab,#ffffff,,rectangle,,9320,nph-Linienbündel 02
+wt-go-on,R21,,,#4d8990,#ffffff,,rectangle,,9323,nph-Linienbündel 05
+wt-go-on,R22,,,#70a11e,#ffffff,,rectangle,,9329,nph-Linienbündel 11
+wt-go-on,R35,,,#e83072,#ffffff,,rectangle,,9322,nph-Linienbündel 04
+wt-go-on,R36,,,#b18dc0,#ffffff,,rectangle,,9329,nph-Linienbündel 11
+wt-go-on,R37,,,#5b2283,#ffffff,,rectangle,,9329,nph-Linienbündel 11
+wt-go-on,R38,,,#009253,#ffffff,,rectangle,,9322,nph-Linienbündel 04
+wt-go-on,R41,,5-vph071-r41,#e08700,#ffffff,,rectangle,,9319,nph-Linienbündel 01
+wt-go-on,R42,,,#007a8a,#ffffff,,rectangle,,9331,nph-Linienbündel 13
+wt-go-on,R45,,5-vph071-r45,#583b70,#ffffff,,rectangle,,9319,nph-Linienbündel 01
 wt-go-on,R46,,,#ed2927,#ffffff,,rectangle,,9319,nph-Linienbündel 01
-wt-go-on,R50,,5-vph072-r50,#ed2927,#ffffff,,rectangle,,9320,nph-Linienbündel 02
-wt-go-on,R51,,5-vph077-r51,#ed2927,#ffffff,,rectangle,,9320,nph-Linienbündel 02
-wt-go-on,R76,,,#ed2927,#ffffff,,rectangle,,9327,nph-Linienbündel 09
-wt-go-on,S30,,5-vph080-s30,#0089cf,#ffffff,,rectangle,,9328,nph-Linienbündel 10
-wt-go-on,S40,,5-vph071-s40,#0089cf,#ffffff,,rectangle,,9319,nph-Linienbündel 01
+wt-go-on,R50,,5-vph072-r50,#95944e,#ffffff,,rectangle,,9320,nph-Linienbündel 02
+wt-go-on,R51,,5-vph077-r51,#95944e,#ffffff,,rectangle,,9320,nph-Linienbündel 02
+wt-go-on,R71,,,#28ac70,#ffffff,,rectangle,,9321,nph-Linienbündel 03
+wt-go-on,R75,,,#7bb046,#ffffff,,rectangle,,9327,nph-Linienbündel 09
+wt-go-on,R76,,,#3d6a66,#ffffff,,rectangle,,9327,nph-Linienbündel 09
+wt-go-on,R83,,,#c26e00,#ffffff,,rectangle,,9327,nph-Linienbündel 09
+wt-go-on,R91,,,#5b9832,#ffffff,,rectangle,,9321,nph-Linienbündel 03
+wt-go-on,S30,,5-vph080-s30,#71b8a9,#ffffff,,rectangle,,9328,nph-Linienbündel 10
+wt-go-on,S40,,5-vph071-s40,#93b716,#ffffff,,rectangle,,9319,nph-Linienbündel 01
 wt-gronemann,R27,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7808,Gronemann GmbH
 wt-gronemann,T27,,,#52a277,#ffffff,,rectangle-rounded-corner,,7808,Gronemann GmbH
+wt-holibri,HH1,,,#87b13f,#ffffff,,rectangle,,9331,nph-Linienbündel 13
+wt-holibri,HH2,,,#f07e3b,#ffffff,,rectangle,,9320,nph-Linienbündel 02
+wt-holibri,HW1,,,#1e4888,#ffffff,,rectangle,,9328,nph-Linienbündel 10
+wt-holibri,HW2,,,#00a3bf,#ffffff,,rectangle,,9328,nph-Linienbündel 10
+wt-koehne,776,,,#878786,#ffffff,,rectangle,,14358,Lippe2
 wt-kottenstedte,374,,,#f4a386,#ffffff,,pill,,7804,Kottenstedte GmbH
 wt-mindenbus,1,,,#995225,#ffffff,,pill,,14372,Minden C
 wt-mindenbus,2,,,#852d84,#ffffff,,pill,,14372,Minden C
@@ -5256,11 +5353,11 @@ wt-rvm,X80,,,#ec1f25,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
 wt-rvm,X90,,,#ec1f25,#ffffff,,rectangle-rounded-corner,,7793,RVM Kreis Coesfeld
 wt-rvm,473,,,#52a277,#ffffff,,rectangle-rounded-corner,,7794,RVM Kreis Warendorf
 wt-rvm,474,,,#52a277,#ffffff,,rectangle-rounded-corner,,7794,RVM Kreis Warendorf
-wt-rvm,770,,,#52a277,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,770,,,#878786,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
 wt-rvm,772,,,#52a277,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
 wt-rvm,773,,,#52a277,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
 wt-rvm,774,,,#52a277,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
-wt-rvm,783,,,#52a277,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
+wt-rvm,783,,,#878786,#ffffff,,rectangle-rounded-corner,,7803,RVM Kreis Borken
 wt-sbbs,940AL,,,#0c87c9,#ffffff,,rectangle,,14362,Bad Salzuflen
 wt-sbbs,941,,,#97c21f,#ffffff,,rectangle,,14362,Bad Salzuflen
 wt-sbbs,942,,,#e20c15,#ffffff,,rectangle,,14362,Bad Salzuflen
@@ -5340,6 +5437,9 @@ wt-veelker,589,,,#52a277,#ffffff,,rectangle-rounded-corner,,7814,Veelker GmbH & 
 wt-veelker,771,,,#52a277,#ffffff,,rectangle-rounded-corner,,7814,Veelker GmbH & Co. KG
 wt-veelker,781,,,#52a277,#ffffff,,rectangle-rounded-corner,,7814,Veelker GmbH & Co. KG
 wt-veelker,782,,,#52a277,#ffffff,,rectangle-rounded-corner,,7814,Veelker GmbH & Co. KG
+wt-vku,D80,,,#ffffff,#ea520d,#ea520d,rectangle,,7795,Verkehrsgesellschaft Kreis Unna mbH
+wt-vku,S20,,,#ffffff,#db2c1d,#db2c1d,rectangle,,7795,Verkehrsgesellschaft Kreis Unna mbH
+wt-vku,S30,,,#ffffff,#e20377,#e20377,rectangle,,7795,Verkehrsgesellschaft Kreis Unna mbH
 wt-wb,B2,,,#52a277,#ffffff,,rectangle-rounded-corner,,7797,Westfalen Bus
 wt-wb,B3,,,#52a277,#ffffff,,rectangle-rounded-corner,,7797,Westfalen Bus
 wt-wb,C7,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7797,Westfalen Bus
