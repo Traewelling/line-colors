@@ -4496,6 +4496,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-eberhardt",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "ÖPNV – Liniennetz Vaihingen an der Enz",
+                "source": "https://www.vaihingen.de/fileadmin/Dateien/Dateien/Sonstige_Planung/00_Verkehrsentwicklungsplan_09_Kapitel_8_O__ffentlicher_Verkehr.pdf#page=11"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-fischle",
         "contributors": [
             {
@@ -4506,6 +4520,24 @@
             {
                 "name": "Netzplan Esslingen",
                 "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-esslingen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-flattich",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "ÖPNV – Liniennetz Vaihingen an der Enz",
+                "source": "https://www.vaihingen.de/fileadmin/Dateien/Dateien/Sonstige_Planung/00_Verkehrsentwicklungsplan_09_Kapitel_8_O__ffentlicher_Verkehr.pdf#page=11"
+            },
+            {
+                "name": "Verkehrslinienplan Busverkehr Ditzingen",
+                "source": "https://www.ditzingen.de/fileadmin/Dateien/Dateien/Verkehr/Fahrplan-2024-25_Web.pdf#page=3"
             }
         ]
     },
@@ -4538,6 +4570,10 @@
             {
                 "name": "Fahrplan-Merker 2026",
                 "source": "https://www.waiblingen.de/ceasy/resource/?id=29535&download=1"
+            },
+            {
+                "name": "ÖPNV – Liniennetz Vaihingen an der Enz",
+                "source": "https://www.vaihingen.de/fileadmin/Dateien/Dateien/Sonstige_Planung/00_Verkehrsentwicklungsplan_09_Kapitel_8_O__ffentlicher_Verkehr.pdf#page=11"
             }
         ]
     },
@@ -4552,6 +4588,20 @@
             {
                 "name": "Bus-Liniennetz Landkreis Göppingen",
                 "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-kappus",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Verkehrslinienplan Busverkehr Ditzingen",
+                "source": "https://www.ditzingen.de/fileadmin/Dateien/Dateien/Verkehr/Fahrplan-2024-25_Web.pdf#page=3"
             }
         ]
     },
@@ -4596,8 +4646,8 @@
         ],
         "sources": [
             {
-                "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
-                "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+                "name": "Liniennetz Fa. Spillmann",
+                "source": "https://www.bietigheim-bissingen.de/fileadmin/user_upload_stadtverwaltung/seitenstruktur/wirtschaft-einkaufen-verkehr/verkehr-und-mobilitaet/Mobilit%C3%A4tsplan-2035.pdf#page=30"
             }
         ]
     },
@@ -4626,6 +4676,10 @@
             {
                 "name": "Fahrplan-Merker 2026",
                 "source": "https://www.waiblingen.de/ceasy/resource/?id=29535&download=1"
+            },
+            {
+                "name": "ÖPNV – Liniennetz Vaihingen an der Enz",
+                "source": "https://www.vaihingen.de/fileadmin/Dateien/Dateien/Sonstige_Planung/00_Verkehrsentwicklungsplan_09_Kapitel_8_O__ffentlicher_Verkehr.pdf#page=11"
             }
         ]
     },
