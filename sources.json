@@ -4389,6 +4389,9 @@
             },
             {
                 "github": "flobo593"
+            },
+			{
+                "github": "jonaes"
             }
         ],
         "sources": [
@@ -4403,6 +4406,14 @@
             {
                 "name": "Liniennetz Stadtverkehr Heidnau-Pirna",
                 "source": "https://www.vvo-online.de/doc/VVO-Stadtverkehre-Heidenau-Pirna.pdf"
+            },
+			{
+                "name": "Liniennetz Hoyerswerda",
+                "source": "https://www.vgh-hy.de/linien-und-fahrplaene/liniennetz/"
+            },
+			{
+                "name": "Liniennetz Kamenz",
+                "source": "https://www.vvo-online.de/doc/VVO-Stadtverkehre-Kamenz.pdf"
             }
         ]
     },
@@ -5346,6 +5357,40 @@
             {
                 "name": "Netzplan",
                 "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "zvon-sv",
+        "contributors": [
+            {
+                "github": "jonaes"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Görlitz/Zgorzelec",
+                "source": "https://www.goerlitztakt.de/uploads/LNP/LNP_ab_05.01.2026.pdf"
+            },
+			{
+                "name": "Netzplan Bautzen",
+                "source": "https://www.zvon.de/de/zvon-verbund?file=files/media/zvon/liniennetz/zvon-verbund/2025-plaene/stand12-2025/liniennetzplan-stadtverkehr-bautzen-12-2025.pdf&cid=1883"
+            },
+			{
+                "name": "Netzplan Bischofswerda",
+                "source": "https://www.zvon.de/de/zvon-verbund?file=files/media/zvon/liniennetz/zvon-verbund/2025-plaene/stand12-2025/liniennetzplan-stadtverkehr-bischofswerda-12-2025.pdf&cid=1883"
+            },
+			{
+                "name": "Netzplan Löbau",
+                "source": "https://www.zvon.de/de/zvon-verbund?file=files/media/zvon/liniennetz/zvon-verbund/2025-plaene/stand12-2025/liniennetzplan-stadtverkehr-loebau-12-2025.pdf&cid=1883"
+            },
+			{
+                "name": "Netzplan Weißwasser",
+                "source": " https://www.zvon.de/de/zvon-verbund?file=files/media/zvon/liniennetz/zvon-verbund/2025-plaene/stand12-2025/liniennetzplan-stadtverkehr-weisswasser-12-2025.pdf&cid=1883"
+            },
+			{
+                "name": "Netzplan Zittau",
+                "source": "https://www.zvon.de/de/zvon-verbund?file=files/media/zvon/liniennetz/zvon-verbund/2025-plaene/stand12-2025/liniennetzplan-stadtverkehr-zittau-12-2025.pdf&cid=1883"
             }
         ]
     },
