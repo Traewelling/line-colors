@@ -319,16 +319,17 @@ db-regio-sudost,RE 7,db-regio-ag-sudost,re-7,#992e00,#ffffff,,rectangle,Q1885609
 db-regio-sudost,RE 13,db-regio-ag-sudost,re-13,#ebaa3b,#ffffff,,rectangle,Q113505112,10437,DB Regio AG Südost
 db-regio-sudost,RE 14,db-regio-ag-sudost,re-14,#a98956,#ffffff,,rectangle,,10437,DB Regio AG Südost
 db-regio-sudost,RE 57,db-regio-ag-sudost,re-57,#992e00,#ffffff,,rectangle,,10437,DB Regio AG Südost
-db-regio-sudost,S1,db-regio-ag-sudost,4-800486-1,#f5de2b,#000000,,pill,,10437,DB Regio AG Südost
-db-regio-sudost,S2,db-regio-ag-sudost,4-8004a9-2,#18a2e3,#ffffff,,pill,,10437,DB Regio AG Südost
-db-regio-sudost,S3,db-regio-ag-sudost,4-800486-3,#e1001e,#ffffff,,pill,,10437,DB Regio AG Südost
-db-regio-sudost,S30,db-regio-ag-sudost,4-800486-3,#e1001e,#ffffff,,pill,,10437,DB Regio AG Südost
-db-regio-sudost,S4,db-regio-ag-sudost,4-800486-4,#109644,#ffffff,,pill,,10437,DB Regio AG Südost
-db-regio-sudost,S5,db-regio-ag-sudost,4-800486-5,#ed7c1c,#ffffff,,pill,,10437,DB Regio AG Südost
-db-regio-sudost,S5X,db-regio-ag-sudost,4-800486-5x,#fdce5c,#ffffff,,pill,,10437,DB Regio AG Südost
-db-regio-sudost,S6,db-regio-ag-sudost,4-800486-6,#5c1239,#ffffff,,pill,,10437,DB Regio AG Südost
-db-regio-sudost,S8,db-regio-ag-sudost,4-8004a9-8,#5c2582,#ffffff,,pill,,10437,DB Regio AG Südost
-db-regio-sudost,S9,db-regio-ag-sudost,4-8004a9-9,#be006b,#ffffff,,pill,,10437,DB Regio AG Südost
+db-regio-sudost,S1,db-regio-ag-sudost,4-800486-1,#f5de2b,#000000,,pill,Q56600177,10437,DB Regio AG Südost
+db-regio-sudost,S2,db-regio-ag-sudost,4-8004a9-2,#18a2e3,#ffffff,,pill,Q56809294,10437,DB Regio AG Südost
+db-regio-sudost,S3,db-regio-ag-sudost,4-800486-3,#e1001e,#ffffff,,pill,Q62749908,10437,DB Regio AG Südost
+db-regio-sudost,S30,db-regio-ag-sudost,4-800486-3,#e1001e,#ffffff,,pill,Q137527225,10437,DB Regio AG Südost
+db-regio-sudost,S4,db-regio-ag-sudost,4-800486-4,#109644,#ffffff,,pill,Q63215993,10437,DB Regio AG Südost
+db-regio-sudost,S5,db-regio-ag-sudost,4-800486-5,#ed7c1c,#ffffff,,pill,Q63216051,10437,DB Regio AG Südost
+db-regio-sudost,S5X,db-regio-ag-sudost,4-800486-5x,#fdce5c,#ffffff,,pill,Q63216058,10437,DB Regio AG Südost
+db-regio-sudost,S6,db-regio-ag-sudost,4-800486-6,#5c1239,#ffffff,,pill,Q63217185,10437,DB Regio AG Südost
+db-regio-sudost,S8,db-regio-ag-sudost,4-8004a9-8,#5c2582,#ffffff,,pill,Q63213955,10437,DB Regio AG Südost
+db-regio-sudost,S9,db-regio-ag-sudost,4-8004a9-9,#be006b,#ffffff,,pill,Q63217750,10437,DB Regio AG Südost
+db-regio-sudost,S11,db-regio-ag-sudost,,#309f98,#ffffff,,pill,Q131460494,10437,DB Regio AG Südost
 db-regionetz-sudostbayernbahn,RE 4,db-regionetz-verkehrs-gmbh-sudostbayernbahn,re-4,#ffffff,#992e00,#992e00,rectangle,,10448,DB RegioNetz Verkehrs GmbH Südostbayernbahn
 db-regionetz-sudostbayernbahn,RB 32,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-32,#e5a05c,#ffffff,,rectangle,,10448,DB RegioNetz Verkehrs GmbH Südostbayernbahn
 db-regionetz-sudostbayernbahn,RB 40,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-40,#e5a05c,#ffffff,,rectangle,,10448,DB RegioNetz Verkehrs GmbH Südostbayernbahn
