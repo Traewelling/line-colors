@@ -4744,6 +4744,14 @@ vvo-bus,M (Pirna),,,#f27022,#ffffff,,pill,,,OVPS-Stadtbus
 vvo-bus,N (Pirna),,,#7bc243,#ffffff,,pill,,,OVPS-Stadtbus
 vvo-bus,P (Pirna),,,#5a9230,#ffffff,,pill,,,OVPS-Stadtbus
 vvo-bus,Z (Pirna),,,#f6b12f,#000000,,pill,,,OVPS-Stadtbus
+vvo-bus,1,,,#ec1d35,#ffffff,,circle,,8198,VGH Busverkehr
+vvo-bus,2,,,#5a9230,#ffffff,,circle,,8198,VGH Busverkehr
+vvo-bus,3,,,#0073bd,#ffffff,,circle,,8198,VGH Busverkehr
+vvo-bus,4,,,#f9aa1b,#ffffff,,circle,,8198,VGH Busverkehr
+vvo-bus,5,,,#7bc243,#ffffff,,circle,,8198,VGH Busverkehr
+vvo-bus,21,,,#ec1d35,#ffffff,,circle,,8197,RBO-Busverkehr
+vvo-bus,22,,,#00acdd,#ffffff,,circle,,8197,RBO-Busverkehr
+vvo-bus,23,,,#5a9230,#ffffff,,circle,,8197,RBO-Busverkehr
 vvo-db-regio,U 28,db-regio-ag-sudost,rb-u28,#014d6f,#ffffff,,pill,,10437,DB Regio AG Südost
 vvo-db-regio,RB 33,db-regio-ag-sudost,rb-33,#ec7797,#ffffff,,rectangle,,10437,DB Regio AG Südost
 vvo-db-regio,RB 71,db-regio-ag-sudost,rb-71,#ad006f,#ffffff,,rectangle,,10437,DB Regio AG Südost
@@ -5597,3 +5605,28 @@ zvnl-tram,50,,8-naslvt-50,#ffffff,#000000,#000000,rectangle,,8872,Leipziger Verk
 zvnl-tram,56,,8-naslvt-56,#ffffff,#000000,#000000,rectangle,,8872,Leipziger Verkehrsbetriebe
 zvnl-tram,N10,,8-naslvt-n10,#e1001e,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
 zvnl-tram,N17,,8-naslvt-n17,#67b337,#ffffff,,rectangle,,8872,Leipziger Verkehrsbetriebe
+zvon-sv,11,,,#05498b,#ffffff,,circle,,7874,RBO-Bus
+zvon-sv,12,,,#ef7c00,#ffffff,,circle,,7874,RBO-Bus
+zvon-sv,13,,,#76b72a,#ffffff,,circle,,7874,RBO-Bus
+zvon-sv,14,,,#00a3e5,#ffffff,,circle,,7874,RBO-Bus
+zvon-sv,15,,,#d41116,#ffffff,,circle,,7874,RBO-Bus
+zvon-sv,16,,,#792c86,#ffffff,,circle,,7874,RBO-Bus
+zvon-sv,24,,,#d41217,#ffffff,,circle,,7888,OBB-Beck
+zvon-sv,1,,,#ec1f25,#ffffff,,rectangle,,13637,Görlitzer Verkehrsbetriebe
+zvon-sv,2,,,#008346,#ffffff,,rectangle,,13637,Görlitzer Verkehrsbetriebe
+zvon-sv,A,,,#ed569f,#ffffff,,circle,,13637,Görlitzer Verkehrsbetriebe
+zvon-sv,B,,,#fcb915,#ffffff,,circle,,13637,Görlitzer Verkehrsbetriebe
+zvon-sv,C,,,#ffffff,#ca8c67,#ca8c67,circle,,13637,Görlitzer Verkehrsbetriebe
+zvon-sv,D,,,#882179,#ffffff,,circle,,13637,Görlitzer Verkehrsbetriebe
+zvon-sv,E,,,#1ec4f4,#ffffff,,circle,,13637,Görlitzer Verkehrsbetriebe
+zvon-sv,F,,,#6ebf45,#ffffff,,circle,,13637,Görlitzer Verkehrsbetriebe
+zvon-sv,N,,,#00a0e4,#ffffff,,circle,,13637,Görlitzer Verkehrsbetriebe
+zvon-sv,3,,,#f48221,#ffffff,,circle,,12146,Astel SV-Zgorzelec
+zvon-sv,4,,,#56aa47,#ffffff,,circle,,12146,Astel SV-Zgorzelec
+zvon-sv,5,,,#006cb8,#ffffff,,circle,,12146,Astel SV-Zgorzelec
+zvon-sv,5,,,#d41217,#ffffff,,circle,,7875,KVG-Bus
+zvon-sv,6,,,#05498b,#ffffff,,circle,,7875,KVG-Bus
+zvon-sv,8,,,#d41217,#ffffff,,circle,,14177,Omnibus Verkehr Oberlausitz
+zvon-sv,1,,,#d41217,#ffffff,,circle,,7875,KVG-Bus
+zvon-sv,2,,,#6eaa27,#ffffff,,circle,,7875,KVG-Bus
+zvon-sv,3,,,#05498b,#ffffff,,circle,,7875,KVG-Bus
