@@ -14,7 +14,7 @@ $linesByOperatorCode = array_reduce($csv, function ($result, $line) {
 
 
 function valid_shape($line, $i) {
-    if (!in_array($line["shape"], ["circle", "hexagon", "pill", "rectangle", "rectangle-rounded-corner", "trapezoid"])) {
+    if (!in_array($line["shape"], ["circle", "hexagon", "pill", "rectangle", "rectangle-rounded-corner", "trapezoid", "text"])) {
         throw new Error("bad shape " . $line["shape"] . " in row $i");
     }
 }
@@ -28,9 +28,9 @@ function valid_hex_color($line, $i, $key) {
 }
 
 function text_color_differs_background($line, $i) {
-    $textColor = $line["textColor"];
-    $backgroundColor = $line["backgroundColor"];
-    if ($textColor === $backgroundColor) {
-        throw new Error("bad color combination: text color \"$textColor\" may not be background color \"$backgroundColor\" in row $i");
+    $primaryColor = $line["primaryColor"];
+    $secondaryColor = $line["secondaryColor"];
+    if ($secondaryColor === $primaryColor) {
+        throw new Error("bad color combination: secondary color \"$secondaryColor\" may not be primary color \"$primaryColor\" in row $i");
     }
 }
