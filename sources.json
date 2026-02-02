@@ -512,6 +512,126 @@
         ]
     },
     {
+        "shortOperatorName": "avv-ast",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Innenraum",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_liniennetz_innenraum_2025_03_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-avg",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Innenraum",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_liniennetz_innenraum_2025_03_web.pdf"
+            },
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-dmm",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-egb",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-gvg",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Innenraum",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_liniennetz_innenraum_2025_03_web.pdf"
+            },
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-rba",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-sbk",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "avv-zzz",
+        "contributors": [
+            {
+                "github": "Schweigi491"
+            }
+        ],
+        "sources": [
+            {
+                "name": "AVV Liniennetz Nachtlinien",
+                "source": "https://www.avv-augsburg.de/fileadmin/user_upload/Netzplaene_und_Karten/avv_nachtliniennetz_2025_12_web.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "hans",
         "contributors": [
             {
@@ -1085,6 +1205,10 @@
             {
                 "name": "Linie 619 Lurzenhof Hochschule HBF",
                 "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Linie-619-Lurzenhof-Hochschule-HBF.pdf"
+            },
+            {
+                "name": "Schüler- und Berufslinien ab Schuljahr 2025/26",
+                "source": "https://www.stadtwerke-landshut.de/wp-content/uploads/Schueler-und-Berufslinien-ab-16.09.25.pdf"
             }
         ]
     },
@@ -1307,8 +1431,8 @@
                 "source": "https://www.mvg.de/dam/jcr:6ec4cb8c-46c8-4f87-90ec-b1578c56b0df/MVV-Gesamtfahrplan_2025_241222_web.pdf"
             },
             {
-                "name": "MVV Netzplan Gesamtnetz 2024",
-                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2024/2024_layout_MVV_Regio_1_GESAMT_SCR.pdf"
+                "name": "MVV Netzplan Gesamtnetz 2026",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/2026_layout_MVV_Regio_0GESAMT.pdf"
             },
             {
                 "name": "MVV-ExpressBus Linien",
@@ -1321,6 +1445,62 @@
             {
                 "name": "MVV-Alpenbus Linien",
                 "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/05-Mobilitaetsangebote/Alpenbus/x380x381x990_alpenbus_web.svg"
+            },
+            {
+                "name": "MVV-Netz Stadt Erding",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2025/2025_layout_MVV_Stadt_Erding.pdf"
+            },
+            {
+                "name": "MVV-Netz Markt Garmisch-Partenkirchen",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/2026_layout_MVV_Gemeinde_Garmisch_P_Screen.pdf"
+            },
+            {
+                "name": "MVV-Netz in den Städten Kolbermoor und Rosenheim (Tag)",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/2026_layout_MVV_Stadt_Rosenheim_Tag_Screen.pdf"
+            },
+            {
+                "name": "MVV-Netz in den Städten Kolbermoor und Rosenheim (Abend)",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/2026_layout_MVV_Stadt_Rosenheim_Abend_Screen.pdf"
+            },
+            {
+                "name": "MVV-Netz Stadt Germering",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2025/2025_layout_Netz_Germering.pdf"
+            },
+            {
+                "name": "MVV-Netz Landsberg/Kaufering",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2025/2025_layout_MVV_Stadt_Landsberg_Kaufering_SCR.pdf"
+            },
+            {
+                "name": "MVV-Netz in der Stadt Penzberg",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/2026_layout_MVV_Stadt_Penzberg_Screen.pdf"
+            },
+            {
+                "name": "MVV-Netz in Schongau, Peiting und Altenstadt",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/2026_layout_MVV_Stadt_Schongau_Screen.pdf"
+            },
+            {
+                "name": "MVV-Netz Starnberger See",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/2026_layout_MVV_StarnbergerSee_Screen.pdf"
+            },
+            {
+                "name": "MVV-Netz Stadt Weilheim",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/2026_layout_MVV_Stadt_Weilheim_Screen.pdf"
+            },
+            {
+                "name": "Verkehrslinienplan Gemeinde Poing",
+                "source": "https://www.poing.de/fileadmin/user_upload/Fahrplan_2025.jpg"
+            },
+            {
+                "name": "Ausschnitt aus dem MVV-Verkehrslinienplan Gemeinde Vaterstetten",
+                "source": "https://www.vaterstetten.de/leben-freizeit/verkehr-tourismus/bahn-bus/ausschnitt-mvv-linineplan.pdf"
+            },
+            {
+                "name": "MVV-Netz in Mühldorf und Waldkraiburg/Kraiburg",
+                "source": "https://www.mvv-muenchen.de/fileadmin/mediapool/03-Plaene_Bahnhoefe/Netzplaene/Downloads_2026/2026_layout_MVV_Muehlddorf_Waldkraiburg_Screen.pdf"
+            },
+            {
+                "name": "ÖPNV-Netz in Unterschleißheim",
+                "source": "https://www.unterschleissheim.de/fileadmin/_processed_/6/a/csm_Busliniennetz_Unterschleissheim_2024_919de3bf7c.png"
             }
         ]
     },
@@ -1329,12 +1509,15 @@
         "contributors": [
             {
                 "github": "sebiIO"
+            },
+            {
+                "github": "Sheigutn"
             }
         ],
         "sources": [
             {
                 "name": "Stadtverkehrsplan Dachau",
-                "source": "https://www.stadtwerke-dachau.de/fileadmin/Media/Downloads/Downloads_Tarife_Angebote/Downloads_Mobilitaet/Dachau_SVP_2024.pdf"
+                "source": "https://www.stadtwerke-dachau.de/fileadmin/Media/Downloads/Downloads_Tarife_Angebote/Downloads_Mobilitaet/Dachau_SVP_2026_Finalstand_22.10.2025_.pdf"
             },
             {
                 "name": "Übersichtsseite - Busverkehr in Dachau",
@@ -2064,6 +2247,20 @@
             {
                 "name": "Liniennetzplan Markgräflerland 2025",
                 "source": "https://rvl-online.de/download/7539/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "s-bahn-basel",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Trinationale S-Bahn Basel 2026",
+                "source": "https://www.sbb.ch/content/dam/internet/sbb/downloads/multi/reiseinformationen/bahnverkehrsinformation/pdf-fahrplaene/abfahrtsplakate/2026/liniennetzplaene/LPL_Basel.pdf.sbbdownload.pdf"
             }
         ]
     },
@@ -4220,6 +4417,9 @@
             },
             {
                 "github": "flobo593"
+            },
+			{
+                "github": "jonaes"
             }
         ],
         "sources": [
@@ -4234,6 +4434,14 @@
             {
                 "name": "Liniennetz Stadtverkehr Heidnau-Pirna",
                 "source": "https://www.vvo-online.de/doc/VVO-Stadtverkehre-Heidenau-Pirna.pdf"
+            },
+			{
+                "name": "Liniennetz Hoyerswerda",
+                "source": "https://www.vgh-hy.de/linien-und-fahrplaene/liniennetz/"
+            },
+			{
+                "name": "Liniennetz Kamenz",
+                "source": "https://www.vvo-online.de/doc/VVO-Stadtverkehre-Kamenz.pdf"
             }
         ]
     },
@@ -4331,6 +4539,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-eberhardt",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "ÖPNV – Liniennetz Vaihingen an der Enz",
+                "source": "https://www.vaihingen.de/fileadmin/Dateien/Dateien/Sonstige_Planung/00_Verkehrsentwicklungsplan_09_Kapitel_8_O__ffentlicher_Verkehr.pdf#page=11"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvs-fischle",
         "contributors": [
             {
@@ -4341,6 +4563,28 @@
             {
                 "name": "Netzplan Esslingen",
                 "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-esslingen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-flattich",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "ÖPNV – Liniennetz Vaihingen an der Enz",
+                "source": "https://www.vaihingen.de/fileadmin/Dateien/Dateien/Sonstige_Planung/00_Verkehrsentwicklungsplan_09_Kapitel_8_O__ffentlicher_Verkehr.pdf#page=11"
+            },
+            {
+                "name": "Verkehrslinienplan Stadtverkehr - Stadtbus Ditzingen",
+                "source": "https://www.ditzingen.de/fileadmin/Dateien/Cross7/Startseite/Info_%26_Aktuelles/Verkehr/OPNV/Verkehrslinienplan_Stadtverkehr_Baustellenfahrplan.pdf"
+            },
+            {
+                "name": "Verkehrslinienplan Ditzingen",
+                "source": "https://www.ditzingen.de/fileadmin/Dateien/Cross7/Startseite/Info_%26_Aktuelles/Verkehr/OPNV/Verkehrslinienplan_Gesamtstadt_Baustellenfahrplan.pdf"
             }
         ]
     },
@@ -4373,6 +4617,10 @@
             {
                 "name": "Fahrplan-Merker 2026",
                 "source": "https://www.waiblingen.de/ceasy/resource/?id=29535&download=1"
+            },
+            {
+                "name": "ÖPNV – Liniennetz Vaihingen an der Enz",
+                "source": "https://www.vaihingen.de/fileadmin/Dateien/Dateien/Sonstige_Planung/00_Verkehrsentwicklungsplan_09_Kapitel_8_O__ffentlicher_Verkehr.pdf#page=11"
             }
         ]
     },
@@ -4387,6 +4635,24 @@
             {
                 "name": "Bus-Liniennetz Landkreis Göppingen",
                 "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-kappus",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Verkehrslinienplan Busverkehr Ditzingen",
+                "source": "https://www.ditzingen.de/fileadmin/Dateien/Dateien/Verkehr/Fahrplan-2024-25_Web.pdf#page=3"
+            },
+            {
+                "name": "Verkehrslinienplan Ditzingen",
+                "source": "https://www.ditzingen.de/fileadmin/Dateien/Cross7/Startseite/Info_%26_Aktuelles/Verkehr/OPNV/Verkehrslinienplan_Gesamtstadt_Baustellenfahrplan.pdf"
             }
         ]
     },
@@ -4431,8 +4697,8 @@
         ],
         "sources": [
             {
-                "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
-                "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+                "name": "Liniennetz Fa. Spillmann",
+                "source": "https://www.bietigheim-bissingen.de/fileadmin/user_upload_stadtverwaltung/seitenstruktur/wirtschaft-einkaufen-verkehr/verkehr-und-mobilitaet/Mobilit%C3%A4tsplan-2035.pdf#page=30"
             }
         ]
     },
@@ -4461,6 +4727,10 @@
             {
                 "name": "Fahrplan-Merker 2026",
                 "source": "https://www.waiblingen.de/ceasy/resource/?id=29535&download=1"
+            },
+            {
+                "name": "ÖPNV – Liniennetz Vaihingen an der Enz",
+                "source": "https://www.vaihingen.de/fileadmin/Dateien/Dateien/Sonstige_Planung/00_Verkehrsentwicklungsplan_09_Kapitel_8_O__ffentlicher_Verkehr.pdf#page=11"
             }
         ]
     },
@@ -4768,6 +5038,10 @@
             {
                 "name": "Interaktiver Netzplan fahr mit",
                 "source": "https://netzplan.fahr-mit.de/index.php/de/karte/init/haltestelle/523"
+            },
+            {
+                "name": "Liniennetz im Hochstift",
+                "source": "https://hochstiftbewegt.de/wp-content/uploads/NPH_Info-Linienfaltplan_nur-Plan.pdf"
             }
         ]
     },
@@ -4786,6 +5060,10 @@
             {
                 "name": "Interaktiver Netzplan fahr mit",
                 "source": "https://netzplan.fahr-mit.de/index.php/de/karte/init/haltestelle/523"
+            },
+            {
+                "name": "Liniennetz im Hochstift",
+                "source": "https://hochstiftbewegt.de/wp-content/uploads/NPH_Info-Linienfaltplan_nur-Plan.pdf"
             }
         ]
     },
@@ -4800,6 +5078,34 @@
             {
                 "name": "2025_regionalbusse_im_münsterland",
                 "source": "https://www.rvm-online.de/fileadmin/startseite_rvm/fahrgast/fahrt_planen/liniennetzplan/2025_regionalbusse_im_m%C3%BCnsterland_din_a_3-stand_01.06.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wt-holibri",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz im Hochstift",
+                "source": "https://hochstiftbewegt.de/wp-content/uploads/NPH_Info-Linienfaltplan_nur-Plan.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "wt-koehne",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz im Hochstift",
+                "source": "https://hochstiftbewegt.de/wp-content/uploads/NPH_Info-Linienfaltplan_nur-Plan.pdf"
             }
         ]
     },
@@ -4997,6 +5303,20 @@
         ]
     },
     {
+        "shortOperatorName": "wt-vku",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VKU Netzplan Bergkamen",
+                "source": "https://www.vku-online.de/fileadmin/vku_relaunch/liniennetzplaene/31131276-bergkamen-a2-12.11.2019.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "wt-wb",
         "contributors": [
             {
@@ -5065,6 +5385,40 @@
             {
                 "name": "Netzplan",
                 "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "zvon-sv",
+        "contributors": [
+            {
+                "github": "jonaes"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Görlitz/Zgorzelec",
+                "source": "https://www.goerlitztakt.de/uploads/LNP/LNP_ab_05.01.2026.pdf"
+            },
+			{
+                "name": "Netzplan Bautzen",
+                "source": "https://www.zvon.de/de/zvon-verbund?file=files/media/zvon/liniennetz/zvon-verbund/2025-plaene/stand12-2025/liniennetzplan-stadtverkehr-bautzen-12-2025.pdf&cid=1883"
+            },
+			{
+                "name": "Netzplan Bischofswerda",
+                "source": "https://www.zvon.de/de/zvon-verbund?file=files/media/zvon/liniennetz/zvon-verbund/2025-plaene/stand12-2025/liniennetzplan-stadtverkehr-bischofswerda-12-2025.pdf&cid=1883"
+            },
+			{
+                "name": "Netzplan Löbau",
+                "source": "https://www.zvon.de/de/zvon-verbund?file=files/media/zvon/liniennetz/zvon-verbund/2025-plaene/stand12-2025/liniennetzplan-stadtverkehr-loebau-12-2025.pdf&cid=1883"
+            },
+			{
+                "name": "Netzplan Weißwasser",
+                "source": " https://www.zvon.de/de/zvon-verbund?file=files/media/zvon/liniennetz/zvon-verbund/2025-plaene/stand12-2025/liniennetzplan-stadtverkehr-weisswasser-12-2025.pdf&cid=1883"
+            },
+			{
+                "name": "Netzplan Zittau",
+                "source": "https://www.zvon.de/de/zvon-verbund?file=files/media/zvon/liniennetz/zvon-verbund/2025-plaene/stand12-2025/liniennetzplan-stadtverkehr-zittau-12-2025.pdf&cid=1883"
             }
         ]
     },
