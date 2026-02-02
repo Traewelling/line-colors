@@ -2251,6 +2251,20 @@
         ]
     },
     {
+        "shortOperatorName": "s-bahn-basel",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Trinationale S-Bahn Basel 2026",
+                "source": "https://www.sbb.ch/content/dam/internet/sbb/downloads/multi/reiseinformationen/bahnverkehrsinformation/pdf-fahrplaene/abfahrtsplakate/2026/liniennetzplaene/LPL_Basel.pdf.sbbdownload.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "s-bahn-bern-bls",
         "contributors": [
             {
@@ -4403,6 +4417,9 @@
             },
             {
                 "github": "flobo593"
+            },
+			{
+                "github": "jonaes"
             }
         ],
         "sources": [
@@ -4417,6 +4434,14 @@
             {
                 "name": "Liniennetz Stadtverkehr Heidnau-Pirna",
                 "source": "https://www.vvo-online.de/doc/VVO-Stadtverkehre-Heidenau-Pirna.pdf"
+            },
+			{
+                "name": "Liniennetz Hoyerswerda",
+                "source": "https://www.vgh-hy.de/linien-und-fahrplaene/liniennetz/"
+            },
+			{
+                "name": "Liniennetz Kamenz",
+                "source": "https://www.vvo-online.de/doc/VVO-Stadtverkehre-Kamenz.pdf"
             }
         ]
     },
@@ -4554,8 +4579,12 @@
                 "source": "https://www.vaihingen.de/fileadmin/Dateien/Dateien/Sonstige_Planung/00_Verkehrsentwicklungsplan_09_Kapitel_8_O__ffentlicher_Verkehr.pdf#page=11"
             },
             {
-                "name": "Verkehrslinienplan Busverkehr Ditzingen",
-                "source": "https://www.ditzingen.de/fileadmin/Dateien/Dateien/Verkehr/Fahrplan-2024-25_Web.pdf#page=3"
+                "name": "Verkehrslinienplan Stadtverkehr - Stadtbus Ditzingen",
+                "source": "https://www.ditzingen.de/fileadmin/Dateien/Cross7/Startseite/Info_%26_Aktuelles/Verkehr/OPNV/Verkehrslinienplan_Stadtverkehr_Baustellenfahrplan.pdf"
+            },
+            {
+                "name": "Verkehrslinienplan Ditzingen",
+                "source": "https://www.ditzingen.de/fileadmin/Dateien/Cross7/Startseite/Info_%26_Aktuelles/Verkehr/OPNV/Verkehrslinienplan_Gesamtstadt_Baustellenfahrplan.pdf"
             }
         ]
     },
@@ -4620,6 +4649,10 @@
             {
                 "name": "Verkehrslinienplan Busverkehr Ditzingen",
                 "source": "https://www.ditzingen.de/fileadmin/Dateien/Dateien/Verkehr/Fahrplan-2024-25_Web.pdf#page=3"
+            },
+            {
+                "name": "Verkehrslinienplan Ditzingen",
+                "source": "https://www.ditzingen.de/fileadmin/Dateien/Cross7/Startseite/Info_%26_Aktuelles/Verkehr/OPNV/Verkehrslinienplan_Gesamtstadt_Baustellenfahrplan.pdf"
             }
         ]
     },
@@ -5352,6 +5385,40 @@
             {
                 "name": "Netzplan",
                 "source": "https://www.vvo-online.de/doc/VVO-Liniennetzplan-SPNV-Sachsen.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "zvon-sv",
+        "contributors": [
+            {
+                "github": "jonaes"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Görlitz/Zgorzelec",
+                "source": "https://www.goerlitztakt.de/uploads/LNP/LNP_ab_05.01.2026.pdf"
+            },
+			{
+                "name": "Netzplan Bautzen",
+                "source": "https://www.zvon.de/de/zvon-verbund?file=files/media/zvon/liniennetz/zvon-verbund/2025-plaene/stand12-2025/liniennetzplan-stadtverkehr-bautzen-12-2025.pdf&cid=1883"
+            },
+			{
+                "name": "Netzplan Bischofswerda",
+                "source": "https://www.zvon.de/de/zvon-verbund?file=files/media/zvon/liniennetz/zvon-verbund/2025-plaene/stand12-2025/liniennetzplan-stadtverkehr-bischofswerda-12-2025.pdf&cid=1883"
+            },
+			{
+                "name": "Netzplan Löbau",
+                "source": "https://www.zvon.de/de/zvon-verbund?file=files/media/zvon/liniennetz/zvon-verbund/2025-plaene/stand12-2025/liniennetzplan-stadtverkehr-loebau-12-2025.pdf&cid=1883"
+            },
+			{
+                "name": "Netzplan Weißwasser",
+                "source": " https://www.zvon.de/de/zvon-verbund?file=files/media/zvon/liniennetz/zvon-verbund/2025-plaene/stand12-2025/liniennetzplan-stadtverkehr-weisswasser-12-2025.pdf&cid=1883"
+            },
+			{
+                "name": "Netzplan Zittau",
+                "source": "https://www.zvon.de/de/zvon-verbund?file=files/media/zvon/liniennetz/zvon-verbund/2025-plaene/stand12-2025/liniennetzplan-stadtverkehr-zittau-12-2025.pdf&cid=1883"
             }
         ]
     },
