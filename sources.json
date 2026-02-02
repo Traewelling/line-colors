@@ -2237,6 +2237,20 @@
         ]
     },
     {
+        "shortOperatorName": "s-bahn-basel",
+        "contributors": [
+            {
+                "github": "mtwente"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Trinationale S-Bahn Basel 2026",
+                "source": "https://www.sbb.ch/content/dam/internet/sbb/downloads/multi/reiseinformationen/bahnverkehrsinformation/pdf-fahrplaene/abfahrtsplakate/2026/liniennetzplaene/LPL_Basel.pdf.sbbdownload.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "s-bahn-bern-bls",
         "contributors": [
             {
