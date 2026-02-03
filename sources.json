@@ -931,6 +931,20 @@
         ]
     },
     {
+        "shortOperatorName": "infrago-gs-ha-w-k",
+        "contributors": [
+            {
+                "github": "luna-cant-code"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Generalsanierung Hagen-Wuppertal-Köln",
+                "source": "https://generalsanierung.db-ersatzverkehr.de/ersatzverkehr/Generalsanierungen/Hagen-Wuppertal-Koeln"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "kvv-anrufverkehre",
         "contributors": [
             {
@@ -2355,6 +2369,20 @@
             {
                 "name": "Netzplan Saarbahn GmbH",
                 "source": "https://www.saarbahn.de/media/download-5a2e252da77e1"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "sev-nuernberg-regensburg",
+        "contributors": [
+            {
+                "github": "Sheigutn"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Generalsanierung Nürnberg Regensburg",
+                "source": "https://www.vgn.de/media/liniennetz-generalsanierung.pdf"
             }
         ]
     },
