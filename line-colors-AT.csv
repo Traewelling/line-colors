@@ -1,0 +1,19 @@
+shortOperatorName,lineName,backgroundColor,textColor,borderColor,shape,wikidataQid,GTFSAgencyID,GTFSAgencyName
+vor-oebb,S1,#0097d5,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-oebb,S2,#0097d5,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-oebb,S3,#0097d5,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-oebb,S4,#0097d5,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-oebb,S7,#0097d5,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-oebb,S40,#0097d5,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-oebb,S45,#c8d200,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-oebb,S50,#0097d5,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-oebb,S60,#0097d5,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-oebb,S80,#0097d5,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-wl,18,#c00808,#ffffff,,rectangle,Q47563623,04,Wiener Linien GmbH & Co KG
+vor-wl,95A,#0b285c,#ffffff,,rectangle,,04,Wiener Linien GmbH & Co KG
+vor-wl,U1,#e3000f,#ffffff,,rectangle,Q663755,04,Wiener Linien GmbH & Co KG
+vor-wl,U2,#a862a4,#ffffff,,rectangle,Q873397,04,Wiener Linien GmbH & Co KG
+vor-wl,U3,#ef7c00,#ffffff,,rectangle,Q876472,04,Wiener Linien GmbH & Co KG
+vor-wl,U4,#00963f,#ffffff,,rectangle,Q877322,04,Wiener Linien GmbH & Co KG
+vor-wl,U5,#008e95,#ffffff,,rectangle,Q1329518,04,Wiener Linien GmbH & Co KG
+vor-wl,U6,#9d6830,#ffffff,,rectangle,Q281409,04,Wiener Linien GmbH & Co KG
