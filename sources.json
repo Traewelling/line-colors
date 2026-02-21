@@ -2985,6 +2985,76 @@
         ]
     },
     {
+        "shortOperatorName": "vhb-regionalverkehr",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VHB-Zonenplan",
+                "source": "https://www.vhb-info.de/fileadmin/Seiten/Zonenplaene/VHB_Tarifzonen.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vhb-sbg",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "VHB-Zonenplan",
+                "source": "https://www.vhb-info.de/fileadmin/Seiten/Zonenplaene/VHB_Tarifzonen.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vhb-stadtbus-konstanz",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Linienplan Stadtbus Konstanz",
+                "source": "https://www.stadtwerke-konstanz.de/public/uploads/bus-netzlinienplan-ab-29.11.2025-web.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vhb-stadtbus-radolfzell",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Stadtbusnetz Radolfzell 2026",
+                "source": "https://www.stadtwerke-radolfzell.de/fileadmin/user_upload/pdf/mobilitaet/stadtbus/2025-12-04_Busnetz_2026.pdf"
+            }
+        ]
+    }
+	{
+        "shortOperatorName": "vhb-stadtbus-singen",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Stadtbus Singen Buslinienplan",
+                "source": "https://stadtwerke-singen.de/wp-content/uploads/Bplan2024.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vias",
         "contributors": [
             {
