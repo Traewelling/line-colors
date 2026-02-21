@@ -684,12 +684,18 @@ hvv-vhh,X80,,,#ebc353,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,X81,,,#30653c,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,X82,,,#8697b1,#ffffff,,hexagon,,15146,VHH Bus
 hvv-vhh,X95,,,#c06936,#ffffff,,hexagon,,15146,VHH Bus
-infrago-gs-ha-w-k,RB48,,,#55ace0,#ffffff,,pill,,10436,DB Regio AG NRW
-infrago-gs-ha-w-k,RB48X,,,#68ab44,#ffffff,,pill,,10436,DB Regio AG NRW
+infrago-gs-ha-w-k,RB48,,,#55ace0,#ffffff,,pill,,15194,go.on Gesellschaft für Bus- und Schienenverkehr mbH
+infrago-gs-ha-w-k,RB48X,,,#68ab44,#ffffff,,pill,,15194,go.on Gesellschaft für Bus- und Schienenverkehr mbH
+infrago-gs-ha-w-k,RE4,,,#ffd204,#000000,,pill,,15194,go.on Gesellschaft für Bus- und Schienenverkehr mbH
 infrago-gs-ha-w-k,RE7,,,#f69324,#ffffff,,pill,,15194,go.on Gesellschaft für Bus- und Schienenverkehr mbH
 infrago-gs-ha-w-k,RE7X,,,#f69324,#ffffff,,pill,,15194,go.on Gesellschaft für Bus- und Schienenverkehr mbH
+infrago-gs-ha-w-k,RE13,,,#7f5c1e,#ffffff,,pill,,10436,DB Regio AG NRW
 infrago-gs-ha-w-k,RE49,,,#fdc210,#000000,,pill,,10436,DB Regio AG NRW
 infrago-gs-ha-w-k,S7,,,#bc6b28,#ffffff,,pill,,10436,DB Regio AG NRW
+infrago-gs-ha-w-k,S8,,,#397325,#ffffff,,pill,,15194,go.on Gesellschaft für Bus- und Schienenverkehr mbH
+infrago-gs-ha-w-k,S9,,,#54207a,#ffffff,,pill,,10436,DB Regio AG NRW
+infrago-gs-ha-w-k,S28,,,#00a89c,#ffffff,,pill,,10436,DB Regio AG NRW
+infrago-gs-ha-w-k,S68,,,#f69324,#ffffff,,pill,,10436,DB Regio AG NRW
 kvv-anrufverkehre,203,,,#ffd400,#000000,,circle,,7671,Taxiverkehre
 kvv-anrufverkehre,204,,,#f5821f,#ffffff,,circle,,7671,Taxiverkehre
 kvv-anrufverkehre,205,,,#a87b50,#ffffff,,circle,,7671,Taxiverkehre
@@ -1957,13 +1963,11 @@ nrw-sbahn,S 3,db-regio-ag-nrw,4-8003l1-3,#fff200,#000000,,pill,,10436,DB Regio A
 nrw-sbahn,S 4,db-regio-ag-nrw,4-800337-4,#f5821f,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 5,db-regio-ag-nrw,4-800354-5,#80c342,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 6,db-regio-ag-nrw,4-8003s-6,#e21d3c,#ffffff,,pill,,10436,DB Regio AG NRW
-nrw-sbahn,S 8,db-regio-ag-nrw,4-800354-8,#b23815,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 9,db-regio-ag-nrw,4-8003l1-9,#c6168d,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 11,db-regio-ag-nrw,4-8003s-11,#f26522,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 12,db-regio-ag-nrw,4-8003s-12,#4db857,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 19,db-regio-ag-nrw,4-8003s-19,#00658e,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 23,db-regio-ag-nrw,4-800352-23,#8c2a77,#ffffff,,pill,,10436,DB Regio AG NRW
-nrw-sbahn,S 28,regiobahn,4-m2-28,#4a0b4d,#ffffff,,pill,,10894,REGIOBAHN
 nvs,1,,8-vwmstr-1,#e5007d,#ffffff,,rectangle,,7560,Straßenbahn
 nvs,1,,5-vwmbus-1,#e5007d,#ffffff,,pill,,8219,Schwerin Bus
 nvs,2,,8-vwmstr-2,#e3000f,#ffffff,,rectangle,,7560,Straßenbahn
