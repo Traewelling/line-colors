@@ -2972,6 +2972,70 @@ vgn-vag-tram,10,,8-vanstr-10,#c94f82,#ffffff,,rectangle,,13652,Tram Nürnberg
 vgn-vag-ubahn,U 1,,7-vanuba-1,#1c62aa,#ffffff,,rectangle,,13651,U-Bahn Nürnberg
 vgn-vag-ubahn,U 2,,7-vanuba-2,#ed1c24,#ffffff,,rectangle,,13651,U-Bahn Nürnberg
 vgn-vag-ubahn,U 3,,7-vanuba-3,#4dc2bb,#ffffff,,rectangle,,13651,U-Bahn Nürnberg
+vhb-regionalverkehr,100,,,#b83838,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,100S,,,#b83838,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,101,,,#d36286,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,101S,,,#d36286,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,102,,,#cbbb00,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,102S,,,#cbbb00,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,103,,,#6ca5da,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,104,,,#007599,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,105,,,#79a742,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,106,,,#2d934f,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,200,,,#e63312,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,200S,,,#e63312,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,201,,,#6859a2,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,202,,,#76beea,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,203,,,#ee7216,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,203S,,,#ee7216,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,204,,,#e83273,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,205,,,#37ab49,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,300,,,#53821d,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,301,,,#004d6d,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,302,,,#cd1720,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,303,,,#6e507b,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,304,,,#438f8f,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,305,,,#06a169,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,306,,,#96b522,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,307,,,#b75782,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,308,,,#aeaeae,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,400,,,#b48832,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,401,,,#848ac4,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,402,,,#eb6218,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,403,,,#b08d85,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-regionalverkehr,404,,,#d08837,#ffffff,,rectangle-rounded-corner,,13642,Landkreis Konstanz
+vhb-sbg,33,,,#6ca5da,#ffffff,,rectangle-rounded-corner,,14785,SBG-Villingen
+vhb-stadtbus-konstanz,1,,,#e7323e,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,2,,,#ffdf43,#000000,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,3,,,#e19ac3,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,4/13,,,#f6b0a5,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,5,,,#1d6599,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,6,,,#ea5083,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,9,,,#a4bde3,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,11,,,#0f766e,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,12,,,#f07e3b,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,12/3,,,#e98c83,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,13/4,,,#8acab7,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,14,,,#bddced,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,15,,,#c2aa9e,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,CS,,,#9fca78,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-konstanz,N,,,#9c9d9d,#ffffff,,rectangle-rounded-corner,,13641,Stadtbus Konstanz
+vhb-stadtbus-radolfzell,1,,,#cf171e,#ffffff,,rectangle,,15232,Stadtbus Radolfzell
+vhb-stadtbus-radolfzell,2,,,#026eb6,#ffffff,,rectangle,,15232,Stadtbus Radolfzell
+vhb-stadtbus-radolfzell,3,,,#25a237,#ffffff,,rectangle,,15232,Stadtbus Radolfzell
+vhb-stadtbus-radolfzell,4,,,#ee7408,#ffffff,,rectangle,,15232,Stadtbus Radolfzell
+vhb-stadtbus-radolfzell,5,,,#009fe3,#ffffff,,rectangle,,15232,Stadtbus Radolfzell
+vhb-stadtbus-radolfzell,6,,,#951b81,#ffffff,,rectangle,,15232,Stadtbus Radolfzell
+vhb-stadtbus-singen,1,,,#ef4230,#ffffff,#000000,circle,,13643,Stadtbus Singen (Htw)
+vhb-stadtbus-singen,2,,,#0095da,#ffffff,#000000,circle,,13643,Stadtbus Singen (Htw)
+vhb-stadtbus-singen,3,,,#d85fa4,#ffffff,#000000,circle,,13643,Stadtbus Singen (Htw)
+vhb-stadtbus-singen,4,,,#01b24b,#ffffff,#000000,circle,,13643,Stadtbus Singen (Htw)
+vhb-stadtbus-singen,5,,,#f5821f,#ffffff,#000000,circle,,13643,Stadtbus Singen (Htw)
+vhb-stadtbus-singen,6,,,#6850a1,#ffffff,#000000,circle,,13643,Stadtbus Singen (Htw)
+vhb-stadtbus-singen,7,,,#b7d433,#ffffff,#000000,circle,,13643,Stadtbus Singen (Htw)
+vhb-stadtbus-singen,8,,,#ffcb04,#000000,#000000,circle,,13643,Stadtbus Singen (Htw)
+vhb-stadtbus-singen,9,,,#004991,#ffffff,#000000,circle,,13643,Stadtbus Singen (Htw)
+vhb-stadtbus-singen,10,,,#b9e5fb,#000000,#000000,circle,,13643,Stadtbus Singen (Htw)
 vias,RB10,vias-gmbh,via-rb10,#e3a02e,#ffffff,,rectangle-rounded-corner,,10932,VIAS GmbH
 vlexx,EX,,,#0a9641,#ffffff,,rectangle-rounded-corner,,10952,vlexx1
 vlexx,RE2,,,#ec174c,#ffffff,,rectangle-rounded-corner,,10952,vlexx1
