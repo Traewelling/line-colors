@@ -89,6 +89,302 @@
         ]
     },
     {
+        "shortOperatorName": "bodo-buchmann",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Fahrpläne Stadtverkehr Wangen",
+                "source": "https://stadtbus-wangen.de/stadtbus/"
+            },
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "bodo-buehler",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "bodo-burkhard",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "bodo-ehrmann",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "bodo-grabherr",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "bodo-hutter",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "bodo-mueller",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "bodo-rab",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            },
+			{
+                "name": "stadtbus Ravensburg Weingarten",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "bodo-rba",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "bodo-reisch",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "bodo-schuler",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "bodo-sohler",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "bodo-sonstige",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "bodo-stadtverkehr-fhafen",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "Liniennetzplan Stadtverkehr Friedrichshafen 2024",
+                "source": "https://www.stadtverkehr-fn.de/fileadmin/redakteur/pdf/fahrten-planen/Liniennetzplan-Web-2024.pdf"
+            },
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "bodo-stadtverkehr-isny",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "bodo-stadtverkehr-lindau",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "Streckennetz Lindau",
+                "source": "https://www.sw-lindau.de/media/filer_public/12/2b/122b5bda-908e-4ccb-a863-9ce348bbfa66/22-07-14_stadtbuslindau_fahrplanplakat_a3.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "bodo-stadtwerke-ueberlingen",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "Liniennetz Stadtbus Überlingen",
+                "source": "https://www.stadtbus-ueberlingen.de/fileadmin/redakteur/pdf/fahrten-planen/Netzplan-Stadtbus-Ueberlingen.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "bodo-strauss",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            },
+			{
+                "name": "Stadtbus Tettnang mit Neukonzept",
+                "source": "https://www.tettnang-stadtbus.de/de/liniennetz-stadtbus.pdf?cid=2a2"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "bodo-vb-schussental",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "bodo-volk",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "brb",
         "contributors": [
             {
