@@ -264,6 +264,20 @@
             }
         ]
     },
+    {
+        "shortOperatorName": "bodo-sonstige",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "bodo Linienplan",
+                "source": "https://www.bodo.de/fileadmin/redakteur/pdf/Info-PDF/bodo_Linienplan.pdf"
+            }
+        ]
+    },
 	{
         "shortOperatorName": "bodo-stadtverkehr-fhafen",
         "contributors": [
