@@ -426,16 +426,295 @@
         ]
     },
     {
-        "shortOperatorName": "ding-swu",
+        "shortOperatorName": "ding-bayer",
         "contributors": [
             {
-                "github": "oneiricbotcelot"
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
-                "name": "SWU Liniennetz Bus und Tram 2023",
-                "source": "https://www.swu.de/fileadmin/content/mobilitaet/karten/2023/Liniennetzplan_2023-05-27.pdf"
+                "name": "DING Gesamtnetzplan gültig ab 14.12.2025",
+                "source": "https://ding.eu/01_Fahrplan/Karten_und_Plaene/DING/Netzplan_DING-Gesamtnetz.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "ding-bbs-schapfl",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DING Gesamtnetzplan gültig ab 14.12.2025",
+                "source": "https://ding.eu/01_Fahrplan/Karten_und_Plaene/DING/Netzplan_DING-Gesamtnetz.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "ding-bettighofer",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DING Gesamtnetzplan gültig ab 14.12.2025",
+                "source": "https://ding.eu/01_Fahrplan/Karten_und_Plaene/DING/Netzplan_DING-Gesamtnetz.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "ding-braunmiller",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DING Gesamtnetzplan gültig ab 14.12.2025",
+                "source": "https://ding.eu/01_Fahrplan/Karten_und_Plaene/DING/Netzplan_DING-Gesamtnetz.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "ding-diesch-gmbh",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DING Gesamtnetzplan gültig ab 14.12.2025",
+                "source": "https://ding.eu/01_Fahrplan/Karten_und_Plaene/DING/Netzplan_DING-Gesamtnetz.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "ding-fromm",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DING Gesamtnetzplan gültig ab 14.12.2025",
+                "source": "https://ding.eu/01_Fahrplan/Karten_und_Plaene/DING/Netzplan_DING-Gesamtnetz.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "ding-gairing",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DING Gesamtnetzplan gültig ab 14.12.2025",
+                "source": "https://ding.eu/01_Fahrplan/Karten_und_Plaene/DING/Netzplan_DING-Gesamtnetz.pdf"
+            },
+			{
+                "name": "Nachtbusliniennetz",
+                "source": "https://beteiligedich.ulm.de/sites/default/files/images/opnv-nachtbusnetz_2027_gesamt.jpg"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "ding-hvg",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Linienplan Landkreis Heidenheim",
+                "source": "https://www.htv-heidenheim.de/downloads/linienplan-lk-heidenheim.pdf"
+            },
+			{
+                "name": "Linienplan Stadtverkehr Heidenheim",
+                "source": "https://www.htv-heidenheim.de/downloads/linienplan-stadt-heidenheim.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "ding-klemens-diesch",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DING Gesamtnetzplan gültig ab 14.12.2025",
+                "source": "https://ding.eu/01_Fahrplan/Karten_und_Plaene/DING/Netzplan_DING-Gesamtnetz.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "ding-kloepfer",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DING Gesamtnetzplan gültig ab 14.12.2025",
+                "source": "https://ding.eu/01_Fahrplan/Karten_und_Plaene/DING/Netzplan_DING-Gesamtnetz.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "ding-miller",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DING Gesamtnetzplan gültig ab 14.12.2025",
+                "source": "https://ding.eu/01_Fahrplan/Karten_und_Plaene/DING/Netzplan_DING-Gesamtnetz.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "ding-neubus",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DING Gesamtnetzplan gültig ab 14.12.2025",
+                "source": "https://ding.eu/01_Fahrplan/Karten_und_Plaene/DING/Netzplan_DING-Gesamtnetz.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "ding-oster",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DING Gesamtnetzplan gültig ab 14.12.2025",
+                "source": "https://ding.eu/01_Fahrplan/Karten_und_Plaene/DING/Netzplan_DING-Gesamtnetz.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "ding-rab",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DING Gesamtnetzplan gültig ab 14.12.2025",
+                "source": "https://ding.eu/01_Fahrplan/Karten_und_Plaene/DING/Netzplan_DING-Gesamtnetz.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "ding-stadtwerke-biberach",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Busliniennetz im Stadtbereich Biberach",
+                "source": "https://ding.eu/01_Fahrplan/Karten_und_Plaene/Biberach/Netzplan_Biberach.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "ding-svl",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DING Gesamtnetzplan gültig ab 14.12.2025",
+                "source": "https://ding.eu/01_Fahrplan/Karten_und_Plaene/DING/Netzplan_DING-Gesamtnetz.pdf"
+            },
+			{
+                "name": "Linienplan Gesamtverkehr Heidenheimer Tarifverbund",
+                "source": "https://www.htv-heidenheim.de/downloads/linienplan-lk-heidenheim.pdf"
+            },
+        ]
+    },
+	{
+        "shortOperatorName": "ding-swu",
+        "contributors": [
+			{
+                "github": "oneiricbotcelot"
+            },
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Stadtnetz Ulm / Neu-Ulm",
+                "source": "https://ding.eu/01_Fahrplan/Karten_und_Plaene/Ulm_Neu_Ulm/Netzplan_DING_Ulm_Neu-Ulm.pdf"
+            },
+			{
+                "name": "Nachtbusliniennetz",
+                "source": "https://beteiligedich.ulm.de/sites/default/files/images/opnv-nachtbusnetz_2027_gesamt.jpg"
+            },
+			{
+                "name": "ÖPNV-Baustellennetz während Vollsperrung Kienlesbergstraße vom 13. Februar bis 10. April 2026",
+                "source": "https://www.ding.eu/fileadmin/content/downloads/ems/2026%20%C3%96PNV%20Baustellennetzkarte_neue%20Version.pdf"
+            },
+			{
+                "name": "MobilSAM Karte",
+                "source": "https://www.swu.de/fileadmin/content/mobilitaet/karten/2023/MobilSAM-Karte_2022-12-11.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "ding-walk",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DING Gesamtnetzplan gültig ab 14.12.2025",
+                "source": "https://ding.eu/01_Fahrplan/Karten_und_Plaene/DING/Netzplan_DING-Gesamtnetz.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "ding-weidachstein",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "DING Gesamtnetzplan gültig ab 14.12.2025",
+                "source": "https://ding.eu/01_Fahrplan/Karten_und_Plaene/DING/Netzplan_DING-Gesamtnetz.pdf"
             }
         ]
     },
