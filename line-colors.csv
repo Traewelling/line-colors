@@ -379,8 +379,213 @@ db-sev-hamburg-berlin,X1,,,#2460ad,#ffffff,,pill,,9287,DB Regio Bus Mitte
 db-sev-hamburg-berlin,X4,,,#00706c,#ffffff,,pill,,9287,DB Regio Bus Mitte
 db-sev-hamburg-berlin,X8,,,#58abdf,#ffffff,,pill,,9287,DB Regio Bus Mitte
 db-sev-hamburg-berlin,X9,,,#6b4199,#ffffff,,pill,,9287,DB Regio Bus Mitte
+ding-bayer,21,,,#1488ca,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,36,,,#9174b2,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,37,,,#a65893,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,38,,,#d0aece,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,223,,,#3e7dba,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,225,,,#aed6b4,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,231,,,#fdcf8a,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,232,,,#a65893,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,239,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,250,,,#a9cd73,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,251,,,#e1c156,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,252,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,252E,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,253,,,#efc04f,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,253E,,,#efc04f,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,254,,,#ffffff,#000000,#000000,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,255,,,#75529d,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,255E,,,#75529d,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,301,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,302,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,303,,,#bb7cb3,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,304,,,#f7b59b,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,314,,,#6082c1,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,315,,,#f8c7c8,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,317,,,#a9663e,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,319,,,#efc04f,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,320,,,#ef7eb0,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,331,,,#9e82a9,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,336,,,#a8dcf8,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,337,,,#e6dc53,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,X250,,,#2fac66,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bbs-schapfl,812,,,#cbced0,#ffffff,,rectangle-rounded-corner,,7606,BBS Schapfl
+ding-bettighofer,78,,,#daa847,#ffffff,,rectangle-rounded-corner,,8059,Bettighofer
+ding-bettighofer,711,,,#ca736c,#ffffff,,rectangle-rounded-corner,,8059,Bettighofer
+ding-bettighofer,713,,,#b45a97,#ffffff,,rectangle-rounded-corner,,8059,Bettighofer
+ding-braunmiller,701,,,#3573a7,#ffffff,,rectangle-rounded-corner,,7629,Braunmiller
+ding-braunmiller,702,,,#b3d172,#ffffff,,rectangle-rounded-corner,,7629,Braunmiller
+ding-braunmiller,704,,,#5893ce,#ffffff,,rectangle-rounded-corner,,7629,Braunmiller
+ding-braunmiller,706,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7629,Braunmiller
+ding-diesch-gmbh,272,,,#a0ca73,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
+ding-diesch-gmbh,280,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
+ding-diesch-gmbh,281,,,#5f69af,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
+ding-diesch-gmbh,282,,,#c9cdcf,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
+ding-fromm,215,,,#c05037,#ffffff,,rectangle-rounded-corner,,7612,Fromm
+ding-fromm,242,,,#cbced0,#ffffff,,rectangle-rounded-corner,,7612,Fromm
+ding-fromm,716,,,#6ec4c6,#ffffff,,rectangle-rounded-corner,,7612,Fromm
+ding-gairing,72,,,#e0693f,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,73,,,#fcc452,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,84,,,#beb3c4,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,84A,,,#beb3c4,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,84X,,,#beb3c4,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,85,,,#f08262,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,88,,,#7fbeea,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,88X,,,#7fbeea,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,89,,,#51825b,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,597,,,#a85d97,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,728,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,729,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,733,,,#eb5d40,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,734,,,#a65893,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,739,,,#d7dde0,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,763,,,#74519c,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,769,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,N5,,,#175da3,#ffffff,,circle,,7626,Gairing NU
+ding-gairing,Pfiffibus,,,#0096a6,#ffffff,,rectangle-rounded-corner,,9421,Pf 7
+ding-hvg,1,,,#ffffff,#e2000e,#e2000e,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,2,,,#ffffff,#c6007e,#c6007e,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,3,,,#ffffff,#009535,#009535,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,4,,,#ffffff,#009d8a,#009d8a,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,5,,,#ffffff,#ef7c00,#ef7c00,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,6,,,#ffffff,#0080c8,#0080c8,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,6a,,,#ffffff,#0080c8,#0080c8,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,7,,,#ffffff,#75b735,#75b735,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,7a,,,#ffffff,#75b735,#75b735,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,60,,,#ffffff,#ef7c00,,rectangle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,61,,,#ffffff,#8d004b,,rectangle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,62,,,#ffffff,#ba65a5,,rectangle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,63,,,#ffffff,#03baee,,rectangle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,64,,,#ffffff,#9fb71a,,rectangle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,68,,,#ffffff,#2e2482,,rectangle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-klemens-diesch,270,,,#4965a3,#ffffff,,rectangle-rounded-corner,,7600,Klemens Diesch
+ding-klemens-diesch,271,,,#a9cdcf,#ffffff,,rectangle-rounded-corner,,7600,Klemens Diesch
+ding-kloepfer,467,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7614,Klöpfer
+ding-kloepfer,491,,,#6d94ab,#ffffff,,rectangle-rounded-corner,,7614,Klöpfer
+ding-kloepfer,583,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,7614,Klöpfer
+ding-kloepfer,585,,,#935d3a,#ffffff,,rectangle-rounded-corner,,7614,Klöpfer
+ding-miller,920,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,7607,Miller
+ding-miller,929,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7607,Miller
+ding-neubus,71,,,#77a960,#ffffff,,rectangle-rounded-corner,,7625,NeUBus_RBA
+ding-neubus,71,,,#77a960,#ffffff,,rectangle-rounded-corner,,8083,NeuBus
+ding-neubus,79,,,#9471a3,#ffffff,,rectangle-rounded-corner,,7625,NeUBus_RBA
+ding-neubus,79,,,#9471a3,#ffffff,,rectangle-rounded-corner,,8083,NeuBus
+ding-neubus,86,,,#56b365,#ffffff,,rectangle-rounded-corner,,7625,NeUBus_RBA
+ding-neubus,86,,,#56b365,#ffffff,,rectangle-rounded-corner,,8083,NeuBus
+ding-neubus,850,,,#f8af65,#ffffff,,rectangle-rounded-corner,,7625,NeUBus_RBA
+ding-neubus,850,,,#f8af65,#ffffff,,rectangle-rounded-corner,,8083,NeuBus
+ding-neubus,925,,,#ec619f,#ffffff,,rectangle-rounded-corner,,7625,NeUBus_RBA
+ding-neubus,925,,,#ec619f,#ffffff,,rectangle-rounded-corner,,8083,NeuBus
+ding-oster,711,,,#ca736c,#ffffff,,rectangle-rounded-corner,,7628,Oster
+ding-oster,713,,,#b45a97,#ffffff,,rectangle-rounded-corner,,7628,Oster
+ding-oster,719,,,#d7dde0,#ffffff,,rectangle-rounded-corner,,7628,Oster
+ding-rab,49,,,#b4d05f,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,58,,,#4965a3,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,59,,,#eac450,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,217a,,,#f0836f,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,241,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,343,,,#f2d256,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,346,,,#cbced0,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,350,,,#31a098,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,351,,,#96c0e8,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,352,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,364,,,#3ebbca,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,366,,,#c19640,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,367,,,#d9a2ca,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,368,,,#9e75b2,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,463,,,#2fac66,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,465,,,#96c0e8,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,582,,,#f6ab7d,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,593,,,#c75b63,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,X340,,,#b4d05f,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,X365,,,#fbbd51,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-stadtwerke-biberach,1,,,#ffffff,#ec3085,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,2,,,#ffffff,#fdc74c,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,3,,,#ffffff,#a9578a,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,4,,,#ffffff,#cdac79,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,5,,,#ffffff,#ee4347,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,6,,,#ffffff,#00af5e,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,10,,,#ffffff,#0093cb,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,11,,,#ffffff,#47a783,,rectangle,,7599,Stadtwerke Biberach
+ding-svl,23,,,#e4db53,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,24,,,#6082c1,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,30,,,#ffffff,#734100,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,35,,,#ffffff,#fcc200,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,40,,,#ffffff,#e2000e,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,41,,,#ffffff,#005e25,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,46,,,#a65893,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,50,,,#ffffff,#fcc877,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,50_1,,,#ffffff,#fcc877,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,51,,,#ffffff,#f29ec4,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,52,,,#ffffff,#0080c8,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,70,,,#d0aece,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,74,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,75,,,#ffffff,#00953f,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,76,,,#ffffff,#c7b600,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,212,,,#906f7a,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,216,,,#ec619f,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,216E,,,#ec619f,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,217,,,#99603c,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,220,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,221,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,222,,,#8c7fbb,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,226,,,#6ec5f0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,227,,,#ee7bae,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,229,,,#f6d455,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,240,,,#2fac66,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,316,,,#3e98d4,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,318,,,#00b2b5,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,321,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,325,,,#eb5d40,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,326,,,#cbced0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,328,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,329,,,#cbced0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,333,,,#ee7bae,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,334,,,#00b5db,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,335,,,#eb5d40,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,391,,,#a9663e,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,392,,,#efc04f,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,461,,,#cbced0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,469,,,#f8af65,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,589a,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,589b,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,589c,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,591,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,723,,,#cbced0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,724,,,#6082c1,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
 ding-swu,1,,8-ald087-1,#e52329,#ffffff,,rectangle,,7623,SWU Verkehr
 ding-swu,2,,8-ald087-2,#3fad56,#ffffff,,rectangle,,7623,SWU Verkehr
+ding-swu,4,,,#01806d,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,5,,,#1aa8be,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,6,,,#f79534,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,7,,,#b1006a,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,8,,,#76408c,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,9,,,#df9cbb,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,10,,,#a5a158,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,11,,,#005da3,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,12,,,#b22c2b,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,13,,,#7ac493,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,14,,,#00adef,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,15,,,#b382ba,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,MS9,,,#ffffff,#000000,#c6c6c6,rectangle-rounded-corner,,7630,SWU - SAM
+ding-swu,MS14,,,#ffffff,#000000,#c6c6c6,rectangle-rounded-corner,,7630,SWU - SAM
+ding-swu,N1,,,#e40613,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,N2,,,#76408c,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,N3,,,#82bc44,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,N4,,,#19b4ea,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,N7,,,#dd4b94,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,N8,,,#f39436,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,SEV2,,,#3fad56,#ffffff,,circle,,7623,SWU Verkehr
+ding-walk,218,,,#cbced0,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,327,,,#9ed8f7,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,380,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,381,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,382,,,#d7dde0,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,395,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,7620,Walk
+ding-walk,X380,,,#edab4c,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-weidachstein,77,,,#7eb0e0,#ffffff,,rectangle-rounded-corner,,7627,Weidachstein
+ding-weidachstein,737,,,#c87a3d,#ffffff,,rectangle-rounded-corner,,7627,Weidachstein
 dingo,Blauer DINGO,,,#203b7c,#ffffff,,rectangle,,9575,Bus8
 dingo,Gelber DINGO,,,#f3cb0f,#000000,,rectangle,,9575,Bus8
 dingo,Grüner DINGO,,,#4f8437,#ffffff,,rectangle,,9575,Bus8
