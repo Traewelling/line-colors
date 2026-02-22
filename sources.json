@@ -945,6 +945,76 @@
         ]
     },
     {
+        "shortOperatorName": "kvsh-fmo",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "LinienNetzplan Kreisverkehr Schwäbisch Hall",
+                "source": "https://kreisverkehr-sha.de/fileadmin/user_upload/detailplaene/Liniennetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "kvsh-hofmann",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Stadt- und Überlandverkehr Gaildorf",
+                "source": "https://kreisverkehr-sha.de/fileadmin/user_upload/detailplaene/Detailplan_Gaildorf.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "kvsh-roehler",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "LinienNetzplan Kreisverkehr Schwäbisch Hall",
+                "source": "https://kreisverkehr-sha.de/fileadmin/user_upload/detailplaene/Liniennetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "kvsh-rufbus",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Ruf!Bus Landkreis Schwäbisch Hall",
+                "source": "https://kreisverkehr-sha.de/fileadmin/user_upload/detailplaene/Detailplan_RufBus.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "kvsh-stadtbus-sha",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Detailplan Stadtbus Schwäbisch Hall",
+                "source": "https://kreisverkehr-sha.de/fileadmin/user_upload/detailplaene/Detailplan_Stadtbus.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "kvv-anrufverkehre",
         "contributors": [
             {
