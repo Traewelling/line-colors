@@ -5415,6 +5415,20 @@
         ]
     },
     {
+        "shortOperatorName": "wtv-sbg",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz und Tarifzonen des Waldshuter Tarifverbundes",
+                "source": "https://www.wtv-online.de/wtv-wAssets/docs/zonen/Liniennetz-und-Tarifzonen-des-WTV-Stand070520.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "zvnl-bus",
         "contributors": [
             {
