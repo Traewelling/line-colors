@@ -2901,6 +2901,48 @@
         ]
     },
     {
+        "shortOperatorName": "vgf-private-vu",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "vgf Werktagsverkehr",
+                "source": "https://www.vgf-info.de/wp-content/uploads/vgf-linien-2026-werktag.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vgf-freizeitverkehr",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "vgf Freizeitverkehr",
+                "source": "https://www.vgf-info.de/wp-content/uploads/vgf-linien-2026-freizeit.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vgf-suedwestbus",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "vgf Werktagsverkehr",
+                "source": "https://www.vgf-info.de/wp-content/uploads/vgf-linien-2026-werktag.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vgn-db-sbn",
         "contributors": [
             {
