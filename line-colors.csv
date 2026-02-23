@@ -2908,6 +2908,16 @@ vgc-volz,662,,,#ffcb04,#000000,,rectangle,,7593,Calw VPC
 vgc-volz,663,,,#00a99c,#ffffff,,rectangle,,7593,Calw VPC
 vgc-volz,670,,,#f89339,#ffffff,,rectangle,,8008,Privatunternehmer-Bus (CW)
 vgc-volz,880,,,#0072bc,#ffffff,,rectangle,,7593,Calw VPC
+vgf-freizeitverkehr,F 1,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 3,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 9,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 10,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 11,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 13,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 14,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 16,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 19,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 20,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
 vgf-private-vu,11,,,#f5821f,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
 vgf-private-vu,19,,,#f5821f,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
 vgf-private-vu,21,,,#4eb848,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
@@ -2930,16 +2940,6 @@ vgf-private-vu,70,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omni
 vgf-private-vu,7266,,,#c6920b,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
 vgf-private-vu,100,,,#f5821f,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
 vgf-private-vu,200,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
-vgf-freizeitverkehr,F 1,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
-vgf-freizeitverkehr,F 3,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
-vgf-freizeitverkehr,F 9,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
-vgf-freizeitverkehr,F 10,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
-vgf-freizeitverkehr,F 11,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
-vgf-freizeitverkehr,F 13,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
-vgf-freizeitverkehr,F 14,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
-vgf-freizeitverkehr,F 16,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
-vgf-freizeitverkehr,F 19,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
-vgf-freizeitverkehr,F 20,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
 vgf-suedwestbus,7161,,,#ec008c,#ffffff,,rectangle-rounded-corner,,8103,RVS
 vgf-suedwestbus,7400,,,#f5821f,#ffffff,,rectangle-rounded-corner,,8103,RVS
 vgf-suedwestbus,7401,,,#c40075,#ffffff,,rectangle-rounded-corner,,8103,RVS
