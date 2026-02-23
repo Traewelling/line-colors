@@ -89,6 +89,187 @@ avv-zzz,395,,,#008a70,#ffffff,,circle,,14555,Wittelsbacher Land 01
 avv-zzz,694,,,#6267a2,#ffffff,,circle,,14328,Stauden 02 (ab j24)
 bayerische-zugspitzbahn,RB 64,bayerische-zugspitzbahn,bzb-rb64,#6cc3d9,#ffffff,,rectangle,,10971,Bayerische Zugspitzbahn
 bob,RB91,,,#afca0b,#ffffff,,rectangle,,10867,Bodensee-Oberschwaben-Bahn
+bodo-buchmann,1 Blau,,,#009ee3,#ffffff,,rectangle,,7546,Buchmann
+bodo-buchmann,2 Rot,,,#cd1619,#ffffff,,rectangle,,7546,Buchmann
+bodo-buchmann,3 Gruen,,,#3fa435,#ffffff,,rectangle,,7546,Buchmann
+bodo-buchmann,4 Gelb,,,#ffd400,#ffffff,,rectangle,,7546,Buchmann
+bodo-buchmann,90,,,#b1ded3,#000000,,rectangle,,7546,Buchmann
+bodo-buchmann,92,,,#b86031,#ffffff,,rectangle,,7546,Buchmann
+bodo-buchmann,120,,,#9dd29c,#000000,,rectangle,,7546,Buchmann
+bodo-buchmann,7572,,,#d82229,#ffffff,,rectangle,,7546,Buchmann
+bodo-buehler,40,,,#e6bd81,#ffffff,,rectangle,,7547,Bühler
+bodo-buehler,41,,,#007135,#ffffff,,rectangle,,7547,Bühler
+bodo-buehler,44,,,#007135,#ffffff,,rectangle,,7547,Bühler
+bodo-buehler,45,,,#007135,#ffffff,,rectangle,,7547,Bühler
+bodo-buehler,240,,,#a30b10,#ffffff,,rectangle,,7547,Bühler
+bodo-buehler,685,,,#42469d,#ffffff,,rectangle,,7547,Bühler
+bodo-burkhard,11,,,#d82229,#ffffff,,rectangle,,14394,Burkhard
+bodo-burkhard,12,,,#acab37,#ffffff,,rectangle,,14394,Burkhard
+bodo-burkhard,22,,,#0cbaed,#ffffff,,rectangle,,14394,Burkhard
+bodo-burkhard,111,,,#cec19f,#000000,,rectangle,,14394,Burkhard
+bodo-burkhard,112,,,#9dc5d6,#000000,,rectangle,,14394,Burkhard
+bodo-burkhard,113,,,#ffe93f,#000000,,rectangle,,14394,Burkhard
+bodo-burkhard,122,,,#b369ab,#ffffff,,rectangle,,14394,Burkhard
+bodo-burkhard,141,,,#d1d3d4,#000000,,rectangle,,14394,Burkhard
+bodo-burkhard,181,,,#e4bc3d,#000000,,rectangle,,14394,Burkhard
+bodo-burkhard,R40,,,#f68a2d,#ffffff,,rectangle,,14394,Burkhard
+bodo-burkhard,R41,,,#d6df23,#000000,,rectangle,,14394,Burkhard
+bodo-burkhard,S40,,,#d6df23,#ffffff,,rectangle,,14394,Burkhard
+bodo-burkhard,S41,,,#f68a2d,#ffffff,,rectangle,,14394,Burkhard
+bodo-ehrmann,111,,,#ed1c24,#ffffff,,rectangle,,7548,Ehrmann
+bodo-ehrmann,7549,,,#cb6a62,#ffffff,,rectangle,,7548,Ehrmann
+bodo-grabherr,290,,,#a8cf38,#ffffff,,rectangle,,14977,Grabherr
+bodo-hutter,134,,,#00a650,#ffffff,,rectangle,,7551,Hutter
+bodo-hutter,135,,,#c7eafb,#000000,,rectangle,,7551,Hutter
+bodo-hutter,7569,,,#feb912,#ffffff,,rectangle,,7551,Hutter
+bodo-mueller,30/1,,,#b37ab4,#ffffff,,rectangle,,7553,Müller
+bodo-mueller,31,,,#c7eafb,#000000,,rectangle,,7553,Müller
+bodo-mueller,32,,,#c4df9b,#000000,,rectangle,,7553,Müller
+bodo-mueller,33/5,,,#ccd2c8,#000000,,rectangle,,7553,Müller
+bodo-mueller,33/7,,,#ccd2c8,#000000,,rectangle,,7553,Müller
+bodo-mueller,33/8,,,#ccd2c8,#000000,,rectangle,,7553,Müller
+bodo-mueller,34,,,#fce600,#000000,,rectangle,,7553,Müller
+bodo-mueller,R30,,,#64bd45,#ffffff,,rectangle,,7553,Müller
+bodo-rab,1,,,#c3002f,#ffffff,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,3,,,#f1cb0c,#000000,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,4,,,#24954c,#ffffff,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,5,,,#da92ba,#ffffff,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,6,,,#c40079,#ffffff,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7A,,,#978fc2,#ffffff,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,14,,,#b47684,#ffffff,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,15,,,#caac25,#ffffff,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,16,,,#e6e238,#000000,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,20,,,#a0872e,#ffffff,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,21,,,#776dac,#ffffff,,rectangle-rounded-corner,,14909,Regionalbus Alb-Bodensee
+bodo-rab,110,,,#f8e100,#000000,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,111,,,#efdab5,#000000,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,161,,,#ad4c9d,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,211,,,#64bd45,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,634,,,#c14c71,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,677,,,#f8941d,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,680,,,#edbe93,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,685,,,#42469d,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,700,,,#feb912,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,731,,,#007db7,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,732,,,#d6df23,#000000,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,733,,,#e18727,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7377,,,#f8941d,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7379,,,#429682,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7380,,,#43c8f5,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7381,,,#8463ab,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7382,,,#9dc5d6,#000000,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7383,,,#85921e,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7384,,,#ec008c,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7385,,,#007135,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7389,,,#b9a0ca,#000000,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7392,,,#a8cf38,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7394,,,#ca5ca3,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7395,,,#d82229,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7396,,,#a30b10,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7397,,,#ef5ba1,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7534,,,#efdab5,#000000,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7535,,,#fce600,#000000,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7537,,,#56be84,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7539,,,#f9d308,#000000,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7543,,,#d0bf7e,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7544,,,#00aeef,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7546,,,#ec008c,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7547,,,#582f92,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7550,,,#782e76,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7551,,,#00854a,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7552,,,#8cc63f,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7554,,,#8c8e81,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7567,,,#56be84,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7567.1,,,#56be84,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7571,,,#a18dc2,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,7587,,,#57a7d2,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,N 4,,,#619d45,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,R45,,,#f68a2d,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,R65,,,#f68a2d,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,R70,,,#008b94,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,R80,,,#f68a2d,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,R90,,,#8c8e81,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,S30,,,#f68a2d,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rab,S95,,,#8c8e81,#ffffff,,rectangle,,14909,Regionalbus Alb-Bodensee
+bodo-rba,19,,,#790b19,#ffffff,,rectangle,,8082,RBA Lindau
+bodo-rba,192,,,#ee2157,#ffffff,,rectangle,,8082,RBA Lindau
+bodo-reisch,12,,,#77bae7,#ffffff,,rectangle,,7555,Reisch
+bodo-reisch,R60,,,#006db0,#ffffff,,rectangle,,7555,Reisch
+bodo-schuler,101,,,#dda6cc,#ffffff,,rectangle,,7556,Schuler
+bodo-schuler,102,,,#dda6cc,#ffffff,,rectangle,,7556,Schuler
+bodo-schuler,103,,,#dda6cc,#ffffff,,rectangle,,7556,Schuler
+bodo-schuler,104,,,#dda6cc,#ffffff,,rectangle,,7556,Schuler
+bodo-schuler,105.1,,,#dda6cc,#ffffff,,rectangle,,7556,Schuler
+bodo-schuler,105.2,,,#dda6cc,#ffffff,,rectangle,,7556,Schuler
+bodo-sohler,13,,,#782e76,#ffffff,,rectangle,,14393,Sohler Wangen
+bodo-sohler,14,,,#45c3cc,#ffffff,,rectangle,,14393,Sohler Wangen
+bodo-sohler,15,,,#0087cb,#ffffff,,rectangle,,14393,Sohler Wangen
+bodo-sohler,17,,,#f5ba18,#000000,,rectangle,,14393,Sohler Wangen
+bodo-sohler,132,,,#acab37,#ffffff,,rectangle,,14393,Sohler Wangen
+bodo-sohler,133,,,#e18727,#ffffff,,rectangle,,14393,Sohler Wangen
+bodo-sohler,151,,,#7db495,#ffffff,,rectangle,,14393,Sohler Wangen
+bodo-sonstige,449,,,#828fc6,#ffffff,,rectangle,,7545,Sonstige VU
+bodo-sonstige,626,,,#fbd600,#000000,,rectangle,,15172,Bürgermobil Meckenbeuren
+bodo-sonstige,670,,,#c48177,#ffffff,,rectangle,,7545,Sonstige VU
+bodo-sonstige,696,,,#f8afac,#000000,,rectangle,,7545,Sonstige VU
+bodo-sonstige,697 emma Salem,,,#006db0,#ffffff,,rectangle,,7545,Sonstige VU
+bodo-stadtverkehr-fhafen,1,,,#44b389,#ffffff,,circle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,2,,,#fcbe00,#ffffff,,circle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,3,,,#e30614,#ffffff,,circle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,4,,,#008f3d,#ffffff,,circle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,5,,,#e06ca6,#ffffff,,circle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,6,,,#00b5dd,#ffffff,,circle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,10,,,#7c2239,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,11,,,#005da9,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,12,,,#009ba4,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,13,,,#ed7004,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,14,,,#ca9912,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,15,,,#79186f,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,16,,,#273472,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,E3,,,#619d45,#ffffff,,rectangle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,E11,,,#619d45,#ffffff,,rectangle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,E13,,,#619d45,#ffffff,,rectangle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,E15,,,#619d45,#ffffff,,rectangle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,E16,,,#619d45,#ffffff,,rectangle,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,MX,,,#7c6eb0,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,X12,,,#8bcfda,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-fhafen,X14,,,#85621b,#ffffff,,rectangle-rounded-corner,,14422,Stadtverkehr Friedrichshafen
+bodo-stadtverkehr-isny,74,,,#d0bf7e,#ffffff,,rectangle,,7554,Isny
+bodo-stadtverkehr-lindau,1,,,#e50051,#ffffff,,circle,,11021,Stadtverkehr Lindau
+bodo-stadtverkehr-lindau,2,,,#39aa3f,#ffffff,,circle,,11021,Stadtverkehr Lindau
+bodo-stadtverkehr-lindau,3,,,#fbba00,#ffffff,,circle,,11021,Stadtverkehr Lindau
+bodo-stadtverkehr-lindau,4,,,#7e65aa,#ffffff,,circle,,11021,Stadtverkehr Lindau
+bodo-stadtverkehr-lindau,5,,,#008dbd,#ffffff,,circle,,11021,Stadtverkehr Lindau
+bodo-stadtwerke-ueberlingen,1,,,#d71920,#ffffff,,rectangle,,12691,SWU Überlingen
+bodo-stadtwerke-ueberlingen,2,,,#ffc20c,#ffffff,,rectangle,,12691,SWU Überlingen
+bodo-stadtwerke-ueberlingen,3,,,#009cdb,#ffffff,,rectangle,,12691,SWU Überlingen
+bodo-stadtwerke-ueberlingen,4,,,#851f82,#ffffff,,rectangle,,12691,SWU Überlingen
+bodo-stadtwerke-ueberlingen,5,,,#009549,#ffffff,,rectangle,,12691,SWU Überlingen
+bodo-stadtwerke-ueberlingen,6,,,#005198,#ffffff,,rectangle,,12691,SWU Überlingen
+bodo-stadtwerke-ueberlingen,7,,,#99ca3c,#ffffff,,rectangle,,12691,SWU Überlingen
+bodo-stadtwerke-ueberlingen,14,,,#f37021,#ffffff,,rectangle,,12691,SWU Überlingen
+bodo-strauss,1,,,#fecb09,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,2,,,#fecb09,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,220,,,#ef3f2c,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,221,,,#beb0d6,#000000,,rectangle,,14979,Strauss
+bodo-strauss,221/4,,,#beb0d6,#000000,,rectangle,,14979,Strauss
+bodo-strauss,222,,,#b0a3a1,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,224,,,#fad600,#000000,,rectangle,,14979,Strauss
+bodo-strauss,225,,,#c6d92c,#000000,,rectangle,,14979,Strauss
+bodo-strauss,226,,,#9f2583,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,227,,,#725a38,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,229,,,#64bd45,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,235,,,#aacd8d,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,238,,,#c6178d,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,239,,,#ed1a3a,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,246,,,#007db7,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,2240,,,#f6891f,#ffffff,,rectangle,,14979,Strauss
+bodo-strauss,N3,,,#006db0,#ffffff,,rectangle,,14979,Strauss
+bodo-vb-schussental,20,,,#a88a37,#ffffff,,rectangle,,14978,Verkehrsbetriebe Schussental
+bodo-vb-schussental,21,,,#7570b4,#ffffff,,rectangle,,14978,Verkehrsbetriebe Schussental
+bodo-volk,80/81,,,#b369ab,#ffffff,,rectangle,,7558,Volk
+bodo-volk,82,,,#f5821f,#ffffff,,rectangle,,7558,Volk
+bodo-volk,83,,,#2e3092,#ffffff,,rectangle,,7558,Volk
 brb,RB 13,bayerische-regiobahn,brb-rb13,#ffb200,#ffffff,,rectangle,,10969,Bayerische Regiobahn
 brb,RB 14,bayerische-regiobahn,brb-rb14,#ffb200,#ffffff,,rectangle,,10969,Bayerische Regiobahn
 brb,RB 53,bayerische-regiobahn,brb-rb53,#ff9999,#ffffff,,rectangle,,10887,Berchtesgadener Land Bahn
@@ -379,8 +560,213 @@ db-sev-hamburg-berlin,X1,,,#2460ad,#ffffff,,pill,,9287,DB Regio Bus Mitte
 db-sev-hamburg-berlin,X4,,,#00706c,#ffffff,,pill,,9287,DB Regio Bus Mitte
 db-sev-hamburg-berlin,X8,,,#58abdf,#ffffff,,pill,,9287,DB Regio Bus Mitte
 db-sev-hamburg-berlin,X9,,,#6b4199,#ffffff,,pill,,9287,DB Regio Bus Mitte
+ding-bayer,21,,,#1488ca,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,36,,,#9174b2,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,37,,,#a65893,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,38,,,#d0aece,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,223,,,#3e7dba,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,225,,,#aed6b4,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,231,,,#fdcf8a,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,232,,,#a65893,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,239,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,250,,,#a9cd73,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,251,,,#e1c156,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,252,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,252E,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,253,,,#efc04f,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,253E,,,#efc04f,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,254,,,#ffffff,#000000,#000000,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,255,,,#75529d,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,255E,,,#75529d,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,301,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,302,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,303,,,#bb7cb3,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,304,,,#f7b59b,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,314,,,#6082c1,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,315,,,#f8c7c8,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,317,,,#a9663e,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,319,,,#efc04f,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,320,,,#ef7eb0,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,331,,,#9e82a9,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,336,,,#a8dcf8,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,337,,,#e6dc53,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bayer,X250,,,#2fac66,#ffffff,,rectangle-rounded-corner,,13151,Bayer
+ding-bbs-schapfl,812,,,#cbced0,#ffffff,,rectangle-rounded-corner,,7606,BBS Schapfl
+ding-bettighofer,78,,,#daa847,#ffffff,,rectangle-rounded-corner,,8059,Bettighofer
+ding-bettighofer,711,,,#ca736c,#ffffff,,rectangle-rounded-corner,,8059,Bettighofer
+ding-bettighofer,713,,,#b45a97,#ffffff,,rectangle-rounded-corner,,8059,Bettighofer
+ding-braunmiller,701,,,#3573a7,#ffffff,,rectangle-rounded-corner,,7629,Braunmiller
+ding-braunmiller,702,,,#b3d172,#ffffff,,rectangle-rounded-corner,,7629,Braunmiller
+ding-braunmiller,704,,,#5893ce,#ffffff,,rectangle-rounded-corner,,7629,Braunmiller
+ding-braunmiller,706,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7629,Braunmiller
+ding-diesch-gmbh,272,,,#a0ca73,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
+ding-diesch-gmbh,280,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
+ding-diesch-gmbh,281,,,#5f69af,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
+ding-diesch-gmbh,282,,,#c9cdcf,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
+ding-fromm,215,,,#c05037,#ffffff,,rectangle-rounded-corner,,7612,Fromm
+ding-fromm,242,,,#cbced0,#ffffff,,rectangle-rounded-corner,,7612,Fromm
+ding-fromm,716,,,#6ec4c6,#ffffff,,rectangle-rounded-corner,,7612,Fromm
+ding-gairing,72,,,#e0693f,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,73,,,#fcc452,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,84,,,#beb3c4,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,84A,,,#beb3c4,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,84X,,,#beb3c4,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,85,,,#f08262,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,88,,,#7fbeea,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,88X,,,#7fbeea,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,89,,,#51825b,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,597,,,#a85d97,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,728,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,729,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,733,,,#eb5d40,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,734,,,#a65893,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,739,,,#d7dde0,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,763,,,#74519c,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,769,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
+ding-gairing,N5,,,#175da3,#ffffff,,circle,,7626,Gairing NU
+ding-gairing,Pfiffibus,,,#0096a6,#ffffff,,rectangle-rounded-corner,,9421,Pf 7
+ding-hvg,1,,,#ffffff,#e2000e,#e2000e,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,2,,,#ffffff,#c6007e,#c6007e,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,3,,,#ffffff,#009535,#009535,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,4,,,#ffffff,#009d8a,#009d8a,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,5,,,#ffffff,#ef7c00,#ef7c00,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,6,,,#ffffff,#0080c8,#0080c8,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,6a,,,#ffffff,#0080c8,#0080c8,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,7,,,#ffffff,#75b735,#75b735,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,7a,,,#ffffff,#75b735,#75b735,circle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,60,,,#ffffff,#ef7c00,,rectangle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,61,,,#ffffff,#8d004b,,rectangle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,62,,,#ffffff,#ba65a5,,rectangle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,63,,,#ffffff,#03baee,,rectangle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,64,,,#ffffff,#9fb71a,,rectangle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-hvg,68,,,#ffffff,#2e2482,,rectangle,,13268,Heidenheimer Verkehrsgesellschaft1
+ding-klemens-diesch,270,,,#4965a3,#ffffff,,rectangle-rounded-corner,,7600,Klemens Diesch
+ding-klemens-diesch,271,,,#a9cdcf,#ffffff,,rectangle-rounded-corner,,7600,Klemens Diesch
+ding-kloepfer,467,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7614,Klöpfer
+ding-kloepfer,491,,,#6d94ab,#ffffff,,rectangle-rounded-corner,,7614,Klöpfer
+ding-kloepfer,583,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,7614,Klöpfer
+ding-kloepfer,585,,,#935d3a,#ffffff,,rectangle-rounded-corner,,7614,Klöpfer
+ding-miller,920,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,7607,Miller
+ding-miller,929,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7607,Miller
+ding-neubus,71,,,#77a960,#ffffff,,rectangle-rounded-corner,,7625,NeUBus_RBA
+ding-neubus,71,,,#77a960,#ffffff,,rectangle-rounded-corner,,8083,NeuBus
+ding-neubus,79,,,#9471a3,#ffffff,,rectangle-rounded-corner,,7625,NeUBus_RBA
+ding-neubus,79,,,#9471a3,#ffffff,,rectangle-rounded-corner,,8083,NeuBus
+ding-neubus,86,,,#56b365,#ffffff,,rectangle-rounded-corner,,7625,NeUBus_RBA
+ding-neubus,86,,,#56b365,#ffffff,,rectangle-rounded-corner,,8083,NeuBus
+ding-neubus,850,,,#f8af65,#ffffff,,rectangle-rounded-corner,,7625,NeUBus_RBA
+ding-neubus,850,,,#f8af65,#ffffff,,rectangle-rounded-corner,,8083,NeuBus
+ding-neubus,925,,,#ec619f,#ffffff,,rectangle-rounded-corner,,7625,NeUBus_RBA
+ding-neubus,925,,,#ec619f,#ffffff,,rectangle-rounded-corner,,8083,NeuBus
+ding-oster,711,,,#ca736c,#ffffff,,rectangle-rounded-corner,,7628,Oster
+ding-oster,713,,,#b45a97,#ffffff,,rectangle-rounded-corner,,7628,Oster
+ding-oster,719,,,#d7dde0,#ffffff,,rectangle-rounded-corner,,7628,Oster
+ding-rab,49,,,#b4d05f,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,58,,,#4965a3,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,59,,,#eac450,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,217a,,,#f0836f,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,241,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,343,,,#f2d256,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,346,,,#cbced0,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,350,,,#31a098,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,351,,,#96c0e8,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,352,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,364,,,#3ebbca,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,366,,,#c19640,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,367,,,#d9a2ca,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,368,,,#9e75b2,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,463,,,#2fac66,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,465,,,#96c0e8,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,582,,,#f6ab7d,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,593,,,#c75b63,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,X340,,,#b4d05f,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-rab,X365,,,#fbbd51,#ffffff,,rectangle-rounded-corner,,7624,RAB
+ding-stadtwerke-biberach,1,,,#ffffff,#ec3085,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,2,,,#ffffff,#fdc74c,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,3,,,#ffffff,#a9578a,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,4,,,#ffffff,#cdac79,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,5,,,#ffffff,#ee4347,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,6,,,#ffffff,#00af5e,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,10,,,#ffffff,#0093cb,,rectangle,,7599,Stadtwerke Biberach
+ding-stadtwerke-biberach,11,,,#ffffff,#47a783,,rectangle,,7599,Stadtwerke Biberach
+ding-svl,23,,,#e4db53,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,24,,,#6082c1,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,30,,,#ffffff,#734100,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,35,,,#ffffff,#fcc200,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,40,,,#ffffff,#e2000e,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,41,,,#ffffff,#005e25,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,46,,,#a65893,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,50,,,#ffffff,#fcc877,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,50_1,,,#ffffff,#fcc877,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,51,,,#ffffff,#f29ec4,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,52,,,#ffffff,#0080c8,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,70,,,#d0aece,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,74,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,75,,,#ffffff,#00953f,,rectangle,,9407,Süddeutsche Verkehrslinien
+ding-svl,76,,,#ffffff,#c7b600,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,212,,,#906f7a,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,216,,,#ec619f,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,216E,,,#ec619f,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,217,,,#99603c,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,220,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,221,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,222,,,#8c7fbb,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,226,,,#6ec5f0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,227,,,#ee7bae,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,229,,,#f6d455,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,240,,,#2fac66,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,316,,,#3e98d4,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,318,,,#00b2b5,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,321,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,325,,,#eb5d40,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,326,,,#cbced0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,328,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,329,,,#cbced0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,333,,,#ee7bae,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,334,,,#00b5db,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,335,,,#eb5d40,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,391,,,#a9663e,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,392,,,#efc04f,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,461,,,#cbced0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,469,,,#f8af65,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,589a,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,589b,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,589c,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,591,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,723,,,#cbced0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-svl,724,,,#6082c1,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
 ding-swu,1,,8-ald087-1,#e52329,#ffffff,,rectangle,,7623,SWU Verkehr
 ding-swu,2,,8-ald087-2,#3fad56,#ffffff,,rectangle,,7623,SWU Verkehr
+ding-swu,4,,,#01806d,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,5,,,#1aa8be,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,6,,,#f79534,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,7,,,#b1006a,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,8,,,#76408c,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,9,,,#df9cbb,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,10,,,#a5a158,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,11,,,#005da3,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,12,,,#b22c2b,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,13,,,#7ac493,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,14,,,#00adef,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,15,,,#b382ba,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,MS9,,,#ffffff,#000000,#c6c6c6,rectangle-rounded-corner,,7630,SWU - SAM
+ding-swu,MS14,,,#ffffff,#000000,#c6c6c6,rectangle-rounded-corner,,7630,SWU - SAM
+ding-swu,N1,,,#e40613,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,N2,,,#76408c,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,N3,,,#82bc44,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,N4,,,#19b4ea,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,N7,,,#dd4b94,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,N8,,,#f39436,#ffffff,,circle,,7623,SWU Verkehr
+ding-swu,SEV2,,,#3fad56,#ffffff,,circle,,7623,SWU Verkehr
+ding-walk,218,,,#cbced0,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,327,,,#9ed8f7,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,380,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,381,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,382,,,#d7dde0,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,395,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,7620,Walk
+ding-walk,X380,,,#edab4c,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-weidachstein,77,,,#7eb0e0,#ffffff,,rectangle-rounded-corner,,7627,Weidachstein
+ding-weidachstein,737,,,#c87a3d,#ffffff,,rectangle-rounded-corner,,7627,Weidachstein
 dingo,Blauer DINGO,,,#203b7c,#ffffff,,rectangle,,9575,Bus8
 dingo,Gelber DINGO,,,#f3cb0f,#000000,,rectangle,,9575,Bus8
 dingo,Grüner DINGO,,,#4f8437,#ffffff,,rectangle,,9575,Bus8
