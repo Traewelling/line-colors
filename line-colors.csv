@@ -2908,6 +2908,55 @@ vgc-volz,662,,,#ffcb04,#000000,,rectangle,,7593,Calw VPC
 vgc-volz,663,,,#00a99c,#ffffff,,rectangle,,7593,Calw VPC
 vgc-volz,670,,,#f89339,#ffffff,,rectangle,,8008,Privatunternehmer-Bus (CW)
 vgc-volz,880,,,#0072bc,#ffffff,,rectangle,,7593,Calw VPC
+vgf-private-vu,11,,,#f5821f,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,19,,,#f5821f,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,21,,,#4eb848,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,22,,,#a66898,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,23,,,#00aaad,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,31,,,#2f69b3,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,32,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,33,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,34,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,35,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,R33,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,41,,,#0072bc,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,42,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,43,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,45,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,50,,,#007db6,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,60,,,#0072bc,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,61,,,#00aaad,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,70,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,7266,,,#c6920b,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,100,,,#f5821f,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-private-vu,200,,,#00aeef,#ffffff,,rectangle-rounded-corner,,7640,Private Omnibusunternehmer GmbH
+vgf-freizeitverkehr,F 1,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 3,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 9,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 10,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 11,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 13,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 14,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 16,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 19,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-freizeitverkehr,F 20,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
+vgf-suedwestbus,7161,,,#ec008c,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7400,,,#f5821f,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7401,,,#c40075,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7402,,,#f5821f,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7403,,,#ed1c24,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7405,,,#c40075,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7406,,,#7c52a1,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7408,,,#7c52a1,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7409,,,#a3738b,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7411,,,#4eb848,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7417,,,#4eb848,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7418,,,#ec008c,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7782,,,#a66898,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7784,,,#c40075,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7787,,,#a66898,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7788,,,#a66898,#ffffff,,rectangle-rounded-corner,,8103,RVS
+vgf-suedwestbus,7938,,,#ec008c,#ffffff,,rectangle-rounded-corner,,8103,RVS
 vgn-db-sbn,S 1,db-regio-ag-bayern,4-800721-1,#92292e,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 vgn-db-sbn,S 2,db-regio-ag-bayern,4-800721-2,#4dbd38,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 vgn-db-sbn,S 3,db-regio-ag-bayern,4-800721-3,#f1471d,#ffffff,,rectangle,,10446,DB Regio AG Bayern
