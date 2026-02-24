@@ -5426,8 +5426,7 @@ vvo-tram,10,,8-voe011-10,#f9b000,#ffffff,,rectangle-rounded-corner,Q93767517,819
 vvo-tram,11,,8-voe011-11,#c2ddaf,#000000,,rectangle-rounded-corner,Q91034464,8190,DVB-Straßenbahn
 vvo-tram,12,,8-voe011-12,#006b42,#ffffff,,rectangle-rounded-corner,Q93767629,8190,DVB-Straßenbahn
 vvo-tram,13,,8-voe011-13,#fdc300,#000000,,rectangle-rounded-corner,Q93767971,8190,DVB-Straßenbahn
-vvo-tram,44,,8-voe011-44,#a14c8d,#000000,,rectangle-rounded-corner,,,
-vvo-tram,46,,8-voe011-46,#eba507,#000000,,rectangle-rounded-corner,,,
+vvo-tram,41,,8-voe011-41,#a7338a,#000000,,rectangle-rounded-corner,,,DVB-Straßenbahn
 vvo-tram,20,,8-voe011-20,#000000,#ffffff,,rectangle-rounded-corner,,8190,DVB-Straßenbahn
 vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,,rectangle,Q18946157,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,,rectangle,Q107020232,10443,DB Regio AG Baden-Württemberg
