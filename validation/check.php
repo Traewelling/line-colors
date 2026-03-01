@@ -6,7 +6,7 @@ include_once "./common.php";
 echo "Checking for lower-case content" . PHP_EOL;
 $i = 2;
 foreach ($csv as $line) {
-    $lowercase_keys = ["shortOperatorName", "hafasOperatorCode", "hafasLineId", "backgroundColor", "textColor", "shape"];
+    $lowercase_keys = ["shortOperatorName", "hafasOperatorCode", "hafasLineId", "primaryColor", "secondaryColor", "shape"];
     foreach ($lowercase_keys as $key) {
         if ($line[$key] !== strtolower($line[$key])) {
             throw new Error("$key is not lowercase in row $i");
@@ -41,14 +41,14 @@ foreach ($csv as $line) {
         valid_hex_color($line, $i, "borderColor");
     }
 
-    valid_hex_color($line, $i, "textColor");
-    valid_hex_color($line, $i, "backgroundColor");
+    valid_hex_color($line, $i, "primaryColor");
+    valid_hex_color($line, $i, "secondaryColor");
 
     $i++;
 }
 
 
-echo "Checking that the background color isn't the text color" . PHP_EOL;
+echo "Checking that the primary color isn't the secondary color" . PHP_EOL;
 $i = 2;
 foreach ($csv as $line) {
     text_color_differs_background($line, $i);
