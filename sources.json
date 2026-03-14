@@ -4019,20 +4019,6 @@
         ]
     },
     {
-        "shortOperatorName": "vpe-seitter",
-        "contributors": [
-            {
-                "github": "wittighausen"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz Regionalverkehr ab 14.12.2025",
-                "source": "https://vpe.de/pdf/uebersichtsplaene/LiniennetzplanRegioSchema_2026.pdf"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "vpe-sweg",
         "contributors": [
             {
@@ -5566,6 +5552,20 @@
             {
                 "name": "Fahrplan-Merker 2026",
                 "source": "https://www.waiblingen.de/ceasy/resource/?id=29535&download=1"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-seitter",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Regionalverkehr ab 14.12.2025",
+                "source": "https://vpe.de/pdf/uebersichtsplaene/LiniennetzplanRegioSchema_2026.pdf"
             }
         ]
     },
