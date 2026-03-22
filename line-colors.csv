@@ -6315,3 +6315,8 @@ zvon-sv,8,,,#d41217,#ffffff,,circle,,14177,Omnibus Verkehr Oberlausitz
 zvon-sv,1,,,#d41217,#ffffff,,circle,,7875,KVG-Bus
 zvon-sv,2,,,#6eaa27,#ffffff,,circle,,7875,KVG-Bus
 zvon-sv,3,,,#05498b,#ffffff,,circle,,7875,KVG-Bus
+wvv,1,,,#fbc900,#ffffff,,rectangle,Q100555102,13346,Würzburger Straßenbahn
+wvv,2,,,#d42626,#ffffff,,rectangle,Q99494736,13346,Würzburger Straßenbahn
+wvv,3,,,#00a3d3,#ffffff,,rectangle,Q121338683,13346,Würzburger Straßenbahn
+wvv,4,,,#00a65a,#ffffff,,rectangle,Q121338665,13346,Würzburger Straßenbahn
+wvv,5,,,#cc51aa,#ffffff,,rectangle,Q121338696,13346,Würzburger Straßenbahn
