@@ -2247,6 +2247,24 @@
         ]
     },
     {
+        "shortOperatorName": "nvm-wvv",
+        "contributors": [
+            {
+                "github": "h1treX"
+            }
+        ],
+        "sources": [
+            {
+                "name": "WVV Liniennetz Busse und Straßenbahnen",
+                "source": "https://www.wvv.de/media-wvv/mobilitaet/dokumente/liniennetz/liniennetzplan-busse-und-strabas-wvv.pdf"
+            },
+            {
+                "name": "WVV Liniennetz Nachtbusse",
+                "source": "https://www.wvv.de/media-wvv/mobilitaet/dokumente/nachtbus/nachtbus-liniennetzplan.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "nvs",
         "contributors": [
             {
@@ -6112,24 +6130,6 @@
             {
                 "name": "Liniennetz und Tarifzonen des Waldshuter Tarifverbundes",
                 "source": "https://www.wtv-online.de/wtv-wAssets/docs/zonen/Liniennetz-und-Tarifzonen-des-WTV-Stand070520.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "wvv",
-        "contributors": [
-            {
-                "github": "h1treX"
-            }
-        ],
-        "sources": [
-            {
-                "name": "WVV Liniennetz Busse und Straßenbahnen",
-                "source": "https://www.wvv.de/media-wvv/mobilitaet/dokumente/liniennetz/liniennetzplan-busse-und-strabas-wvv.pdf"
-            },
-            {
-                "name": "WVV Liniennetz Nachtbusse",
-                "source": "https://www.wvv.de/media-wvv/mobilitaet/dokumente/nachtbus/nachtbus-liniennetzplan.pdf"
             }
         ]
     },

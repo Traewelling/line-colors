@@ -2474,6 +2474,43 @@ nrw-sbahn,S 11,db-regio-ag-nrw,4-8003s-11,#f26522,#ffffff,,pill,,10436,DB Regio 
 nrw-sbahn,S 12,db-regio-ag-nrw,4-8003s-12,#4db857,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 19,db-regio-ag-nrw,4-8003s-19,#00658e,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 23,db-regio-ag-nrw,4-800352-23,#8c2a77,#ffffff,,pill,,10436,DB Regio AG NRW
+nvm-wvv,1,,,#fbc900,#ffffff,,rectangle,Q100555102,13346,Würzburger Straßenbahn
+nvm-wvv,2,,,#d42626,#ffffff,,rectangle,Q99494736,13346,Würzburger Straßenbahn
+nvm-wvv,3,,,#00a3d3,#ffffff,,rectangle,Q121338683,13346,Würzburger Straßenbahn
+nvm-wvv,4,,,#00a65a,#ffffff,,rectangle,Q121338665,13346,Würzburger Straßenbahn
+nvm-wvv,5,,,#cc51aa,#ffffff,,rectangle,Q121338696,13346,Würzburger Straßenbahn
+nvm-wvv,6,,,#fd8f7b,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,7,,,#cc51aa,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,8,,,#f39305,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,9,,,#b9d602,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,10,,,#f29205,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,12,,,#f29305,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,13,,,#cc51aa,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,16,,,#d42626,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,20,,,#a86600,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,21,,,#2ebf6d,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,23,,,#4689b5,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,24,,,#1946a0,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,25,,,#d42626,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,26,,,#cc51aa,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,27,,,#f39305,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,28,,,#29b3db,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,29,,,#cc51aa,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,33,,,#2ebf6d,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,34,,,#b9d602,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,35,,,#fd8f7b,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,41,,,#f39305,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,91,,,#e53212,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,92,,,#ffd321,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,93,,,#00a13a,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,94,,,#00a0dd,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,95,,,#7c6eb0,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,96,,,#f39200,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,97,,,#acce78,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,98,,,#70a8b0,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,99,,,#e94290,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,114,,,#d42626,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+nvm-wvv,214,,,#1946a0,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
 nvs,1,,8-vwmstr-1,#e5007d,#ffffff,,rectangle,,7560,Straßenbahn
 nvs,1,,5-vwmbus-1,#e5007d,#ffffff,,pill,,8219,Schwerin Bus
 nvs,2,,8-vwmstr-2,#e3000f,#ffffff,,rectangle,,7560,Straßenbahn
@@ -6252,34 +6289,6 @@ wtv-sbg,7345,,,#e8549f,#ffffff,,rectangle,,14786,SBG-Waldshut
 wtv-sbg,7346,,,#7e6f67,#ffffff,,rectangle,,14786,SBG-Waldshut
 wtv-sbg,7347,,,#dd2b1c,#ffffff,,rectangle,,14786,SBG-Waldshut
 wtv-sbg,7348,,,#e10886,#ffffff,,rectangle,,14786,SBG-Waldshut
-wvv,1,,,#fbc900,#ffffff,,rectangle,Q100555102,13346,Würzburger Straßenbahn
-wvv,2,,,#d42626,#ffffff,,rectangle,Q99494736,13346,Würzburger Straßenbahn
-wvv,3,,,#00a3d3,#ffffff,,rectangle,Q121338683,13346,Würzburger Straßenbahn
-wvv,4,,,#00a65a,#ffffff,,rectangle,Q121338665,13346,Würzburger Straßenbahn
-wvv,5,,,#cc51aa,#ffffff,,rectangle,Q121338696,13346,Würzburger Straßenbahn
-wvv,6,,,#fd8f7b,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,7,,,#cc51aa,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,8,,,#f39305,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,9,,,#b9d602,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,10,,,#f29205,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,12,,,#f29305,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,13,,,#cc51aa,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,16,,,#d42626,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,20,,,#a86600,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,21,,,#2ebf6d,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,23,,,#4689b5,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,24,,,#1946a0,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,25,,,#d42626,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,26,,,#cc51aa,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,27,,,#f39305,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,28,,,#29b3db,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,29,,,#cc51aa,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,33,,,#2ebf6d,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,34,,,#b9d602,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,35,,,#fd8f7b,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,41,,,#f39305,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,114,,,#d42626,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
-wvv,214,,,#1946a0,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
 zvnl-bus,60,,5-naslvb-60,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
 zvnl-bus,65,,5-naslvb-65,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
 zvnl-bus,70,,5-naslvb-70,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
