@@ -6252,6 +6252,34 @@ wtv-sbg,7345,,,#e8549f,#ffffff,,rectangle,,14786,SBG-Waldshut
 wtv-sbg,7346,,,#7e6f67,#ffffff,,rectangle,,14786,SBG-Waldshut
 wtv-sbg,7347,,,#dd2b1c,#ffffff,,rectangle,,14786,SBG-Waldshut
 wtv-sbg,7348,,,#e10886,#ffffff,,rectangle,,14786,SBG-Waldshut
+wvv,1,,,#fbc900,#ffffff,,rectangle,Q100555102,13346,Würzburger Straßenbahn
+wvv,2,,,#d42626,#ffffff,,rectangle,Q99494736,13346,Würzburger Straßenbahn
+wvv,3,,,#00a3d3,#ffffff,,rectangle,Q121338683,13346,Würzburger Straßenbahn
+wvv,4,,,#00a65a,#ffffff,,rectangle,Q121338665,13346,Würzburger Straßenbahn
+wvv,5,,,#cc51aa,#ffffff,,rectangle,Q121338696,13346,Würzburger Straßenbahn
+wvv,6,,,#fd8f7b,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,7,,,#cc51aa,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,8,,,#f39305,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,9,,,#b9d602,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,10,,,#f29205,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,12,,,#f29305,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,13,,,#cc51aa,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,16,,,#d42626,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,20,,,#a86600,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,21,,,#2ebf6d,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,23,,,#4689b5,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,24,,,#1946a0,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,25,,,#d42626,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,26,,,#cc51aa,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,27,,,#f39305,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,28,,,#29b3db,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,29,,,#cc51aa,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,33,,,#2ebf6d,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,34,,,#b9d602,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,35,,,#fd8f7b,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,41,,,#f39305,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,114,,,#d42626,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
+wvv,214,,,#1946a0,#ffffff,,rectangle-rounded-corner,,13346,Würzburger Straßenbahn
 zvnl-bus,60,,5-naslvb-60,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
 zvnl-bus,65,,5-naslvb-65,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
 zvnl-bus,70,,5-naslvb-70,#a61580,#ffffff,,pill,,8872,Leipziger Verkehrsbetriebe
@@ -6315,8 +6343,3 @@ zvon-sv,8,,,#d41217,#ffffff,,circle,,14177,Omnibus Verkehr Oberlausitz
 zvon-sv,1,,,#d41217,#ffffff,,circle,,7875,KVG-Bus
 zvon-sv,2,,,#6eaa27,#ffffff,,circle,,7875,KVG-Bus
 zvon-sv,3,,,#05498b,#ffffff,,circle,,7875,KVG-Bus
-wvv,1,,,#fbc900,#ffffff,,rectangle,Q100555102,13346,Würzburger Straßenbahn
-wvv,2,,,#d42626,#ffffff,,rectangle,Q99494736,13346,Würzburger Straßenbahn
-wvv,3,,,#00a3d3,#ffffff,,rectangle,Q121338683,13346,Würzburger Straßenbahn
-wvv,4,,,#00a65a,#ffffff,,rectangle,Q121338665,13346,Würzburger Straßenbahn
-wvv,5,,,#cc51aa,#ffffff,,rectangle,Q121338696,13346,Würzburger Straßenbahn
