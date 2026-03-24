@@ -1,4 +1,9 @@
 shortOperatorName,lineName,backgroundColor,textColor,borderColor,shape,wikidataQid,GTFSAgencyID,GTFSAgencyName
+vasttrafik,17,#173282,#fff35a,,rectangle-rounded-corner,,279,Västtrafik
+vasttrafik,18,#292e2e,#fff35a,,rectangle-rounded-corner,,279,Västtrafik
+vasttrafik,19,#eb1464,#fff35a,,rectangle-rounded-corner,,279,Västtrafik
+vasttrafik,21,#903494,#fff35a,,rectangle-rounded-corner,,279,Västtrafik
+vasttrafik,25,#0082c6,#fff35a,,rectangle-rounded-corner,,279,Västtrafik
 vasttrafik,281,#21bdbf,#ffffff,,rectangle-rounded-corner,,279,Västtrafik
 vasttrafik,282,#21bdbf,#ffffff,,rectangle-rounded-corner,,279,Västtrafik
 vasttrafik,283,#21bdbf,#ffffff,,rectangle-rounded-corner,,279,Västtrafik
