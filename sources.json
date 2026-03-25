@@ -5168,6 +5168,162 @@
         ]
     },
     {
+        "shortOperatorName":"vt-boras",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Borås stadstrafik",
+                "source": "https://www.vasttrafik.se/globalassets/media/kartor/linjenatskartor/stadsbussar/boras_2023.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName":"vt-falkoping",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Västtrafik Tidtabeller",
+                "source": "https://www.vasttrafik.se/reseplanering/tidtabeller/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName":"vt-gbg",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Expressbussar och pendeltåg Göteborg",
+                "source": "https://www.vasttrafik.se/globalassets/media/kartor/linjenatskartor/expressbussar/436580_expressbuss-pendeltag_a3_250818.pdf"
+            },
+            {
+                "name": "Spårvagns- stombuss- och båttrafik Göteborg",
+                "source": "https://www.vasttrafik.se/globalassets/media/kartor/linjenatskartor/sparvagn/sparvagn_stombuss_bat__linjenatskarta_251214.pdf"
+            },
+            {
+                "name": "Västtrafik Tidtabeller",
+                "source": "https://www.vasttrafik.se/reseplanering/tidtabeller/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName":"vt-harryda",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Buss- och tåglinjer Härryda kommun",
+                "source": "https://www.harryda.se/images/18.3be047cd19937309406715e/1758114597369/HK_linjekarta_09-25%20webb.jpg"
+            }
+        ]
+    },
+    {
+        "shortOperatorName":"vt-lerum",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Västtrafik Tidtabeller",
+                "source": "https://www.vasttrafik.se/reseplanering/tidtabeller/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName":"vt-skara",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Skara stadstrafik",
+                "source": "https://www.vasttrafik.se/globalassets/media/kartor/linjenatskartor/stadsbussar/var-2023/402395_skara_a3.pdf"
+            },
+            {
+                "name": "Västtrafik Tidtabeller",
+                "source": "https://www.vasttrafik.se/reseplanering/tidtabeller/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName":"vt-skovde",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Skövde stadstrafik",
+                "source": "https://www.vasttrafik.se/globalassets/media/kartor/linjenatskartor/stadsbussar/skovde_linjenatskarta_251214.pdf"
+            },
+            {
+                "name": "Västtrafik Tidtabeller",
+                "source": "https://www.vasttrafik.se/reseplanering/tidtabeller/"
+            }
+        ]
+    },
+    {
+        "shortOperatorName":"vt-trollhattan",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Trollhättans stadstrafik",
+                "source": "https://www.vasttrafik.se/globalassets/media/kartor/linjenatskartor/stadsbussar/var-2023/402488_trollhattan_a3.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName":"vt-vanersborg",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Vänersborg stadstrafik",
+                "source": "https://www.vasttrafik.se/globalassets/media/kartor/linjenatskartor/stadsbussar/var-2023/402487_vanersborg_a3.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName":"vt-vasttag",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Tågen i västra Sverige",
+                "source": "https://www.vasttrafik.se/globalassets/media/kartor/linjenatskartor/tag/tagkarta_dec_24.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvk-oebb",
         "contributors": [
             {
