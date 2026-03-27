@@ -5324,6 +5324,20 @@
         ]
     },
     {
+        "shortOperatorName": "vvk-kmg",
+        "contributors": [
+            {
+                "github": "brockbnntt"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan KMG",
+                "source": "https://www.klagenfurtmobil.at/wp-content/uploads/2025/11/kmg-schematisch-2025-12-aushang-web.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vvk-oebb",
         "contributors": [
             {
