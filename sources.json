@@ -1967,6 +1967,126 @@
         ]
     },
     {
+        "shortOperatorName": "move-rab",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "move Gesamt Liniennetzplan",
+                "source": "https://mein-move.de/wp-content/uploads/2025/05/Move-Gesamt-Liniennetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "move-sbg",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "move Gesamt Liniennetzplan",
+                "source": "https://mein-move.de/wp-content/uploads/2025/05/Move-Gesamt-Liniennetzplan.pdf"
+            },
+			{
+                "name": "Liniennetz Stadt Schramberg",
+                "source": "https://mein-move.de/wp-content/uploads/2024/12/Liniennetzplan-Stadt-Schramberg-2024.pdf"
+            },
+        ]
+    },
+	{
+        "shortOperatorName": "move-sonstige-sbk",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "move Gesamt Liniennetzplan",
+                "source": "https://mein-move.de/wp-content/uploads/2025/05/Move-Gesamt-Liniennetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "move-sonstige-tt",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "move Gesamt Liniennetzplan",
+                "source": "https://mein-move.de/wp-content/uploads/2025/05/Move-Gesamt-Liniennetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "move-stadtverkehr-donaueschingen",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Regionalverkehr im Schwarzwald-Baar-Kreis: Donaueschingen, Blumberg und Umgebung",
+                "source": "https://mein-move.de/wp-content/uploads/2025/03/SBK-Lininennetzplan-Donaueschingen-Blumberg-und-Umgebung-Regionalverkehr.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "move-stadtverkehr-tuttlingen",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Stadtverkehr Tuttlingen 2026",
+                "source": "https://mein-move.de/wp-content/uploads/2026/03/TUT-Stadt-Grundplan-2025-11.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "move-stadtverkehr-villingen",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Villingen-Schwenningen",
+                "source": "https://mein-move.de/wp-content/uploads/2025/11/SBK-Liniennetzplan-VS-Stadtverkehr-2026_web.pdf"
+            },
+			{
+                "name": "Liniennetzplan Villingen-Schwenningen NachtAcht",
+                "source": "https://mein-move.de/wp-content/uploads/2025/11/SBK-Liniennetzplan-VS-Nacht8_2026_web.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "move-suedwestbus",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "move Gesamt Liniennetzplan",
+                "source": "https://mein-move.de/wp-content/uploads/2025/05/Move-Gesamt-Liniennetzplan.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mvb-magdeburg",
         "contributors": [
             {
