@@ -2695,13 +2695,6 @@ odeg,RE3,,,#f37a22,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 odeg,RE8,ostdeutsche-eisenbahn-gmbh,re-8,#775fb0,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 odeg,RE9,ostdeutsche-eisenbahn-gmbh,re-9,#b51d48,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 odeg,RE50,,,#0087cb,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-ooevv-linz-linien,3,linz-linien-ag-strassenbahn-stadt-linz,8-810031-3,#a3238e,#ffffff,,rectangle,,,
-ooevv-linz-linien,4,linz-linien-ag-strassenbahn-stadt-linz,8-810031-4,#c40352,#ffffff,,rectangle,,,
-ooevv-oebb,S1,osterreichische-bundesbahnen,4-81-1-1589920-5372014,#ee7f00,#ffffff,,rectangle-rounded-corner,,,
-ooevv-oebb,S2,osterreichische-bundesbahnen,4-81-2-1589920-5372014,#0098a1,#ffffff,,rectangle-rounded-corner,,,
-ooevv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1589920-5372014,#342980,#ffffff,,rectangle-rounded-corner,,,
-ooevv-oebb,S4,osterreichische-bundesbahnen,4-81-4-1589920-5372014,#a4ba00,#ffffff,,rectangle-rounded-corner,,,
-ooevv-stern-hafferl,S5,stern-hafferl-verkehrs-gmbh,4-810008-5,#e2007a,#ffffff,,rectangle-rounded-corner,,,
 ostalb-mobil-ovg-goeppingen,931,,5-vvs031-931,#fbc707,#000000,,rectangle,,14432,OstalbMobil
 ostalb-mobil-ovg-goeppingen,932,,5-vvs031-932,#785f42,#ffffff,,rectangle,,14432,OstalbMobil
 ostalb-mobil-ovk-betz,21,,5-ova050-21,#2e3192,#ffffff,,rectangle,,14432,OstalbMobil
