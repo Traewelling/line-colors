@@ -2512,6 +2512,10 @@
             {
                 "name": "Liniennetzplan Linz AG Linien",
                 "source": "https://www.linzag.at/media/dokumente/linien_1/infomaterial_1/linien-linienfahrplan.pdf"
+            },
+            {
+                "name": "Nachtliniennetzplan Linz AG Linien",
+                "source": "https://www.linzag.at/media/dokumente/linien_1/infomaterial_1/linien-linienfahrplan-nacht.pdf"
             }
         ]
     },
