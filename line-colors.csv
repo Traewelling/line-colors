@@ -1567,6 +1567,139 @@ mitteldeutsche-regiobahn,RE 6,mitteldeutsche-regiobahn,re-6,#9e60a4,#ffffff,,rec
 mitteldeutsche-regiobahn,RB 30,mitteldeutsche-regiobahn,rb-30,#ed9126,#ffffff,,rectangle-rounded-corner,,10853,Mitteldeutsche Regiobahn
 mitteldeutsche-regiobahn,RB 45,mitteldeutsche-regiobahn,rb-45,#ed694a,#ffffff,,rectangle-rounded-corner,,10853,Mitteldeutsche Regiobahn
 mitteldeutsche-regiobahn,RB 110,mitteldeutsche-regiobahn,rb-110,#a2cbba,#ffffff,,rectangle-rounded-corner,,10853,Mitteldeutsche Regiobahn
+move-rab,501,,,#289c38,#ffffff,,pill,,14908,Bus Alb-Bodensee
+move-rab,502,,,#92c56e,#ffffff,,pill,,14908,Bus Alb-Bodensee
+move-rab,503,,,#938753,#ffffff,,pill,,14908,Bus Alb-Bodensee
+move-rab,504,,,#71cbf4,#ffffff,,pill,,14908,Bus Alb-Bodensee
+move-rab,510,,,#c24f97,#ffffff,,pill,,14908,Bus Alb-Bodensee
+move-rab,545,,,#60a92c,#ffffff,,pill,,14908,Bus Alb-Bodensee
+move-rab,550,,,#f18700,#ffffff,,pill,,14908,Bus Alb-Bodensee
+move-rab,556,,,#00b1aa,#ffffff,,pill,,14908,Bus Alb-Bodensee
+move-rab,665,,,#00a3e6,#ffffff,,pill,,14908,Bus Alb-Bodensee
+move-rab,670,,,#e4650e,#ffffff,,pill,,14908,Bus Alb-Bodensee
+move-rab,675,,,#ffcc00,#ffffff,,pill,,14908,Bus Alb-Bodensee
+move-sbg,30,,,#009ed4,#ffffff,,pill,,14785,SBG-Villingen
+move-sbg,40,,,#bbc801,#ffffff,,pill,,14785,SBG-Villingen
+move-sbg,50,,,#e30613,#ffffff,,pill,,14785,SBG-Villingen
+move-sbg,600,,,#0063ae,#ffffff,,pill,,14785,SBG-Villingen
+move-sbg,610,,,#f1862c,#ffffff,,pill,,14785,SBG-Villingen
+move-sbg,620,,,#007236,#ffffff,,pill,,14785,SBG-Villingen
+move-sbg,625,,,#c9338b,#ffffff,,pill,,14785,SBG-Villingen
+move-sbg,700,,,#003466,#ffffff,,pill,,14785,SBG-Villingen
+move-sbg,800,,,#764711,#ffffff,,pill,,14785,SBG-Villingen
+move-sbg,810,,,#005b75,#ffffff,,pill,,14785,SBG-Villingen
+move-sbg,7440,,,#e6007d,#ffffff,,pill,,14785,SBG-Villingen
+move-sbg,7444,,,#e6007d,#ffffff,,pill,,14785,SBG-Villingen
+move-sbg,7445,,,#005da9,#ffffff,,pill,,14785,SBG-Villingen
+move-sbg,7462,,,#00ace9,#ffffff,,pill,,14785,SBG-Villingen
+move-sbg,7475,,,#c9b73d,#ffffff,,pill,,14785,SBG-Villingen
+move-sbg,7479,,,#5fc4e1,#ffffff,,pill,,14785,SBG-Villingen
+move-sbg,7481,,,#46962b,#ffffff,,pill,,14785,SBG-Villingen
+move-sbg,7484,,,#ea8d00,#ffffff,,pill,,14785,SBG-Villingen
+move-sbg,7486,,,#e6007d,#ffffff,,pill,,14785,SBG-Villingen
+move-sonstige-sbk,55,,,#005da9,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,56,,,#ea8d00,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,500,,,#e63323,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,595,,,#f39200,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,640,,,#d5653c,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,650,,,#009b3e,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,651,,,#00a3e6,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,655,,,#006fb8,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,660,,,#afca0b,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,680,,,#2d358b,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,750,,,#d52385,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,760,,,#dc9d04,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,770,,,#00984e,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,775,,,#e72e38,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,820,,,#e72e38,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,850,,,#94c356,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,855,,,#00a3e6,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,860,,,#a02d88,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,870,,,#e72e38,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,900,,,#009b3e,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,910,,,#dc9d04,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,911,,,#e72e38,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,912,,,#a02d88,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,913,,,#00a3e6,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,914,,,#005b75,#ffffff,,pill,,14763,SBK
+move-sonstige-sbk,950,,,#00a4c7,#ffffff,,pill,,14763,SBK
+move-sonstige-tt,110,,,#116fb7,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,112,,,#116fb7,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,117,,,#243f60,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,120,,,#078136,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,122,,,#078136,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,130,,,#93c353,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,132,,,#93c353,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,140,,,#ec671c,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,142,,,#ec671c,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,147,,,#f39daa,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,150,,,#fcbf0a,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,160,,,#f49739,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,210,,,#9294c9,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,212,,,#71cbf4,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,220,,,#673a8e,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,222,,,#673a8e,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,230,,,#7f1710,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,232,,,#7f1710,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,240,,,#cb9904,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,242,,,#cb9904,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,250,,,#7c7c7c,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,252,,,#7c7c7c,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,310,,,#a61925,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,312,,,#a61925,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,315,,,#dd9796,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,320,,,#ed694b,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,330,,,#f39669,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,332,,,#f39669,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,340,,,#05999a,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,345,,,#215867,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,347,,,#83c06f,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,350,,,#212c56,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,352,,,#212c56,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,410,,,#95b4d7,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,420,,,#928953,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,430,,,#64350d,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,440,,,#9fa2a3,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-sonstige-tt,450,,,#b9318a,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-stadtverkehr-donaueschingen,DS1,,,#ffffff,#000000,#9dd26a,rectangle-rounded-corner,,14763,SBK
+move-stadtverkehr-donaueschingen,DS2,,,#ffffff,#000000,#b455a9,rectangle-rounded-corner,,14763,SBK
+move-stadtverkehr-donaueschingen,DS3,,,#ffffff,#000000,#ffa44d,rectangle-rounded-corner,,14763,SBK
+move-stadtverkehr-tuttlingen,1,,,#44b5c2,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-stadtverkehr-tuttlingen,2,,,#ed6d16,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-stadtverkehr-tuttlingen,3,,,#5c79bb,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-stadtverkehr-tuttlingen,4,,,#0096d7,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-stadtverkehr-tuttlingen,5,,,#dc0d15,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-stadtverkehr-tuttlingen,7,,,#cc9903,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-stadtverkehr-tuttlingen,8,,,#74a992,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-stadtverkehr-tuttlingen,10,,,#bec32f,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-stadtverkehr-tuttlingen,11,,,#8c377a,#ffffff,,pill,,8180,Landkreis Tuttlingen
+move-stadtverkehr-villingen,1,,,#ec1f25,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,2,,,#068739,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,3,,,#7670a7,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,4,,,#98ca3d,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,5,,,#26256a,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,6,,,#d9689d,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,7,,,#f58b20,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,8,,,#00aee6,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,9,,,#fdc210,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,10,,,#802b86,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,11,,,#2abcae,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,12,,,#7d5200,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,13,,,#007c9d,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,14,,,#63cdf6,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,15,,,#e0dd0e,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,16,,,#ba1519,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,25,,,#00adef,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,26,,,#f6941f,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,27,,,#35b44a,#ffffff,,rectangle,,14763,SBK
+move-stadtverkehr-villingen,28,,,#ee4237,#ffffff,,rectangle,,14763,SBK
+move-suedwestbus,7404,,,#df7e00,#ffffff,,pill,,8103,RVS
+move-suedwestbus,7410,,,#e30613,#ffffff,,pill,,8103,RVS
+move-suedwestbus,7414,,,#005da9,#ffffff,,pill,,8103,RVS
+move-suedwestbus,7415,,,#995128,#ffffff,,pill,,8103,RVS
+move-suedwestbus,7415A,,,#995128,#ffffff,,pill,,8103,RVS
+move-suedwestbus,7415B,,,#995128,#ffffff,,pill,,8103,RVS
+move-suedwestbus,7432,,,#a863a5,#ffffff,,pill,,8103,RVS
 mvb-magdeburg,51,,5-nasmbb-51,#38529b,#ffffff,,pill,,8891,Magdeburger Verkehrsbetriebe
 mvb-magdeburg,52,,5-nasmbb-52,#e8a038,#ffffff,,pill,,8891,Magdeburger Verkehrsbetriebe
 mvb-magdeburg,53,,5-nasmbb-53,#f7ce46,#000000,,pill,,8891,Magdeburger Verkehrsbetriebe
