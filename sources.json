@@ -2353,16 +2353,477 @@
         ]
     },
     {
+        "shortOperatorName": "naldo-bayer",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Regionalnetzplan",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/2026-naldo-regionalnetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-beck",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Regionalnetzplan",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/2026-naldo-regionalnetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-bottenschein",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Bad Urach",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-bad-urach.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-edel",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Mössingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-moessingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Rottenburg",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-rottenburg.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-eissler",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Albstadt",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-albstadt.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-frankenhauser",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Bad Saulgau",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-bad-saulgau.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-gross",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Rottenburg",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-rottenburg.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-hartmann",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Nachtverkehr",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-nachtnetz-tuebingen-reutlingen.pdf"
+            },
+			{
+                "name": "naldo Liniennetz Reutlingen und Umgebung",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-reutlingen.pdf"
+            },
+			{
+                "name": "naldo Regionalnetzplan",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/2026-naldo-regionalnetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-hvb",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Balingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-balingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Hechingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-hechingen.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-knoll",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Burladingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-burladingen.pdf"
+            },
+			{
+                "name": "naldo Regionalnetzplan",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/2026-naldo-regionalnetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-kvb-sigmaringen",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Regionalnetzplan",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/2026-naldo-regionalnetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-leibfritz",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Dettingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-dettingen-erms.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-maas-reisen",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Balingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-balingen.pdf"
+            },
+			{
+                "name": "naldo Regionalnetzplan",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/2026-naldo-regionalnetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-ovr-ruoff",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Albstadt",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-albstadt.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Bad Urach",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-bad-urach.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-rab",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Albstadt",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-albstadt.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Bad Saulgau",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-bad-saulgau.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Balingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-balingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Bad Urach",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-bad-urach.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Burladingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-burladingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Hechingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-hechingen.pdf"
+            },
+			{
+                "name": "naldo Liniennetz Reutlingen und Umgebung",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-reutlingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Rottenburg",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-rottenburg.pdf"
+            },
+			{
+                "name": "naldo Regionalnetzplan",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/2026-naldo-regionalnetzplan.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Nachtverkehr",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-nachtnetz-tuebingen-reutlingen.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-reisch",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Bad Saulgau",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-bad-saulgau.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-robus",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Rottenburg",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-rottenburg.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-rsv",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Nachtverkehr",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-nachtnetz-tuebingen-reutlingen.pdf"
+            },
+			{
+                "name": "naldo Liniennetz Reutlingen und Umgebung",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-reutlingen.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-svl",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Bad Urach",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-bad-urach.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-sw-sigmaringen",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Donaubus Sigmaringen",
+                "source": "https://www.stadtwerke-sigmaringen.de/de/Privatkundinnen/Service/Downloads/Downloads/Donaubus-Aushaenge-2025-BUS-Linienplan-Website-A4.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-sweg",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Nachtverkehr",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-nachtnetz-tuebingen-reutlingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Albstadt",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-albstadt.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Burladingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-burladingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Gammertingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-gammertingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Mössingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-moessingen.pdf"
+            },
+			{
+                "name": "naldo Liniennetz Reutlingen und Umgebung",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-reutlingen.pdf"
+            },
+			{
+                "name": "naldo Regionalnetzplan",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/2026-naldo-regionalnetzplan.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-taxi-xxl-rt",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Burladingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-burladingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Metzingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-metzingen.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Nachtverkehr",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-nachtnetz-tuebingen-reutlingen.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-taxizentrale-tue",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Nachtverkehr",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-nachtnetz-tuebingen-reutlingen.pdf"
+            }
+        ]
+    },
+	{
         "shortOperatorName": "naldo-tuebus",
         "contributors": [
             {
                 "github": "luna-cant-code"
+            },
+			{
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
                 "name": "Liniennetzplan Stadtnetz Tübingen",
-                "source": "https://www.tuebus.de/fileadmin/user_upload/3Fahrgaeste/TueBus_2502_LNP_web.pdf"
+                "source": "https://www.tuebus.de/fileadmin/user_upload/3Fahrgaeste/TueBus_Liniennetzplan_2026_A4_WEB.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Nachtverkehr",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-nachtnetz-tuebingen-reutlingen.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-wilhelm-lutz",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Metzingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-metzingen.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "naldo-willy-kopp",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "naldo Teilnetz Albstadt",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-albstadt.pdf"
+            },
+			{
+                "name": "naldo Teilnetz Balingen",
+                "source": "https://www.naldo.de/fileadmin/media/fahrplan/teilnetzplaene/2026-liniennetz-balingen.pdf"
             }
         ]
     },

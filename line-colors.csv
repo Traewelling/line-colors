@@ -2488,7 +2488,191 @@ nah-sh-swhl,38,,,#e84b04,#ffffff,,circle,,12085,Stadtwerke Lübeck Mobil GmbH
 nah-sh-swhl,40,,,#a1be13,#ffffff,,circle,,12085,Stadtwerke Lübeck Mobil GmbH
 nah-sh-swhl,41,,,#e7303d,#ffffff,,circle,,12085,Stadtwerke Lübeck Mobil GmbH
 nah-sh-swhl,50,,,#a1be13,#ffffff,,circle,,12085,Stadtwerke Lübeck Mobil GmbH
+naldo-bayer,331,,,#9f4e56,#ffffff,,pill,,13151,Bayer
+naldo-beck,641,,,#9f4e56,#ffffff,,pill,,8152,Beck GmbH
+naldo-beck,642,,,#c09766,#ffffff,,pill,,8152,Beck GmbH
+naldo-beck,667,,,#9a98c5,#ffffff,,pill,,8152,Beck GmbH
+naldo-beck,668,,,#e9028b,#ffffff,,pill,,8152,Beck GmbH
+naldo-bottenschein,108,,,#f17426,#ffffff,,pill,,8168,Stadtwerke Bad Urach
+naldo-edel,115,,,#0ca398,#ffffff,,pill,,8150,Edel Reisen
+naldo-edel,151,,,#e9028c,#ffffff,,pill,,8150,Edel Reisen
+naldo-edel,152,,,#90c43d,#ffffff,,pill,,8150,Edel Reisen
+naldo-edel,154,,,#a1238c,#ffffff,,pill,,8150,Edel Reisen
+naldo-edel,155,,,#005393,#ffffff,,pill,,8150,Edel Reisen
+naldo-edel,7623,,,#ec1f25,#ffffff,,pill,,8150,Edel Reisen
+naldo-edel,7623A,,,#d96fac,#ffffff,,pill,,8150,Edel Reisen
+naldo-edel,7626,,,#a1248f,#ffffff,,pill,,8150,Edel Reisen
+naldo-edel,7626A,,,#a1248f,#ffffff,,pill,,8150,Edel Reisen
+naldo-edel,7627,,,#ea028c,#ffffff,,pill,,8150,Edel Reisen
+naldo-edel,7628,,,#00adef,#ffffff,,pill,,8150,Edel Reisen
+naldo-edel,7629,,,#f6941f,#ffffff,,pill,,8150,Edel Reisen
+naldo-edel,7629A,,,#f6941f,#ffffff,,pill,,8150,Edel Reisen
+naldo-edel,7633,,,#c39a6d,#ffffff,,pill,,8150,Edel Reisen
+naldo-edel,X27,,,#004686,#ffffff,,pill,,8150,Edel Reisen
+naldo-eissler,45 AST,,,#bf935b,#ffffff,,pill,,8144,Eissler-Reisen GmbH & Co.KG
+naldo-eissler,45 B,,,#bf935b,#ffffff,,pill,,8144,Eissler-Reisen GmbH & Co.KG
+naldo-eissler,45,,,#bf935b,#ffffff,,pill,,8144,Eissler-Reisen GmbH & Co.KG
+naldo-frankenhauser,470,,,#00a498,#ffffff,,pill,,8153,Gebr. Frankenhauser GbR
+naldo-gross,18,,,#9995c9,#ffffff,,pill,,8155,Omnibus Groß GmbH
+naldo-hartmann,121,,,#ed1b2e,#ffffff,,pill,,12882,Hartmann
+naldo-hartmann,123,,,#9f4e56,#ffffff,,pill,,12882,Hartmann
+naldo-hartmann,7601,,,#006535,#ffffff,,pill,,12882,Hartmann
+naldo-hartmann,7605,,,#90c43d,#ffffff,,pill,,12882,Hartmann
+naldo-hartmann,7611,,,#ea008b,#ffffff,,pill,,12882,Hartmann
+naldo-hartmann,N81,,,#221d60,#ffffff,,pill,,12882,Hartmann
+naldo-hartmann,X11,,,#00ade8,#ffffff,,pill,,12882,Hartmann
+naldo-hvb,301,,,#ec1f25,#ffffff,,pill,,8157,HVB Wiest + Schürmann GmbH
+naldo-hvb,302,,,#ea028c,#ffffff,,pill,,8157,HVB Wiest + Schürmann GmbH
+naldo-hvb,303,,,#00a895,#ffffff,,pill,,8157,HVB Wiest + Schürmann GmbH
+naldo-hvb,304,,,#882990,#ffffff,,pill,,8157,HVB Wiest + Schürmann GmbH
+naldo-hvb,305,,,#f6941f,#ffffff,,pill,,8157,HVB Wiest + Schürmann GmbH
+naldo-hvb,306,,,#00adef,#ffffff,,pill,,8157,HVB Wiest + Schürmann GmbH
+naldo-hvb,307,,,#1476bc,#ffffff,,pill,,8157,HVB Wiest + Schürmann GmbH
+naldo-hvb,309,,,#9b95c9,#ffffff,,pill,,8157,HVB Wiest + Schürmann GmbH
+naldo-hvb,344,,,#6ebf45,#ffffff,,pill,,8157,HVB Wiest + Schürmann GmbH
+naldo-knoll,151,,,#e9028c,#ffffff,,pill,,8173,Knoll Fahrtenservice
+naldo-knoll,152,,,#8bc640,#ffffff,,pill,,8173,Knoll Fahrtenservice
+naldo-knoll,154,,,#a1238c,#ffffff,,pill,,8173,Knoll Fahrtenservice
+naldo-knoll,155,,,#005393,#ffffff,,pill,,8173,Knoll Fahrtenservice
+naldo-knoll,156,,,#f69721,#ffffff,,pill,,8173,Knoll Fahrtenservice
+naldo-knoll,7615,,,#00adea,#ffffff,,pill,,8173,Knoll Fahrtenservice
+naldo-kvb-sigmaringen,101,,,#0ca398,#ffffff,,pill,,8141,Kreisverkehrsbetrieb Sigmaringen
+naldo-kvb-sigmaringen,102,,,#00adea,#ffffff,,pill,,8141,Kreisverkehrsbetrieb Sigmaringen
+naldo-kvb-sigmaringen,103,,,#ec1e2e,#ffffff,,pill,,8141,Kreisverkehrsbetrieb Sigmaringen
+naldo-kvb-sigmaringen,104,,,#006636,#ffffff,,pill,,8141,Kreisverkehrsbetrieb Sigmaringen
+naldo-kvb-sigmaringen,105,,,#00a551,#ffffff,,pill,,8141,Kreisverkehrsbetrieb Sigmaringen
+naldo-kvb-sigmaringen,106,,,#006636,#ffffff,,pill,,8141,Kreisverkehrsbetrieb Sigmaringen
+naldo-kvb-sigmaringen,450,,,#f69722,#ffffff,,pill,,8141,Kreisverkehrsbetrieb Sigmaringen
+naldo-kvb-sigmaringen,600,,,#005393,#ffffff,,pill,,8141,Kreisverkehrsbetrieb Sigmaringen
+naldo-leibfritz,101,,,#a0138c,#ffffff,,pill,,12976,Leibfritz
+naldo-maas-reisen,14,,,#c49a6c,#ffffff,,pill,,8163,Gebr. Maas GmbH & Co.KG
+naldo-maas-reisen,16,,,#00aeef,#ffffff,,pill,,8163,Gebr. Maas GmbH & Co.KG
+naldo-maas-reisen,21,,,#f26522,#ffffff,,pill,,8163,Gebr. Maas GmbH & Co.KG
+naldo-maas-reisen,22,,,#8cc63f,#ffffff,,pill,,8163,Gebr. Maas GmbH & Co.KG
+naldo-maas-reisen,23,,,#fcb040,#ffffff,,pill,,8163,Gebr. Maas GmbH & Co.KG
+naldo-maas-reisen,24,,,#ce171e,#ffffff,,pill,,8163,Gebr. Maas GmbH & Co.KG
+naldo-maas-reisen,315,,,#a2238e,#ffffff,,pill,,8163,Gebr. Maas GmbH & Co.KG
+naldo-maas-reisen,317,,,#006838,#ffffff,,pill,,8163,Gebr. Maas GmbH & Co.KG
+naldo-maas-reisen,337,,,#524fa2,#ffffff,,pill,,8163,Gebr. Maas GmbH & Co.KG
+naldo-maas-reisen,338,,,#ec1e2e,#ffffff,,pill,,8163,Gebr. Maas GmbH & Co.KG
+naldo-maas-reisen,AST 16,,,#00aeef,#ffffff,,pill,,8163,Gebr. Maas GmbH & Co.KG
+naldo-ovr-ruoff,42,,,#66c430,#ffffff,,pill,,8143,Omnibus-Verkehr Ruoff GmbH
+naldo-ovr-ruoff,44,,,#ed1c24,#ffffff,,pill,,8143,Omnibus-Verkehr Ruoff GmbH
+naldo-ovr-ruoff,46,,,#00642c,#ffffff,,pill,,8143,Omnibus-Verkehr Ruoff GmbH
+naldo-ovr-ruoff,47,,,#66c430,#ffffff,,pill,,8143,Omnibus-Verkehr Ruoff GmbH
+naldo-ovr-ruoff,48,,,#00a998,#ffffff,,pill,,8143,Omnibus-Verkehr Ruoff GmbH
+naldo-ovr-ruoff,79,,,#f6e3db,#b6242a,#b6242a,pill,,8143,Omnibus-Verkehr Ruoff GmbH
+naldo-ovr-ruoff,100,,,#d972a8,#ffffff,,pill,,8143,Omnibus-Verkehr Ruoff GmbH
+naldo-ovr-ruoff,172,,,#c09766,#ffffff,,pill,,8143,Omnibus-Verkehr Ruoff GmbH
+naldo-ovr-ruoff,173,,,#00adea,#ffffff,,pill,,8143,Omnibus-Verkehr Ruoff GmbH
+naldo-rab,19,,,#642d91,#ffffff,,pill,,14908,Bus Alb-Bodensee
+naldo-rab,212,,,#00a599,#ffffff,,pill,,14907,Busbetrieb Alb-Bodensee
+naldo-rab,260,,,#632d8d,#ffffff,,pill,,14907,Busbetrieb Alb-Bodensee
+naldo-rab,261,,,#9c97c4,#ffffff,,pill,,14907,Busbetrieb Alb-Bodensee
+naldo-rab,264,,,#1876b6,#ffffff,,pill,,14907,Busbetrieb Alb-Bodensee
+naldo-rab,265,,,#90c23b,#ffffff,,pill,,14907,Busbetrieb Alb-Bodensee
+naldo-rab,310,,,#a45560,#ffffff,,pill,,14908,Bus Alb-Bodensee
+naldo-rab,311,,,#632d8d,#ffffff,,pill,,14908,Bus Alb-Bodensee
+naldo-rab,319,,,#f7971f,#ffffff,,pill,,14908,Bus Alb-Bodensee
+naldo-rab,320,,,#ec008c,#ffffff,,pill,,14908,Bus Alb-Bodensee
+naldo-rab,329,,,#90c23b,#ffffff,,pill,,14908,Bus Alb-Bodensee
+naldo-rab,330,,,#587abd,#ffffff,,pill,,14908,Bus Alb-Bodensee
+naldo-rab,393,,,#a04e56,#ffffff,,pill,,14909,Regionalbus Alb-Bodensee
+naldo-rab,466,,,#1476b6,#ffffff,,pill,,14909,Regionalbus Alb-Bodensee
+naldo-rab,500,,,#dc71a7,#ffffff,,pill,,14909,Regionalbus Alb-Bodensee
+naldo-rab,792,,,#90c23b,#ffffff,,pill,,13621,RAB-Bus (ZÖA-LB-NW)
+naldo-rab,792,,,#90c23b,#ffffff,,pill,,14908,Bus Alb-Bodensee
+naldo-rab,793,,,#006635,#ffffff,,pill,,14908,Bus Alb-Bodensee
+naldo-rab,800,,,#7e278b,#ffffff,,pill,,14909,Regionalbus Alb-Bodensee
+naldo-rab,7376,,,#a1218b,#ffffff,,pill,,14909,Regionalbus Alb-Bodensee
+naldo-rab,7391,,,#632d8e,#ffffff,,pill,,14909,Regionalbus Alb-Bodensee
+naldo-rab,7421,,,#a0148e,#ffffff,,pill,,14908,Bus Alb-Bodensee
+naldo-rab,7422,,,#80cc28,#ffffff,,pill,,14908,Bus Alb-Bodensee
+naldo-rab,7425,,,#37ab9c,#ffffff,,pill,,14908,Bus Alb-Bodensee
+naldo-rab,7570,,,#9c97c4,#ffffff,,pill,,14909,Regionalbus Alb-Bodensee
+naldo-rab,7606,,,#ed1b2e,#ffffff,,pill,,14907,Busbetrieb Alb-Bodensee
+naldo-rab,7635,,,#fab041,#ffffff,,pill,,14907,Busbetrieb Alb-Bodensee
+naldo-rab,7640,,,#f8b243,#ffffff,,pill,,14907,Busbetrieb Alb-Bodensee
+naldo-rab,7643,,,#632d8e,#ffffff,,pill,,14907,Busbetrieb Alb-Bodensee
+naldo-rab,7644,,,#00a498,#ffffff,,pill,,14907,Busbetrieb Alb-Bodensee
+naldo-rab,7662,,,#dc71a7,#ffffff,,pill,,14907,Busbetrieb Alb-Bodensee
+naldo-rab,X2,,,#006635,#ffffff,,pill,,14907,Busbetrieb Alb-Bodensee
+naldo-rab,N80,,,#f5977a,#ffffff,,pill,,14908,Bus Alb-Bodensee
+naldo-reisch,414,,,#ed1b2e,#ffffff,,pill,,8165,Reisch GmbH
+naldo-reisch,415,,,#90c23b,#ffffff,,pill,,8165,Reisch GmbH
+naldo-reisch,416,,,#9c97c4,#ffffff,,pill,,8165,Reisch GmbH
+naldo-reisch,419,,,#f9b141,#ffffff,,pill,,8165,Reisch GmbH
+naldo-reisch,420,,,#ed1b2e,#ffffff,,pill,,8165,Reisch GmbH
+naldo-robus,1,,,#b72a2f,#ffffff,,pill,,8148,Stadt Rottenburg am Neckar
+naldo-robus,2,,,#0072bc,#ffffff,,pill,,8148,Stadt Rottenburg am Neckar
+naldo-robus,3,,,#79afde,#ffffff,,pill,,8148,Stadt Rottenburg am Neckar
+naldo-robus,4,,,#8bc640,#ffffff,,pill,,8148,Stadt Rottenburg am Neckar
+naldo-robus,5,,,#00a551,#ffffff,,pill,,8148,Stadt Rottenburg am Neckar
+naldo-rsv,1,,,#14141b,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,1U,,,#14141b,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,2,,,#6e8ec2,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,3,,,#f18565,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,4,,,#ffce07,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,5,,,#005292,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,6,,,#c796aa,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,7,,,#e40089,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,8,,,#f7a84c,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,10,,,#ea008b,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,11,,,#1e3685,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,12,,,#569f72,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,21,,,#83bd3d,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,22,,,#00a550,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,23,,,#5bc4cb,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,24,,,#55a390,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,32,,,#664685,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,33,,,#f7aa70,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,61,,,#9d5a46,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,62,,,#e40089,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,105,,,#919598,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,300,,,#919598,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,N1,,,#00a76e,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,N2,,,#223f9a,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,N3,,,#9f184d,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,N4,,,#fff200,#000000,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,N5,,,#ffd400,#000000,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,N6,,,#ed1c24,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,N7,,,#00aeef,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,N8,,,#38b54a,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,N9,,,#f89339,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-rsv,X3,,,#1476b6,#ffffff,,pill,,8147,RSV-GmbH Hogenmüller & Kull Co.
+naldo-svl,100/172/173,,,#d972a8,#ffffff,,pill,,14667,SVL Süddeutsche Verkehrslinine GmbH &
+naldo-svl,7643,,,#632e8f,#ffffff,,pill,,14667,SVL Süddeutsche Verkehrslinine GmbH &
+naldo-sw-sigmaringen,1,,,#557b9b,#ffffff,,rectangle-rounded-corner,,8171,Stadtwerke Sigmaringen
+naldo-sw-sigmaringen,2,,,#bc004f,#ffffff,,rectangle-rounded-corner,,8171,Stadtwerke Sigmaringen
+naldo-sw-sigmaringen,3,,,#c46d17,#ffffff,,rectangle-rounded-corner,,8171,Stadtwerke Sigmaringen
+naldo-sw-sigmaringen,4,,,#234e75,#ffffff,,rectangle-rounded-corner,,8171,Stadtwerke Sigmaringen
+naldo-sw-sigmaringen,5,,,#f1cb0c,#ffffff,,rectangle-rounded-corner,,8171,Stadtwerke Sigmaringen
+naldo-sw-sigmaringen,6,,,#009899,#ffffff,,rectangle-rounded-corner,,8171,Stadtwerke Sigmaringen
+naldo-sweg,2,,,#a1238c,#ffffff,,pill,,8146,SWEG (HzL) Bus
+naldo-sweg,3,,,#00adef,#ffffff,,pill,,8146,SWEG (HzL) Bus
+naldo-sweg,5,,,#a1248f,#ffffff,,pill,,8146,SWEG (HzL) Bus
+naldo-sweg,6,,,#5e2590,#ffffff,,pill,,8146,SWEG (HzL) Bus
+naldo-sweg,7,,,#ec1f25,#ffffff,,pill,,8146,SWEG (HzL) Bus
+naldo-sweg,9,,,#c09766,#ffffff,,pill,,8146,SWEG (HzL) Bus
+naldo-sweg,111,,,#a1218b,#ffffff,,pill,,14637,SWEG Bus Tübingen
+naldo-sweg,156,,,#f7971e,#ffffff,,pill,,14637,SWEG Bus Tübingen
+naldo-sweg,390,,,#00a550,#ffffff,,pill,,8146,SWEG (HzL) Bus
+naldo-sweg,400,,,#00a551,#ffffff,,pill,,8146,SWEG (HzL) Bus
+naldo-sweg,400Z,,,#90c43d,#ffffff,,pill,,8146,SWEG (HzL) Bus
+naldo-sweg,7612,,,#00a550,#ffffff,,pill,,14637,SWEG Bus Tübingen
+naldo-sweg,7613,,,#c09766,#ffffff,,pill,,14637,SWEG Bus Tübingen
+naldo-sweg,7615,,,#00adea,#ffffff,,pill,,14637,SWEG Bus Tübingen
+naldo-sweg,7616,,,#ed1b2e,#ffffff,,pill,,14637,SWEG Bus Tübingen
+naldo-sweg,7625,,,#f9b142,#ffffff,,pill,,14637,SWEG Bus Tübingen
+naldo-sweg,N84,,,#ec008c,#ffffff,,pill,,14637,SWEG Bus Tübingen
+naldo-sweg,N87,,,#6a7e25,#ffffff,,pill,,14637,SWEG Bus Tübingen
+naldo-taxi-xxl-rt,201,,,#632e8f,#ffffff,,pill,,14413,zz_TaxiXXL
+naldo-taxi-xxl-rt,7635,,,#fab041,#ffffff,,pill,,14413,zz_TaxiXXL
+naldo-taxi-xxl-rt,7644,,,#00a498,#ffffff,,pill,,14413,zz_TaxiXXL
+naldo-taxi-xxl-rt,NA 20,,,#b8b6c2,#000000,,pill,,14413,zz_TaxiXXL
+naldo-taxizentrale-tue,N82,,,#99877d,#ffffff,,pill,,14482,zz_TZTüb
 naldo-tuebus,1,,,#ce2c23,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,2,,,#009e95,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
 naldo-tuebus,3,,,#cc6326,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
 naldo-tuebus,4,,,#92c398,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
 naldo-tuebus,5,,,#58102f,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
@@ -2497,12 +2681,47 @@ naldo-tuebus,7,,,#f9dc4a,#000000,,pill,,8140,Stadtverkehr Tübingen GmbH
 naldo-tuebus,8,,,#718cbd,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
 naldo-tuebus,9,,,#77afb0,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
 naldo-tuebus,10,,,#d7da47,#000000,,pill,,8140,Stadtverkehr Tübingen GmbH
-naldo-tuebus,11,,,#326baf,#000000,,pill,,8140,Stadtverkehr Tübingen GmbH
-naldo-tuebus,12,,,#cd6fa1,#000000,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,11,,,#326baf,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,12,,,#cd6fa1,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
 naldo-tuebus,13,,,#598092,#000000,,pill,,8140,Stadtverkehr Tübingen GmbH
 naldo-tuebus,14,,,#205064,#000000,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,16,,,#8abd0d,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
 naldo-tuebus,17,,,#94207b,#000000,,pill,,8140,Stadtverkehr Tübingen GmbH
 naldo-tuebus,19,,,#58227c,#000000,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,21,,,#00a0e4,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,22,,,#8fac94,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,31,,,#f38d00,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,32,,,#6b7329,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,33,,,#007871,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,34,,,#a2087e,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,35,,,#005ba8,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,N88,,,#b77982,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,N90,,,#00a650,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,N91,,,#ed1c24,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,N92,,,#4496d1,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,N93,,,#223f9a,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,N94,,,#ffd400,#000000,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,N95,,,#f89433,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,N96,,,#00a99c,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,N97,,,#9f184d,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,N98,,,#0072bc,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-tuebus,X15,,,#f29ac0,#ffffff,,pill,,8140,Stadtverkehr Tübingen GmbH
+naldo-wilhelm-lutz,201,,,#632e8f,#ffffff,,pill,,8162,Wilhelm Lutz Omnibusverkehr GmbH
+naldo-wilhelm-lutz,202,,,#ec1e2e,#ffffff,,pill,,8162,Wilhelm Lutz Omnibusverkehr GmbH
+naldo-wilhelm-lutz,203,,,#00a551,#ffffff,,pill,,8162,Wilhelm Lutz Omnibusverkehr GmbH
+naldo-willy-kopp,71,,,#6c99d7,#ffffff,,pill,,8159,Fa. Willy Kopp Omnibusverkehr
+naldo-willy-kopp,72,,,#176fc1,#ffffff,,pill,,8159,Fa. Willy Kopp Omnibusverkehr
+naldo-willy-kopp,73,,,#43803c,#ffffff,,pill,,8159,Fa. Willy Kopp Omnibusverkehr
+naldo-willy-kopp,74,,,#f57747,#ffffff,,pill,,8159,Fa. Willy Kopp Omnibusverkehr
+naldo-willy-kopp,75,,,#f1471d,#ffffff,,pill,,8159,Fa. Willy Kopp Omnibusverkehr
+naldo-willy-kopp,76,,,#66a773,#ffffff,,pill,,8159,Fa. Willy Kopp Omnibusverkehr
+naldo-willy-kopp,77,,,#00642c,#ffffff,,pill,,8159,Fa. Willy Kopp Omnibusverkehr
+naldo-willy-kopp,314,,,#a0445b,#ffffff,,pill,,8159,Fa. Willy Kopp Omnibusverkehr
+naldo-willy-kopp,317,,,#006838,#ffffff,,pill,,8159,Fa. Willy Kopp Omnibusverkehr
+naldo-willy-kopp,361,,,#f9a72b,#ffffff,,pill,,8159,Fa. Willy Kopp Omnibusverkehr
+naldo-willy-kopp,362,,,#f68712,#ffffff,,pill,,8159,Fa. Willy Kopp Omnibusverkehr
+naldo-willy-kopp,363,,,#00a650,#ffffff,,pill,,8159,Fa. Willy Kopp Omnibusverkehr
+naldo-willy-kopp,364,,,#00adea,#ffffff,,pill,,8159,Fa. Willy Kopp Omnibusverkehr
 neb-niederbarnimer-eisenbahn,RB12,neb-niederbarnimer-eisenbahn,rb-12,#a5027d,#ffffff,,rectangle,,10912,NEB Niederbarnimer Eisenbahn
 neb-niederbarnimer-eisenbahn,RB25,neb-niederbarnimer-eisenbahn,rb-25,#007cb0,#ffffff,,rectangle,,10912,NEB Niederbarnimer Eisenbahn
 neb-niederbarnimer-eisenbahn,RB26,neb-niederbarnimer-eisenbahn,rb-26,#009686,#ffffff,,rectangle,,10912,NEB Niederbarnimer Eisenbahn
@@ -5601,7 +5820,6 @@ vvs-db-sbs,S3,db-regio-ag-s-bahn-stuttgart,4-800643-3,#f36e31,#ffffff,,rectangle
 vvs-db-sbs,S4,db-regio-ag-s-bahn-stuttgart,4-800643-4,#0166b3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,S5,db-regio-ag-s-bahn-stuttgart,4-800643-5,#00acdd,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,,rectangle,Q67501804,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,S24,,,#9a6c9c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectangle,Q63952011,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle,Q130343355,10443,DB Regio AG Baden-Württemberg
 vvs-db-sbs,RB11,db-regio-ag-s-bahn-stuttgart,rb-11,#02aa9e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
