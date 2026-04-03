@@ -546,23 +546,23 @@
             },
             {
                 "name": "Liniennetzplan bwegt",
-                "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
+                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_16-11-2025_barrierefrei.pdf"
             },
             {
-                "name": "Liniennetzplan Rheinland-Pfalz",
-                "source": "https://www.rolph.de/fileadmin/user_upload/Liniennetzplan_Rheinland-Pfalz_02-2024.pdf"
-            },
-            {
-                "name": "RSNP 2025",
+                "name": "RSNP 2026",
                 "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
             },
             {
                 "name": "JUIL 2025_Carte reseau CFL_DE_A3_PRINT",
                 "source": "https://www.cfl.lu/getattachment/cc0c66f9-2074-476a-8140-7557866b17a2/juil-2025_carte-reseau-cfl_de_a3_print.pdf"
             },
-            {
-                "name": "Liniennetzplan Rheinland-Pfalz Stand 2025",
-                "source": "https://www.zoepnv-sued.de/fileadmin/user_upload/RLP_Liniennetzplan_Stand-03-2025_02.pdf"
+			{
+                "name": "Regionales Schienennetz VRN",
+                "source": "https://www.vrn.de/mam/liniennetz/liniennetzplaene/dokumente/schematisch/vrn_regionales_schienennetz.pdf"
+            },
+			{
+                "name": "Liniennetzplan Rheinland-Pfalz gültig ab 14.12.2025",
+                "source": "https://www.zoepnv-sued.de/fileadmin/user_upload/Liniennetzplan_Rheinland-Pfalz_gueltig-ab-14-12-2025neu.pdf"
             }
         ]
     },
@@ -5191,6 +5191,10 @@
             {
                 "name": "Streckenkarte der S-Bahn Rhein-Neckar (gültig ab 14.12.2025)",
                 "source": "https://assets.static-bahn.de/dam/jcr:c957cf88-5b83-4596-a789-40d3889514eb/20251002_LN_S-Bahn_RN_oRE73_25_847x365.pdf"
+            },
+            {
+                "name": "Streckenkarte Main-Neckar-Ried-Express",
+                "source": "https://assets.static-bahn.de/dam/jcr:27c125bc-7bab-4eae-88c6-08d18285b46b/20220222_SK_MNR.pdf"
             }
         ]
     },
