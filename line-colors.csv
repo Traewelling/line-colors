@@ -2746,26 +2746,27 @@ neb-niederbarnimer-eisenbahn,RB61,neb-niederbarnimer-eisenbahn,rb-61,#992746,#ff
 neb-niederbarnimer-eisenbahn,RB62,neb-niederbarnimer-eisenbahn,rb-62,#da6ba2,#ffffff,,rectangle,,10912,NEB Niederbarnimer Eisenbahn
 neb-niederbarnimer-eisenbahn,RB63,neb-niederbarnimer-eisenbahn,rb-63,#ffd502,#000000,,rectangle,,10912,NEB Niederbarnimer Eisenbahn
 neb-niederbarnimer-eisenbahn,TES,neb-niederbarnimer-eisenbahn,rb-tes,#d70000,#ffffff,,rectangle,,10912,NEB Niederbarnimer Eisenbahn
-nrw-regional,RE 1,national-express,re-1,#ff2d16,#ffffff,,rectangle-rounded-corner,,10913,National Express
-nrw-regional,RE 2,db-regio-ag-nrw,re-2,#00b8f1,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
-nrw-regional,RE 3,eurobahn,re-3,#e46e25,#ffffff,,rectangle-rounded-corner,,11049,Eurobahn
-nrw-regional,RE 4,national-express,re-4,#e88f24,#ffffff,,rectangle-rounded-corner,Q872372,10913,National Express
-nrw-regional,RE 5,national-express,re-5,#0182ba,#ffffff,,rectangle-rounded-corner,,10913,National Express
-nrw-regional,RE 6,national-express,re-6,#9e2a96,#ffffff,,rectangle-rounded-corner,,10913,National Express
-nrw-regional,RE 7,national-express,re-7,#052e69,#ffffff,,rectangle-rounded-corner,,10913,National Express
-nrw-regional,RE 8,db-regio-ag-nrw,re-8,#006bbb,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
-nrw-regional,RE 9,db-regio-ag-nrw,re-9,#401446,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
-nrw-regional,RE 10,rheinruhrbahn-transdev,rrb-re10,#e66caf,#ffffff,,rectangle-rounded-corner,,14173,RheinRuhrBahn
-nrw-regional,RE 11,national-express,re-11,#5accc2,#ffffff,,rectangle-rounded-corner,,10913,National Express
-nrw-regional,RE 12,db-regio-ag-nrw,re-12,#ad294c,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
+nrw-regional,RE 1,national-express,re-1,#e20714,#ffffff,,rectangle-rounded-corner,Q874359,10913,National Express
+nrw-regional,RE 2,db-regio-ag-nrw,re-2,#009de2,#ffffff,,rectangle-rounded-corner,Q382591,10436,DB Regio AG NRW
+nrw-regional,RE 3,eurobahn,re-3,#d46e16,#ffffff,,rectangle-rounded-corner,Q871573,11049,Eurobahn
+nrw-regional,RE 4,national-express,re-4,#da9400,#ffffff,,rectangle-rounded-corner,Q872372,10913,National Express
+nrw-regional,RE 5,national-express,re-5,#0076b3,#ffffff,,rectangle-rounded-corner,Q872615,10913,National Express
+nrw-regional,RE 6,national-express,re-6,#a61680,#ffffff,,rectangle-rounded-corner,Q870341,10913,National Express
+nrw-regional,RE 7,national-express,re-7,#112d68,#ffffff,,rectangle-rounded-corner,Q832962,10913,National Express
+nrw-regional,RE 8,db-regio-ag-nrw,re-8,#0062ae,#ffffff,,rectangle-rounded-corner,Q875596,10436,DB Regio AG NRW
+nrw-regional,RE 9,db-regio-ag-nrw,re-9,#521949,#ffffff,,rectangle-rounded-corner,Q882593,10436,DB Regio AG NRW
+nrw-regional,RE 10,rheinruhrbahn-transdev,rrb-re10,#da5c99,#ffffff,,rectangle-rounded-corner,Q100456656,14173,RheinRuhrBahn
+nrw-regional,RE 11,national-express,re-11,#65c0be,#ffffff,,rectangle-rounded-corner,Q835014,10913,National Express
+nrw-regional,RE 12,db-regio-ag-nrw,re-12,#a92248,#ffffff,,rectangle-rounded-corner,Q84931378,10436,DB Regio AG NRW
+nrw-regional,RE 13,eurobahn,re-13,#856314,#ffffff,,rectangle-rounded-corner,Q869881,11049,Eurobahn
 nrw-regional,RE 14,rheinruhrbahn-transdev,rrb-re14,#003328,#ffffff,,rectangle-rounded-corner,,14173,RheinRuhrBahn
-nrw-regional,RE 16,vias-rail-gmbh,via-re16,#0e5778,#ffffff,,rectangle-rounded-corner,,10933,VIAS Rail GmbH
-nrw-regional,RE 17,db-regio-ag-nrw,re-17,#489b40,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
-nrw-regional,RE 18,db-arriva,re-18,#10b3b4,#ffffff,,rectangle-rounded-corner,,DB Regio AG NRW,
-nrw-regional,RE 19,vias-rail-gmbh,via-re19,#2f652b,#ffffff,,rectangle-rounded-corner,,10933,VIAS Rail GmbH
+nrw-regional,RE 16,vias-rail-gmbh,via-re16,#005c76,#ffffff,,rectangle-rounded-corner,Q429055,10933,VIAS Rail GmbH
+nrw-regional,RE 17,db-regio-ag-nrw,re-17,#489234,#ffffff,,rectangle-rounded-corner,Q2227173,10436,DB Regio AG NRW
+nrw-regional,RE 18,db-arriva,re-18,#00b1b1,#ffffff,,rectangle-rounded-corner,Q20737324,10436,DB Regio AG NRW
+nrw-regional,RE 19,vias-rail-gmbh,via-re19,#22601f,#ffffff,,rectangle-rounded-corner,Q24355686,10933,VIAS Rail GmbH
 nrw-regional,RB 20,db-regio-ag-nrw,rb-20,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
 nrw-regional,RB 21,rurtalbahn,rtb-rb21,#7a7c80,#ffffff,,rectangle-rounded-corner,,10858,Rurtalbahn
-nrw-regional,RE 22,db-regio-ag-nrw,re-22,#ffad3e,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
+nrw-regional,RE 22,db-regio-ag-nrw,re-22,#f9b123,#ffffff,,rectangle-rounded-corner,Q84931440,10436,DB Regio AG NRW
 nrw-regional,RB 24,db-regio-ag-nrw,rb-24,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
 nrw-regional,RB 25,db-regio-ag-nrw,rb-25,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
 nrw-regional,RB 26,mittelrheinbahn-trans-regio,rb-26,#7a7c80,#ffffff,,rectangle-rounded-corner,,10946,MittelrheinBahn (Trans Regio)
@@ -2775,8 +2776,8 @@ nrw-regional,RB 30,db-regio-ag-nrw,rb-30,#7a7c80,#ffffff,,rectangle-rounded-corn
 nrw-regional,RB 31,rheinruhrbahn-transdev,rrb-rb31,#7a7c80,#ffffff,,rectangle-rounded-corner,,14173,RheinRuhrBahn
 nrw-regional,RB 32,db-regio-ag-nrw,rb-32,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
 nrw-regional,RB 33,db-regio-ag-nrw,rb-33,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
-nrw-regional,RE 34,db-fernverkehr-ag,re-34,#8c467d,#ffffff,,rectangle-rounded-corner,,10918,DB Fernverkehr (Codesharing)
-nrw-regional,RE 34,db-regio-ag-nrw,re-34,#8c467d,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
+nrw-regional,RE 34,db-fernverkehr-ag,re-34,#985f85,#ffffff,,rectangle-rounded-corner,,10918,DB Fernverkehr (Codesharing)
+nrw-regional,RE 34,db-regio-ag-nrw,re-34,#985f85,#ffffff,,rectangle-rounded-corner,Q115660992,10436,DB Regio AG NRW
 nrw-regional,RE 34,hlb-hessenbahn-gmbh,hlb-re34,#8c467d,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
 nrw-regional,RB 34,vias-rail-gmbh,via-rb34,#7a7c80,#ffffff,,rectangle-rounded-corner,,10933,VIAS Rail GmbH
 nrw-regional,RB 35,vias-rail-gmbh,via-rb35,#7a7c80,#ffffff,,rectangle-rounded-corner,,10933,VIAS Rail GmbH
@@ -2785,23 +2786,24 @@ nrw-regional,RB 37,tri-train-rental-gmbh,tri-rb37,#7a7c80,#ffffff,,rectangle-rou
 nrw-regional,RB 38,db-regio-ag-nrw,rb-38,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
 nrw-regional,RB 39,vias-rail-gmbh,via-rb39,#7a7c80,#ffffff,,rectangle-rounded-corner,,10933,VIAS Rail GmbH
 nrw-regional,RB 40,db-regio-ag-nrw,rb-40,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
-nrw-regional,RE 41,db-regio-ag-nrw,re-41,#5844a4,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
-nrw-regional,RE 42,db-regio-ag-nrw,re-42,#d9bf13,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
+nrw-regional,RE 41,db-regio-ag-nrw,re-41,#604696,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
+nrw-regional,RE 42,db-regio-ag-nrw,re-42,#d7bd00,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
 nrw-regional,RB 43,db-regio-ag-nrw,rb-43,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
-nrw-regional,RE 44,rheinruhrbahn-transdev,rrb-re44,#6294b0,#ffffff,,rectangle-rounded-corner,,14173,RheinRuhrBahn
+nrw-regional,RE 44,rheinruhrbahn-transdev,rrb-re44,#6799b5,#ffffff,,rectangle-rounded-corner,Q84307934,14173,RheinRuhrBahn
 nrw-regional,RB 46,vias-rail-gmbh,via-rb46,#7a7c80,#ffffff,,rectangle-rounded-corner,,10933,VIAS Rail GmbH
-nrw-regional,RE 47,regiobahn,r-re-47,#66cdec,#ffffff,,rectangle-rounded-corner,,10894,REGIOBAHN
+nrw-regional,RE 47,regiobahn,r-re-47,#5dc3e9,#ffffff,,rectangle-rounded-corner,Q113173486,10894,REGIOBAHN
 nrw-regional,RB 48,national-express,rb-48,#7a7c80,#ffffff,,rectangle-rounded-corner,,10913,National Express
+nrw-regional,RE 49,db-regio-ag-nrw,re-49,#cb977d,#ffffff,,rectangle-rounded-corner,Q76883133,10436,DB Regio AG NRW
 nrw-regional,RB 50,eurobahn,rb-50,#7a7c80,#ffffff,,rectangle-rounded-corner,,11049,Eurobahn
 nrw-regional,RB 51,db-regio-ag-nrw,rb-51,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
 nrw-regional,RB 52,db-regio-ag-nrw,rb-52,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
 nrw-regional,RB 53,db-regio-ag-nrw,rb-53,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
 nrw-regional,RB 54,db-regio-ag-nrw,rb-54,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
-nrw-regional,RE 57,db-regio-ag-nrw,re-57,#2e6da6,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
+nrw-regional,RE 57,db-regio-ag-nrw,re-57,#3d6ca3,#ffffff,,rectangle-rounded-corner,Q68193119,10436,DB Regio AG NRW
 nrw-regional,RB 58,nordwestbahn,nwb-rb58,#7a7c80,#ffffff,,rectangle-rounded-corner,,12638,NordWestBahn
 nrw-regional,RB 59,eurobahn,rb-59,#7a7c80,#ffffff,,rectangle-rounded-corner,,11049,Eurobahn
 nrw-regional,RB 61,eurobahn,rb-61,#7a7c80,#ffffff,,rectangle-rounded-corner,,11049,Eurobahn
-nrw-regional,RE 62,db-regio-ag-nord,re-62,#1f52a6,#ffffff,,rectangle-rounded-corner,,10435,DB Regio AG Nord
+nrw-regional,RE 62,db-regio-ag-nord,re-62,#004c99,#ffffff,,rectangle-rounded-corner,Q123758235,10435,DB Regio AG Nord
 nrw-regional,RB 63,db-regio-ag-nrw,rb-63,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
 nrw-regional,RB 64,db-regio-ag-nrw,rb-64,#7a7c80,#ffffff,,rectangle-rounded-corner,,10436,DB Regio AG NRW
 nrw-regional,RB 65,eurobahn,rb-65,#7a7c80,#ffffff,,rectangle-rounded-corner,,11049,Eurobahn
@@ -2814,7 +2816,7 @@ nrw-regional,RB 73,eurobahn,rb-73,#7a7c80,#ffffff,,rectangle-rounded-corner,,110
 nrw-regional,RB 74,nordwestbahn,nwb-rb74,#7a7c80,#ffffff,,rectangle-rounded-corner,,12638,NordWestBahn
 nrw-regional,RB 75,nordwestbahn,nwb-rb75,#7a7c80,#ffffff,,rectangle-rounded-corner,,12638,NordWestBahn
 nrw-regional,RB 77,regionalverkehre-start-deutschland-gmbh-start-niedersachsen-mitte,rb-77,#7a7c80,#ffffff,,rectangle-rounded-corner,,14872,Regionalverkehre Start Deutschland GmbH Niedersachsen-Mitte
-nrw-regional,RE 78,eurobahn,re-78,#52b9ce,#ffffff,,rectangle-rounded-corner,,11049,Eurobahn
+nrw-regional,RE 78,eurobahn,re-78,#60b1cc,#ffffff,,rectangle-rounded-corner,Q1804703,11049,Eurobahn
 nrw-regional,RE 82,eurobahn,re-82,#489b40,#ffffff,,rectangle-rounded-corner,,11049,Eurobahn
 nrw-regional,RB 84,nordwestbahn,nwb-rb84,#7a7c80,#ffffff,,rectangle-rounded-corner,,12638,NordWestBahn
 nrw-regional,RB 85,nordwestbahn,nwb-rb85,#7a7c80,#ffffff,,rectangle-rounded-corner,,12638,NordWestBahn
@@ -2826,7 +2828,7 @@ nrw-regional,RB 94,db-regionetz-verkehrs-gmbh-kurhessenbahn,rb-94,#7a7c80,#fffff
 nrw-regional,RB 95,hlb-hessenbahn-gmbh,hlb-rb95,#7a7c80,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
 nrw-regional,RB 96,hlb-hessenbahn-gmbh,hlb-rb96,#7a7c80,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
 nrw-regional,RB 97,db-regionetz-verkehrs-gmbh-kurhessenbahn,rb-97,#7a7c80,#ffffff,,rectangle-rounded-corner,,10441,DB RegioNetz Verkehrs GmbH Kurhessenbahn
-nrw-regional,RE 99,hlb-hessenbahn-gmbh,hlb-re99,#28b34c,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
+nrw-regional,RE 99,hlb-hessenbahn-gmbh,hlb-re99,#00a13b,#ffffff,,rectangle-rounded-corner,Q1885503,11046,Hessische Landesbahn GmbH
 nrw-sbahn,S 1,db-regio-ag-nrw,4-800337-1,#0cb14b,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 2,db-regio-ag-nrw,4-8003l1-2,#0074bc,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 3,db-regio-ag-nrw,4-8003l1-3,#fff200,#000000,,pill,,10436,DB Regio AG NRW
@@ -6213,8 +6215,8 @@ waldbahn-dlb,RB 36,waldbahn-die-landerbahn-gmbh-dlb,rb36,#90bf26,#ffffff,,rectan
 waldbahn-dlb,RB 37,waldbahn-die-landerbahn-gmbh-dlb,rb37,#ffb200,#ffffff,,rectangle,,10964,waldbahn - Die Länderbahn GmbH DLB
 waldbahn-dlb,RB 38,waldbahn-die-landerbahn-gmbh-dlb,rb38,#ff6600,#ffffff,,rectangle,,10964,waldbahn - Die Länderbahn GmbH DLB
 westfalenbahn,RE 15,westfalenbahn,wfb-re15,#ea9d22,#ffffff,,rectangle,,13291,WestfalenBahn
-westfalenbahn,RE 60,westfalenbahn,wfb-re60,#00a3de,#ffffff,,rectangle,,13291,WestfalenBahn
-westfalenbahn,RE 70,westfalenbahn,wfb-re70,#005174,#ffffff,,rectangle,,13291,WestfalenBahn
+westfalenbahn,RE 60,westfalenbahn,wfb-re60,#00a3de,#ffffff,Q1339624,rectangle,,13291,WestfalenBahn
+westfalenbahn,RE 70,westfalenbahn,wfb-re70,#005174,#ffffff,Q1806487,rectangle,,13291,WestfalenBahn
 wt-argegt,N19,,5-owl051-n19,#f7a600,#ffffff,,rectangle,,14378,GTNord
 wt-argegt,S18,,,#002650,#ffffff,,pill,,14379,GTSüdost
 wt-argegt,43,,,#918e78,#ffffff,,pill,,14378,GTNord
