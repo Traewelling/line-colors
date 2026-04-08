@@ -6215,8 +6215,8 @@ waldbahn-dlb,RB 36,waldbahn-die-landerbahn-gmbh-dlb,rb36,#90bf26,#ffffff,,rectan
 waldbahn-dlb,RB 37,waldbahn-die-landerbahn-gmbh-dlb,rb37,#ffb200,#ffffff,,rectangle,,10964,waldbahn - Die Länderbahn GmbH DLB
 waldbahn-dlb,RB 38,waldbahn-die-landerbahn-gmbh-dlb,rb38,#ff6600,#ffffff,,rectangle,,10964,waldbahn - Die Länderbahn GmbH DLB
 westfalenbahn,RE 15,westfalenbahn,wfb-re15,#ea9d22,#ffffff,,rectangle,,13291,WestfalenBahn
-westfalenbahn,RE 60,westfalenbahn,wfb-re60,#00a3de,#ffffff,Q1339624,rectangle,,13291,WestfalenBahn
-westfalenbahn,RE 70,westfalenbahn,wfb-re70,#005174,#ffffff,Q1806487,rectangle,,13291,WestfalenBahn
+westfalenbahn,RE 60,westfalenbahn,wfb-re60,#00a3de,#ffffff,,rectangle,Q1339624,13291,WestfalenBahn
+westfalenbahn,RE 70,westfalenbahn,wfb-re70,#005174,#ffffff,,rectangle,Q1806487,13291,WestfalenBahn
 wt-argegt,N19,,5-owl051-n19,#f7a600,#ffffff,,rectangle,,14378,GTNord
 wt-argegt,S18,,,#002650,#ffffff,,pill,,14379,GTSüdost
 wt-argegt,43,,,#918e78,#ffffff,,pill,,14378,GTNord
