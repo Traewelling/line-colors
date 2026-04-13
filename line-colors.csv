@@ -817,9 +817,19 @@ dvg-dessau,Rufbus N4,,9-nas001-n4,#000000,#ffffff,,pill,,10357,Dessauer Verkehrs
 dvg-dessau,N5,,5-nas001-n5,#000000,#ffffff,,pill,,10357,Dessauer Verkehrsgesellschaft
 dvg-dessau,N6,,5-nas001-n6,#000000,#ffffff,,pill,,10357,Dessauer Verkehrsgesellschaft
 dwe-dessau,DWE,dessau-worlitzer-eisenbahn,dwe,#ffffff,#000000,#000000,rectangle,,10357,Dessauer Verkehrsgesellschaft
-erfurter-bahn,RB 13,erfurter-bahn-gmbh,rb-13,#24b27d,#ffffff,,rectangle,,8654,Erfurter Bahn
-erfurter-bahn,RB 40,erfurter-bahn-gmbh,rb-40,#24b27d,#ffffff,,rectangle,,8654,Erfurter Bahn
-erfurter-bahn,RB 50,erfurter-bahn-gmbh,rb-50,#24b27d,#ffffff,,rectangle,,8654,Erfurter Bahn
+erfurter-bahn,RE12,,,#ec6607,#ffffff,,rectangle-rounded-corner,,10866,Erfurter Bahn Express
+erfurter-bahn,RB13,,,#12a537,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
+erfurter-bahn,RB21,,,#e30513,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
+erfurter-bahn,RE21,,,#e30513,#ffffff,,rectangle-rounded-corner,,10866,Erfurter Bahn Express
+erfurter-bahn,RB22,,,#f39200,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
+erfurter-bahn,RB23,,,#0096d7,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
+erfurter-bahn,RB26,,,#355b17,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
+erfurter-bahn,RB27,,,#bb7bb3,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
+erfurter-bahn,RB28,,,#12a537,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
+erfurter-bahn,RB32,,,#e30513,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
+erfurter-bahn,RB40,,,#12a537,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
+erfurter-bahn,RB50,,,#008136,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
+erfurter-bahn,RB76,,,#822b86,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
 hans,RB16,hanseatische-eisenbahn-gmbh,rb-16,#775fb0,#ffffff,,rectangle,,10927,Hanseatische Eisenbahn GmbH
 hans,RB33,hanseatische-eisenbahn-gmbh,rb-33,#ed1c24,#ffffff,,rectangle,,10927,Hanseatische Eisenbahn GmbH
 hans,RB34,hanseatische-eisenbahn-gmbh,rb-34,#0066ad,#ffffff,,rectangle,,10927,Hanseatische Eisenbahn GmbH
@@ -3505,6 +3515,13 @@ stadtwerke-passau,Linie K3,,,#763226,#ffffff,,rectangle,,8121,Stadtwerke Passau
 stadtwerke-passau,Linie K4,,,#763226,#ffffff,,rectangle,,8121,Stadtwerke Passau
 start,RB12,regionalverkehre-start-deutschland-gmbh-start-taunus,stn-rb12,#94522e,#ffffff,,rectangle-rounded-corner,,14174,Regionalverkehre Start Deutschland GmbH Taunus
 start,RB15,regionalverkehre-start-deutschland-gmbh-start-taunus,stn-rb15,#e3a02e,#ffffff,,rectangle-rounded-corner,,14174,Regionalverkehre Start Deutschland GmbH Taunus
+sued-thueringen-bahn,RB41,,,#006eab,#ffffff,,rectangle-rounded-corner,,10942,Süd-Thüringen-Bahn
+sued-thueringen-bahn,RB43,,,#e30513,#ffffff,,rectangle-rounded-corner,,10942,Süd-Thüringen-Bahn
+sued-thueringen-bahn,RB44,,,#f39200,#ffffff,,rectangle-rounded-corner,,10942,Süd-Thüringen-Bahn
+sued-thueringen-bahn,RE45,,,#008136,#ffffff,,rectangle-rounded-corner,,10941,Süd-Thüringen-Bahn Express
+sued-thueringen-bahn,RB46,,,#12a537,#ffffff,,rectangle-rounded-corner,,10942,Süd-Thüringen-Bahn
+sued-thueringen-bahn,RB48,,,#0096d7,#ffffff,,rectangle-rounded-corner,,10942,Süd-Thüringen-Bahn
+sued-thueringen-bahn,RE50,,,#ec6607,#ffffff,,rectangle-rounded-corner,,10941,Süd-Thüringen-Bahn Express
 svg-stuttgart,RE4,,,#a05a2c,#ffffff,,rectangle,,10954,Nebenbahn Vaihingen-Enzweihingen
 svv-brb,S3,bayerische-regiobahn,4-l8-s3,#3ab048,#ffffff,,rectangle-rounded-corner,,10969,Bayerische Regiobahn
 svv-brb,S4,bayerische-regiobahn,4-l8-s4,#9764ac,#ffffff,,rectangle-rounded-corner,,10969,Bayerische Regiobahn
