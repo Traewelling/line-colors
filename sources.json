@@ -6208,6 +6208,10 @@
             {
                 "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
                 "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+            },
+            {
+                "name": "Liniennetz Ludwigsburg (13.04. – 14.06.2026)",
+                "source": "https://ems.vvs.de/s/uPFTB"
             }
         ]
     },
