@@ -295,12 +295,12 @@ cfl,RB 83,cfl,rb-83,#895da7,#ffffff,,rectangle,,10459,CFL1
 cfl,RB 87,cfl,rb-87,#895da7,#ffffff,,rectangle,,10459,CFL1
 db-fernverkehr-ag,IC 87,db-fernverkehr-ag,re-87,#cc0066,#ffffff,,rectangle,,10918,DB Fernverkehr (Codesharing)
 db-regio-ag-baden-wurttemberg,RE 2,db-regio-ag-baden-wurttemberg,re-2,#0069b4,#ffffff,,rectangle,Q88627355,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 3,db-regio-ag-baden-wurttemberg,re-3,#e5007d,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-db-regio-ag-baden-wurttemberg,RB 3,,,#e5007d,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RE 3,db-regio-ag-baden-wurttemberg,re-3,#e5007d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 3,,,#e5007d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 4,db-regio-ag-baden-wurttemberg,re-4,#a05a2c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 5,,,#724019,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-db-regio-ag-baden-wurttemberg,RE 6,,,#4d4d4d,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-db-regio-ag-baden-wurttemberg,RB 6,,,#4d4d4d,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RE 5,,,#724019,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RE 6,,,#4d4d4d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 6,,,#4d4d4d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 7,db-regio-ag-baden-wurttemberg,re-7,#ed6e19,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 14a,,,#f39794,#000000,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 14a,,,#f39794,#000000,,rectangle,,10443,DB Regio AG Baden-Württemberg
@@ -315,20 +315,19 @@ db-regio-ag-baden-wurttemberg,RB 31,db-regio-ag-baden-wurttemberg,rb-31,#00a99d,
 db-regio-ag-baden-wurttemberg,RE 31,,,#00a99d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 32,,,#008c3c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 37,,,#aec90a,#ffffff,,rectangle,Q130283617,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 42,,,#088c3c,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-db-regio-ag-baden-wurttemberg,RE 50,,,#b5931c,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RB 42,,,#088c3c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RE 50,,,#b5931c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 52,,,#00a99d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 53,,,#561c6f,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 53,,,#561c6f,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-db-regio-ag-baden-wurttemberg,RE 55,,,#b0599e,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-db-regio-ag-baden-wurttemberg,RB 55,,,#b0599e,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-db-regio-ag-baden-wurttemberg,RB 63,,,#d30730,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RE 55,,,#b0599e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 55,,,#b0599e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 63,,,#d30730,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 68,,,#ec2933,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 72,,,#008c3c,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-db-regio-ag-baden-wurttemberg,RB 74,,,#0a69b2,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RB 72,,,#008c3c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 74,,,#0a69b2,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 91,,,#afca0b,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 93,,,#009fe3,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-db-regio-ag-baden-wurttemberg,RE 93,,,#009fe3,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RB 93,,,#009fe3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RE 93,,,#009fe3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,MEX 90,db-regio-ag-baden-wurttemberg,90,#e5007d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 200,db-regio-ag-baden-wurttemberg,re-200,#aa0344,#ffffff,,rectangle,Q114680512,10443,DB Regio AG Baden-Württemberg
 db-regio-bayern,RB 6,db-regio-ag-bayern,rb-6,#e50000,#ffffff,,rectangle,,10446,DB Regio AG Bayern
