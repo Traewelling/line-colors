@@ -1036,12 +1036,15 @@
             },
             {
                 "github": "oneiricbotcelot"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
-                "name": "BEG Liniennetzplan Bayern 2024",
-                "source": "https://bahnland-bayern.de/files/media/shop/downloads/liniennetzplan/2024/liniennetzplan-bayern-2024.pdf"
+                "name": "Liniennetz Erfurter Bahn & Süd-Thüringen-Bahn",
+                "source": "https://www.erfurter-bahn.de/files/efb/documents/F%C3%BCr%20Fahrg%C3%A4ste/Informationsmaterial%20zum%20Download%20neu/Liniennetz_11-24.pdf"
             }
         ]
     },
@@ -3723,6 +3726,20 @@
             "name": "RSPN 2025",
             "source": "https://www.rmv.de/c/fileadmin/documents/PDFs/_RMV_DE/Linien_und_Netze/Liniennetzplaene/RMV_RegionalerSchienennetzplan.pdf"
         }
+    },
+    {
+        "shortOperatorName": "sued-thueringen-bahn",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Erfurter Bahn & Süd-Thüringen-Bahn",
+                "source": "https://www.erfurter-bahn.de/files/efb/documents/F%C3%BCr%20Fahrg%C3%A4ste/Informationsmaterial%20zum%20Download%20neu/Liniennetz_11-24.pdf"
+            }
+        ]
     },
     {
         "shortOperatorName": "svg-stuttgart",
