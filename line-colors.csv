@@ -5846,17 +5846,17 @@ vvo-tram,12,,8-voe011-12,#006b42,#ffffff,,rectangle-rounded-corner,Q93767629,819
 vvo-tram,13,,8-voe011-13,#fdc300,#000000,,rectangle-rounded-corner,Q93767971,8190,DVB-Straßenbahn
 vvo-tram,41,,8-voe011-41,#a7338a,#000000,,rectangle-rounded-corner,,,DVB-Straßenbahn
 vvo-tram,20,,8-voe011-20,#000000,#ffffff,,rectangle-rounded-corner,,8190,DVB-Straßenbahn
-vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,,rectangle,Q18946157,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,,rectangle,Q107020232,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,S2,db-regio-ag-s-bahn-stuttgart,4-800643-2,#ee1c28,#ffffff,,rectangle,Q66537943,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,S3,db-regio-ag-s-bahn-stuttgart,4-800643-3,#f36e31,#ffffff,,rectangle,Q67504621,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,S4,db-regio-ag-s-bahn-stuttgart,4-800643-4,#0166b3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,S5,db-regio-ag-s-bahn-stuttgart,4-800643-5,#00acdd,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,,rectangle,Q67501804,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectangle,Q63952011,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle,Q130343355,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,RB11,db-regio-ag-s-bahn-stuttgart,rb-11,#02aa9e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,rb-64,#b6931d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,,rectangle,Q18946157,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,,rectangle,Q107020232,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,S2,db-regio-ag-s-bahn-stuttgart,4-800643-2,#ee1c28,#ffffff,,rectangle,Q66537943,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,S3,db-regio-ag-s-bahn-stuttgart,4-800643-3,#f36e31,#ffffff,,rectangle,Q67504621,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,S4,db-regio-ag-s-bahn-stuttgart,4-800643-4,#0166b3,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,S5,db-regio-ag-s-bahn-stuttgart,4-800643-5,#00acdd,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,,rectangle,Q67501804,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectangle,Q63952011,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle,Q130343355,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,RB11,db-regio-ag-s-bahn-stuttgart,rb-11,#02aa9e,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,rb-64,#b6931d,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
 vvs-eberhardt,503,,,#ffffff,#47b8b8,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fischle,140,,,#f69fb3,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-flattich,502,,,#ffffff,#7da647,,rectangle,,7996,Privatunternehmer-Bus (VVS)
