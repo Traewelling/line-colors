@@ -295,12 +295,12 @@ cfl,RB 83,cfl,rb-83,#895da7,#ffffff,,rectangle,,10459,CFL1
 cfl,RB 87,cfl,rb-87,#895da7,#ffffff,,rectangle,,10459,CFL1
 db-fernverkehr-ag,IC 87,db-fernverkehr-ag,re-87,#cc0066,#ffffff,,rectangle,,10918,DB Fernverkehr (Codesharing)
 db-regio-ag-baden-wurttemberg,RE 2,db-regio-ag-baden-wurttemberg,re-2,#0069b4,#ffffff,,rectangle,Q88627355,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 3,db-regio-ag-baden-wurttemberg,re-3,#e5007d,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-db-regio-ag-baden-wurttemberg,RB 3,,,#e5007d,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RE 3,db-regio-ag-baden-wurttemberg,re-3,#e5007d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 3,,,#e5007d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 4,db-regio-ag-baden-wurttemberg,re-4,#a05a2c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 5,,,#724019,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-db-regio-ag-baden-wurttemberg,RE 6,,,#4d4d4d,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-db-regio-ag-baden-wurttemberg,RB 6,,,#4d4d4d,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RE 5,,,#724019,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RE 6,,,#4d4d4d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 6,,,#4d4d4d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 7,db-regio-ag-baden-wurttemberg,re-7,#ed6e19,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 14a,,,#f39794,#000000,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 14a,,,#f39794,#000000,,rectangle,,10443,DB Regio AG Baden-Württemberg
@@ -315,20 +315,19 @@ db-regio-ag-baden-wurttemberg,RB 31,db-regio-ag-baden-wurttemberg,rb-31,#00a99d,
 db-regio-ag-baden-wurttemberg,RE 31,,,#00a99d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 32,,,#008c3c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 37,,,#aec90a,#ffffff,,rectangle,Q130283617,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 42,,,#088c3c,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-db-regio-ag-baden-wurttemberg,RE 50,,,#b5931c,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RB 42,,,#088c3c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RE 50,,,#b5931c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 52,,,#00a99d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 53,,,#561c6f,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 53,,,#561c6f,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-db-regio-ag-baden-wurttemberg,RE 55,,,#b0599e,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-db-regio-ag-baden-wurttemberg,RB 55,,,#b0599e,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-db-regio-ag-baden-wurttemberg,RB 63,,,#d30730,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RE 55,,,#b0599e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 55,,,#b0599e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 63,,,#d30730,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 68,,,#ec2933,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 72,,,#008c3c,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-db-regio-ag-baden-wurttemberg,RB 74,,,#0a69b2,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RB 72,,,#008c3c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 74,,,#0a69b2,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 91,,,#afca0b,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 93,,,#009fe3,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-db-regio-ag-baden-wurttemberg,RE 93,,,#009fe3,#ffffff,,rectangle,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+db-regio-ag-baden-wurttemberg,RB 93,,,#009fe3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RE 93,,,#009fe3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,MEX 90,db-regio-ag-baden-wurttemberg,90,#e5007d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 200,db-regio-ag-baden-wurttemberg,re-200,#aa0344,#ffffff,,rectangle,Q114680512,10443,DB Regio AG Baden-Württemberg
 db-regio-bayern,RB 6,db-regio-ag-bayern,rb-6,#e50000,#ffffff,,rectangle,,10446,DB Regio AG Bayern
@@ -5847,17 +5846,17 @@ vvo-tram,12,,8-voe011-12,#006b42,#ffffff,,rectangle-rounded-corner,Q93767629,819
 vvo-tram,13,,8-voe011-13,#fdc300,#000000,,rectangle-rounded-corner,Q93767971,8190,DVB-Straßenbahn
 vvo-tram,41,,8-voe011-41,#a7338a,#000000,,rectangle-rounded-corner,,,DVB-Straßenbahn
 vvo-tram,20,,8-voe011-20,#000000,#ffffff,,rectangle-rounded-corner,,8190,DVB-Straßenbahn
-vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,,rectangle,Q18946157,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,,rectangle,Q107020232,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,S2,db-regio-ag-s-bahn-stuttgart,4-800643-2,#ee1c28,#ffffff,,rectangle,Q66537943,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,S3,db-regio-ag-s-bahn-stuttgart,4-800643-3,#f36e31,#ffffff,,rectangle,Q67504621,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,S4,db-regio-ag-s-bahn-stuttgart,4-800643-4,#0166b3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,S5,db-regio-ag-s-bahn-stuttgart,4-800643-5,#00acdd,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,,rectangle,Q67501804,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectangle,Q63952011,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle,Q130343355,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,RB11,db-regio-ag-s-bahn-stuttgart,rb-11,#02aa9e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,rb-64,#b6931d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,,rectangle,Q18946157,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,,rectangle,Q107020232,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,S2,db-regio-ag-s-bahn-stuttgart,4-800643-2,#ee1c28,#ffffff,,rectangle,Q66537943,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,S3,db-regio-ag-s-bahn-stuttgart,4-800643-3,#f36e31,#ffffff,,rectangle,Q67504621,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,S4,db-regio-ag-s-bahn-stuttgart,4-800643-4,#0166b3,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,S5,db-regio-ag-s-bahn-stuttgart,4-800643-5,#00acdd,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,,rectangle,Q67501804,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectangle,Q63952011,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle,Q130343355,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,RB11,db-regio-ag-s-bahn-stuttgart,rb-11,#02aa9e,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,rb-64,#b6931d,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
 vvs-eberhardt,503,,,#ffffff,#47b8b8,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fischle,140,,,#f69fb3,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-flattich,502,,,#ffffff,#7da647,,rectangle,,7996,Privatunternehmer-Bus (VVS)
