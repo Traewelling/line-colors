@@ -2988,8 +2988,8 @@ pid-prague,A,dopravni-podnik-hl-m-prahy,7-540001-a,#00a54f,#ffffff,,rectangle,,,
 pid-prague,B,dopravni-podnik-hl-m-prahy,7-540001-b,#feca0a,#293219,,rectangle,,,
 pid-prague,C,dopravni-podnik-hl-m-prahy,7-540001-c,#ee1d23,#ffffff,,rectangle,,,
 polregio,RB91,polregio,r-91,#eb7405,#ffffff,,rectangle,,,
-regio-s-bahn-donau-iller,RS 2,,,#901411,#ffffff,,pill,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
-regio-s-bahn-donau-iller,RS 21,,,#e92a1c,#ffffff,,pill,,10444,DB ZugBus Regionalverkehr Alb-Bodensee
+regio-s-bahn-donau-iller,RS 2,,,#901411,#ffffff,,pill,,10443,DB Regio AG Baden-Württemberg
+regio-s-bahn-donau-iller,RS 21,,,#e92a1c,#ffffff,,pill,,10443,DB Regio AG Baden-Württemberg
 regio-s-bahn-donau-iller,RS 3,,,#62358a,#ffffff,,pill,,,
 regio-s-bahn-donau-iller,RS 5,,,#00622e,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
 regio-s-bahn-donau-iller,RS 51,,,#43aa2c,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
