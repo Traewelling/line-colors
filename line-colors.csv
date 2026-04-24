@@ -5856,7 +5856,7 @@ vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,,rectangle
 vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectangle,Q63952011,15337,DB Regio AG S-Bahn Stuttgart
 vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle,Q130343355,15337,DB Regio AG S-Bahn Stuttgart
 vvs-db-sbs,RB11,db-regio-ag-s-bahn-stuttgart,rb-11,#02aa9e,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
-vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,rb-64,#b6931d,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,rb-64,#b6931d,#ffffff,,rectangle,,14827,DB-Zug  (nicht VVS)1
 vvs-eberhardt,503,,,#ffffff,#47b8b8,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fischle,140,,,#f69fb3,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-flattich,502,,,#ffffff,#7da647,,rectangle,,7996,Privatunternehmer-Bus (VVS)
