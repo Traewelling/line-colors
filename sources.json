@@ -3924,6 +3924,20 @@
         ]
     },
     {
+        "shortOperatorName": "trans-regio",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Rheinland-Pfalz gültig ab 14.12.2025",
+                "source": "https://www.move-rlp.de/uploads/250515_Liniennetzplan_Rheinland_Pfalz_f0a8d89db8.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "transn",
         "contributors": [
             {
@@ -4099,6 +4113,20 @@
             {
                 "name": "BRB Streckennetz 2024",
                 "source": "https://download.transdev.de/transdev/uploads/bb/media_document/500/original.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vgc-daeuble",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan VGC",
+                "source": "https://www.vgc-online.de/downloads/pdf/strecken-tarife/VGC-Liniennetzplan.pdf"
             }
         ]
     },
@@ -4373,6 +4401,9 @@
         "contributors": [
             {
                 "github": "SpielenmitLili"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [

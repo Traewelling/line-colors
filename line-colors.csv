@@ -501,6 +501,7 @@ db-regio-nordost,S3,db-regio-ag-nordost,4-800156-3,#a64c35,#ffffff,,rectangle,,1
 db-regio-stuttgart,RE 6,,,#ebaf2d,#ffffff,,rectangle,Q131584411,15252,DB Regio Stuttgart
 db-regio-stuttgart,RE 10a,,,#9f5a2c,#ffffff,,rectangle,Q131584412,15252,DB Regio Stuttgart
 db-regio-stuttgart,RE 10b,,,#9f5a2c,#ffffff,,rectangle,Q131584450,15252,DB Regio Stuttgart
+db-regio-stuttgart,RE 17,,,#561d6f,#ffffff,,rectangle,,15252,DB Regio Stuttgart
 db-regio-stuttgart,RE 18,,,#009c48,#ffffff,,rectangle,Q131583931,15252,DB Regio Stuttgart
 db-regio-stuttgart,RE 71,,,#b6921d,#ffffff,,rectangle,Q131584454,15252,DB Regio Stuttgart
 db-regio-stuttgart,MEX 12,,,#f27320,#ffffff,,rectangle,Q131584405,15252,DB Regio Stuttgart
@@ -2796,6 +2797,7 @@ nrw-regional,RB 33,db-regio-ag-nrw,rb-33,#7a7c80,#ffffff,,rectangle-rounded-corn
 nrw-regional,RE 34,db-fernverkehr-ag,re-34,#985f85,#ffffff,,rectangle-rounded-corner,,10918,DB Fernverkehr (Codesharing)
 nrw-regional,RE 34,db-regio-ag-nrw,re-34,#985f85,#ffffff,,rectangle-rounded-corner,Q115660992,10436,DB Regio AG NRW
 nrw-regional,RE 34,hlb-hessenbahn-gmbh,hlb-re34,#8c467d,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
+nrw-regional,RE 34,,,#985f85,#ffffff,,rectangle-rounded-corner,,10933,VIAS Rail GmbH
 nrw-regional,RB 34,vias-rail-gmbh,via-rb34,#7a7c80,#ffffff,,rectangle-rounded-corner,,10933,VIAS Rail GmbH
 nrw-regional,RB 35,vias-rail-gmbh,via-rb35,#7a7c80,#ffffff,,rectangle-rounded-corner,,10933,VIAS Rail GmbH
 nrw-regional,RB 36,rheinruhrbahn-transdev,rrb-rb36,#7a7c80,#ffffff,,rectangle-rounded-corner,,14173,RheinRuhrBahn
@@ -2839,6 +2841,7 @@ nrw-regional,RB 84,nordwestbahn,nwb-rb84,#7a7c80,#ffffff,,rectangle-rounded-corn
 nrw-regional,RB 85,nordwestbahn,nwb-rb85,#7a7c80,#ffffff,,rectangle-rounded-corner,,12638,NordWestBahn
 nrw-regional,RB 89,eurobahn,rb-89,#7a7c80,#ffffff,,rectangle-rounded-corner,,11049,Eurobahn
 nrw-regional,RB 90,hlb-hessenbahn-gmbh,hlb-rb90,#7a7c80,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
+nrw-regional,RB 91,,,#7a7c80,#ffffff,,rectangle-rounded-corner,,10933,VIAS Rail GmbH
 nrw-regional,RB 92,hlb-hessenbahn-gmbh,hlb-rb92,#7a7c80,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
 nrw-regional,RB 93,hlb-hessenbahn-gmbh,hlb-rb93,#7a7c80,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
 nrw-regional,RB 94,db-regionetz-verkehrs-gmbh-kurhessenbahn,rb-94,#7a7c80,#ffffff,,rectangle-rounded-corner,,10441,DB RegioNetz Verkehrs GmbH Kurhessenbahn
@@ -3569,6 +3572,8 @@ tlx,RB61,trilex-die-landerbahn-gmbh-dlb,tl-rb61,#438577,#ffffff,,rectangle-round
 tlx,RE1,trilex-express-die-landerbahn-gmbh-dlb,tlx-re1,#e97b3b,#ffffff,,rectangle-rounded-corner,,10890,trilex-express - Die Länderbahn GmbH DLB
 tlx,RE2,trilex-express-die-landerbahn-gmbh-dlb,tlx-re2,#db031c,#ffffff,,rectangle-rounded-corner,,10890,trilex-express - Die Länderbahn GmbH DLB
 tlx,T9,trilex-die-landerbahn-gmbh-dlb,tl-t9,#f6b90b,#ffffff,,rectangle-rounded-corner,,10892,trilex  - Die Länderbahn GmbH DLB
+trans-regio,RE2,,,#7a52a1,#ffffff,,rectangle-rounded-corner,,10946,MittelrheinBahn (Trans Regio)
+trans-regio,RB32,,,#da8a9b,#ffffff,,rectangle-rounded-corner,,10946,MittelrheinBahn (Trans Regio)
 uestra,1,ustra-hannoversche-verkehrsbetriebe-ag,8-webuet-1,#ffffff,#2c2e35,#ff2e3e,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
 uestra,2,ustra-hannoversche-verkehrsbetriebe-ag,8-webuet-2,#ffffff,#2c2e35,#ff2e3e,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
 uestra,3,ustra-hannoversche-verkehrsbetriebe-ag,8-webuet-3,#ffffff,#2c2e35,#0073c0,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
@@ -3798,6 +3803,7 @@ vdl,30,,,#a0d4db,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vdl,31,,,#b3a896,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vdl,32,,,#b3a896,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vdl,33,,,#a9ce26,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
+vgc-daeuble,770,,,#ea028c,#ffffff,,rectangle,,7593,Calw VPC
 vgc-eberhardt,715,,,#892b81,#ffffff,,rectangle,,14947,Linienbündel Nordwest
 vgc-eberhardt,724,,,#00a650,#ffffff,,rectangle,,14947,Linienbündel Nordwest
 vgc-eberhardt,820,,,#ec008c,#ffffff,,rectangle,,14947,Linienbündel Nordwest
@@ -3838,7 +3844,8 @@ vgc-teinachtal-reisen,520,,,#ffcb04,#000000,,rectangle,,14951,Linienbündel Süd
 vgc-volz,661,,,#ed1c24,#ffffff,,rectangle,,7593,Calw VPC
 vgc-volz,662,,,#ffcb04,#000000,,rectangle,,7593,Calw VPC
 vgc-volz,663,,,#00a99c,#ffffff,,rectangle,,7593,Calw VPC
-vgc-volz,670,,,#f89339,#ffffff,,rectangle,,8008,Privatunternehmer-Bus (CW)
+vgc-volz,664,,,#8981b0,#ffffff,,rectangle,,7593,Calw VPC
+vgc-volz,670,,,#f89339,#000000,,rectangle,,7593,Calw VPC
 vgc-volz,880,,,#0072bc,#ffffff,,rectangle,,7593,Calw VPC
 vgf-freizeitverkehr,F 1,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
 vgf-freizeitverkehr,F 3,,,#ee3d96,#ffffff,,rectangle-rounded-corner,,13646,Freizeitverkehr
@@ -4018,6 +4025,13 @@ vhb-stadtbus-singen,8,,,#ffcb04,#000000,#000000,circle,,13643,Stadtbus Singen (H
 vhb-stadtbus-singen,9,,,#004991,#ffffff,#000000,circle,,13643,Stadtbus Singen (Htw)
 vhb-stadtbus-singen,10,,,#b9e5fb,#000000,#000000,circle,,13643,Stadtbus Singen (Htw)
 vias,RB10,vias-gmbh,via-rb10,#e3a02e,#ffffff,,rectangle-rounded-corner,,10932,VIAS GmbH
+vias,RE80,,,#ec1f25,#ffffff,,pill,,10933,VIAS Rail GmbH
+vias,RE85,,,#e3a026,#ffffff,,pill,,10933,VIAS Rail GmbH
+vias,RB86,,,#e3a026,#ffffff,,pill,,10933,VIAS Rail GmbH
+vias,RB82,,,#ec1f25,#ffffff,,pill,,10933,VIAS Rail GmbH
+vias,RB81,,,#ec1f25,#ffffff,,pill,,10933,VIAS Rail GmbH
+vias,RB66,,,#007dc5,#ffffff,,pill,,10933,VIAS Rail GmbH
+vias,RB61,,,#007dc5,#ffffff,,pill,,10933,VIAS Rail GmbH
 vlexx,EX,,,#0a9641,#ffffff,,rectangle-rounded-corner,,10952,vlexx1
 vlexx,RE2,,,#ec174c,#ffffff,,rectangle-rounded-corner,,10952,vlexx1
 vlexx,RE3,,,#d12025,#ffffff,,rectangle-rounded-corner,,10952,vlexx1
@@ -4028,6 +4042,7 @@ vlexx,RE17,,,#f37050,#ffffff,,rectangle-rounded-corner,,10952,vlexx1
 vlexx,RB31,,,#005c95,#ffffff,,rectangle-rounded-corner,,10951,vlexx
 vlexx,RB33,,,#004685,#ffffff,,rectangle-rounded-corner,,10951,vlexx
 vlexx,RB34,,,#0688ca,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+vlexx,RE34,,,#0688ca,#ffffff,,rectangle-rounded-corner,,10952,vlexx1
 vlexx,RB35,,,#0d9ad7,#ffffff,,rectangle-rounded-corner,,10951,vlexx
 vlexx,RB44,,,#004666,#ffffff,,rectangle-rounded-corner,,10951,vlexx
 vlexx,RB53,,,#a1cd3a,#ffffff,,rectangle-rounded-corner,,10951,vlexx
