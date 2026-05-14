@@ -4117,6 +4117,20 @@
         ]
     },
     {
+        "shortOperatorName": "vgc-daeuble",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan VGC",
+                "source": "https://www.vgc-online.de/downloads/pdf/strecken-tarife/VGC-Liniennetzplan.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vgc-eberhardt",
         "contributors": [
             {
