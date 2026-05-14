@@ -3924,6 +3924,20 @@
         ]
     },
     {
+        "shortOperatorName": "trans-regio",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Rheinland-Pfalz gültig ab 14.12.2025",
+                "source": "https://www.move-rlp.de/uploads/250515_Liniennetzplan_Rheinland_Pfalz_f0a8d89db8.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "transn",
         "contributors": [
             {
