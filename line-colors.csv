@@ -3570,6 +3570,8 @@ tlx,RB61,trilex-die-landerbahn-gmbh-dlb,tl-rb61,#438577,#ffffff,,rectangle-round
 tlx,RE1,trilex-express-die-landerbahn-gmbh-dlb,tlx-re1,#e97b3b,#ffffff,,rectangle-rounded-corner,,10890,trilex-express - Die Länderbahn GmbH DLB
 tlx,RE2,trilex-express-die-landerbahn-gmbh-dlb,tlx-re2,#db031c,#ffffff,,rectangle-rounded-corner,,10890,trilex-express - Die Länderbahn GmbH DLB
 tlx,T9,trilex-die-landerbahn-gmbh-dlb,tl-t9,#f6b90b,#ffffff,,rectangle-rounded-corner,,10892,trilex  - Die Länderbahn GmbH DLB
+trans-regio,RE2,,,#7a52a1,#ffffff,,rectangle-rounded-corner,,10946,MittelrheinBahn (Trans Regio)
+trans-regio,RB32,,,#da8a9b,#ffffff,,rectangle-rounded-corner,,10946,MittelrheinBahn (Trans Regio)
 uestra,1,ustra-hannoversche-verkehrsbetriebe-ag,8-webuet-1,#ffffff,#2c2e35,#ff2e3e,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
 uestra,2,ustra-hannoversche-verkehrsbetriebe-ag,8-webuet-2,#ffffff,#2c2e35,#ff2e3e,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
 uestra,3,ustra-hannoversche-verkehrsbetriebe-ag,8-webuet-3,#ffffff,#2c2e35,#0073c0,rectangle,,554,üstra Hannoversche Verkehrsbetriebe AG
