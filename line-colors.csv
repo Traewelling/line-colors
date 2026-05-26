@@ -3563,6 +3563,61 @@ sweg-sudwest,RS11,,,#009ddb,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
 sweg-sudwest,RS12,,,#74ba24,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
 sweg-sudwest,RS2,,,#fbc707,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
 sweg-sudwest,RS4,,,#d91338,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
+tgo-suedwestbus,400,,,#f05a72,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,423,,,#8c523a,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,425,,,#fdb813,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7122,,,#dd6d34,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7124,,,#2d3092,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7130,,,#354da1,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7131,,,#ffd300,#000000,,rectangle,,8103,RVS
+tgo-suedwestbus,7132,,,#008e54,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7134,,,#85acad,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7135,,,#8d2771,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7136,,,#51a552,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7137,,,#f2706b,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7141,,,#008d83,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7142,,,#007035,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7144,,,#005396,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7146,,,#cc7b5b,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7150,,,#f27032,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7151,,,#659ad2,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7156,,,#80ca9b,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7160,,,#eb008c,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,K2,,,#d2222a,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,K5,,,#7670b2,#ffffff,,rectangle,,8103,RVS
+tgo-sweg,100,,,#7670b2,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,101,,,#ee3f4a,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,102,,,#ffc125,#000000,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,103,,,#6cbf66,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,104,,,#b78787,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,105,,,#00a550,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,106,,,#009fd9,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,107,,,#927616,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,108,,,#c5168c,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,109,,,#c674b0,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,111,,,#603338,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,113,,,#f26e31,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,114,,,#44c7f4,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,115,,,#f9a53f,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,301,,,#74bee9,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,403,,,#589288,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,405,,,#b10141,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,K1,,,#f9a526,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,K3,,,#ee5aa0,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,K4,,,#a04a9b,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,K10,,,#f89f84,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,R2,,,#fff200,#6d6e70,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,R9,,,#ca6c18,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S1,,,#ec1b24,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S2,,,#00a550,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S3,,,#fdb813,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S4,,,#0071bb,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S5,,,#6C3f98,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S6,,,#a04733,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S7,,,#32a3dc,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S8,,,#31bbac,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S9,,,#a5cd39,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S10,,,#f399c0,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
 tlx,L2,trilex-die-landerbahn-gmbh-dlb,tl-l2,#0f7ec0,#ffffff,,rectangle-rounded-corner,,10892,trilex  - Die Länderbahn GmbH DLB
 tlx,L24,trilex-die-landerbahn-gmbh-dlb,tl-l24,#6eae47,#ffffff,,rectangle-rounded-corner,,10892,trilex  - Die Länderbahn GmbH DLB
 tlx,L4,trilex-die-landerbahn-gmbh-dlb,tl-l4,#242320,#ffffff,,rectangle-rounded-corner,,10892,trilex  - Die Länderbahn GmbH DLB
