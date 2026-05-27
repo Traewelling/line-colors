@@ -3139,7 +3139,71 @@
         ]
     },
     {
-        "shortOperatorName": "ostalb-mobil-ovg-goeppingen",
+        "shortOperatorName": "ostalb-mobil-beck-schubert",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan OstalbMobil gesamt 2026",
+                "source": "https://www.ostalbmobil.de/wp-content/uploads/2025/12/Liniennetzplan_OAM_2026_01_01.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ostalb-mobil-fmo",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan OstalbMobil gesamt 2026",
+                "source": "https://www.ostalbmobil.de/wp-content/uploads/2025/12/Liniennetzplan_OAM_2026_01_01.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ostalb-mobil-ok-go",
+        "contributors": [
+			{
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan OstalbMobil gesamt 2026",
+                "source": "https://www.ostalbmobil.de/wp-content/uploads/2025/12/Liniennetzplan_OAM_2026_01_01.pdf"
+            },
+			{
+                "name": "Liniennetzplan Stadt Ellwangen 2026",
+                "source": "https://www.ostalbmobil.de/wp-content/uploads/2025/12/Liniennetzplan_OAM_Stadt_Ellw_2026_01_01.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ostalb-mobil-ova",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Stadt Aalen (mit Essingen) 2026",
+                "source": "https://www.ostalbmobil.de/wp-content/uploads/2026/03/Liniennetzplan_OAM_Stadt_AA_2025_11_30_neu-17.03.26.pdf"
+            },
+			{
+                "name": "Liniennetzplan OstalbMobil gesamt 2026",
+                "source": "https://www.ostalbmobil.de/wp-content/uploads/2025/12/Liniennetzplan_OAM_2026_01_01.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "ostalb-mobil-ovk-betz",
         "contributors": [
             {
                 "github": "oneiricbotcelot"
@@ -3195,16 +3259,37 @@
         ]
     },
     {
+        "shortOperatorName": "ostalb-mobil-sonstige",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan OstalbMobil gesamt 2026",
+                "source": "https://www.ostalbmobil.de/wp-content/uploads/2025/12/Liniennetzplan_OAM_2026_01_01.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "ostalb-mobil-stadtbus-gmuend",
         "contributors": [
             {
                 "github": "oneiricbotcelot"
+            },
+			{
+                "github": "wittighausen"
             }
         ],
         "sources": [
             {
                 "name": "Liniennetzplan OAM",
                 "source": "https://www.ostalbmobil.de/wp-content/uploads/2023/12/Liniennetzplan_OAM_2023_12_10.pdf"
+            },
+			{
+                "name": "Liniennetzplan Stadt Schwäbisch Hall (mit Mutlangen und Waldstetten) 2026",
+                "source": "https://www.ostalbmobil.de/wp-content/uploads/2025/12/Liniennetzplan_OAM_Stadt_GD_2025_12_14_neu.pdf"
             }
         ]
     },
@@ -3841,6 +3926,34 @@
         ]
     },
     {
+        "shortOperatorName": "tgo-suedwestbus",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan TGO",
+                "source": "https://www.ortenaulinie.de/site/Ortenaulinie-2022/get/documents_E-1342503259/ortenaulinie/Dateien/Download/liniennetzplan_tgo_06-2025.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "tgo-sweg",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan TGO",
+                "source": "https://www.ortenaulinie.de/site/Ortenaulinie-2022/get/documents_E-1342503259/ortenaulinie/Dateien/Download/liniennetzplan_tgo_06-2025.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "tlx",
         "contributors": [
             {
@@ -3920,6 +4033,20 @@
             {
                 "name": "Postgelb für alle Postautos: Markenauftritt PostAuto Schweiz, Farbabklärung Barrierefreiheit",
                 "source": "https://microsites.post.ch/-/media/post-maxisites/microsites/documents/Post-RGB-Barrierefreiheit-160922.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "trans-regio",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Rheinland-Pfalz gültig ab 14.12.2025",
+                "source": "https://www.move-rlp.de/uploads/250515_Liniennetzplan_Rheinland_Pfalz_f0a8d89db8.pdf"
             }
         ]
     },
@@ -4099,6 +4226,20 @@
             {
                 "name": "BRB Streckennetz 2024",
                 "source": "https://download.transdev.de/transdev/uploads/bb/media_document/500/original.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vgc-daeuble",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan VGC",
+                "source": "https://www.vgc-online.de/downloads/pdf/strecken-tarife/VGC-Liniennetzplan.pdf"
             }
         ]
     },
@@ -4373,6 +4514,9 @@
         "contributors": [
             {
                 "github": "SpielenmitLili"
+            },
+            {
+                "github": "wittighausen"
             }
         ],
         "sources": [
