@@ -6101,7 +6101,12 @@ vvs-fmo,826,,,#95c11f,#ffffff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,826A,,,#95c11f,#ffffff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,828,,,#00a4da,#ffffff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,X82,,,#00a75d,#ffffff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-frank-stoeckle,901,,,#0093d0,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-frank-stoeckle,901A,,,#0093d0,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-frank-stoeckle,902,,,#0093d0,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-frank-stoeckle,903,,,#0093d0,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-frank-stoeckle,904,,,#a6ce38,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-frank-stoeckle,905,,,#0093d0,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-frank-stoeckle,906,,,#bc8e32,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-frank-stoeckle,920,,,#7ed4f7,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-frank-stoeckle,920A,,,#7ed4f7,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
@@ -6109,7 +6114,10 @@ vvs-frank-stoeckle,921,,,#7c52a1,#ffffff,,rectangle-rounded-corner,,7996,Privatu
 vvs-frank-stoeckle,921A,,,#7c52a1,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-frank-stoeckle,922,,,#bc8e32,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-frank-stoeckle,922A,,,#bc8e32,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-frank-stoeckle,997,,,#0093d0,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-hildenbrand,961,,,#c40075,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,962,,,#7c4900,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,963,,,#7c4900,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-hildenbrand,964,,,#fdba4c,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-hildenbrand,965,,,#5da9dd,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-hildenbrand,965A,,,#5da9dd,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
@@ -6126,6 +6134,7 @@ vvs-hildenbrand,983,,,#00a650,#ffffff,,rectangle-rounded-corner,,7996,Privatunte
 vvs-hildenbrand,983A,,,#00a650,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-hildenbrand,984,,,#ffc707,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-hildenbrand,984A,,,#ffc707,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hildenbrand,LT967,,,#f15a22,#ffffff,,rectangle-rounded-corner,,8002,Linientaxi
 vvs-kappus,638,,,#ffffff,#957000,#957000,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-kappus,650,,,#ffffff,#ff7f00,#ff7f00,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-kappus,651,,,#ffffff,#f16d4a,#f16d4a,rectangle,,7996,Privatunternehmer-Bus (VVS)
@@ -6264,6 +6273,7 @@ vvs-rab,972A,,,#ed1a3a,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer
 vvs-relex,X10,,,#00addc,#ffffff,,rectangle,,13478,Expressbus Relex1
 vvs-relex,X20,,,#00addc,#ffffff,,rectangle,,13478,Expressbus Relex1
 vvs-relex,X60,,,#00addc,#ffffff,,rectangle,,13478,Expressbus Relex1
+vvs-relex,X92,,,#00addc,#ffffff,,rectangle,,13478,Expressbus Relex1
 vvs-relex,X93,,,#ffcb04,#000000,,rectangle-rounded-corner,,13478,Expressbus Relex1
 vvs-ruftaxi,RT92,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
 vvs-ruftaxi,RT161,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
