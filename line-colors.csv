@@ -2950,24 +2950,157 @@ odeg,RE3,,,#f37a22,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 odeg,RE8,ostdeutsche-eisenbahn-gmbh,re-8,#775fb0,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 odeg,RE9,ostdeutsche-eisenbahn-gmbh,re-9,#b51d48,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
 odeg,RE50,,,#0087cb,#ffffff,,rectangle,,8569,ODEG Ostdeutsche Eisenbahn GmbH
-ostalb-mobil-ovg-goeppingen,931,,5-vvs031-931,#fbc707,#000000,,rectangle,,14432,OstalbMobil
-ostalb-mobil-ovg-goeppingen,932,,5-vvs031-932,#785f42,#ffffff,,rectangle,,14432,OstalbMobil
+ostalb-mobil-beck-schubert,102,,,#f75a74,#ffffff,,rectangle,,7718,Beck + Schubert GmbH & CoKG
+ostalb-mobil-beck-schubert,103,,,#0093cb,#ffffff,,rectangle,,7718,Beck + Schubert GmbH & CoKG
+ostalb-mobil-beck-schubert,104,,,#dd2b1c,#ffffff,,rectangle,,7718,Beck + Schubert GmbH & CoKG
+ostalb-mobil-beck-schubert,105,,,#0093cb,#ffffff,,rectangle,,7718,Beck + Schubert GmbH & CoKG
+ostalb-mobil-beck-schubert,106,,,#00a759,#ffffff,,rectangle,,7718,Beck + Schubert GmbH & CoKG
+ostalb-mobil-beck-schubert,107,,,#7e6f67,#ffffff,,rectangle,,7718,Beck + Schubert GmbH & CoKG
+ostalb-mobil-beck-schubert,108,,,#f27e00,#ffffff,,rectangle,,7718,Beck + Schubert GmbH & CoKG
+ostalb-mobil-beck-schubert,109,,,#ad498c,#ffffff,,rectangle,,7718,Beck + Schubert GmbH & CoKG
+ostalb-mobil-beck-schubert,110,,,#3c2b99,#ffffff,,rectangle,,7718,Beck + Schubert GmbH & CoKG
+ostalb-mobil-beck-schubert,111,,,#fbe116,#d1d1d1,,rectangle,,7718,Beck + Schubert GmbH & CoKG
+ostalb-mobil-beck-schubert,112,,,#f75a74,#ffffff,,rectangle,,7718,Beck + Schubert GmbH & CoKG
+ostalb-mobil-beck-schubert,116,,,#7b96d1,#ffffff,,rectangle,,7718,Beck + Schubert GmbH & CoKG
+ostalb-mobil-beck-schubert,118,,,#f27e00,#ffffff,,rectangle,,7718,Beck + Schubert GmbH & CoKG
+ostalb-mobil-beck-schubert,119,,,#ad498c,#ffffff,,rectangle,,7718,Beck + Schubert GmbH & CoKG
+ostalb-mobil-fmo,63,,,#f27e00,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,63/9,,,#00a3d4,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,74,,,#ae1ea3,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,74/1,,,#7b96d1,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,76,,,#00a759,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,267,,,#aa9273,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,7518,,,#fa853d,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,7696,,,#64b1b9,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,7698,,,#8874c8,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,7846,,,#ae1ea3,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,7864,,,#ad498c,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,7865,,,#00a759,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,7865/2,,,#00a759,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,7865/8,,,#00a759,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,7866,,,#57526a,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,7867,,,#f27e00,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,7867/1,,,#f27e00,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,7867/8,,,#f27e00,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,7869,,,#67aa79,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,7869/1,,,#556f6e,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,7871,,,#3c2b99,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-fmo,7922,,,#a05943,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
+ostalb-mobil-ok-go,61,,,#e10886,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,62,,,#fbe116,#d1d1d1,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,72,,,#4e897c,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,72/2,,,#00a759,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,77,,,#67aa79,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,210,,,#3c2b99,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,211,,,#3c2b99,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,214,,,#00a759,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,215,,,#958cb7,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,220,,,#e4afea,#ffffff,#ae1ea3,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,300,,,#00a3d4,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,301,,,#00a3d4,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,302,,,#7b96d1,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,304,,,#63b19f,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,305,,,#63b19f,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,306,,,#bfc678,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,307,,,#bfc678,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,309,,,#bcd800,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,310,,,#7b96d1,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,311,,,#fdc900,#d1d1d1,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,312,,,#fdc900,#d1d1d1,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,313,,,#0093cb,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,314,,,#3c2b99,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,315,,,#dd2b1c,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,320,,,#fe8a64,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,321,,,#aa9273,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,322,,,#fe8a64,#ffffff,,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,330,,,#e4afea,#ffffff,#ae1ea3,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,332,,,#e4afea,#ffffff,#ae1ea3,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,334,,,#e4afea,#ffffff,#ae1ea3,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ok-go,340,,,#e4afea,#ffffff,#ae1ea3,rectangle,,7715,Omnibusverkehr Abt Schwäbisch Gmünd
+ostalb-mobil-ova,10,,,#00a759,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,11,,,#00a759,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,12,,,#00a759,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,13,,,#00a759,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,14,,,#e10886,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,15,,,#e10886,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,16,,,#e10886,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,17,,,#00a759,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,19,,,#00a759,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,24,,,#00a3d4,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,27,,,#00a3d4,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,28,,,#00a3d4,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,29,,,#00a3d4,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,31,,,#fdc900,#d1d1d1,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,32,,,#fdc900,#d1d1d1,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,33,,,#dd2b1c,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,34,,,#dd2b1c,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,35,,,#dd2b1c,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,36,,,#fe8a64,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,37,,,#fe8a64,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,40,,,#67aa79,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,42,,,#bcd800,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,43,,,#67aa79,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,44,,,#67aa79,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,48,,,#67aa79,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,49,,,#67aa79,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,51,,,#fdc900,#d1d1d1,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,56,,,#fdc900,#d1d1d1,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,62,,,#cd50ab,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,71,,,#f75a74,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,72,,,#f75a74,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,73,,,#f75a74,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,79,,,#f75a74,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,81,,,#7b96d1,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,82,,,#3c2b99,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,83,,,#3c2b99,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,90,,,#3c2b99,#ffffff,,rectangle,,7717,OVA-Bopfingen
+ostalb-mobil-ova,91,,,#e10886,#ffffff,,rectangle,,7717,OVA-Bopfingen
+ostalb-mobil-ova,92,,,#e10886,#ffffff,,rectangle,,7717,OVA-Bopfingen
+ostalb-mobil-ova,93,,,#e10886,#ffffff,,rectangle,,7717,OVA-Bopfingen
+ostalb-mobil-ova,94,,,#e10886,#ffffff,,rectangle,,7717,OVA-Bopfingen
+ostalb-mobil-ova,95,,,#e10886,#ffffff,,rectangle,,7717,OVA-Bopfingen
+ostalb-mobil-ova,96,,,#e10886,#ffffff,,rectangle,,7717,OVA-Bopfingen
+ostalb-mobil-ova,97,,,#e10886,#ffffff,,rectangle,,7717,OVA-Bopfingen
+ostalb-mobil-ova,99,,,#0093cb,#ffffff,,rectangle,,7717,OVA-Bopfingen
+ostalb-mobil-ova,901,,,#ba77d3,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,902,,,#ba77d3,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,903,,,#ba77d3,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
+ostalb-mobil-ova,906,,,#ba77d3,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
 ostalb-mobil-ovk-betz,21,,5-ova050-21,#2e3192,#ffffff,,rectangle,,14432,OstalbMobil
 ostalb-mobil-ovk-dannenmann,266,,5-vvs031-266,#0994dc,#ffffff,,rectangle,,15027,Omnibus Dannenmann GmbH
 ostalb-mobil-ovk-dannenmann,268,,5-vvs031-268,#f47216,#ffffff,,rectangle,,15027,Omnibus Dannenmann GmbH
-ostalb-mobil-ovk-domhan,71,,5-ova002-71,#2e3192,#ffffff,,rectangle,,14432,OstalbMobil
+ostalb-mobil-sonstige,120,,,#a05943,#ffffff,,rectangle,,14432,OstalbMobil
+ostalb-mobil-sonstige,121,,,#a05943,#ffffff,,rectangle,,14432,OstalbMobil
+ostalb-mobil-sonstige,122,,,#0093cb,#ffffff,,rectangle,,14432,OstalbMobil
+ostalb-mobil-sonstige,123,,,#0093cb,#ffffff,,rectangle,,14432,OstalbMobil
+ostalb-mobil-sonstige,190,,,#3c2b99,#ffffff,,rectangle,,14432,OstalbMobil
+ostalb-mobil-sonstige,191,,,#d5b36b,#ffffff,,rectangle,,14432,OstalbMobil
+ostalb-mobil-sonstige,192,,,#fdc900,#d1d1d1,,rectangle,,14432,OstalbMobil
+ostalb-mobil-sonstige,194,,,#0093cb,#ffffff,,rectangle,,14432,OstalbMobil
+ostalb-mobil-sonstige,195,,,#fa853d,#ffffff,,rectangle,,14432,OstalbMobil
+ostalb-mobil-sonstige,196,,,#64b1b9,#ffffff,,rectangle,,14432,OstalbMobil
+ostalb-mobil-sonstige,293,,,#fa853d,#ffffff,,rectangle,,14432,OstalbMobil
+ostalb-mobil-sonstige,294,,,#0093cb,#ffffff,,rectangle,,14432,OstalbMobil
+ostalb-mobil-sonstige,295,,,#3c2b99,#ffffff,,rectangle,,14432,OstalbMobil
+ostalb-mobil-sonstige,350,,,#e10886,#ffffff,,rectangle,,14432,OstalbMobil
+ostalb-mobil-sonstige,351,,,#00a759,#ffffff,,rectangle,,14432,OstalbMobil
+ostalb-mobil-sonstige,352,,,#a05943,#ffffff,,rectangle,,14432,OstalbMobil
+ostalb-mobil-sonstige,353,,,#f27e00,#ffffff,,rectangle,,14432,OstalbMobil
 ostalb-mobil-stadtbus-gmuend,1,,5-ova002-1,#ed1c24,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 ostalb-mobil-stadtbus-gmuend,2,,5-ova002-2,#6e87cd,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 ostalb-mobil-stadtbus-gmuend,3,,5-ova002-3,#fff200,#000000,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
+ostalb-mobil-stadtbus-gmuend,4 a,,,#00a3d4,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 ostalb-mobil-stadtbus-gmuend,4,,5-ova002-4,#00adef,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 ostalb-mobil-stadtbus-gmuend,5,,5-ova002-5,#f47216,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 ostalb-mobil-stadtbus-gmuend,5b,,5-ova002-5b,#f47216,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 ostalb-mobil-stadtbus-gmuend,6,,5-ova002-6,#99d420,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 ostalb-mobil-stadtbus-gmuend,7,,5-ova002-7,#ca93d0,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
+ostalb-mobil-stadtbus-gmuend,7a,,,#a4afea,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 ostalb-mobil-stadtbus-gmuend,40,,5-ova002-40,#00adef,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 ostalb-mobil-stadtbus-gmuend,50,,5-ova002-50,#f47216,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 ostalb-mobil-stadtbus-gmuend,66,,5-ova002-66,#00a650,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 ostalb-mobil-stadtbus-gmuend,70,,5-ova002-70,#2e3192,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
+ostalb-mobil-stadtbus-gmuend,71,,,#3c2b99,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 ostalb-mobil-stadtbus-gmuend,73,,5-ova002-73,#00adef,#ffffff,,rectangle,,14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 pid-prague,1,dopravni-podnik-hl-m-prahy,8-540001-1,#ffffff,#a2cf62,#a2cf62,rectangle,,,
 pid-prague,2,dopravni-podnik-hl-m-prahy,8-540001-2,#ffffff,#f6c955,#f6c955,rectangle,,,
@@ -3563,6 +3696,61 @@ sweg-sudwest,RS11,,,#009ddb,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
 sweg-sudwest,RS12,,,#74ba24,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
 sweg-sudwest,RS2,,,#fbc707,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
 sweg-sudwest,RS4,,,#d91338,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
+tgo-suedwestbus,400,,,#f05a72,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,423,,,#8c523a,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,425,,,#fdb813,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7122,,,#dd6d34,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7124,,,#2d3092,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7130,,,#354da1,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7131,,,#ffd300,#000000,,rectangle,,8103,RVS
+tgo-suedwestbus,7132,,,#008e54,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7134,,,#85acad,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7135,,,#8d2771,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7136,,,#51a552,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7137,,,#f2706b,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7141,,,#008d83,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7142,,,#007035,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7144,,,#005396,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7146,,,#cc7b5b,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7150,,,#f27032,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7151,,,#659ad2,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7156,,,#80ca9b,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,7160,,,#eb008c,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,K2,,,#d2222a,#ffffff,,rectangle,,8103,RVS
+tgo-suedwestbus,K5,,,#7670b2,#ffffff,,rectangle,,8103,RVS
+tgo-sweg,100,,,#7670b2,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,101,,,#ee3f4a,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,102,,,#ffc125,#000000,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,103,,,#6cbf66,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,104,,,#b78787,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,105,,,#00a550,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,106,,,#009fd9,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,107,,,#927616,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,108,,,#c5168c,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,109,,,#c674b0,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,111,,,#603338,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,113,,,#f26e31,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,114,,,#44c7f4,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,115,,,#f9a53f,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,301,,,#74bee9,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,403,,,#589288,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,405,,,#b10141,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,K1,,,#f9a526,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,K3,,,#ee5aa0,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,K4,,,#a04a9b,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,K10,,,#f89f84,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,R2,,,#fff200,#6d6e70,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,R9,,,#ca6c18,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S1,,,#ec1b24,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S2,,,#00a550,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S3,,,#fdb813,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S4,,,#0071bb,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S5,,,#6c3f98,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S6,,,#a04733,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S7,,,#32a3dc,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S8,,,#31bbac,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S9,,,#a5cd39,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
+tgo-sweg,S10,,,#f399c0,#ffffff,,rectangle,,13761,TGO-EFA Datenversorgung
 tlx,L2,trilex-die-landerbahn-gmbh-dlb,tl-l2,#0f7ec0,#ffffff,,rectangle-rounded-corner,,10892,trilex  - Die Länderbahn GmbH DLB
 tlx,L24,trilex-die-landerbahn-gmbh-dlb,tl-l24,#6eae47,#ffffff,,rectangle-rounded-corner,,10892,trilex  - Die Länderbahn GmbH DLB
 tlx,L4,trilex-die-landerbahn-gmbh-dlb,tl-l4,#242320,#ffffff,,rectangle-rounded-corner,,10892,trilex  - Die Länderbahn GmbH DLB
