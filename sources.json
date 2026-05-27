@@ -3926,6 +3926,34 @@
         ]
     },
     {
+        "shortOperatorName": "tgo-suedwestbus",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan TGO",
+                "source": "https://www.ortenaulinie.de/site/Ortenaulinie-2022/get/documents_E-1342503259/ortenaulinie/Dateien/Download/liniennetzplan_tgo_06-2025.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "tgo-sweg",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan TGO",
+                "source": "https://www.ortenaulinie.de/site/Ortenaulinie-2022/get/documents_E-1342503259/ortenaulinie/Dateien/Download/liniennetzplan_tgo_06-2025.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "tlx",
         "contributors": [
             {
