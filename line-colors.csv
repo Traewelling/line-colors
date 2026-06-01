@@ -2986,36 +2986,41 @@ ostalb-mobil-fmo,7869,,,#67aa79,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
 ostalb-mobil-fmo,7869/1,,,#556f6e,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
 ostalb-mobil-fmo,7871,,,#3c2b99,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
 ostalb-mobil-fmo,7922,,,#a05943,#ffffff,,rectangle,,14559,RBS AA + FMO SHA
-ostalb-mobil-ok-go,61,,,#e10886,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,62,,,#fbe116,#d1d1d1,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,72,,,#4e897c,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,72/2,,,#00a759,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,77,,,#67aa79,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,210,,,#3c2b99,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,211,,,#3c2b99,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,214,,,#00a759,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,215,,,#958cb7,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
+ostalb-mobil-ok-go,61,,,#e10886,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,62,,,#fbe116,#d1d1d1,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,72,,,#4e897c,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,72/2,,,#00a759,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,77,,,#67aa79,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,210,,,#3c2b99,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,211,,,#3c2b99,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,214,,,#00a759,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,215,,,#958cb7,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,220,,,#e4afea,#ffffff,#ae1ea3,rectangle,,14643,Ok. go Mobilitäts AG
 ostalb-mobil-ok-go,220,,,#e4afea,#ffffff,#ae1ea3,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,300,,,#00a3d4,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,301,,,#00a3d4,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,302,,,#7b96d1,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,304,,,#63b19f,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,305,,,#63b19f,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,306,,,#bfc678,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,307,,,#bfc678,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,309,,,#bcd800,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,310,,,#7b96d1,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,311,,,#fdc900,#d1d1d1,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,312,,,#fdc900,#d1d1d1,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,313,,,#0093cb,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,314,,,#3c2b99,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,315,,,#dd2b1c,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,320,,,#fe8a64,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,321,,,#aa9273,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
-ostalb-mobil-ok-go,322,,,#fe8a64,#ffffff,,rectangle,,15372,OK.go Mobilitäts AG
+ostalb-mobil-ok-go,300,,,#00a3d4,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,301,,,#00a3d4,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,302,,,#7b96d1,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,304,,,#63b19f,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,305,,,#63b19f,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,306,,,#bfc678,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,307,,,#bfc678,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,309,,,#bcd800,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,310,,,#7b96d1,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,311,,,#fdc900,#d1d1d1,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,312,,,#fdc900,#d1d1d1,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,313,,,#0093cb,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,314,,,#3c2b99,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,315,,,#dd2b1c,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,320,,,#fe8a64,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,321,,,#aa9273,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,322,,,#fe8a64,#ffffff,,rectangle,,14643,Ok. go Mobilitäts AG
+ostalb-mobil-ok-go,330,,,#e4afea,#ffffff,#ae1ea3,rectangle,,14643,Ok. go Mobilitäts AG
 ostalb-mobil-ok-go,330,,,#e4afea,#ffffff,#ae1ea3,rectangle,,15372,OK.go Mobilitäts AG
+ostalb-mobil-ok-go,332,,,#e4afea,#ffffff,#ae1ea3,rectangle,,14643,Ok. go Mobilitäts AG
 ostalb-mobil-ok-go,332,,,#e4afea,#ffffff,#ae1ea3,rectangle,,15372,OK.go Mobilitäts AG
+ostalb-mobil-ok-go,334,,,#e4afea,#ffffff,#ae1ea3,rectangle,,14643,Ok. go Mobilitäts AG
 ostalb-mobil-ok-go,334,,,#e4afea,#ffffff,#ae1ea3,rectangle,,15372,OK.go Mobilitäts AG
+ostalb-mobil-ok-go,340,,,#e4afea,#ffffff,#ae1ea3,rectangle,,14643,Ok. go Mobilitäts AG
 ostalb-mobil-ok-go,340,,,#e4afea,#ffffff,#ae1ea3,rectangle,,15372,OK.go Mobilitäts AG
 ostalb-mobil-ova,10,,,#00a759,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
 ostalb-mobil-ova,11,,,#00a759,#ffffff,,rectangle,,7714,OVA - Omnibus-Verkehr Aalen
