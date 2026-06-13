@@ -1897,8 +1897,12 @@
         ],
         "sources": [
             {
-                "name": "SWH HAVAG Tagesnetzplan",
-                "source": "https://havag.com/69103?240516_LNP_Tag_BM_Pesta.pdf"
+                "name": "SWH HAVAG Liniennetzplan (ab 23.05.2026)",
+                "source": "https://havag.com/sixcms/media.php/377/260523_Liniennetzplaene.pdf"
+            },
+            {
+                "name": "HAVAG app theme CSS (line colors)",
+                "source": "https://havag.com/assets/styles/app-theme-havag-OcJem1t.css"
             }
         ]
     },
@@ -4061,7 +4065,6 @@
             {
                 "name": "Plan de Réseau 2025",
                 "source": "https://www.transn.ch/fileadmin/transn/pdf/Plans/plan_reseau_2025_VF_sd.pdf"
-            
             }
     },
     {
