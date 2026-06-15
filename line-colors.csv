@@ -3883,6 +3883,7 @@ vbb-bvg-ubahn,U7,,7-vbbbvu-7,#009bd5,#ffffff,,rectangle,,796,Berliner Verkehrsbe
 vbb-bvg-ubahn,U8,,7-vbbbvu-8,#224f86,#ffffff,,rectangle,,796,Berliner Verkehrsbetriebe
 vbb-bvg-ubahn,U9,,7-vbbbvu-9,#f3791d,#ffffff,,rectangle,,796,Berliner Verkehrsbetriebe
 vbb-db-sbahn,S1,s-bahn-berlin,4-08-1,#eb588f,#ffffff,,pill,,1,S-Bahn Berlin GmbH
+vbb-db-sbahn,S15,s-bahn-berlin,4-08-15,#d474ae,#ffffff,,pill,,1,S-Bahn Berlin GmbH
 vbb-db-sbahn,S2,s-bahn-berlin,4-08-2,#047939,#ffffff,,pill,,1,S-Bahn Berlin GmbH
 vbb-db-sbahn,S25,s-bahn-berlin,4-08-25,#047939,#ffffff,,pill,,1,S-Bahn Berlin GmbH
 vbb-db-sbahn,S26,s-bahn-berlin,4-08-26,#047939,#ffffff,,pill,,1,S-Bahn Berlin GmbH
