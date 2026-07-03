@@ -1333,6 +1333,23 @@
         ]
     },
     {
+        "shortOperatorName": "nah-sh-kvg",
+        "contributors": [
+            {
+                "github": "JoelB911"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetz Kerngebiet Kiel",
+                "source": "https://www.kvg-kiel.de/resources/persistent/fc61d748efb815babc42fccf66e7814cfbcd6a10/WEB_VRK_TAG_SLNP_Kiel_Januar2026.pdf"
+            },
+            {
+                "name": "Fahrplan-Angebot - KVG Kiel",
+                "source": "https://www.kvg-kiel.de/fuer-unsere-fahrgaeste/fahrplan/fahrplan-angebot"
+            }
+        ]
+    },    {
         "shortOperatorName": "nah-sh-swhl",
         "contributors": [
             {
