@@ -8,7 +8,9 @@ If your feed does not yet have its own .csv file and you would like to contribut
 
 First, you need to determine which file to use:
 - `line-colors.csv` is used for the `DELFI` feed (Germany)
+- `line-colors-AT.csv` is used for the `data.mobilitaetsverbuende.at` feed (Austria)
 - `line-colors-CH.csv` is used for the `opentransportdata.swiss` feed (Switzerland)
+- `line-colors-SE.csv` is used for the `resrobot.se` feed (Sweden)
 - `line-colors-VBN.csv` is used for the `VBN` feed (Verkehrsverbund Bremen-Niedersachsen)
 
 The `line-colors.csv` contains several columns:

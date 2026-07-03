@@ -1,0 +1,78 @@
+shortOperatorName,lineName,backgroundColor,textColor,borderColor,shape,wikidataQid,GTFSAgencyID,GTFSAgencyName
+ooevv-linz-linien,1,#ef377f,#ffffff,,rectangle,,01,Linz Linien GmbH
+ooevv-linz-linien,2,#c77eb4,#ffffff,,rectangle,,01,Linz Linien GmbH
+ooevv-linz-linien,3,#a3238e,#ffffff,,rectangle,,01,Linz Linien GmbH
+ooevv-linz-linien,4,#c40352,#ffffff,,rectangle,,01,Linz Linien GmbH
+ooevv-linz-linien,11,#f58220,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,12,#189655,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,17,#f58220,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,18,#008dd1,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,19,#f287b7,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,25,#c6902f,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,26,#008dd1,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,27,#a4c761,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,33,#ca96a1,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,33a,#ca96a1,#ffffff,,pill,,01,Linz Linien GmbH
+ooevv-linz-linien,38,#f58220,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,41,#d1232a,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,43,#40c7f5,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,45,#d1232a,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,46,#40c7f5,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,50,#008f4e,#ffffff,,rectangle,,01,Linz Linien GmbH
+ooevv-linz-linien,70,#965336,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,71,#965336,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,72,#965336,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,73,#965336,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,77,#965336,#ffffff,,circle,,01,Linz Linien GmbH
+ooevv-linz-linien,101,#dbb03c,#ffffff,,pill,,01,Linz Linien GmbH
+ooevv-linz-linien,102,#4db948,#ffffff,,pill,,01,Linz Linien GmbH
+ooevv-linz-linien,103,#4db948,#ffffff,,pill,,01,Linz Linien GmbH
+ooevv-linz-linien,104,#dbb03c,#ffffff,,pill,,01,Linz Linien GmbH
+ooevv-linz-linien,105,#4db948,#ffffff,,pill,,01,Linz Linien GmbH
+ooevv-linz-linien,106,#4db948,#ffffff,,pill,,01,Linz Linien GmbH
+ooevv-linz-linien,107,#dbb03c,#ffffff,,pill,,01,Linz Linien GmbH
+ooevv-linz-linien,108,#dbb03c,#ffffff,,pill,,01,Linz Linien GmbH
+ooevv-linz-linien,150,#dbb03c,#ffffff,,pill,,01,Linz Linien GmbH
+ooevv-linz-linien,191,#4db948,#ffffff,,pill,,01,Linz Linien GmbH
+ooevv-linz-linien,192,#dbb03c,#ffffff,,pill,,01,Linz Linien GmbH
+ooevv-linz-linien,194,#4db948,#ffffff,,pill,,01,Linz Linien GmbH
+ooevv-linz-linien,N82,#c77eb4,#ffffff,,rectangle,,01,Linz Linien GmbH
+ooevv-linz-linien,N83,#0196da,#ffffff,,rectangle,,01,Linz Linien GmbH
+ooevv-linz-linien,N84,#c30452,#ffffff,,rectangle,,01,Linz Linien GmbH
+ooevv-oebb,S1,#ee7f00,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+ooevv-oebb,S2,#0098a1,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+ooevv-oebb,S3,#342980,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+ooevv-oebb,S4,#a4ba00,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+ooevv-stern-hafferl,S5,#e2007a,#ffffff,,rectangle-rounded-corner,,22,Stern & Hafferl VerkehrsgesmbH
+vor-oebb,S1,#0097d5,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-oebb,S2,#0097d5,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-oebb,S3,#0097d5,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-oebb,S4,#0097d5,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-oebb,S7,#0097d5,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-oebb,S40,#0097d5,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-oebb,S45,#c8d200,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-oebb,S50,#0097d5,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-oebb,S60,#0097d5,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-oebb,S80,#0097d5,#ffffff,,rectangle-rounded-corner,,01,OEBB Personenverkehr AG Kundenservice
+vor-wl,18,#c00808,#ffffff,,rectangle,Q47563623,04,Wiener Linien GmbH & Co KG
+vor-wl,95A,#0b285c,#ffffff,,rectangle,,04,Wiener Linien GmbH & Co KG
+vor-wl,U1,#e3000f,#ffffff,,rectangle,Q663755,04,Wiener Linien GmbH & Co KG
+vor-wl,U2,#a862a4,#ffffff,,rectangle,Q873397,04,Wiener Linien GmbH & Co KG
+vor-wl,U3,#ef7c00,#ffffff,,rectangle,Q876472,04,Wiener Linien GmbH & Co KG
+vor-wl,U4,#00963f,#ffffff,,rectangle,Q877322,04,Wiener Linien GmbH & Co KG
+vor-wl,U5,#008e95,#ffffff,,rectangle,Q1329518,04,Wiener Linien GmbH & Co KG
+vor-wl,U6,#9d6830,#ffffff,,rectangle,Q281409,04,Wiener Linien GmbH & Co KG
+vvk-kmg,A,#157450,#ffffff,,circle,,01,KMG Klagenfurt Mobil GmbH
+vvk-kmg,B,#41c1c7,#ffffff,,circle,,01,KMG Klagenfurt Mobil GmbH
+vvk-kmg,C,#ef3e29,#ffffff,,circle,,01,KMG Klagenfurt Mobil GmbH
+vvk-kmg,1,#9e9fa2,#ffffff,,circle,,01,KMG Klagenfurt Mobil GmbH
+vvk-kmg,2,#f78b1f,#ffffff,,circle,,01,KMG Klagenfurt Mobil GmbH
+vvk-kmg,3,#854b37,#ffffff,,circle,,01,KMG Klagenfurt Mobil GmbH
+vvk-kmg,4,#8fb63e,#ffffff,,circle,,01,KMG Klagenfurt Mobil GmbH
+vvk-kmg,5,#865a9f,#ffffff,,circle,,01,KMG Klagenfurt Mobil GmbH
+vvk-kmg,6,#0254a7,#ffffff,,circle,,01,KMG Klagenfurt Mobil GmbH
+vvk-kmg,7,#b76869,#ffffff,,circle,,01,KMG Klagenfurt Mobil GmbH
+vvk-kmg,8,#c9ac32,#ffffff,,circle,,01,KMG Klagenfurt Mobil GmbH
+vvk-kmg,9,#766f35,#ffffff,,circle,,01,KMG Klagenfurt Mobil GmbH
+vvk-kmg,10,#ffffff,#19627f,#19627f,circle,,01,KMG Klagenfurt Mobil GmbH
+vvk-kmg,20,#ffffff,#3592aa,#3592aa,circle,,01,KMG Klagenfurt Mobil GmbH

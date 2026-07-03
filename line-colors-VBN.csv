@@ -243,12 +243,15 @@ vrb-kvg,873,#ffffff,#f9a61b,,rectangle,,546,Kraftverkehrsgesellschaft mbH Brauns
 vrb-kvg,874,#ffffff,#eb106e,,rectangle,,546,Kraftverkehrsgesellschaft mbH Braunschweig
 vrb-kvg,875,#ffffff,#9d005e,,rectangle,,546,Kraftverkehrsgesellschaft mbH Braunschweig
 vrb-kvg,879,#ffffff,#ec1f25,,rectangle,,546,Kraftverkehrsgesellschaft mbH Braunschweig
-vrb-sbgs,801,#fc9400,#ffffff,#ffffff,circle,,548,Stadtbus Goslar GmbH
-vrb-sbgs,802,#ac2f8a,#ffffff,#ffffff,circle,,548,Stadtbus Goslar GmbH
-vrb-sbgs,803,#0aa2e3,#ffffff,#ffffff,circle,,548,Stadtbus Goslar GmbH
-vrb-sbgs,804,#292174,#ffffff,#ffffff,circle,,548,Stadtbus Goslar GmbH
-vrb-sbgs,805,#735c30,#ffffff,#ffffff,circle,,548,Stadtbus Goslar GmbH
-vrb-sbgs,806,#0a6031,#ffffff,#ffffff,circle,,548,Stadtbus Goslar GmbH
+vrb-sbgs,801,#f6941f,#ffffff,#ffffff,circle,,548,Stadtbus Goslar GmbH
+vrb-sbgs,802,#a13f98,#ffffff,#ffffff,circle,,548,Stadtbus Goslar GmbH
+vrb-sbgs,803,#05a0dc,#ffffff,#ffffff,circle,,548,Stadtbus Goslar GmbH
+vrb-sbgs,804,#272a86,#ffffff,#ffffff,circle,,548,Stadtbus Goslar GmbH
+vrb-sbgs,805,#6b5431,#ffffff,#ffffff,circle,,548,Stadtbus Goslar GmbH
+vrb-sbgs,806,#006a3a,#ffffff,#ffffff,circle,,548,Stadtbus Goslar GmbH
+vrb-sbgs,807,#3cba85,#ffffff,#ffffff,circle,,548,Stadtbus Goslar GmbH
+vrb-sbgs,808,#ec1b47,#ffffff,#ffffff,circle,,548,Stadtbus Goslar GmbH
+vrb-sbgs,809,#ef71ab,#ffffff,#ffffff,circle,,548,Stadtbus Goslar GmbH
 vrb-vb,151,#009de2,#ffffff,,rectangle-rounded-corner,,1750,Verkehrsbetriebe Bachstein
 vrb-vb,153,#e20715,#ffffff,,rectangle-rounded-corner,,1750,Verkehrsbetriebe Bachstein
 vrb-vb,160,#009340,#ffffff,,rectangle-rounded-corner,,1750,Verkehrsbetriebe Bachstein
