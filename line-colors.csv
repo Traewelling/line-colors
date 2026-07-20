@@ -6118,7 +6118,7 @@ vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,rb-64,#b6931d,#ffffff,,rectangle,,1
 vvs-db-sbs-stammstreckensperrung,RESB,,,#9c6c9c,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
 vvs-db-sbs-stammstreckensperrung,SEV1,,,#952168,#ffffff,,rectangle,,10980,DB ZugBus Regionalverkehr Alb-Bodensee GmbH
 vvs-db-sbs-stammstreckensperrung,SEV3,,,#952168,#ffffff,,rectangle,,10980,DB ZugBus Regionalverkehr Alb-Bodensee GmbH
-vvs-db-sbs-stammstreckensperrung,SEV3,,,#952168,#ffffff,,rectangle,,13221,Bus SEV, nur Abellio, DB Regio, Go-Ahead
+vvs-db-sbs-stammstreckensperrung,SEV3,,,#952168,#ffffff,,rectangle,,13221,"Bus SEV, nur Abellio, DB Regio, Go-Ahead"
 vvs-eberhardt,503,,,#ffffff,#47b8b8,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fischle,140,,,#f69fb3,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-flattich,502,,,#ffffff,#7da647,,rectangle,,7996,Privatunternehmer-Bus (VVS)
