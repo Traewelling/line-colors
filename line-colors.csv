@@ -529,6 +529,13 @@ db-regio-sudost,S6,db-regio-ag-sudost,4-800486-6,#5c1239,#ffffff,,pill,Q63217185
 db-regio-sudost,S8,db-regio-ag-sudost,4-8004a9-8,#5c2582,#ffffff,,pill,Q63213955,10437,DB Regio AG Südost
 db-regio-sudost,S9,db-regio-ag-sudost,4-8004a9-9,#be006b,#ffffff,,pill,Q63217750,10437,DB Regio AG Südost
 db-regio-sudost,S11,db-regio-ag-sudost,,#309f98,#ffffff,,pill,Q131460494,10437,DB Regio AG Südost
+db-regionetz-kurhessenbahn,RB4,,,#ec1f25,#ffffff,,rectangle,,10441,DB RegioNetz Verkehrs GmbH Kurhessenbahn
+db-regionetz-kurhessenbahn,RB38,,,#73c15f,#ffffff,,rectangle,,10441,DB RegioNetz Verkehrs GmbH Kurhessenbahn
+db-regionetz-kurhessenbahn,RB39,,,#0bb14c,#ffffff,,rectangle,,10441,DB RegioNetz Verkehrs GmbH Kurhessenbahn
+db-regionetz-kurhessenbahn,RE39,,,#0bb14c,#ffffff,,rectangle,,10441,DB RegioNetz Verkehrs GmbH Kurhessenbahn
+db-regionetz-kurhessenbahn,RB94,,,#fecb09,#000000,,rectangle,,10441,DB RegioNetz Verkehrs GmbH Kurhessenbahn
+db-regionetz-kurhessenbahn,RB97,,,#0072bc,#ffffff,,rectangle,,10441,DB RegioNetz Verkehrs GmbH Kurhessenbahn
+db-regionetz-kurhessenbahn,RE97,,,#0072bc,#ffffff,,rectangle,,10441,DB RegioNetz Verkehrs GmbH Kurhessenbahn
 db-regionetz-sudostbayernbahn,RE 4,db-regionetz-verkehrs-gmbh-sudostbayernbahn,re-4,#ffffff,#992e00,#992e00,rectangle,,10448,DB RegioNetz Verkehrs GmbH Südostbayernbahn
 db-regionetz-sudostbayernbahn,RB 32,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-32,#e5a05c,#ffffff,,rectangle,,10448,DB RegioNetz Verkehrs GmbH Südostbayernbahn
 db-regionetz-sudostbayernbahn,RB 40,db-regionetz-verkehrs-gmbh-sudostbayernbahn,rb-40,#e5a05c,#ffffff,,rectangle,,10448,DB RegioNetz Verkehrs GmbH Südostbayernbahn
@@ -2899,10 +2906,8 @@ nrw-regional,RB 90,hlb-hessenbahn-gmbh,hlb-rb90,#7a7c80,#ffffff,,rectangle-round
 nrw-regional,RB 91,,,#7a7c80,#ffffff,,rectangle-rounded-corner,,10933,VIAS Rail GmbH
 nrw-regional,RB 92,hlb-hessenbahn-gmbh,hlb-rb92,#7a7c80,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
 nrw-regional,RB 93,hlb-hessenbahn-gmbh,hlb-rb93,#7a7c80,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
-nrw-regional,RB 94,db-regionetz-verkehrs-gmbh-kurhessenbahn,rb-94,#7a7c80,#ffffff,,rectangle-rounded-corner,,10441,DB RegioNetz Verkehrs GmbH Kurhessenbahn
 nrw-regional,RB 95,hlb-hessenbahn-gmbh,hlb-rb95,#7a7c80,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
 nrw-regional,RB 96,hlb-hessenbahn-gmbh,hlb-rb96,#7a7c80,#ffffff,,rectangle-rounded-corner,,11046,Hessische Landesbahn GmbH
-nrw-regional,RB 97,db-regionetz-verkehrs-gmbh-kurhessenbahn,rb-97,#7a7c80,#ffffff,,rectangle-rounded-corner,,10441,DB RegioNetz Verkehrs GmbH Kurhessenbahn
 nrw-regional,RE 99,hlb-hessenbahn-gmbh,hlb-re99,#00a13b,#ffffff,,rectangle-rounded-corner,Q1885503,11046,Hessische Landesbahn GmbH
 nrw-sbahn,S 1,db-regio-ag-nrw,4-800337-1,#0cb14b,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 2,db-regio-ag-nrw,4-8003l1-2,#0074bc,#ffffff,,pill,,10436,DB Regio AG NRW
