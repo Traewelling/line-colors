@@ -632,6 +632,20 @@
         ]
     },
     {
+        "shortOperatorName": "db-regionetz-kurhessenbahn",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Kurhessenbahn",
+                "source": "https://assets.static-bahn.de/dam/jcr:b737f134-1813-418d-87a9-20738d930f0b/245174-325972.2022-12-12-08-23-18.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "db-regionetz-sudostbayernbahn",
         "contributors": [
             {
