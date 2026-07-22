@@ -550,34 +550,6 @@ db-regionetz-westfrankenbahn,RB 88,db-regionetz-verkehrs-gmbh-westfrankenbahn,rb
 db-regionetz-westfrankenbahn,RE 80,db-regionetz-verkehrs-gmbh-westfrankenbahn,re-80,#423f41,#ffffff,,rectangle,,10442,DB RegioNetz Verkehrs GmbH Westfrankenbahn
 db-regionetz-westfrankenbahn,RE 87,db-regionetz-verkehrs-gmbh-westfrankenbahn,re-87,#ff2e17,#ffffff,,rectangle,,10442,DB RegioNetz Verkehrs GmbH Westfrankenbahn
 db-regionetz-westfrankenbahn,RB 87,db-regionetz-verkehrs-gmbh-westfrankenbahn,rb-87,#ff2e17,#ffffff,,rectangle,,10442,DB RegioNetz Verkehrs GmbH Westfrankenbahn
-db-sev-hamburg-berlin,A,,,#17224b,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,B,,,#946ea8,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,B2,,,#233268,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,B3,,,#005853,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,B4,,,#0b8d85,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,C,,,#61a83b,#000000,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,C2,,,#eb4b9a,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,D,,,#58abdf,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,D2,,,#d47c27,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,F,,,#f27db1,#000000,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,G,,,#2460ad,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,H,,,#a30b14,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,J,,,#df1983,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,K,,,#0a5e30,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,L,,,#bb677a,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,M,,,#438741,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,P,,,#fdb82a,#000000,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,R,,,#f57f2b,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,RB47,,,#438741,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,RE20A,,,#6b4199,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,RE20B,,,#027099,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,RE20X,,,#f79422,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,S,,,#ee242c,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,T,,,#34b9af,#000000,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,X1,,,#2460ad,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,X4,,,#00706c,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,X8,,,#58abdf,#ffffff,,pill,,9287,DB Regio Bus Mitte
-db-sev-hamburg-berlin,X9,,,#6b4199,#ffffff,,pill,,9287,DB Regio Bus Mitte
 ding-bayer,21,,,#1488ca,#ffffff,,rectangle-rounded-corner,,13151,Bayer
 ding-bayer,36,,,#9174b2,#ffffff,,rectangle-rounded-corner,,13151,Bayer
 ding-bayer,37,,,#a65893,#ffffff,,rectangle-rounded-corner,,13151,Bayer
@@ -1266,11 +1238,10 @@ kvv-avg,S41,albtal-verkehrs-gesellschaft-mbh,4-a6s41-41,#bed730,#ffffff,,rectang
 kvv-avg,S42,albtal-verkehrs-gesellschaft-mbh,4-a6s42-42,#0097bb,#ffffff,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft
 kvv-avg,S51,albtal-verkehrs-gesellschaft-mbh,4-a6s51-51,#f69795,#ffffff,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft
 kvv-avg,S52,albtal-verkehrs-gesellschaft-mbh,4-a6s52-52,#f69795,#ffffff,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft
-kvv-avg,S53,albtal-verkehrs-gesellschaft-mbh,,#bb7a79,#ffffff,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft
 kvv-avg,S71,albtal-verkehrs-gesellschaft-mbh,4-a6s71-71,#fff200,#000000,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft
 kvv-avg,S81,albtal-verkehrs-gesellschaft-mbh,4-a6s81-81,#6e692a,#ffffff,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft
-kvv-avg,S FEX,albtal-verkehrs-gesellschaft-mbh,4-a6s1-fex,#00a76d,#ffffff,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft
-kvv-avg,S E,albtal-verkehrs-gesellschaft-mbh,4-kvv22e-e,#ffffff,#000000,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft
+kvv-avg,FEX,albtal-verkehrs-gesellschaft-mbh,4-a6s1-fex,#00a76d,#ffffff,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft
+kvv-avg,E,albtal-verkehrs-gesellschaft-mbh,4-kvv22e-e,#ffffff,#000000,,rectangle-rounded-corner,,10836,Albtal-Verkehrs-Gesellschaft
 kvv-db-bus,101,,,#a97c50,#ffffff,,circle,,11071,Friedrich Müller Omnibus GmbH
 kvv-db-bus,102,,,#c3529e,#ffffff,,circle,,11071,Friedrich Müller Omnibus GmbH
 kvv-db-bus,106,,,#8050a0,#ffffff,,circle,,11071,Friedrich Müller Omnibus GmbH
@@ -6144,6 +6115,10 @@ vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectang
 vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle,Q130343355,15337,DB Regio AG S-Bahn Stuttgart
 vvs-db-sbs,RB11,db-regio-ag-s-bahn-stuttgart,rb-11,#02aa9e,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
 vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,rb-64,#b6931d,#ffffff,,rectangle,,14827,DB-Zug  (nicht VVS)1
+vvs-db-sbs-stammstreckensperrung,RESB,,,#9c6c9c,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs-stammstreckensperrung,SEV1,,,#952168,#ffffff,,rectangle,,10980,DB ZugBus Regionalverkehr Alb-Bodensee GmbH
+vvs-db-sbs-stammstreckensperrung,SEV3,,,#952168,#ffffff,,rectangle,,10980,DB ZugBus Regionalverkehr Alb-Bodensee GmbH
+vvs-db-sbs-stammstreckensperrung,SEV3,,,#952168,#ffffff,,rectangle,,13221,"Bus SEV, nur Abellio, DB Regio, Go-Ahead"
 vvs-eberhardt,503,,,#ffffff,#47b8b8,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fischle,140,,,#f69fb3,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-flattich,502,,,#ffffff,#7da647,,rectangle,,7996,Privatunternehmer-Bus (VVS)

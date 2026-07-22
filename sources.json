@@ -666,20 +666,6 @@
         ]
     },
     {
-        "shortOperatorName": "db-sev-hamburg-berlin",
-        "contributors": [
-            {
-                "github": "wittighausen"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzplan Hamburg-Berlin Gesamtübersicht",
-                "source": "https://generalsanierung.db-ersatzverkehr.de/resource/blob/13364514/83211fdc304bf764638f4b26791529e4/Liniennetzplan-Hamburg-Berlin-Gesamtuebersicht-data.pdf"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "dsb-s-tog",
         "contributors": [
             {
@@ -6208,6 +6194,20 @@
             {
                 "name": "Liniennetzplan bwegt",
                 "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vvs-db-sbs-stammstreckensperrung",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bauarbeiten Stammstrecke vom 20. Juli – 11. September 2026",
+                "source": "https://www.vvs.de/fileadmin/5_Service/5.3_News/Redaktionell_migriert/2025_07_25_Stammstreckensperrung/Stammstreckensperrung_2026.pdf"
             }
         ]
     },
