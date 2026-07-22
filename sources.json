@@ -409,6 +409,20 @@
         ]
     },
     {
+        "shortOperatorName": "cantus",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "cantus Fahrpläne, Tarifauskunft und Beförderungsbedingungen (Gut zu wissen)",
+                "source": "https://www.cantus-bahn.de/fahrgastinformation/fahrplaene-und-tarife#c45"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "ceske-drahy",
         "contributors": [
             {
