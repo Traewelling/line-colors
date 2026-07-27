@@ -4920,6 +4920,20 @@
         ]
     },
     {
+        "shortOperatorName": "vrb-rbs",
+        "contributors": [
+            {
+                "github": "h1treX"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan Sickte – Cremlingen",
+                "source": "https://www.der-schmidt-gruppe.de/medien/2025/06/netzkarte_sickte-cremlingen.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrb-sbgs",
         "contributors": [
             {
