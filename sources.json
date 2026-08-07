@@ -6927,6 +6927,10 @@
             {
                 "name": "NachtBus-Linie N14: Fahrplan & Linienweg",
                 "source": "https://www.mobiel.de/fileadmin/user_upload/Downloads/NachtBus/N14_Fahrplan_und_Linienweg.pdf"
+            },
+            {
+                "name": "Stadtbahn SEV Sommer 2026",
+                "source": "https://www.mobiel.de/fileadmin/user_upload/Allgemein/2026_News/SEV-Sommerferien/StadtBahn_SEV_Sommer_2026.pdf"
             }
         ]
     },
