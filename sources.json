@@ -1875,6 +1875,56 @@
         ]
     },
     {
+        "shortOperatorName": "lux-rgtr",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Das nationale Busnetz 2026 RGTR",
+                "source": "https://rgtr.lu/wp-content/uploads/2026/02/DE-RGTRCARD-MAR26.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "lux-tice",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Das nationale Busnetz 2026 RGTR",
+                "source": "https://rgtr.lu/wp-content/uploads/2026/02/DE-RGTRCARD-MAR26.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "lux-vdl",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "Réseau des autobus municipaux / Städtisches Busnetz Luxembourg",
+                "source": "https://www.vdl.lu/sites/default/files/media/document/Plan%20Sch%C3%A9matique%202026-02-26_Avril%202026_FINAL.pdf"
+            },
+			{
+                "name": "City Night Bus Luxembourg",
+                "source": "https://www.vdl.lu/sites/default/files/media/ni/document/Plan%20Sch%C3%A9matique%20CNL%202024-12-02.pdf"
+            },
+            {
+                "name": "37 Bouillon - Schueberfouer / Chapelle",
+                "source": "https://www.vdl.lu/sites/default/files/styles/max_width_1400/public/media/image/2025-08/undefined.png?itok=92yUjF6g"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "mdv-lvb",
         "contributors": [
             {
