@@ -4131,6 +4131,34 @@
         ]
     },
     {
+        "shortOperatorName": "vbb-cv-bus",
+        "contributors": [
+            {
+                "github": "kpleiss"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Cottbus Stadtverkehr Tagesliniennetz, gültig ab 24. August 2026",
+                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/cottbus-tageslinien.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vbb-cv-tram",
+        "contributors": [
+            {
+                "github": "kpleiss"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Cottbus Stadtverkehr Tagesliniennetz, gültig ab 24. August 2026",
+                "source": "https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/Liniennetze/cottbus-tageslinien.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vbb-db-sbahn",
         "contributors": [
             {
