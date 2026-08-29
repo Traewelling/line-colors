@@ -3891,6 +3891,24 @@ vbb-bvg-ubahn,U6,,7-vbbbvu-6,#8c6dab,#ffffff,,rectangle,,796,Berliner Verkehrsbe
 vbb-bvg-ubahn,U7,,7-vbbbvu-7,#009bd5,#ffffff,,rectangle,,796,Berliner Verkehrsbetriebe
 vbb-bvg-ubahn,U8,,7-vbbbvu-8,#224f86,#ffffff,,rectangle,,796,Berliner Verkehrsbetriebe
 vbb-bvg-ubahn,U9,,7-vbbbvu-9,#f3791d,#ffffff,,rectangle,,796,Berliner Verkehrsbetriebe
+vbb-cv-bus,9,,,#6f2b90,#ffffff,,pill,,8585,Cottbusverkehr GmbH
+vbb-cv-bus,10,,,#f7941d,#ffffff,,pill,,8585,Cottbusverkehr GmbH
+vbb-cv-bus,11,,,#6f9db2,#ffffff,,pill,,8585,Cottbusverkehr GmbH
+vbb-cv-bus,12,,,#005aaa,#ffffff,,pill,,8585,Cottbusverkehr GmbH
+vbb-cv-bus,13,,,#00755c,#ffffff,,pill,,8585,Cottbusverkehr GmbH
+vbb-cv-bus,14,,,#e65925,#ffffff,,pill,,8585,Cottbusverkehr GmbH
+vbb-cv-bus,15,,,#cc6a2c,#ffffff,,pill,,8585,Cottbusverkehr GmbH
+vbb-cv-bus,16,,,#807b3d,#ffffff,,pill,,8585,Cottbusverkehr GmbH
+vbb-cv-bus,17,,,#8dc63f,#ffffff,,pill,,8585,Cottbusverkehr GmbH
+vbb-cv-bus,18,,,#a64251,#ffffff,,pill,,8585,Cottbusverkehr GmbH
+vbb-cv-bus,19,,,#8d64aa,#ffffff,,pill,,8585,Cottbusverkehr GmbH
+vbb-cv-bus,20,,,#da6eab,#ffffff,,pill,,8585,Cottbusverkehr GmbH
+vbb-cv-bus,24,,,#e3f3f0,#00a995,#00a995,pill,,8585,Cottbusverkehr GmbH
+vbb-cv-bus,28,,,#fae7e6,#da1c5c,#da1c5c,pill,,8585,Cottbusverkehr GmbH
+vbb-cv-tram,1,,,#fff200,#231f20,,rectangle,,8585,Cottbusverkehr GmbH
+vbb-cv-tram,2,,,#ed1c24,#ffffff,,rectangle,,8585,Cottbusverkehr GmbH
+vbb-cv-tram,3,,,#00aeef,#ffffff,,rectangle,,8585,Cottbusverkehr GmbH
+vbb-cv-tram,4,,,#00a650,#ffffff,,rectangle,,8585,Cottbusverkehr GmbH
 vbb-db-sbahn,S1,s-bahn-berlin,4-08-1,#eb588f,#ffffff,,pill,,1,S-Bahn Berlin GmbH
 vbb-db-sbahn,S15,s-bahn-berlin,4-08-15,#d474ae,#ffffff,,pill,,1,S-Bahn Berlin GmbH
 vbb-db-sbahn,S2,s-bahn-berlin,4-08-2,#047939,#ffffff,,pill,,1,S-Bahn Berlin GmbH
