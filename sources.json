@@ -1406,6 +1406,24 @@
         ]
     },
     {
+        "shortOperatorName": "hsl",
+        "contributors": [
+            {
+                "github": "hunam"
+            }
+        ],
+        "sources": [
+            {
+                "name": "HSL Reittiopas theme (Digitransit)",
+                "source": "https://github.com/HSLdevcom/digitransit-ui/blob/v3/sass/themes/hsl/_theme.scss"
+            },
+            {
+                "name": "HSL GTFS routes",
+                "source": "https://infopalvelut.storage.hsldev.com/gtfs/hsl.zip"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "hvv-akn",
         "contributors": [
             {

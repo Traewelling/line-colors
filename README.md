@@ -12,6 +12,7 @@ First, you need to determine which file to use:
 - `line-colors-CH.csv` is used for the `opentransportdata.swiss` feed (Switzerland)
 - `line-colors-LU.csv` is used for the `data.public.lu` feed (Luxembourg)
 - `line-colors-SE.csv` is used for the `resrobot.se` feed (Sweden)
+- `line-colors-FI.csv` is used for the `fi-hsl` feed (Finland)
 - `line-colors-VBN.csv` is not in use anymore, please use `line-colors.csv` instead
 
 The `line-colors.csv` contains several columns:
