@@ -88,6 +88,7 @@ avv-sbk,798,,,#004e9e,#ffffff,,circle,,14407,Koenigsbrunn Stadtbus
 avv-zzz,395,,,#008a70,#ffffff,,circle,,14555,Wittelsbacher Land 01
 avv-zzz,694,,,#6267a2,#ffffff,,circle,,14328,Stauden 02 (ab j24)
 bayerische-zugspitzbahn,RB 64,bayerische-zugspitzbahn,bzb-rb64,#6cc3d9,#ffffff,,rectangle,,10971,Bayerische Zugspitzbahn
+bentheimer-eisenbahn,RB56,,,#1b83c5,#ffffff,,rectangle-rounded-corner,,10847,Bentheimer Eisenbahn
 bob,RB91,,,#afca0b,#ffffff,,rectangle,,10867,Bodensee-Oberschwaben-Bahn
 bodo-buchmann,1 Blau,,,#009ee3,#ffffff,,rectangle,,7546,Buchmann
 bodo-buchmann,2 Rot,,,#cd1619,#ffffff,,rectangle,,7546,Buchmann
@@ -460,6 +461,21 @@ db-regio-mitte,RB82,,,#0086c2,#ffffff,,rectangle-rounded-corner,,10449,DB Regio 
 db-regio-mitte,RB83,,,#895da7,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
 db-regio-mitte,RB83,,,#895da7,#ffffff,,rectangle-rounded-corner,,10445,SÜWEX
 db-regio-mitte,RB84,,,#3777bc,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
+db-regio-nord,RB37,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB38,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB44,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB45,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB46,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB48,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB77,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB79,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB80,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB82,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RB86,,,#014895,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RE1,,,#e30513,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RE2,,,#e30513,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RE5,,,#e30513,#ffffff,,rectangle,,10435,DB Regio AG Nord
+db-regio-nord,RE9,,,#e30513,#ffffff,,rectangle,,10435,DB Regio AG Nord
 db-regio-nordost,FEX,db-regio-ag-nordost,fex19829,#79122f,#ffffff,,rectangle,Q100533383,10434,DB Regio AG Nordost
 db-regio-nordost,RB10,db-regio-ag-nordost,rb-10,#66aa22,#ffffff,,rectangle,Q15195695,10434,DB Regio AG Nordost
 db-regio-nordost,RB11,db-regio-ag-nordost,rb-11,#ed1c24,#ffffff,,rectangle,,10434,DB Regio AG Nordost
@@ -801,6 +817,8 @@ dvg-dessau,Rufbus N4,,9-nas001-n4,#000000,#ffffff,,pill,,10357,Dessauer Verkehrs
 dvg-dessau,N5,,5-nas001-n5,#000000,#ffffff,,pill,,10357,Dessauer Verkehrsgesellschaft
 dvg-dessau,N6,,5-nas001-n6,#000000,#ffffff,,pill,,10357,Dessauer Verkehrsgesellschaft
 dwe-dessau,DWE,dessau-worlitzer-eisenbahn,dwe,#ffffff,#000000,#000000,rectangle,,10357,Dessauer Verkehrsgesellschaft
+enno,RE30,,,#e30513,#ffffff,,rectangle,,10930,enno
+enno,RE50,,,#e30513,#ffffff,,rectangle,,10930,enno
 erfurter-bahn,RE12,,,#ec6607,#ffffff,,rectangle-rounded-corner,,10866,Erfurter Bahn Express
 erfurter-bahn,RB13,,,#12a537,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
 erfurter-bahn,RB21,,,#e30513,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
@@ -814,6 +832,11 @@ erfurter-bahn,RB32,,,#e30513,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Ba
 erfurter-bahn,RB40,,,#12a537,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
 erfurter-bahn,RB50,,,#008136,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
 erfurter-bahn,RB76,,,#822b86,#ffffff,,rectangle-rounded-corner,,8654,Erfurter Bahn
+erixx,RB32,,,#014895,#ffffff,,rectangle,,10966,erixx
+erixx,RB42,,,#014895,#ffffff,,rectangle,,10966,erixx
+erixx,RB43,,,#014895,#ffffff,,rectangle,,10966,erixx
+erixx,RB47,,,#014895,#ffffff,,rectangle,,10966,erixx
+erixx,RE10,,,#e30513,#ffffff,,rectangle,,10966,erixx
 hans,RB16,hanseatische-eisenbahn-gmbh,rb-16,#775fb0,#ffffff,,rectangle,,10927,Hanseatische Eisenbahn GmbH
 hans,RB33,hanseatische-eisenbahn-gmbh,rb-33,#ed1c24,#ffffff,,rectangle,,10927,Hanseatische Eisenbahn GmbH
 hans,RB34,hanseatische-eisenbahn-gmbh,rb-34,#0066ad,#ffffff,,rectangle,,10927,Hanseatische Eisenbahn GmbH
