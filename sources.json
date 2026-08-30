@@ -75,6 +75,20 @@
         ]
     },
     {
+        "shortOperatorName": "bentheimer-eisenbahn",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bentheimer Eisenbahn Liniennetz",
+                "source": "https://www.be-mobil.de/wp-content/uploads/2021/12/be_liniennetz_72dpi.jpg"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "bob",
         "contributors": [
             {
@@ -581,6 +595,20 @@
         ]
     },
     {
+        "shortOperatorName": "db-regio-nord",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Nahverkehr Niedersachsen",
+                "source": "https://assets.static-bahn.de/dam/jcr:a0122e4f-6a7f-44aa-9f03-a822614c1408/streckenfahrplan-lnvg_niedersachsen_2025.2026-05-15-08-29-54.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "db-regio-nordost",
         "contributors": [
             {
@@ -1043,6 +1071,20 @@
         ]
     },
     {
+        "shortOperatorName": "enno",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Nahverkehr Niedersachsen",
+                "source": "https://assets.static-bahn.de/dam/jcr:a0122e4f-6a7f-44aa-9f03-a822614c1408/streckenfahrplan-lnvg_niedersachsen_2025.2026-05-15-08-29-54.pdf"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "erfurter-bahn",
         "contributors": [
             {
@@ -1059,6 +1101,20 @@
             {
                 "name": "Liniennetz Erfurter Bahn & Süd-Thüringen-Bahn",
                 "source": "https://www.erfurter-bahn.de/files/efb/documents/F%C3%BCr%20Fahrg%C3%A4ste/Informationsmaterial%20zum%20Download%20neu/Liniennetz_11-24.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "erixx",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Nahverkehr Niedersachsen",
+                "source": "https://assets.static-bahn.de/dam/jcr:a0122e4f-6a7f-44aa-9f03-a822614c1408/streckenfahrplan-lnvg_niedersachsen_2025.2026-05-15-08-29-54.pdf"
             }
         ]
     },
