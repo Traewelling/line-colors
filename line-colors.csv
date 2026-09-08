@@ -5601,6 +5601,8 @@ vrr-rheinbahn,U76,,,#0063af,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
 vrr-rheinbahn,U77,,,#7197cf,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
 vrr-rheinbahn,U78,,,#009adf,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
 vrr-rheinbahn,U79,,,#009a93,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
+vrr-rheinbahn,U80,,,#006163,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
+vrr-rheinbahn,U81,,,#66908c,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
 vrr-rheinbahn,U83,,,#1d3a8f,#ffffff,,rectangle,,7762,Rheinbahn Stadtbahn
 vrr-rheinbahn,701,,,#f07d00,#ffffff,,rectangle,,7763,Rheinbahn Strab
 vrr-rheinbahn,704,,,#bd1616,#ffffff,,rectangle,,7763,Rheinbahn Strab
@@ -5687,7 +5689,6 @@ vrr-rheinbahn,836,,,#f1db68,#000000,#f1db68,rectangle,,7764,Rheinbahn Bus
 vrr-rheinbahn,839,,,#f1db68,#000000,#f1db68,rectangle,,7764,Rheinbahn Bus
 vrr-rheinbahn,863,,,#f1db68,#000000,#f1db68,rectangle,,7764,Rheinbahn Bus
 vrr-rheinbahn,891,,,#f1db68,#000000,#f1db68,rectangle,,7764,Rheinbahn Bus
-vrr-rheinbahn,896,,,#f1db68,#000000,#f1db68,rectangle,,7764,Rheinbahn Bus
 vrr-rheinbahn,O1,,,#f1db68,#000000,#f1db68,rectangle,,7764,Rheinbahn Bus
 vrr-rheinbahn,O3,,,#f1db68,#000000,#f1db68,rectangle,,7764,Rheinbahn Bus
 vrr-rheinbahn,O5,,,#f1db68,#000000,#f1db68,rectangle,,7764,Rheinbahn Bus
