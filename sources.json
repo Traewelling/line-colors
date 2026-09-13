@@ -4415,7 +4415,7 @@
         ]
     },
     {
-        "shortOperatorName": "vgc-rvs",
+        "shortOperatorName": "vgc-walz",
         "contributors": [
             {
                 "github": "wittighausen"
@@ -4443,7 +4443,7 @@
         ]
     },
     {
-        "shortOperatorName": "vgc-volz",
+        "shortOperatorName": "vgc-lb-nordost",
         "contributors": [
             {
                 "github": "wittighausen"
