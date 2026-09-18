@@ -617,10 +617,10 @@ ding-braunmiller,701,,,#3573a7,#ffffff,,rectangle-rounded-corner,,7629,Braunmill
 ding-braunmiller,702,,,#b3d172,#ffffff,,rectangle-rounded-corner,,7629,Braunmiller
 ding-braunmiller,704,,,#5893ce,#ffffff,,rectangle-rounded-corner,,7629,Braunmiller
 ding-braunmiller,706,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7629,Braunmiller
-ding-diesch-gmbh,272,,,#a0ca73,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
-ding-diesch-gmbh,280,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
-ding-diesch-gmbh,281,,,#5f69af,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
-ding-diesch-gmbh,282,,,#c9cdcf,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
+ding-diesch-gmbh,272,,,#a0ca73,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-diesch-gmbh,280,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-diesch-gmbh,281,,,#5f69af,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-diesch-gmbh,282,,,#c9cdcf,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
 ding-fromm,215,,,#c05037,#ffffff,,rectangle-rounded-corner,,7612,Fromm
 ding-fromm,242,,,#cbced0,#ffffff,,rectangle-rounded-corner,,7612,Fromm
 ding-fromm,716,,,#6ec4c6,#ffffff,,rectangle-rounded-corner,,7612,Fromm
@@ -642,7 +642,7 @@ ding-gairing,739,,,#d7dde0,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
 ding-gairing,763,,,#74519c,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
 ding-gairing,769,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
 ding-gairing,N5,,,#175da3,#ffffff,,circle,,7626,Gairing NU
-ding-gairing,Pfiffibus,,,#0096a6,#ffffff,,rectangle-rounded-corner,,9421,Pf 7
+ding-gairing,Pf 7,,,#0096a6,#ffffff,,rectangle-rounded-corner,,9421,Pfiffibus
 ding-hvg,1,,,#ffffff,#e2000e,#e2000e,circle,,13268,Heidenheimer Verkehrsgesellschaft1
 ding-hvg,2,,,#ffffff,#c6007e,#c6007e,circle,,13268,Heidenheimer Verkehrsgesellschaft1
 ding-hvg,3,,,#ffffff,#009535,#009535,circle,,13268,Heidenheimer Verkehrsgesellschaft1
@@ -776,13 +776,14 @@ ding-swu,N4,,,#19b4ea,#ffffff,,circle,,7623,SWU Verkehr
 ding-swu,N7,,,#dd4b94,#ffffff,,circle,,7623,SWU Verkehr
 ding-swu,N8,,,#f39436,#ffffff,,circle,,7623,SWU Verkehr
 ding-swu,SEV2,,,#3fad56,#ffffff,,circle,,7623,SWU Verkehr
-ding-walk,218,,,#cbced0,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,218,,,#cbced0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
 ding-walk,327,,,#9ed8f7,#ffffff,,rectangle-rounded-corner,,7620,Walk
-ding-walk,380,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7620,Walk
-ding-walk,381,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,380,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-walk,381,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
 ding-walk,382,,,#d7dde0,#ffffff,,rectangle-rounded-corner,,7620,Walk
-ding-walk,395,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,7620,Walk
-ding-walk,X380,,,#edab4c,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,382,,,#d7dde0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-walk,395,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-walk,X380,,,#edab4c,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
 ding-weidachstein,77,,,#7eb0e0,#ffffff,,rectangle-rounded-corner,,7627,Weidachstein
 ding-weidachstein,737,,,#c87a3d,#ffffff,,rectangle-rounded-corner,,7627,Weidachstein
 dingo,Blauer DINGO,,,#203b7c,#ffffff,,rectangle,,9575,Bus8
