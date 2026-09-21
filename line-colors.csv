@@ -3493,6 +3493,34 @@ rmv-vgf-ubahn,U6,,7-rmv255-6,#0082ca,#ffffff,,pill,,8639,Stadtwerke Verkehrsgese
 rmv-vgf-ubahn,U7,,7-rmv255-7,#f19e2d,#ffffff,,pill,,8639,Stadtwerke Verkehrsgesellschaft Frankfurt
 rmv-vgf-ubahn,U8,,7-rmv255-8,#ca7fbe,#ffffff,,pill,,8639,Stadtwerke Verkehrsgesellschaft Frankfurt
 rmv-vgf-ubahn,U9,,7-rmv255-9,#ffd939,#2c2e35,#2c2e35,pill,,8639,Stadtwerke Verkehrsgesellschaft Frankfurt
+roehnenergie-bus,AST 1,roehnenergie-bus,,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,AST 2,roehnenergie-bus,,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,AST 3,roehnenergie-bus,,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,AST 4,roehnenergie-bus,,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,AST 5,roehnenergie-bus,,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,AST 6,roehnenergie-bus,,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,AST 7,roehnenergie-bus,,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,AST 8,roehnenergie-bus,,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,AST 9,roehnenergie-bus,,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,AST 10,roehnenergie-bus,,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,AST 12,roehnenergie-bus,,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,AST 12,roehnenergie-bus,,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,AST 13,roehnenergie-bus,,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,AST 14,roehnenergie-bus,,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,AST 15,roehnenergie-bus,,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,AST 16,roehnenergie-bus,,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,AST 17,roehnenergie-bus,,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,AST 18,roehnenergie-bus,,#47b375,#ffffff,,pill,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,1,roehnenergie-bus,,#00b1eb,#ffffff,,circle,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,2,roehnenergie-bus,,#e30b17,#ffffff,,circle,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,3,roehnenergie-bus,,#007dc6,#ffffff,,circle,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,4,roehnenergie-bus,,#ed7004,#ffffff,,circle,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,5,roehnenergie-bus,,#afca0b,#000000,,circle,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,6,roehnenergie-bus,,#782182,#ffffff,,circle,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,7,roehnenergie-bus,,#fab400,#ffffff,,circle,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,8,roehnenergie-bus,,#003f7c,#ffffff,,circle,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,15,roehnenergie-bus,,#00803d,#ffffff,,circle,,8738,RhönEnergie Bus GmbH
+roehnenergie-bus,16,roehnenergie-bus,,#ec619f,#ffffff,,circle,,8738,RhönEnergie Bus GmbH
 rosa-rvhi,21,,,#ffffff,#f6941f,,rectangle,,12217,RVHI Regionalverkehr Hildesheim GmbH
 rosa-rvhi,22,,,#ffffff,#ee4224,,rectangle,,12217,RVHI Regionalverkehr Hildesheim GmbH
 rosa-rvhi,23,,,#ffffff,#21bdbf,,rectangle,,12217,RVHI Regionalverkehr Hildesheim GmbH

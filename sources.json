@@ -3036,6 +3036,20 @@
         ]
     },
     {
+        "shortOperatorName": "roehnenergie-bus",
+        "source": [
+            {
+                "name": "LiniennetzplanFulda",
+                "source": "https://www.regiodisplay.de/images/pdf/Liniennetzplan_Fulda.pdf"
+            }
+        ],
+        "contributors": [
+            {
+                "github": "DRSchlaubi"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "rosa-rvhi",
         "contributors": [
             {
