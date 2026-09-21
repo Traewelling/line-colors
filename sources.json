@@ -6557,20 +6557,6 @@
         ]
     },
     {
-        "shortOperatorName": "vvs-db-sbs-stammstreckensperrung",
-        "contributors": [
-            {
-                "github": "wittighausen"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Bauarbeiten Stammstrecke vom 20. Juli – 11. September 2026",
-                "source": "https://www.vvs.de/fileadmin/5_Service/5.3_News/Redaktionell_migriert/2025_07_25_Stammstreckensperrung/Stammstreckensperrung_2026.pdf"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "vvo-ferry",
         "contributors": [
             {
