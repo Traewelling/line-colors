@@ -617,10 +617,10 @@ ding-braunmiller,701,,,#3573a7,#ffffff,,rectangle-rounded-corner,,7629,Braunmill
 ding-braunmiller,702,,,#b3d172,#ffffff,,rectangle-rounded-corner,,7629,Braunmiller
 ding-braunmiller,704,,,#5893ce,#ffffff,,rectangle-rounded-corner,,7629,Braunmiller
 ding-braunmiller,706,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7629,Braunmiller
-ding-diesch-gmbh,272,,,#a0ca73,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
-ding-diesch-gmbh,280,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
-ding-diesch-gmbh,281,,,#5f69af,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
-ding-diesch-gmbh,282,,,#c9cdcf,#ffffff,,rectangle-rounded-corner,,7601,Diesch GmbH
+ding-diesch-gmbh,272,,,#a0ca73,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-diesch-gmbh,280,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-diesch-gmbh,281,,,#5f69af,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-diesch-gmbh,282,,,#c9cdcf,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
 ding-fromm,215,,,#c05037,#ffffff,,rectangle-rounded-corner,,7612,Fromm
 ding-fromm,242,,,#cbced0,#ffffff,,rectangle-rounded-corner,,7612,Fromm
 ding-fromm,716,,,#6ec4c6,#ffffff,,rectangle-rounded-corner,,7612,Fromm
@@ -642,7 +642,7 @@ ding-gairing,739,,,#d7dde0,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
 ding-gairing,763,,,#74519c,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
 ding-gairing,769,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7626,Gairing NU
 ding-gairing,N5,,,#175da3,#ffffff,,circle,,7626,Gairing NU
-ding-gairing,Pfiffibus,,,#0096a6,#ffffff,,rectangle-rounded-corner,,9421,Pf 7
+ding-gairing,Pf 7,,,#0096a6,#ffffff,,rectangle-rounded-corner,,9421,Pfiffibus
 ding-hvg,1,,,#ffffff,#e2000e,#e2000e,circle,,13268,Heidenheimer Verkehrsgesellschaft1
 ding-hvg,2,,,#ffffff,#c6007e,#c6007e,circle,,13268,Heidenheimer Verkehrsgesellschaft1
 ding-hvg,3,,,#ffffff,#009535,#009535,circle,,13268,Heidenheimer Verkehrsgesellschaft1
@@ -776,13 +776,14 @@ ding-swu,N4,,,#19b4ea,#ffffff,,circle,,7623,SWU Verkehr
 ding-swu,N7,,,#dd4b94,#ffffff,,circle,,7623,SWU Verkehr
 ding-swu,N8,,,#f39436,#ffffff,,circle,,7623,SWU Verkehr
 ding-swu,SEV2,,,#3fad56,#ffffff,,circle,,7623,SWU Verkehr
-ding-walk,218,,,#cbced0,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,218,,,#cbced0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
 ding-walk,327,,,#9ed8f7,#ffffff,,rectangle-rounded-corner,,7620,Walk
-ding-walk,380,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,7620,Walk
-ding-walk,381,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,380,,,#a9adaf,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-walk,381,,,#00b6ed,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
 ding-walk,382,,,#d7dde0,#ffffff,,rectangle-rounded-corner,,7620,Walk
-ding-walk,395,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,7620,Walk
-ding-walk,X380,,,#edab4c,#ffffff,,rectangle-rounded-corner,,7620,Walk
+ding-walk,382,,,#d7dde0,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-walk,395,,,#c6c6c6,#000000,#000000,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
+ding-walk,X380,,,#edab4c,#ffffff,,rectangle-rounded-corner,,9407,Süddeutsche Verkehrslinien
 ding-weidachstein,77,,,#7eb0e0,#ffffff,,rectangle-rounded-corner,,7627,Weidachstein
 ding-weidachstein,737,,,#c87a3d,#ffffff,,rectangle-rounded-corner,,7627,Weidachstein
 dingo,Blauer DINGO,,,#203b7c,#ffffff,,rectangle,,9575,Bus8
@@ -6058,6 +6059,361 @@ vrs-wupsi,SB23,,5-vrs003-sb23,#00a54f,#ffffff,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,SB24,,5-vrs003-sb24,#008540,#ffffff,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,SB25,,5-vrs003-sb25,#00a9e2,#ffffff,,rectangle,,9338,wupsi GmbH
 vrs-wupsi,SB42,,,#176438,#ffffff,,rectangle,,9338,wupsi GmbH
+vrt-andre,460,,,#75c696,#ffffff,,hexagon,,13481,Andre-Touristk
+vrt-andre,461,,,#5e4671,#ffffff,,hexagon,,13481,Andre-Touristk
+vrt-andre,462 RufBus,,,#ffffff,#231f20,#9a929d,pill,,13481,Andre-Touristk
+vrt-andre,462,,,#9a929d,#ffffff,,hexagon,,13481,Andre-Touristk
+vrt-andre,463,,,#504061,#ffffff,,hexagon,,13481,Andre-Touristk
+vrt-andre,464,,,#005493,#ffffff,,hexagon,,13481,Andre-Touristk
+vrt-andre,465,,,#262356,#ffffff,,hexagon,,13481,Andre-Touristk
+vrt-andre,466 RufBus,,,#ffffff,#231f20,#6e97a7,pill,,13481,Andre-Touristk
+vrt-andre,466,,,#6e97a7,#ffffff,,hexagon,,13481,Andre-Touristk
+vrt-andre,467,,,#e21860,#ffffff,,hexagon,,13481,Andre-Touristk
+vrt-andre,468,,,#f7b7d3,#ffffff,,hexagon,,13481,Andre-Touristk
+vrt-andre,469,,,#f05b83,#ffffff,,hexagon,,13481,Andre-Touristk
+vrt-andre,471,,,#73cee5,#ffffff,,hexagon,,13481,Andre-Touristk
+vrt-andre,472 RufBus,,,#ffffff,#231f20,#496a52,pill,,13481,Andre-Touristk
+vrt-andre,472,,,#496a52,#ffffff,,hexagon,,13481,Andre-Touristk
+vrt-andre,473 RufBus,,,#ffffff,#231f20,#d74f8e,pill,,13481,Andre-Touristk
+vrt-andre,473,,,#d74f8e,#ffffff,,hexagon,,13481,Andre-Touristk
+vrt-andre,474,,,#7ac470,#ffffff,,hexagon,,13481,Andre-Touristk
+vrt-andre,476,,,#f3e277,#626366,,hexagon,,13481,Andre-Touristk
+vrt-andre,477,,,#d1e174,#626366,,hexagon,,13481,Andre-Touristk
+vrt-andre,478,,,#9e76b4,#ffffff,,hexagon,,13481,Andre-Touristk
+vrt-andre,479,,,#9e6860,#ffffff,,hexagon,,13481,Andre-Touristk
+vrt-andre,480 RufBus,,,#ffffff,#231f20,#e5a924,pill,,13481,Andre-Touristk
+vrt-andre,481 RufBus,,,#ffffff,#231f20,#f7966b,pill,,13481,Andre-Touristk
+vrt-andre,482 RufBus,,,#ffffff,#231f20,#7e8eab,pill,,13481,Andre-Touristk
+vrt-andre,483 RufBus,,,#ffffff,#231f20,#f05166,pill,,13481,Andre-Touristk
+vrt-andre,484 RufBus,,,#ffffff,#231f20,#b59982,pill,,13481,Andre-Touristk
+vrt-andre,485 RufBus,,,#ffffff,#231f20,#008d84,pill,,13481,Andre-Touristk
+vrt-andre,486 RufBus,,,#ffffff,#231f20,#756c63,pill,,13481,Andre-Touristk
+vrt-bkr,300,,,#00aeef,#ffffff,,hexagon,,13881,BKR Mobility
+vrt-bkr,350,,,#6ec7b7,#ffffff,,hexagon,,13881,BKR Mobility
+vrt-bkr,351 RufBus,,,#ffffff,#231f20,#b7db9c,pill,,13881,BKR Mobility
+vrt-bkr,351,,,#b7db9c,#626366,,hexagon,,13881,BKR Mobility
+vrt-bkr,352,,,#65afbc,#ffffff,,hexagon,,13881,BKR Mobility
+vrt-bkr,353 RufBus,,,#ffffff,#231f20,#864b2f,pill,,13881,BKR Mobility
+vrt-bkr,353,,,#864b2f,#ffffff,,hexagon,,13881,BKR Mobility
+vrt-bkr,355 RufBus,,,#ffffff,#231f20,#3b161a,pill,,13881,BKR Mobility
+vrt-bkr,355,,,#3b161a,#ffffff,,hexagon,,13881,BKR Mobility
+vrt-bkr,356,,,#ed1a3a,#ffffff,,hexagon,,13881,BKR Mobility
+vrt-bkr,358 RufBus,,,#ffffff,#231f20,#407960,pill,,13881,BKR Mobility
+vrt-bkr,358,,,#407960,#ffffff,,hexagon,,13881,BKR Mobility
+vrt-bkr,555,,,#51a090,#ffffff,,hexagon,,13881,BKR Mobility
+vrt-drm,533 RufBus,,,#ffffff,#231f20,#ebea71,pill,,13876,DB Regio Bus Mitte1
+vrt-drm,533,,,#ebea71,#626366,,hexagon,,13876,DB Regio Bus Mitte1
+vrt-drm,551 RufBus,,,#ffffff,#231f20,#b85754,pill,,13876,DB Regio Bus Mitte1
+vrt-drm,551,,,#b85754,#ffffff,,hexagon,,13876,DB Regio Bus Mitte1
+vrt-drm,553 RufBus,,,#ffffff,#231f20,#84c98b,pill,,13876,DB Regio Bus Mitte1
+vrt-drm,553,,,#84c98b,#ffffff,,hexagon,,13876,DB Regio Bus Mitte1
+vrt-drm,560,,,#d16dab,#ffffff,,hexagon,,13876,DB Regio Bus Mitte1
+vrt-drm,561 RufBus,,,#ffffff,#231f20,#2d5a2b,pill,,13876,DB Regio Bus Mitte1
+vrt-drm,561,,,#2d5a2b,#ffffff,,hexagon,,13876,DB Regio Bus Mitte1
+vrt-drm,565,,,#acd58a,#ffffff,,hexagon,,13876,DB Regio Bus Mitte1
+vrt-drm,566 RufBus,,,#ffffff,#231f20,#c28b89,pill,,13876,DB Regio Bus Mitte1
+vrt-drm,566,,,#c28b89,#ffffff,,hexagon,,13876,DB Regio Bus Mitte1
+vrt-drm,567 RufBus,,,#ffffff,#231f20,#433130,pill,,13876,DB Regio Bus Mitte1
+vrt-drm,567,,,#433130,#ffffff,,hexagon,,13876,DB Regio Bus Mitte1
+vrt-drm,568,,,#683966,#ffffff,,hexagon,,13876,DB Regio Bus Mitte1
+vrt-drm,569,,,#4e94cf,#ffffff,,hexagon,,13876,DB Regio Bus Mitte1
+vrt-emv,307 RufBus,,,#ffffff,#231f20,#284d24,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,307,,,#284d24,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,308 RufBus,,,#ffffff,#231f20,#2b6ea7,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,308,,,#2b6ea7,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,309 RufBus,,,#ffffff,#231f20,#ee1f3f,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,309,,,#ee1f3f,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,310,,,#c04a46,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,311,,,#4e3e4d,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,312 RufBus,,,#ffffff,#231f20,#f58053,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,312,,,#f58053,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,313,,,#81c452,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,314 RufBus,,,#ffffff,#231f20,#9d5da6,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,314,,,#9d5da6,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,315 RufBus,,,#ffffff,#231f20,#88c984,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,315,,,#88c984,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,318 RufBus,,,#ffffff,#231f20,#e65a25,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,318,,,#e65a25,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,319 RufBus,,,#ffffff,#231f20,#284f7a,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,319,,,#284f7a,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,320,,,#f6a5c1,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,321 RufBus,,,#ffffff,#231f20,#94767a,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,321,,,#94767a,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,322,,,#9d86be,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,323,,,#ffd16c,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,324 RufBus,,,#ffffff,#231f20,#71adc2,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,324,,,#71adc2,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,325 RufBus,,,#ffffff,#231f20,#396f81,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,325,,,#396f81,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,326,,,#9a7a32,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,327,,,#c49151,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,340,,,#4dc9f5,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,341,,,#f37169,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,342 RufBus,,,#ffffff,#231f20,#48637c,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,342,,,#48637c,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,343 RufBus,,,#ffffff,#231f20,#96ae80,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,343,,,#96ae80,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,344 RufBus,,,#ffffff,#231f20,#bbd86b,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,344,,,#bbd86b,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,345,,,#f1628f,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,346 RufBus,,,#ffffff,#231f20,#009079,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,346,,,#009079,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,347 RufBus,,,#ffffff,#231f20,#c16a70,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,347,,,#c16a70,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,348,,,#f1d5a2,#626366,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,380,,,#4eaca8,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,381 RufBus,,,#ffffff,#231f20,#803939,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,381,,,#803939,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,382 RufBus,,,#ffffff,#231f20,#7d6293,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,382,,,#7d6293,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,383 RufBus,,,#ffffff,#231f20,#f05b7e,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,383,,,#f05b7e,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,386 RufBus,,,#ffffff,#231f20,#d491ab,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,386,,,#d491ab,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,387 RufBus,,,#ffffff,#231f20,#3d4fa2,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,387,,,#3d4fa2,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,388 RufBus,,,#ffffff,#231f20,#b45ba4,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,388,,,#b45ba4,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,389 RufBus,,,#ffffff,#231f20,#00b2dd,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,389,,,#00b2dd,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,434,,,#ffd990,#626366,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,435,,,#2770b8,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,436 RufBus,,,#ffffff,#231f20,#ca7d88,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,436,,,#ca7d88,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,437 RufBus,,,#ffffff,#231f20,#80bcbf,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,437,,,#80bcbf,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,438,,,#ffdc00,#626366,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,439 RufBus,,,#ffffff,#231f20,#f89f6d,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,439,,,#f89f6d,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,440,,,#b26f6c,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,441 RufBus,,,#ffffff,#231f20,#3478a1,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,441,,,#3478a1,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,442,,,#9e3a64,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,443 RufBus,,,#ffffff,#231f20,#d01873,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,443,,,#d01873,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,444,,,#758a95,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,445,,,#6b6854,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,446,,,#e384b6,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,447,,,#62ac57,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,450,,,#005587,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,451,,,#918bc3,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,452,,,#74c69d,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,453,,,#f5e583,#626366,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,454,,,#1b3182,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,455,,,#bea42a,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,456,,,#a2d8cb,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,457,,,#5d7f7c,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,458,,,#db6a64,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,459,,,#008d92,#ffffff,,hexagon,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,487 RufBus,,,#ffffff,#231f20,#faa74a,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,488 RufBus,,,#ffffff,#231f20,#6fc054,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,489 RufBus,,,#ffffff,#231f20,#00bcdf,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,490 RufBus,,,#ffffff,#231f20,#dbdea9,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,491 RufBus,,,#ffffff,#231f20,#9bcb46,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,492 RuBus,,,#ffffff,#231f20,#008fc8,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,493 RufBus,,,#ffffff,#231f20,#49a3da,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,494 RufBus,,,#ffffff,#231f20,#a57d66,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,495 RufBus,,,#ffffff,#231f20,#bc8cbf,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,496 RufBus,,,#ffffff,#231f20,#6b546a,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,497 RufBus,,,#ffffff,#231f20,#90cef1,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-emv,498 RufBus,,,#ffffff,#231f20,#e26058,pill,,8132,Eifel-Mosel Verkehrsgesellschaft
+vrt-jozi,20,,,#762b5f,#ffffff,,hexagon,,8137,Jozi-Reisen
+vrt-jozi,200,,,#f59ac2,#ffffff,,hexagon,,8137,Jozi-Reisen
+vrt-jozi,202,,,#f04664,#ffffff,,hexagon,,8137,Jozi-Reisen
+vrt-jozi,203,,,#59a04d,#ffffff,,hexagon,,8137,Jozi-Reisen
+vrt-jozi,204,,,#957b1c,#ffffff,,hexagon,,8137,Jozi-Reisen
+vrt-jozi,205,,,#524a4b,#ffffff,,hexagon,,8137,Jozi-Reisen
+vrt-jozi,208,,,#c26a64,#ffffff,,hexagon,,8137,Jozi-Reisen
+vrt-jozi,209,,,#6d8a78,#ffffff,,hexagon,,8137,Jozi-Reisen
+vrt-jozi,222,,,#90807d,#ffffff,,hexagon,,8137,Jozi-Reisen
+vrt-jozi,226,,,#339a98,#ffffff,,hexagon,,8137,Jozi-Reisen
+vrt-jozi,230,,,#e77075,#ffffff,,hexagon,,8137,Jozi-Reisen
+vrt-jozi,231,,,#cf3923,#ffffff,,hexagon,,8137,Jozi-Reisen
+vrt-jozi,232 RufBus,,,#ffffff,#231f20,#778a83,pill,,8137,Jozi-Reisen
+vrt-jozi,233,,,#0d6e78,#ffffff,,hexagon,,8137,Jozi-Reisen
+vrt-jozi,234,,,#ffd773,#626366,,hexagon,,8137,Jozi-Reisen
+vrt-jozi,236 RufBus,,,#ffffff,#231f20,#cc942e,pill,,8137,Jozi-Reisen
+vrt-jozi,237,,,#213f38,#ffffff,,hexagon,,8137,Jozi-Reisen
+vrt-jozi,238,,,#5bcbf5,#ffffff,,hexagon,,8137,Jozi-Reisen
+vrt-jozi,239,,,#9683a9,#ffffff,,hexagon,,8137,Jozi-Reisen
+vrt-jozi,240,,,#4b5eab,#ffffff,,hexagon,,8137,Jozi-Reisen
+vrt-kylltal,25,,,#ef4d9b,#ffffff,,hexagon,,8136,Müller-Kylltal
+vrt-kylltal,26,,,#c9632b,#ffffff,,hexagon,,8136,Müller-Kylltal
+vrt-kylltal,28,,,#84cec1,#ffffff,,hexagon,,8136,Müller-Kylltal
+vrt-kylltal,251,,,#b7d434,#626366,,hexagon,,8136,Müller-Kylltal
+vrt-kylltal,252,,,#44a4db,#ffffff,,hexagon,,8136,Müller-Kylltal
+vrt-kylltal,258,,,#4d7137,#ffffff,,hexagon,,8136,Müller-Kylltal
+vrt-kylltal,259,,,#54256b,#ffffff,,hexagon,,8136,Müller-Kylltal
+vrt-kylltal,260,,,#e4d882,#626366,,hexagon,,8136,Müller-Kylltal
+vrt-kylltal,261,,,#73cbcd,#ffffff,,hexagon,,8136,Müller-Kylltal
+vrt-kylltal,262,,,#ebeb7a,#626366,,hexagon,,8136,Müller-Kylltal
+vrt-kylltal,264,,,#58585a,#ffffff,,hexagon,,8136,Müller-Kylltal
+vrt-kylltal,269,,,#769aa2,#ffffff,,hexagon,,8136,Müller-Kylltal
+vrt-kylltal,281,,,#006275,#ffffff,,hexagon,,8136,Müller-Kylltal
+vrt-kylltal,282,,,#94ce8b,#ffffff,,hexagon,,8136,Müller-Kylltal
+vrt-linden,530,,,#37462d,#ffffff,,hexagon,,8130,Linden Reisen
+vrt-linden,531 RufBus,,,#ffffff,#231f20,#8f1e74,pill,,8130,Linden Reisen
+vrt-linden,531,,,#8f1e74,#ffffff,,hexagon,,8130,Linden Reisen
+vrt-linden,532 RufBus,,,#ffffff,#231f20,#8c6baf,pill,,8130,Linden Reisen
+vrt-linden,532,,,#8c6baf,#ffffff,,hexagon,,8130,Linden Reisen
+vrt-linden,534 RufBus,,,#ffffff,#231f20,#f599b2,pill,,8130,Linden Reisen
+vrt-linden,534,,,#f599b2,#ffffff,,hexagon,,8130,Linden Reisen
+vrt-linden,535 RufBus,,,#ffffff,#231f20,#f78c3d,pill,,8130,Linden Reisen
+vrt-linden,535,,,#f78c3d,#ffffff,,hexagon,,8130,Linden Reisen
+vrt-linden,536 RufBus,,,#ffffff,#231f20,#d1b3d6,pill,,8130,Linden Reisen
+vrt-linden,536,,,#d1b3d6,#626366,,hexagon,,8130,Linden Reisen
+vrt-linden,537 RufBus,,,#ffffff,#231f20,#a6ce38,pill,,8130,Linden Reisen
+vrt-linden,537,,,#a6ce38,#ffffff,,hexagon,,8130,Linden Reisen
+vrt-linden,538 RufBus,,,#ffffff,#231f20,#9370a3,pill,,8130,Linden Reisen
+vrt-linden,538,,,#9370a3,#ffffff,,hexagon,,8130,Linden Reisen
+vrt-linden,539 RufBus,,,#ffffff,#231f20,#0095c6,pill,,8130,Linden Reisen
+vrt-linden,539,,,#0095c6,#ffffff,,hexagon,,8130,Linden Reisen
+vrt-linden,540,,,#454c61,#ffffff,,hexagon,,8130,Linden Reisen
+vrt-linden,541 RufBus,,,#ffffff,#231f20,#4f9946,pill,,8130,Linden Reisen
+vrt-linden,541,,,#4f9946,#ffffff,,hexagon,,8130,Linden Reisen
+vrt-linden,542 RufBus,,,#ffffff,#231f20,#2d59a9,pill,,8130,Linden Reisen
+vrt-linden,542,,,#2d59a9,#ffffff,,hexagon,,8130,Linden Reisen
+vrt-linden,543 RufBus,,,#ffffff,#231f20,#81d4f7,pill,,8130,Linden Reisen
+vrt-linden,543,,,#81d4f7,#ffffff,,hexagon,,8130,Linden Reisen
+vrt-linden,544,,,#545746,#ffffff,,hexagon,,8130,Linden Reisen
+vrt-linden,545 RufBus,,,#ffffff,#231f20,#e9c841,pill,,8130,Linden Reisen
+vrt-linden,545,,,#e9c841,#ffffff,,hexagon,,8130,Linden Reisen
+vrt-linden,546 RufBus,,,#ffffff,#231f20,#60bc46,pill,,8130,Linden Reisen
+vrt-linden,546,,,#60bc46,#ffffff,,hexagon,,8130,Linden Reisen
+vrt-linden,549 RufBus,,,#ffffff,#231f20,#a6d27b,pill,,8130,Linden Reisen
+vrt-moselbahn,22,,,#30aad8,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,27,,,#00797f,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,220,,,#d8a984,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,221,,,#847f90,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,227,,,#fdc7a3,#626366,,hexagon,,8123,Moselbahn
+vrt-moselbahn,228,,,#f68e7d,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,229,,,#00a650,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,271,,,#76ced9,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,272,,,#49479d,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,274,,,#a1d078,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,330,,,#2062af,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,332,,,#f04f50,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,333,,,#82ca9d,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,334,,,#ffdf5e,#626366,,hexagon,,8123,Moselbahn
+vrt-moselbahn,335,,,#345343,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,360,,,#bd61a6,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,361,,,#277688,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,362,,,#937451,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,365,,,#2e3092,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,367,,,#89c765,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,368,,,#864b2f,#ffffff,,hexagon,,8123,Moselbahn
+vrt-moselbahn,369,,,#f2665b,#ffffff,,hexagon,,8123,Moselbahn
+vrt-rmb,507 RufBus,,,#ffffff,#231f20,#8dd8f8,pill,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,507,,,#8dd8f8,#626366,,hexagon,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,508 RufBus,,,#ffffff,#231f20,#b06759,pill,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,508,,,#b06759,#ffffff,,hexagon,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,509 RufBus,,,#ffffff,#231f20,#00bbce,pill,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,509,,,#00bbce,#ffffff,,hexagon,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,512 RufBus,,,#ffffff,#231f20,#c5a25d,pill,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,512,,,#c5a25d,#ffffff,,hexagon,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,513 RufBus,,,#ffffff,#231f20,#ed2891,pill,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,513,,,#ed2891,#ffffff,,hexagon,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,514 RufBus,,,#ffffff,#231f20,#5a3760,pill,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,514,,,#5a3760,#ffffff,,hexagon,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,515,,,#4cb957,#ffffff,,hexagon,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,516 RufBus,,,#ffffff,#231f20,#b05f3d,pill,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,516,,,#b05f3d,#ffffff,,hexagon,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,517 RufBus,,,#ffffff,#231f20,#ffcd5b,pill,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,517,,,#ffcd5b,#ffffff,,hexagon,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,518,,,#f37da3,#ffffff,,hexagon,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,519 RufBus,,,#ffffff,#231f20,#88cda9,pill,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,520,,,#229b89,#ffffff,,hexagon,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,521,,,#83768d,#ffffff,,hexagon,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,525 RufBus,,,#ffffff,#231f20,#ebdf55,pill,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,525,,,#ebdf55,#ffffff,,hexagon,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,526 RufBus,,,#ffffff,#231f20,#ac84bc,pill,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,526,,,#ac84bc,#ffffff,,hexagon,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,528 RufBus,,,#ffffff,#231f20,#1b467e,pill,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,528,,,#1b467e,#ffffff,,hexagon,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,529 RufBus,,,#ffffff,#231f20,#bc8e32,pill,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,529,,,#bc8e32,#ffffff,,hexagon,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,582,,,#829a7b,#ffffff,,hexagon,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-rmb,585,,,#89176a,#ffffff,,hexagon,,8125,Rhein-Mosel Verkehrsgesellschaft mbH
+vrt-saargau,235,,,#66a076,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-saargau,241,,,#fec465,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-saargau,242,,,#ef413d,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-saargau,243,,,#994f46,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-saargau,244,,,#cabbcb,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-saargau,245,,,#4bbb7f,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-saargau,246,,,#452f56,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-saargau,247,,,#0e3817,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-saargau,248,,,#a5d0cc,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-saargau,249,,,#6283c2,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-saargau,290,,,#cca5cd,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-saargau,291,,,#3b308a,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-saargau,292,,,#8a9792,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-saargau,293,,,#b0bb67,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-saargau,294,,,#668050,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-saargau,295,,,#491b2a,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-saargau,296,,,#555a63,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-saargau,297,,,#aad7a5,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-saargau,298,,,#eeb98f,#626366,,hexagon,,8124,Saargau on Tour
+vrt-saargau,299,,,#f68759,#ffffff,,hexagon,,8124,Saargau on Tour
+vrt-swt,1,,,#009036,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,2,,,#ea6ea3,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,3,,,#ffdd00,#1a171c,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,4,,,#00a992,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,5,,,#4f4794,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,6,,,#ee7f00,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,7,,,#8a1972,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,8,,,#9cb6c2,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,9,,,#c5007b,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,10,,,#cfd0d2,#1a171c,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,11,,,#955d40,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,13,,,#c9d200,#1a171c,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,14,,,#882c22,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,17 AST,,,#cfd0d2,#1a171c,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,17,,,#cfd0d2,#1a171c,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,18,,,#e2001a,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,30,,,#f4dcb1,#1a171c,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,31,,,#f1eb82,#1a171c,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,32,,,#cce4cc,#1a171c,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,50/S,,,#facea2,#080b0c,,rectangle,,8122,Stadtwerke Trier
+vrt-swt,51/S,,,#c0dfc4,#080b0c,,rectangle,,8122,Stadtwerke Trier
+vrt-swt,53/S,,,#fcf2b2,#080b0c,,rectangle,,8122,Stadtwerke Trier
+vrt-swt,55/S,,,#f6b096,#080b0c,,rectangle,,8122,Stadtwerke Trier
+vrt-swt,56/S,,,#b7dfd7,#080b0c,,rectangle,,8122,Stadtwerke Trier
+vrt-swt,57/S,,,#f6dae9,#080b0c,,rectangle,,8122,Stadtwerke Trier
+vrt-swt,58/S,,,#b6b0d7,#080b0c,,rectangle,,8122,Stadtwerke Trier
+vrt-swt,59/S,,,#d4e1e9,#080b0c,,rectangle,,8122,Stadtwerke Trier
+vrt-swt,73,,,#8ab5dd,#1a171c,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,76,,,#d2a380,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,80,,,#cce4cc,#1a171c,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,81,,,#a663a1,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,82,,,#7ab51d,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,83,,,#f5b19c,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,84,,,#0095d8,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,85,,,#f5bfd6,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,86,,,#45c0eb,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,87,,,#dab6d4,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,88,,,#d2a380,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-swt,89,,,#fcc643,#ffffff,#1a171c,pill,,8122,Stadtwerke Trier
+vrt-tempus,400,,,#aa67ab,#ffffff,,hexagon,,13181,Tempus mobil
+vrt-tempus,401,,,#1b766a,#ffffff,,hexagon,,13181,Tempus mobil
+vrt-tempus,402,,,#26461e,#ffffff,,hexagon,,13181,Tempus mobil
+vrt-tempus,406,,,#90d7ee,#ffffff,,hexagon,,13181,Tempus mobil
+vrt-tempus,408 RufBus,,,#ffffff,#231f20,#6c99cb,pill,,13181,Tempus mobil
+vrt-tempus,408,,,#6c99cb,#ffffff,,hexagon,,13181,Tempus mobil
+vrt-tempus,409,,,#d01778,#ffffff,,hexagon,,13181,Tempus mobil
+vrt-tempus,410,,,#902f1b,#ffffff,,hexagon,,13181,Tempus mobil
+vrt-tempus,420,,,#004358,#ffffff,,hexagon,,13181,Tempus mobil
+vrt-tempus,421,,,#788588,#ffffff,,hexagon,,13181,Tempus mobil
+vrt-tempus,423 RufBus,,,#ffffff,#231f20,#bd4630,pill,,13181,Tempus mobil
+vrt-tempus,423,,,#bd4630,#ffffff,,hexagon,,13181,Tempus mobil
+vrt-tempus,426 RufBus,,,#ffffff,#231f20,#f27bb0,pill,,13181,Tempus mobil
+vrt-tempus,426,,,#f27bb0,#ffffff,,hexagon,,13181,Tempus mobil
+vrt-tempus,427,,,#aec3cc,#626366,,hexagon,,13181,Tempus mobil
+vrt-tempus,428 RufBus,,,#ffffff,#231f20,#e1692e,pill,,13181,Tempus mobil
+vrt-tempus,428,,,#e1692e,#ffffff,,hexagon,,13181,Tempus mobil
+vrt-tempus,429 RufBus,,,#ffffff,#231f20,#0fc3f4,pill,,13181,Tempus mobil
+vrt-tempus,429,,,#0fc3f4,#ffffff,,hexagon,,13181,Tempus mobil
+vrt-tempus,431 RufBus,,,#ffffff,#231f20,#91ab51,pill,,13181,Tempus mobil
+vrt-tempus,431,,,#91ab51,#ffffff,,hexagon,,13181,Tempus mobil
 vsn-goevb,11,,,#ffffff,#f49800,#f49800,rectangle-rounded-corner,,12043,Göttinger Verkehrsbetriebe (GöVB)
 vsn-goevb,12,,,#f49800,#ffffff,,rectangle-rounded-corner,,12043,Göttinger Verkehrsbetriebe (GöVB)
 vsn-goevb,21,,,#ffffff,#cb1417,#cb1417,rectangle-rounded-corner,,12043,Göttinger Verkehrsbetriebe (GöVB)
