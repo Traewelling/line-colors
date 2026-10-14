@@ -6242,6 +6242,38 @@
         ]
     },
     {
+        "shortOperatorName": "vsn-rbb",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan VSN",
+                "source": "https://netzplan.vsninfo.de/maps/tlnp"
+            },
+            {
+                "name": "Liniennetzplan Stadtbus Holzminden",
+                "source": "https://www.holzminden.de/downloads/bild/linienplan-stadtbus-holzminden-900001105-25610.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vsn-uhlendorff",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan VSN",
+                "source": "https://netzplan.vsninfo.de/maps/tlnp"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vst-oebb",
         "contributors": [
             {
