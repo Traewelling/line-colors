@@ -6435,6 +6435,24 @@ vsn-goevb,73,,,#9591c6,#ffffff,#34388d,rectangle-rounded-corner,,12043,Göttinge
 vsn-goevb,80,,,#ffcc00,#000000,,rectangle-rounded-corner,,12043,Göttinger Verkehrsbetriebe (GöVB)
 vsn-goevb,91,,,#ffffff,#996598,#996598,rectangle-rounded-corner,,12043,Göttinger Verkehrsbetriebe (GöVB)
 vsn-goevb,92,,,#996598,#ffffff,,rectangle-rounded-corner,,12043,Göttinger Verkehrsbetriebe (GöVB)
+vsn-rbb,130,,,#009640,#ffffff,,rectangle-rounded-corner,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,154,,,#f7ac69,#1e1e1c,,rectangle-rounded-corner,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,155,,,#4d887c,#ffffff,,rectangle-rounded-corner,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,185,,,#007937,#ffffff,,rectangle-rounded-corner,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,501,,,#049947,#ffffff,,rectangle,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,502,,,#c8201d,#ffffff,,rectangle,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,520,,,#009741,#ffffff,,rectangle-rounded-corner,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,521,,,#f07f3c,#ffffff,,rectangle-rounded-corner,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,528,,,#58a393,#ffffff,,rectangle-rounded-corner,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,530,,,#6eb74c,#ffffff,,rectangle-rounded-corner,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,540,,,#826953,#ffffff,,rectangle-rounded-corner,,12123,Regionalbus Braunschweig GmbH
+vsn-uhlendorff,110,,,#183459,#ffffff,,rectangle-rounded-corner,,14091,Regiobus Uhlendorff GmbH & Co. KG
+vsn-uhlendorff,120,,,#e3017c,#ffffff,,rectangle-rounded-corner,,14091,Regiobus Uhlendorff GmbH & Co. KG
+vsn-uhlendorff,121,,,#dea100,#ffffff,,rectangle-rounded-corner,,14091,Regiobus Uhlendorff GmbH & Co. KG
+vsn-uhlendorff,122,,,#748dc7,#ffffff,,rectangle-rounded-corner,,14091,Regiobus Uhlendorff GmbH & Co. KG
+vsn-uhlendorff,210,,,#ec7c00,#ffffff,,rectangle-rounded-corner,,14091,Regiobus Uhlendorff GmbH & Co. KG
+vsn-uhlendorff,510,,,#5baee2,#ffffff,,rectangle-rounded-corner,,14091,Regiobus Uhlendorff GmbH & Co. KG
+vsn-uhlendorff,515,,,#005c8a,#ffffff,,rectangle-rounded-corner,,14091,Regiobus Uhlendorff GmbH & Co. KG
 vst-oebb,S1,osterreichische-bundesbahnen,4-81-1-1714993-5236532,#0fa14a,#ffffff,,rectangle-rounded-corner,,,
 vst-oebb,S3,osterreichische-bundesbahnen,4-81-3-1714993-5236532,#ed028c,#ffffff,,rectangle-rounded-corner,,,
 vst-oebb,S5,osterreichische-bundesbahnen,4-81-5-1714993-5236532,#892890,#ffffff,,rectangle-rounded-corner,,,
