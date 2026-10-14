@@ -6435,6 +6435,24 @@ vsn-goevb,73,,,#9591c6,#ffffff,#34388d,rectangle-rounded-corner,,12043,Göttinge
 vsn-goevb,80,,,#ffcc00,#000000,,rectangle-rounded-corner,,12043,Göttinger Verkehrsbetriebe (GöVB)
 vsn-goevb,91,,,#ffffff,#996598,#996598,rectangle-rounded-corner,,12043,Göttinger Verkehrsbetriebe (GöVB)
 vsn-goevb,92,,,#996598,#ffffff,,rectangle-rounded-corner,,12043,Göttinger Verkehrsbetriebe (GöVB)
+vsn-rbb,130,,,#009640,#ffffff,,rectangle-rounded-corner,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,154,,,#f7ac69,#1e1e1c,,rectangle-rounded-corner,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,155,,,#4d887c,#ffffff,,rectangle-rounded-corner,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,185,,,#007937,#ffffff,,rectangle-rounded-corner,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,501,,,#049947,#ffffff,,rectangle,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,502,,,#c8201d,#ffffff,,rectangle,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,520,,,#009741,#ffffff,,rectangle-rounded-corner,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,521,,,#f07f3c,#ffffff,,rectangle-rounded-corner,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,528,,,#58a393,#ffffff,,rectangle-rounded-corner,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,530,,,#6eb74c,#ffffff,,rectangle-rounded-corner,,12123,Regionalbus Braunschweig GmbH
+vsn-rbb,540,,,#826953,#ffffff,,rectangle-rounded-corner,,12123,Regionalbus Braunschweig GmbH
+vsn-uhlendorff,110,,,#183459,#ffffff,,rectangle-rounded-corner,,14091,Regiobus Uhlendorff GmbH & Co. KG
+vsn-uhlendorff,120,,,#e3017c,#ffffff,,rectangle-rounded-corner,,14091,Regiobus Uhlendorff GmbH & Co. KG
+vsn-uhlendorff,121,,,#dea100,#ffffff,,rectangle-rounded-corner,,14091,Regiobus Uhlendorff GmbH & Co. KG
+vsn-uhlendorff,122,,,#748dc7,#ffffff,,rectangle-rounded-corner,,14091,Regiobus Uhlendorff GmbH & Co. KG
+vsn-uhlendorff,210,,,#ec7c00,#ffffff,,rectangle-rounded-corner,,14091,Regiobus Uhlendorff GmbH & Co. KG
+vsn-uhlendorff,510,,,#5baee2,#ffffff,,rectangle-rounded-corner,,14091,Regiobus Uhlendorff GmbH & Co. KG
+vsn-uhlendorff,515,,,#005c8a,#ffffff,,rectangle-rounded-corner,,14091,Regiobus Uhlendorff GmbH & Co. KG
 vst-oebb,S1,osterreichische-bundesbahnen,4-81-1-1714993-5236532,#0fa14a,#ffffff,,rectangle-rounded-corner,,,
 vst-oebb,S3,osterreichische-bundesbahnen,4-81-3-1714993-5236532,#ed028c,#ffffff,,rectangle-rounded-corner,,,
 vst-oebb,S5,osterreichische-bundesbahnen,4-81-5-1714993-5236532,#892890,#ffffff,,rectangle-rounded-corner,,,
@@ -6963,8 +6981,9 @@ wt-argegt,190,,,#925900,#ffffff,,pill,,14381,GTNordwest
 wt-bvo,349,,5-owl021-349,#e20079,#ffffff,,pill,,14357,Lippe1
 wt-bvo,350,,5-owl021-350,#004e2d,#ffffff,,pill,,14357,Lippe1
 wt-bvo,351,,5-owl021-351,#97bf0d,#002650,,pill,,14357,Lippe1
-wt-bvo,410,,,#841d81,#ffffff,,rectangle,,9331,nph-Linienbündel 13
+wt-bvo,410,,,#841d81,#ffffff,,rectangle,,9324,nph-Linienbündel 06
 wt-bvo,411,,,#36b64b,#ffffff,,rectangle,,9324,nph-Linienbündel 06
+wt-bvo,417,,,#254668,#ffffff,,rectangle,,9324,nph-Linienbündel 06
 wt-bvo,431,,,#36b64b,#ffffff,,rectangle,,9331,nph-Linienbündel 13
 wt-bvo,432,,,#878787,#ffffff,,rectangle,,9328,nph-Linienbündel 10
 wt-bvo,470,,,#878787,#ffffff,,rectangle,,9324,nph-Linienbündel 06
@@ -7035,7 +7054,7 @@ wt-go-on,R36,,,#b18dc0,#ffffff,,rectangle,,9329,nph-Linienbündel 11
 wt-go-on,R37,,,#5b2283,#ffffff,,rectangle,,9329,nph-Linienbündel 11
 wt-go-on,R38,,,#009253,#ffffff,,rectangle,,9322,nph-Linienbündel 04
 wt-go-on,R41,,5-vph071-r41,#e08700,#ffffff,,rectangle,,9319,nph-Linienbündel 01
-wt-go-on,R42,,,#007a8a,#ffffff,,rectangle,,9331,nph-Linienbündel 13
+wt-go-on,R42,,,#007a8a,#ffffff,,rectangle,,9319,nph-Linienbündel 01
 wt-go-on,R45,,5-vph071-r45,#583b70,#ffffff,,rectangle,,9319,nph-Linienbündel 01
 wt-go-on,R46,,,#ed2927,#ffffff,,rectangle,,9319,nph-Linienbündel 01
 wt-go-on,R50,,5-vph072-r50,#95944e,#ffffff,,rectangle,,9320,nph-Linienbündel 02
@@ -7049,7 +7068,7 @@ wt-go-on,S30,,5-vph080-s30,#71b8a9,#ffffff,,rectangle,,9328,nph-Linienbündel 10
 wt-go-on,S40,,5-vph071-s40,#93b716,#ffffff,,rectangle,,9319,nph-Linienbündel 01
 wt-gronemann,R27,,,#2c3192,#ffffff,,rectangle-rounded-corner,,7808,Gronemann GmbH
 wt-gronemann,T27,,,#52a277,#ffffff,,rectangle-rounded-corner,,7808,Gronemann GmbH
-wt-holibri,HH1,,,#87b13f,#ffffff,,rectangle,,9331,nph-Linienbündel 13
+wt-holibri,HH1,,,#87b13f,#ffffff,,rectangle,,9320,nph-Linienbündel 02
 wt-holibri,HH2,,,#f07e3b,#ffffff,,rectangle,,9320,nph-Linienbündel 02
 wt-holibri,HW1,,,#1e4888,#ffffff,,rectangle,,9328,nph-Linienbündel 10
 wt-holibri,HW2,,,#00a3bf,#ffffff,,rectangle,,9328,nph-Linienbündel 10
