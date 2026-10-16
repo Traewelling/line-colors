@@ -116,6 +116,34 @@ vbn-nwb-regio-s-bahn,RS 3,#93bf30,#ffffff,,rectangle-rounded-corner,,605,NordWes
 vbn-nwb-regio-s-bahn,RS 30,#4faf3b,#ffffff,,rectangle-rounded-corner,,605,NordWestBahn
 vbn-nwb-regio-s-bahn,RS 4,#e2000b,#ffffff,,rectangle-rounded-corner,,605,NordWestBahn
 vbn-nwb-regio-s-bahn,RS 6,#899bb9,#ffffff,,rectangle-rounded-corner,,605,NordWestBahn
+vej-andreesen,481,#ec619f,#ffffff,,circle,,149,Omnibusbetrieb Andreesen
+vej-arendt,440,#800000,#ffffff,,circle,,2740,Arendt Busbetrieb GmbH
+vej-edzards,343,#3a72b8,#ffffff,,circle,,143,Hermann Edzards Omnibusbetrieb
+vej-edzards,360,#e30613,#ffffff,,circle,,143,Hermann Edzards Omnibusbetrieb
+vej-edzards,361,#1dabba,#ffffff,,circle,,143,Hermann Edzards Omnibusbetrieb
+vej-edzards,363,#c58cbd,#ffffff,,circle,,143,Hermann Edzards Omnibusbetrieb
+vej-edzards,364,#3d5f75,#ffffff,,circle,,143,Hermann Edzards Omnibusbetrieb
+vej-edzards,378,#d7c91b,#ffffff,,circle,,143,Hermann Edzards Omnibusbetrieb
+vej-edzards,379,#dd7500,#ffffff,,circle,,143,Hermann Edzards Omnibusbetrieb
+vej-edzards,413,#ce5198,#ffffff,,circle,,143,Hermann Edzards Omnibusbetrieb
+vej-jacobs,445,#b09b5c,#fffffff,,circle,,152,Jacobs Reisedienst
+vej-kreisbahn-aurich,460,#f07e31,#fffffff,,circle,,150,Kreisbahn Aurich GmbH
+vej-kreisbahn-aurich,462,#f1b908,#fffffff,,circle,,150,Kreisbahn Aurich GmbH
+vej-kreisbahn-aurich,480,#3fc0f0,#fffffff,,circle,,150,Kreisbahn Aurich GmbH
+vej-kreisbahn-aurich,490,#688816,#fffffff,,circle,,150,Kreisbahn Aurich GmbH
+vej-sw-emden,1,#e20c15,#fffffff,,rectangle-rounded-corner,,176,Stadtwerke Emden GmbH
+vej-sw-emden,2,#f19200,#ffffff,,rectangle-rounded-corner,,176,Stadtwerke Emden GmbH
+vej-sw-emden,3,#0069b4,#ffffff,,rectangle-rounded-corner,,176,Stadtwerke Emden GmbH
+vej-uffen,669,#dd7500,#ffffff,,circle,,396,Reisedienst Hinrich Uffen
+vej-web,121,#1dabba,#ffffff,,circle,,2400,Weser-Ems-Bus Betrieb Ostfriesland
+vej-web,211,#d20a11,#ffffff,,circle,,2400,Weser-Ems-Bus Betrieb Ostfriesland
+vej-web,212,#3aaa35,#ffffff,,circle,,2400,Weser-Ems-Bus Betrieb Ostfriesland
+vej-web,410,#dd7500,#ffffff,,circle,,2400,Weser-Ems-Bus Betrieb Ostfriesland
+vej-web,421,#ea5723,#ffffff,,circle,,2400,Weser-Ems-Bus Betrieb Ostfriesland
+vej-web,433,#929e6e,#ffffff,,circle,,2400,Weser-Ems-Bus Betrieb Ostfriesland
+vej-web,450,#009ba4,#ffffff,,circle,,2400,Weser-Ems-Bus Betrieb Ostfriesland
+vej-web,451,#b94d3b,#ffffff,,circle,,2400,Weser-Ems-Bus Betrieb Ostfriesland
+vej-web,621,#29a737,#ffffff,,circle,,2400,Weser-Ems-Bus Betrieb Ostfriesland
 vrb-bsvg,1,#e2000a,#ffffff,,rectangle,Q121253956,231,Braunschweiger Verkehrs-GmbH
 vrb-bsvg,1E,#e2000a,#ffffff,,rectangle,Q121253956,231,Braunschweiger Verkehrs-GmbH
 vrb-bsvg,10,#e2000a,#ffffff,,rectangle,Q121253957,231,Braunschweiger Verkehrs-GmbH
