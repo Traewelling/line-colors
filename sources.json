@@ -4373,6 +4373,118 @@
         ]
     },
     {
+        "shortOperatorName": "vej-andreesen",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Das Liniennetz vom VEJ",
+                "source": "https://www.vej-bus.de/liniennetz"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vej-arendt",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Das Liniennetz vom VEJ",
+                "source": "https://www.vej-bus.de/liniennetz"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vej-edzards",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Das Liniennetz vom VEJ",
+                "source": "https://www.vej-bus.de/liniennetz"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vej-jacobs",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Das Liniennetz vom VEJ",
+                "source": "https://www.vej-bus.de/liniennetz"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vej-kreisbahn-aurich",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Das Liniennetz vom VEJ",
+                "source": "https://www.vej-bus.de/liniennetz"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vej-sw-emden",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Stadtverkehr Emden",
+                "source": "https://www.stadtverkehr-emden.de/fileadmin/media/bilder/Liniennetzplan_ab_12.05.2025.pdf"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vej-uffen",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Das Liniennetz vom VEJ",
+                "source": "https://www.vej-bus.de/liniennetz"
+            }
+        ]
+    },
+    {
+        "shortOperatorName": "vej-web",
+        "contributors": [
+            {
+                "github": "KiloBravoBFE"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Das Liniennetz vom VEJ",
+                "source": "https://www.vej-bus.de/liniennetz"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vgi-brb",
         "contributors": [
             {
