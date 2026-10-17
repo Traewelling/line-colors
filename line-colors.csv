@@ -4095,6 +4095,34 @@ vdl,30,,,#a0d4db,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vdl,31,,,#b3a896,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vdl,32,,,#b3a896,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
 vdl,33,,,#a9ce26,#ffffff,,circle,,6,Ville de Luxembourg - Service Autobus
+vej-andreesen,481,,,#ec619f,#ffffff,,circle,,149,Omnibusbetrieb Andreesen
+vej-arendt,440,,,#800000,#ffffff,,circle,,2740,Arendt Busbetrieb GmbH
+vej-edzards,343,,,#3a72b8,#ffffff,,circle,,143,Hermann Edzards Omnibusbetrieb
+vej-edzards,360,,,#e30613,#ffffff,,circle,,143,Hermann Edzards Omnibusbetrieb
+vej-edzards,361,,,#1dabba,#ffffff,,circle,,143,Hermann Edzards Omnibusbetrieb
+vej-edzards,363,,,#c58cbd,#ffffff,,circle,,143,Hermann Edzards Omnibusbetrieb
+vej-edzards,364,,,#3d5f75,#ffffff,,circle,,143,Hermann Edzards Omnibusbetrieb
+vej-edzards,378,,,#d7c91b,#ffffff,,circle,,143,Hermann Edzards Omnibusbetrieb
+vej-edzards,379,,,#dd7500,#ffffff,,circle,,143,Hermann Edzards Omnibusbetrieb
+vej-edzards,413,,,#ce5198,#ffffff,,circle,,143,Hermann Edzards Omnibusbetrieb
+vej-jacobs,445,,,#b09b5c,#ffffff,,circle,,152,Jacobs Reisedienst
+vej-kreisbahn-aurich,460,,,#f07e31,#ffffff,,circle,,150,Kreisbahn Aurich GmbH
+vej-kreisbahn-aurich,462,,,#f1b908,#ffffff,,circle,,150,Kreisbahn Aurich GmbH
+vej-kreisbahn-aurich,480,,,#3fc0f0,#ffffff,,circle,,150,Kreisbahn Aurich GmbH
+vej-kreisbahn-aurich,490,,,#688816,#ffffff,,circle,,150,Kreisbahn Aurich GmbH
+vej-sw-emden,1,,,#e20c15,#ffffff,,rectangle-rounded-corner,,176,Stadtwerke Emden GmbH
+vej-sw-emden,2,,,#f19200,#ffffff,,rectangle-rounded-corner,,176,Stadtwerke Emden GmbH
+vej-sw-emden,3,,,#0069b4,#ffffff,,rectangle-rounded-corner,,176,Stadtwerke Emden GmbH
+vej-uffen,669,,,#dd7500,#ffffff,,circle,,396,Reisedienst Hinrich Uffen
+vej-web,121,,,#1dabba,#ffffff,,circle,,2400,Weser-Ems-Bus Betrieb Ostfriesland
+vej-web,211,,,#d20a11,#ffffff,,circle,,2400,Weser-Ems-Bus Betrieb Ostfriesland
+vej-web,212,,,#3aaa35,#ffffff,,circle,,2400,Weser-Ems-Bus Betrieb Ostfriesland
+vej-web,410,,,#dd7500,#ffffff,,circle,,2400,Weser-Ems-Bus Betrieb Ostfriesland
+vej-web,421,,,#ea5723,#ffffff,,circle,,2400,Weser-Ems-Bus Betrieb Ostfriesland
+vej-web,433,,,#929e6e,#ffffff,,circle,,2400,Weser-Ems-Bus Betrieb Ostfriesland
+vej-web,450,,,#009ba4,#ffffff,,circle,,2400,Weser-Ems-Bus Betrieb Ostfriesland
+vej-web,451,,,#b94d3b,#ffffff,,circle,,2400,Weser-Ems-Bus Betrieb Ostfriesland
+vej-web,621,,,#29a737,#ffffff,,circle,,2400,Weser-Ems-Bus Betrieb Ostfriesland
 vgc-daeuble,668,,,#d0ce11,#231f20,,rectangle,,7593,Calw VPC
 vgc-daeuble,770,,,#ec008c,#ffffff,,rectangle,,7593,Calw VPC
 vgc-eberhardt,715,,,#892b81,#ffffff,,rectangle,,14947,Linienbündel Nordwest
