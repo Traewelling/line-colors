@@ -321,16 +321,8 @@ db-regio-ag-baden-wurttemberg,RE 14a,,,#f39794,#000000,,rectangle,,10443,DB Regi
 db-regio-ag-baden-wurttemberg,RB 14a,,,#f39794,#000000,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 14b,,,#02aa9e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 14b,,,#02aa9e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,MEX 12,,,#f27320,#ffffff,,rectangle,Q131584405,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,MEX 17,,,#561d6f,#ffffff,,rectangle,Q131584401,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,MEX 17a,,,#561d6f,#ffffff,,rectangle,Q131584401,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,MEX 17c,,,#ec2933,#ffffff,,rectangle,Q131584403,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 17,,,#ec6d18,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 17,,,#561d6f,#ffffff,,rectangle,Q131584392,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,MEX 18,,,#009c48,#ffffff,,rectangle,Q131584398,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 18,,,#009c48,#ffffff,,rectangle,Q131583931,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 18,,,#009c48,#ffffff,,rectangle,Q131583989,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,MEX 19,db-regio-ag-baden-wurttemberg,19,#999999,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 26,db-regio-ag-baden-wurttemberg,rb-26,#009fe3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 27,db-regio-ag-baden-wurttemberg,rb-27,#008c3c,#ffffff,,rectangle,Q130280632,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 28,db-regio-ag-baden-wurttemberg,rb-28,#724019,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
@@ -354,7 +346,6 @@ db-regio-ag-baden-wurttemberg,RB 74,,,#0a69b2,#ffffff,,rectangle,,10443,DB Regio
 db-regio-ag-baden-wurttemberg,RB 91,,,#afca0b,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 93,,,#009fe3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 93,,,#009fe3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,MEX 90,db-regio-ag-baden-wurttemberg,90,#e5007d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 200,db-regio-ag-baden-wurttemberg,re-200,#aa0344,#ffffff,,rectangle,Q114680512,10443,DB Regio AG Baden-Württemberg
 db-regio-bayern,RB 6,db-regio-ag-bayern,rb-6,#e50000,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 db-regio-bayern,RB 10,db-regio-ag-bayern,rb-10,#90bf26,#ffffff,,rectangle,,10446,DB Regio AG Bayern
