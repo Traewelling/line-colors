@@ -1130,12 +1130,8 @@
         ],
         "sources": [
             {
-                "name": "Go-Ahead BW Netzplan",
-                "source": "https://www.go-ahead-bw.de/fileadmin/user_upload/content/unterwegs/liniennetz/GABW_Netz_A4_220315_pr.pdf"
-            },
-            {
-                "name": "Streckenfahrplan RE8/RB8 2025",
-                "source": "https://www.arverio-bw.de/fileadmin/user_upload/content/unterwegs/fahrplaene/ABW_24_StrFpl_RE8_RB8_2412-2506_web.pdf"
+                "name": "Liniennetz Arverio Baden-Württemberg ab 12.2026",
+                "source": "https://www.arverio-bw.de/fileadmin/user_upload/content/unterwegs/liniennetz/ABW_26_Liniennetz_Baden-Wuerttemberg_750x525_261015.pdf"
             }
         ]
     },
