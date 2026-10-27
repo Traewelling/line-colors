@@ -4154,9 +4154,13 @@ vgc-rab,759,,,#ffcb04,#231f20,,rectangle,,14949,Liniebündel Südost
 vgc-rab,760,,,#8a81b0,#ffffff,,rectangle,,14949,Liniebündel Südost
 vgc-rab,771,,,#8b2980,#ffffff,,rectangle,,14949,Liniebündel Südost
 vgc-rab,772,,,#ec008c,#ffffff,,rectangle,,14949,Liniebündel Südost
+vgc-rab,774,,,#fcbd97,#231f20,,rectangle,,14950,Linienbündel Oberes Gäu
 vgc-rab,775,,,#ed1c24,#ffffff,,rectangle,,14949,Liniebündel Südost
+vgc-rab,777,,,#f287b7,#ffffff,,rectangle,,14950,Linienbündel Oberes Gäu
+vgc-rab,778,,,#87c879,#ffffff,,rectangle,,14950,Linienbündel Oberes Gäu
 vgc-rab,F20,,,#8cc63f,#ffffff,,rectangle,,14952,Linienbündel Südwest Los 2
 vgc-rab,X63,,,#ec008c,#ffffff,,rectangle,,14948,Linienbündel Mitte
+vgc-rab,X77,,,#e48e19,#ffffff,,rectangle,,14950,Linienbündel Oberes Gäu
 vgc-rab,X78,,,#ffcb04,#231f20,,rectangle,,14952,Linienbündel Südwest Los 2
 vgc-teinachtal-reisen,450,,,#ed1c24,#ffffff,,rectangle,,14951,Linienbündel Südwest Los 1
 vgc-teinachtal-reisen,520,,,#ffcb04,#231f20,,rectangle,,14951,Linienbündel Südwest Los 1
@@ -6574,21 +6578,112 @@ vvo-tram,12,,8-voe011-12,#006b42,#ffffff,,rectangle-rounded-corner,Q93767629,819
 vvo-tram,13,,8-voe011-13,#fdc300,#000000,,rectangle-rounded-corner,Q93767971,8190,DVB-Straßenbahn
 vvo-tram,41,,8-voe011-41,#a7338a,#000000,,rectangle-rounded-corner,,,DVB-Straßenbahn
 vvo-tram,20,,8-voe011-20,#000000,#ffffff,,rectangle-rounded-corner,,8190,DVB-Straßenbahn
+vvs-buergerbus,BB01,,,#65ccff,#000000,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB02,,,#ff0000,#000000,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB03,,,#00b050,#000000,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB04,,,#7030a0,#ffc000,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB05,,,#e2001a,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB06,,,#0070c0,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB07,,,#ffc000,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB08,,,#009f48,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB09,,,#e2001a,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB11,,,#538dd5,#000000,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB15,,,#e30513,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB16,,,#f39200,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB17,,,#009640,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB18,,,#558d2f,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB40,,,#eb6926,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB43,,,#ac1416,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB50A,,,#89141a,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB50B,,,#014d64,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB50C,,,#dba71f,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB80,,,#99151a,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB81,,,#0172c2,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB82,,,#216e44,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB86,,,#bbd701,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB91,,,#0bb14c,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-buergerbus,BB94,,,#009edf,#ffffff,,rectangle,,7999,Privatunternehmer-Bus (nicht VVS)
+vvs-daeuble,770,,,#ec008c,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-daeuble,773,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-daeuble,773A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-dannenmann,217,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-dannenmann,217A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-dannenmann,250,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-dannenmann,331,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-dannenmann,332,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-dannenmann,333,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-dannenmann,334,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-dannenmann,335,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-dannenmann,336,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-dannenmann,337,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-dannenmann,337A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-dannenmann,338,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-dannenmann,339,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-db-sbs,RB11,db-regio-ag-s-bahn-stuttgart,rb-11,#02aa9e,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,rb-64,#b6931d,#ffffff,,rectangle,,14827,DB-Zug  (nicht VVS)1
 vvs-db-sbs,S1,db-regio-ag-s-bahn-stuttgart,4-800643-1,#59af41,#ffffff,,rectangle,Q18946157,15337,DB Regio AG S-Bahn Stuttgart
-vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,,rectangle,Q107020232,15337,DB Regio AG S-Bahn Stuttgart
 vvs-db-sbs,S2,db-regio-ag-s-bahn-stuttgart,4-800643-2,#ee1c28,#ffffff,,rectangle,Q66537943,15337,DB Regio AG S-Bahn Stuttgart
 vvs-db-sbs,S3,db-regio-ag-s-bahn-stuttgart,4-800643-3,#f36e31,#ffffff,,rectangle,Q67504621,15337,DB Regio AG S-Bahn Stuttgart
 vvs-db-sbs,S4,db-regio-ag-s-bahn-stuttgart,4-800643-4,#0166b3,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
 vvs-db-sbs,S5,db-regio-ag-s-bahn-stuttgart,4-800643-5,#00acdd,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
 vvs-db-sbs,S6,db-regio-ag-s-bahn-stuttgart,4-800643-6,#844c00,#ffffff,,rectangle,Q67501804,15337,DB Regio AG S-Bahn Stuttgart
+vvs-db-sbs,S11,db-regio-ag-s-bahn-stuttgart,4-800643-11,#59af41,#ffffff,,rectangle,Q107020232,15337,DB Regio AG S-Bahn Stuttgart
 vvs-db-sbs,S60,db-regio-ag-s-bahn-stuttgart,4-800643-60,#8a8d06,#ffffff,,rectangle,Q63952011,15337,DB Regio AG S-Bahn Stuttgart
 vvs-db-sbs,S62,db-regio-ag-s-bahn-stuttgart,4-800643-62,#c3792e,#ffffff,,rectangle,Q130343355,15337,DB Regio AG S-Bahn Stuttgart
-vvs-db-sbs,RB11,db-regio-ag-s-bahn-stuttgart,rb-11,#02aa9e,#ffffff,,rectangle,,15337,DB Regio AG S-Bahn Stuttgart
-vvs-db-sbs,RB64,db-regio-ag-s-bahn-stuttgart,rb-64,#b6931d,#ffffff,,rectangle,,14827,DB-Zug  (nicht VVS)1
-vvs-eberhardt,503,,,#ffffff,#47b8b8,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eberhardt,503,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,228,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,229,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,230,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,257,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,263,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,264,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,266,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,266A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,269,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,330,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,372,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,373,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,374,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,375,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,377,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,380,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,380A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,385,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,386,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,390,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,390A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-eisemann,391,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fischle,140,,,#f69fb3,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-flattich,502,,,#ffffff,#7da647,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-flattich,595,,,#ffffff,#ff0000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,141,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,142,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,143,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,144,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,147,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,147A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,148,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,149,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,159,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,234,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,241,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,242,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,242A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,243,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,243A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,244,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,244A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,245,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,245A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,246,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,247,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,248,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,249,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fischle,262,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-flattich,501,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-flattich,502,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-flattich,504,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-flattich,595,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-flattich,612,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-flattich,612A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-flattich,620,,,#ffffff,#00b4b5,#00b4b5,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-flattich,620A,,,#ffffff,#00b4b5,#00b4b5,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-flattich,622,,,#0000ff,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
@@ -6597,26 +6692,112 @@ vvs-flattich,623A,,,#ffffff,#ff0000,#ff0000,rectangle,,7996,Privatunternehmer-Bu
 vvs-flattich,624,,,#ff0000,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-flattich,625,,,#ff7f00,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-flattich,626,,,#4a9500,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,151,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,154,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,155,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,155A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,169,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,181,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,182,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,182A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,183,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,183E,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,184,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,185,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,185A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,186,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,195,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,196,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,201,,,#ef3867,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,201A,,,#ef3867,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,202,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,204,,,#405daa,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,206,,,#12ae4b,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,206A,,,#12ae4b,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,365,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,365A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,366,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,367,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,367A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,381,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,382,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,382A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,383,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,384,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,393,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,443,friedrich-muller-omnibusunternehmen-gmbh,5-rbgfmo-443,#009097,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,444,friedrich-muller-omnibusunternehmen-gmbh,5-rbgfmo-444,#415b70,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,444A,friedrich-muller-omnibusunternehmen-gmbh,5-rbgfmo-444a,#415b70,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-fmo,566,,,#ffffff,#000080,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-fmo,590,,,#ffffff,#800080,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-fmo,592,,,#ffffff,#ff6633,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-fmo,592A,,,#ffffff,#ff6633,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-fmo,592B,,,#ffffff,#ff6633,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,446,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,446A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,455,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,456,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,456A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,457,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,459,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,459A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,460,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,460A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,461,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,463,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,464,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,465,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,467,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,477,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,488,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,560,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,566,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,567,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,567A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,568,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,568A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,571,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,571A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,572,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,573,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,574,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,574A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,590,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,592,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,592A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,592B,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,734,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,751,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,752,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,753,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,755,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,756,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,757,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,760,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,760A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,761,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,761A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,763,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,763A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,764,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,766,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,766A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,768A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,769,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,783,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,811,,,#0095db,#ffffff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,812,,,#003869,#ffffff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,813,,,#003869,#ffffff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,814,,,#ef7d00,#ffffff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,815,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,816,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,816A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,817,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,818,,,#b54176,#ffffff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,818A,,,#d94d8d,#ffffff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,826,,,#95c11f,#ffffff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,826A,,,#95c11f,#ffffff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,827,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,828,,,#00a4da,#ffffff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,X16,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,X19,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,X46,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-fmo,X76,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-fmo,X82,,,#00a75d,#ffffff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
 vvs-frank-stoeckle,901,,,#0093d0,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-frank-stoeckle,901A,,,#0093d0,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
@@ -6632,6 +6813,8 @@ vvs-frank-stoeckle,921A,,,#7c52a1,#ffffff,,rectangle-rounded-corner,,7996,Privat
 vvs-frank-stoeckle,922,,,#bc8e32,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-frank-stoeckle,922A,,,#bc8e32,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-frank-stoeckle,997,,,#0093d0,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-hassler,748,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-hassler,748A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-hildenbrand,961,,,#c40075,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-hildenbrand,962,,,#7c4900,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-hildenbrand,963,,,#7c4900,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
@@ -6652,11 +6835,27 @@ vvs-hildenbrand,983A,,,#00a650,#ffffff,,rectangle-rounded-corner,,7996,Privatunt
 vvs-hildenbrand,984,,,#ffc707,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-hildenbrand,984A,,,#ffc707,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-hildenbrand,LT967,,,#f15a22,#ffffff,,rectangle-rounded-corner,,8002,Linientaxi
+vvs-kappus,631,,,#c92aea,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-kappus,631A,,,#93e285,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-kappus,635,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-kappus,638,,,#ffffff,#957000,#957000,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-kappus,640,,,#773ee7,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-kappus,641,,,#e76727,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-kappus,642,,,#5f70c7,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-kappus,650,,,#ffffff,#ff7f00,#ff7f00,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-kappus,651,,,#ffffff,#f16d4a,#f16d4a,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-kappus,651A,,,#ffffff,#f16d4a,#f16d4a,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-kappus,654,,,#5dd4c1,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-kappus,654A,,,#b0d26e,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-kappus,656,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-kappus,747,,,#ef7186,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-knisel,402,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-knisel,402A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-knisel,403,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-lvl,411,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-lvl,412,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-lvl,413,,5-vvs031-413,#96c2e9,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-lvl,414,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-lvl,415,,5-vvs031-415,#c6bd7f,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-lvl,420,,5-vvs031-420,#e94190,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-lvl,421,,5-vvs031-421,#969200,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
@@ -6680,6 +6879,8 @@ vvs-lvl,433A,,5-vvs031-433a,#e3d100,#000000,,rectangle,,7996,Privatunternehmer-B
 vvs-lvl,435,,,#cc9d73,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-lvl,451,,5-vvs031-451,#00b1eb,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-lvl,X43,,5-vvs031-x43,#ef7d00,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-museumsverkehr,21,,,#ffd300,#000000,,rectangle-rounded-corner,,8005,Museumsstraßenbahn (SHB)
+vvs-museumsverkehr,23,,,#990100,#ffffff,,rectangle-rounded-corner,,8005,Museumsstraßenbahn (SHB)
 vvs-nachtbus,N11,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
 vvs-nachtbus,N12,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
 vvs-nachtbus,N13,,,#004797,#ffffff,,rectangle,,7998,Nachtbus (Region)
@@ -6727,16 +6928,6 @@ vvs-nachtbus,N94,,,#ef4130,#ffffff,,rectangle,,7998,Nachtbus (Region)
 vvs-nachtbus,N96,,,#da6eab,#ffffff,,rectangle,,7998,Nachtbus (Region)
 vvs-nachtbus,N97,,,#7bafde,#ffffff,,rectangle,,7998,Nachtbus (Region)
 vvs-nachtbus,N98,,,#65c39d,#ffffff,,rectangle,,7998,Nachtbus (Region)
-vvs-osb,551,,,#ffffff,#00b050,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-osb,551A,,,#ffffff,#00b050,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-osb,554,,,#ffffff,#0070c0,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-osb,554A,,,#ffffff,#0070c0,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-osb,556,,,#ffffff,#7f6000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-osb,558,,,#ffffff,#00b0f0,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-osb,559,,,#ffffff,#44546a,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-osb,561,,,#ffffff,#7030a0,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-osb,563,,,#ffffff,#ff0000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-osb,564,,,#ffffff,#ed7d31,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-ovg,911,,,#0095da,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-ovg,911A,,,#0095da,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-ovg,912,,,#80a0d3,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
@@ -6764,17 +6955,70 @@ vvs-ovg,940,,,#00a650,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-
 vvs-ovg,941,,,#8881be,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-ovg,941A,,,#8881be,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-ovg,942,,,#f59ac2,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,170,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,171,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,173,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,173A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,174,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,175,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,175A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,176,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,177,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,177A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,205,,,#8f2a1f,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-ovr,207,,,#6a2c8c,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-ovr,208,,,#f26738,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-ovr,209,,,#bb529f,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-ovr,216,,,#352e8c,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-ovr,218,,,#184685,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-ovr,578,,,#ffffff,#ff8080,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-ovr,579,,,#ffffff,#996633,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-ovr,591A,,,#ffffff,#800000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-ovr,591,,,#ffffff,#800000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,359,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,360,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,361,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,361A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,362,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,362A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,363,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,368,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,368A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,369,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,370,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,578,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,579,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,591,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-ovr,591A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,701,,,#069cd9,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,701A,,,#069cd9,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,702,,,#4eb749,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,703,,,#bf1b7a,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,704,,,#ed372f,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,704A,,,#ed372f,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,705,,,#8f9394,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,705A,,,#8f9394,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,706,,,#52c7de,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,707,,,#f5a9b0,#221f21,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,708,,,#e9e737,#000205,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,709,,,#63bc48,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,709A,,,#63bc48,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,711,,,#0f8b44,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,717,,,#c01f73,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,717A,,,#c01f73,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,721,,,#62c082,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,721A,,,#62c082,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,722,,,#e7e638,#000205,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,722A,,,#e7e638,#000205,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,723,,,#f48228,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,723A,,,#f48228,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,725,,,#c52227,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,728,,,#0e4c9a,#fdfeff,,hexagon,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,745,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-pflieger,745A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-rab,350,,,#ec008c,#ffffff,,rectangle-rounded-corner,,7624,RAB
+vvs-rab,776,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-rab,790,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-rab,791,,,#e3000a,#ffffff,,rectangle,,14908,Bus Alb-Bodensee
+vvs-rab,794,,,#e3000a,#ffffff,,rectangle,,14908,Bus Alb-Bodensee
 vvs-rab,924,,,#c81d6f,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-rab,924A,,,#c81d6f,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-rab,950,,,#f389b8,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-rab,950A,,,#f389b8,#000000,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
 vvs-rab,951,,,#00793b,#ffffff,,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
@@ -6791,44 +7035,7 @@ vvs-relex,X10,,,#00addc,#ffffff,,rectangle,,13478,Expressbus Relex1
 vvs-relex,X20,,,#00addc,#ffffff,,rectangle,,13478,Expressbus Relex1
 vvs-relex,X60,,,#00addc,#ffffff,,rectangle,,13478,Expressbus Relex1
 vvs-relex,X92,,,#00addc,#ffffff,,rectangle,,13478,Expressbus Relex1
-vvs-relex,X93,,,#ffcb04,#000000,,rectangle-rounded-corner,,13478,Expressbus Relex1
-vvs-ruftaxi,RT92,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT161,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT163,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT165,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT202,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT206,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT217,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT380,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT386,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT413,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT663,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT670,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT753,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT759,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT760,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT763,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT766,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT775,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT779,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT780,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT782,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT783,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT791,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT828,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT904,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT915,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT916,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT917,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT918,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT920,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT922,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT924,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT934,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT935,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT941,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT971,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
-vvs-ruftaxi,RT982,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-relex,X93,,,#00addc,#ffffff,,rectangle,,13478,Expressbus Relex1
 vvs-ruftaxi,RT4,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
 vvs-ruftaxi,RT6,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
 vvs-ruftaxi,RT7,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
@@ -6837,24 +7044,91 @@ vvs-ruftaxi,RT17,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
 vvs-ruftaxi,RT37,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
 vvs-ruftaxi,RT38,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
 vvs-ruftaxi,RT39,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
-vvs-ruftaxi,RT46,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
 vvs-ruftaxi,RT70,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
-vvs-ruftaxi,RTN99,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
+vvs-ruftaxi,RT92,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT161,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT163,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT165,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT202,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT206,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT217,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
 vvs-ruftaxi,RT225,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
-vvs-ruftaxi,RT644,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
+vvs-ruftaxi,RT380,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT386,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT753,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT775,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT779,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT780,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT782,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT783,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT828,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT904,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT915,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT916,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT917,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT918,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT922,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT924,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT934,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT935,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT941,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT971,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RT982,,,#004797,#ffffff,,rectangle,,8000,Ruftaxi entlang Linie
+vvs-ruftaxi,RTN99,,,#004797,#ffffff,,rectangle,,8001,Ruftaxi nicht entlang Linie
+vvs-schlienz,107,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-schlienz,119,,,#0066b3,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-schlienz,120,,,#f5821f,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-schlienz,121,,,#3f5d70,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-schlienz,122,,,#bfb678,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-schlienz,130,,,#e5375e,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-schlienz,131,,,#e5375e,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,145,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,146,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,161,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,163,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,164,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,165,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,165A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,166,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,166A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,167,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,168,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,187,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,187A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,188,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,188A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,189,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,189A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-schlienz,210,,,#4a1d0f,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-schlienz,211,,,#9ecc3b,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,212,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,214,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,215,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,219,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,805,,,#ffffff,#000000,#f6b9cc,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,807,,,#ffffff,#000000,#f27032,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,808,,,#ffffff,#000000,#898d0b,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,808A,,,#ffffff,#000000,#898d0b,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,809,,,#ffffff,#000000,#f79d1d,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,809A,,,#ffffff,#000000,#f79d1d,rectangle-rounded-corner,,7996,Privatunternehmer-Bus (VVS)
+vvs-schlienz,X18,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-seitter,652,,,#00719d,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-seitter,653,,,#99ca3c,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-seitter,653A,,,#99ca3c,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-seitter,660,,,#e03a95,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
-vvs-ssb-bus,X2,,,#302783,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-spillmann,541,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-spillmann,542,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-spillmann,544,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-spillmann,551,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-spillmann,551A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-spillmann,554,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-spillmann,554A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-spillmann,556,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-spillmann,558,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-spillmann,559,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-spillmann,561,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-spillmann,563,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-spillmann,564,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-ssb-bus,40,,,#ec6ea6,#ffffff,,rectangle,,13477,Bus (SSB)
 vvs-ssb-bus,41,,,#e5007d,#ffffff,,rectangle,,13477,Bus (SSB)
 vvs-ssb-bus,42,,,#ef7c00,#ffffff,,rectangle,,13477,Bus (SSB)
@@ -6892,6 +7166,7 @@ vvs-ssb-bus,90,,,#d6480b,#ffffff,,rectangle,,13477,Bus (SSB)
 vvs-ssb-bus,91,,,#ef7c00,#ffffff,,rectangle,,13477,Bus (SSB)
 vvs-ssb-bus,92,,,#009ee3,#ffffff,,rectangle,,13477,Bus (SSB)
 vvs-ssb-bus,99,,,#577c5f,#ffffff,,rectangle,,13477,Bus (SSB)
+vvs-ssb-bus,X2,,,#302783,#ffffff,,rectangle,,13477,Bus (SSB)
 vvs-ssb-nachtbus,N 1,,5-vvs033-n1,#3c389e,#ffffff,,rectangle,,7997,Nachtbus (SSB)
 vvs-ssb-nachtbus,N 2,,5-vvs033-n2,#6fdaf8,#ffffff,,rectangle,,7997,Nachtbus (SSB)
 vvs-ssb-nachtbus,N 3,,5-vvs033-n3,#6fdaf8,#06429a,,rectangle,,7997,Nachtbus (SSB)
@@ -6902,15 +7177,9 @@ vvs-ssb-nachtbus,N 7,,5-vvs033-n7,#ff2e1d,#ffffff,,rectangle,,7997,Nachtbus (SSB
 vvs-ssb-nachtbus,N 8,,5-vvs033-n8,#2c2e35,#ffffff,,rectangle,,7997,Nachtbus (SSB)
 vvs-ssb-nachtbus,N 9,,5-vvs033-n9,#bb298a,#ffffff,,rectangle,,7997,Nachtbus (SSB)
 vvs-ssb-nachtbus,N 10,,5-vvs033-n10,#ff8ea5,#06429a,,rectangle,,7997,Nachtbus (SSB)
+vvs-ssb-stadtbahn,10,,8-vvs021-10,#ffb530,#24629d,,rectangle,,7994,Zahnrad-/Seilbahn
 vvs-ssb-stadtbahn,20,,3-vvs021-20,#ffb530,#24629d,,rectangle,,7994,Zahnrad-/Seilbahn
 vvs-ssb-stadtbahn,U 1,,8-vvs020-u1,#d39d70,#000000,,rectangle,,7993,Stadtbahn
-vvs-ssb-stadtbahn,U 11,,8-vvs020-u11,#9b9c9f,#ffffff,,rectangle,,7993,Stadtbahn
-vvs-ssb-stadtbahn,U 12,,8-vvs020-u12,#80c6ea,#000000,,rectangle,,7993,Stadtbahn
-vvs-ssb-stadtbahn,U 13,,8-vvs020-u13,#fea0ba,#000000,,rectangle,,7993,Stadtbahn
-vvs-ssb-stadtbahn,U 14,,8-vvs020-u14,#64c255,#000000,,rectangle,,7993,Stadtbahn
-vvs-ssb-stadtbahn,U 15,,8-vvs020-u15,#0155ae,#ffffff,,rectangle,,7993,Stadtbahn
-vvs-ssb-stadtbahn,U 16,,8-vvs020-u16,#c6c03b,#000000,,rectangle,,7993,Stadtbahn
-vvs-ssb-stadtbahn,U 19,,8-vvs020-u19,#ffb530,#000000,,rectangle,,7993,Stadtbahn
 vvs-ssb-stadtbahn,U 2,,8-vvs020-u2,#ff6a2f,#ffffff,,rectangle,,7993,Stadtbahn
 vvs-ssb-stadtbahn,U 3,,8-vvs020-u3,#925d39,#ffffff,,rectangle,,7993,Stadtbahn
 vvs-ssb-stadtbahn,U 4,,8-vvs020-u4,#6866b5,#ffffff,,rectangle,,7993,Stadtbahn
@@ -6919,7 +7188,15 @@ vvs-ssb-stadtbahn,U 6,,8-vvs020-u6,#fb3199,#ffffff,,rectangle,,7993,Stadtbahn
 vvs-ssb-stadtbahn,U 7,,8-vvs020-u7,#2bbb8f,#ffffff,,rectangle,,7993,Stadtbahn
 vvs-ssb-stadtbahn,U 8,,8-vvs020-u8,#c8b97b,#000000,,rectangle,,7993,Stadtbahn
 vvs-ssb-stadtbahn,U 9,,8-vvs020-u9,#ffd036,#000000,,rectangle,,7993,Stadtbahn
-vvs-ssb-stadtbahn,10,,8-vvs021-10,#ffb530,#24629d,,rectangle,,7994,Zahnrad-/Seilbahn
+vvs-ssb-stadtbahn,U 11,,8-vvs020-u11,#9b9c9f,#ffffff,,rectangle,,7993,Stadtbahn
+vvs-ssb-stadtbahn,U 12,,8-vvs020-u12,#80c6ea,#000000,,rectangle,,7993,Stadtbahn
+vvs-ssb-stadtbahn,U 13,,8-vvs020-u13,#fea0ba,#000000,,rectangle,,7993,Stadtbahn
+vvs-ssb-stadtbahn,U 14,,8-vvs020-u14,#64c255,#000000,,rectangle,,7993,Stadtbahn
+vvs-ssb-stadtbahn,U 15,,8-vvs020-u15,#0155ae,#ffffff,,rectangle,,7993,Stadtbahn
+vvs-ssb-stadtbahn,U 16,,8-vvs020-u16,#c6c03b,#000000,,rectangle,,7993,Stadtbahn
+vvs-ssb-stadtbahn,U 19,,8-vvs020-u19,#ffb530,#000000,,rectangle,,7993,Stadtbahn
+vvs-staebler,665,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-staebler,X74,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-sve,101,,,#ef4d9b,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-sve,102,,,#ded021,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-sve,103,,,#854d00,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
@@ -6937,7 +7214,18 @@ vvs-sve,115,,,#00addc,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-sve,118,,,#ba683d,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-sve,132,,,#8a8d07,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-sve,138,,,#bc2749,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-sw-herrenberg,780,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-sw-herrenberg,782,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-wbg,178,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-wbg,179,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-wbg,180,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-wbg,191,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-wbg,192,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-wbg,198,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-wbg,199,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-wbg,508,,5-vvs031-508,#875300,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-wbg,531,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-wbg,531A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-wbg,532,,5-vvs031-532,#5e8694,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-wbg,532A,,5-vvs031-532a,#5e8694,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-wbg,533,,5-vvs031-533,#d3a170,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
@@ -6947,10 +7235,15 @@ vvs-wbg,534A,,5-vvs031-534a,#007b3d,#ffffff,,rectangle,,7996,Privatunternehmer-B
 vvs-wbg,535,,5-vvs031-535,#c597b7,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-wbg,536,,5-vvs031-536,#f3a4b9,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-wbg,536A,,5-vvs031-536a,#f3a4b9,#000000,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-wbg,562,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvs-weg,RB 46,wurttembergische-eisenbahn-gesellschaft-mbh,weg-rb46,#561c6f,#ffffff,,rectangle,,7992,NE-Zug (VVS)
 vvs-weg,RB 47,wurttembergische-eisenbahn-gesellschaft-mbh,weg-rb47,#b0599e,#ffffff,,rectangle,,7992,NE-Zug (VVS)
 vvs-weg,RB 61,wurttembergische-eisenbahn-gesellschaft-mbh,weg-rb61,#561c6f,#ffffff,,rectangle,,7992,NE-Zug (VVS)
 vvs-weg,RB 65,wurttembergische-eisenbahn-gesellschaft-mbh,weg-rb65,#b0599e,#ffffff,,rectangle,,7992,NE-Zug (VVS)
+vvs-woehr,634,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-woehr,634A,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-woehr,636,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
+vvs-woehr,637,,,#e3000a,#ffffff,,rectangle,,7996,Privatunternehmer-Bus (VVS)
 vvt-db-regio-bayern,S7,db-regio-ag-bayern,4-800790-7,#d09eba,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 vvt-oebb,cjx1,osterreichische-bundesbahnen,cjx-1,#48c9f2,#ffffff,,rectangle,,,
 vvt-oebb,S2,osterreichische-bundesbahnen,4-81-2-1365196-5198757,#f45f98,#ffffff,,rectangle,,,

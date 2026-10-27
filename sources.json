@@ -6673,30 +6673,6 @@
         ]
     },
     {
-        "shortOperatorName": "vvs-db-sbs",
-        "contributors": [
-            {
-                "github": "jheubuch"
-            },
-            {
-                "github": "Nagiphaaa"
-            },
-            {
-                "github": "oneiricbotcelot"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Netzplan S-Bahn Stuttgart",
-                "source": "https://download.vvs.de/SBahn_Liniennetz.pdf"
-            },
-            {
-                "name": "Liniennetzplan bwegt",
-                "source": "https://www.bwegt.de/fileadmin/assets/www.bwegt.de/0000_v2/c_PDFs/Karten/bwegt_Liniennetzplan_Regionalverkehr_BW_08.12.2023_barrierefrei.pdf"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "vvo-ferry",
         "contributors": [
             {
@@ -6732,6 +6708,148 @@
         ]
     },
     {
+        "shortOperatorName": "vvs-buergerbus",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Botnanger OrtsBus",
+                "source": "https://950botnang.de/wp-content/uploads/2026/03/BOB-Fahrplan-Druckversion-final.pdf"
+            },
+			{
+                "name": "OrtsBus Feuerbach - Route 1",
+                "source": "https://woehr-tours.de/wp-content/uploads/2021/05/Flyer_Ortsbus_Feuerbach_Route-1.pdf"
+            },
+			{
+                "name": "OrtsBus Feuerbach - Route 2",
+                "source": "https://woehr-tours.de/wp-content/uploads/2021/05/Flyer_Ortsbus_Feuerbach_Route-2.pdf"
+            },
+			{
+                "name": "OrtsBus Feuerbach - Route 3",
+                "source": "https://woehr-tours.de/wp-content/uploads/2021/05/Flyer_Ortsbus_Feuerbach_Route-3.pdf"
+            },
+			{
+                "name": "OrtsBus Weilimdorf-Wolfbusch",
+                "source": "https://woehr-tours.de/wp-content/uploads/2021/05/Flyer_Ortsbus_Weilimdorf-Wolfbusch.pdf"
+            },
+			{
+                "name": "OrtsBus Hausen - Wolfbusch",
+                "source": "https://woehr-tours.de/wp-content/uploads/2021/05/Flyer_Ortsbus_Wolfbusch-Hausen.pdf"
+            },
+			{
+                "name": "Bürgerbus Wendlingen am Neckar",
+                "source": "https://cdn.website-editor.net/s/5b139b905c0c47d59f2721cabab15b7c/files/uploaded/Flyer.pdf?Expires=1794915602&Signature=F6a06DpTThC4GJmyeMn2t4Xu1Ts8p2J8TIUze3QFY5WpWN6ex7JtQf4yd9OyMFTp9SFURfqYTPY~tOTaGN8oU-sBnyN9biyLyE703q5rSnKsSSoXdEUAHm4CDggOCiWaaXNVMLnUaSJd-UV7ZbViytf5Z-DQTdk983q7ULRFYIbrqQWuP0fNM5OERuO0g~YullVlMHTtsdUUt5k9DVE6wmtFM2478CjWWObR3cJkkg-iMFFNElPhBTMWAbfAs4u~bB8H0M-Nb3mltUVGqnJvCF0-6Ft3aloyL7rjyJGuUZf2L9KNi~grE31L8J4YNTwvOPnVUmiD3wjdCUR6dbsxcw__&Key-Pair-Id=K2NXBXLF010TJW"
+            },
+			{
+                "name": "Fahrplanheft Bürgerbuch Aichwald",
+                "source": "https://www.buergerbus-aichwald.de/dokumente/upload/89e74_web_fahr_anheft_2026-kl-komprimiert.pdf"
+            },
+			{
+                "name": "Bürgerbus Frickenhausen Linsenhofen Tischardt",
+                "source": "https://www.frickenhausen.de/fileadmin/Dateien/Gemeinde_Frickenhausen/Dateien/Hauptamt/Buergerbus/Bu%CC%88rgerbus_Fahrplan2024_Homepage.pdf"
+            },
+			{
+                "name": "Verlauf der Linie BB40",
+                "source": "https://www.schillerstadt-marbach.de/fileadmin/standard/inhalt/bilder/B%C3%BCrger/B%C3%BCrgerschaftliches_Engagement/B%C3%BCrgerbus/Linienverlauf_Stand_17.02.2026.PDF"
+            },
+			{
+                "name": "Steinheimer Bürgerbus",
+                "source": "https://www.stadt-steinheim.de/leben-in-steinheim/buergerbeteiligung-engagement/buergerbus#c2619"
+            },
+			{
+                "name": "Bürgerbus Vaihingen Kernstadt",
+                "source": "https://www.buergerbus-vai.de/fileadmin/user_upload/Fahrpl%C3%A4ne/Fahrplan_Kernstadt_2026-06_vollbild.jpg"
+            },
+			{
+                "name": "Bürgerbus Aurich - Enzweihingen - Riet",
+                "source": "https://www.buergerbus-vai.de/fileadmin/user_upload/Fahrpl%C3%A4ne/Fahrplan_Suedroute.jpg"
+            },
+			{
+                "name": "Bürgerbus Aichtal Rote Route",
+                "source": "https://www.aichtal.de/fileadmin/Dateien/Buergerserviceportal/Bilder/B%C3%BCrgerbus/Flyer_2026_01.09_Rote_Route_.pdf.pdf"
+            },
+			{
+                "name": "Bürgerbus Aichtal Grüne Route",
+                "source": "https://www.aichtal.de/fileadmin/Dateien/Buergerserviceportal/Bilder/B%C3%BCrgerbus/Flyer_2026_01.09_Gr%C3%BCne_Route_.pdf.pdf"
+            },
+			{
+                "name": "Bürgerbus Aichtal Blaue Route",
+                "source": "https://www.aichtal.de/fileadmin/Dateien/Buergerserviceportal/Bilder/B%C3%BCrgerbus/Flyer_2026_01.09_Blaue_Route_.pdf.pdf"
+            },
+			{
+                "name": "Linienplan Bürgerbus Oberboihingen",
+                "source": "https://www.oberboihingen.de/fileadmin/Dateien/Website/Dateien/Sonstiges/Linienplan_Neu_2022.pdf"
+            },
+			{
+                "name": "Bürgerbus Uhingen Fahrplan",
+                "source": "https://www.uhingen.de/resources/02%20Datenobjekte/Formulare%20und%20Flyer/Ordnungsamt/B%C3%BCrgerbus/Fahrplan%20Uhinger%20B%C3%BCrgerbus%20ab%2001.08.2022%20%28PDF%29.pdf"
+            },
+			{
+                "name": "Bürgerbus Donzdorf / MEX Messelstein-Express",
+                "source": "https://www.donzdorf.de/fileadmin/Medienpool/Rathaus_Service/B%C3%BCrgerbus/Fahrplan_inkl.Liniennetz.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vvs-daeuble",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan VGC",
+                "source": "https://www.vgc-online.de/downloads/pdf/strecken-tarife/VGC-Liniennetzplan.pdf"
+            },
+			{
+                "name": "Verkehrslinienplan Herrenberg",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP14_Herrenberg.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vvs-dannenmann",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vvs-db-sbs",
+        "contributors": [
+            {
+                "github": "jheubuch"
+            },
+            {
+                "github": "Nagiphaaa"
+            },
+            {
+                "github": "oneiricbotcelot"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Netzplan S-Bahn Stuttgart",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/S-Bahn_Stadtbahn/SBahn_Liniennetz.pdf"
+            },
+            {
+                "name": "Liniennetzplan bwegt",
+                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_02-07-2026_barrierefrei.pdf"
+            }
+        ]
+    },
+	{
         "shortOperatorName": "vvs-eberhardt",
         "contributors": [
             {
@@ -6740,13 +6858,13 @@
         ],
         "sources": [
             {
-                "name": "ÖPNV – Liniennetz Vaihingen an der Enz",
-                "source": "https://www.vaihingen.de/fileadmin/Dateien/Dateien/Sonstige_Planung/00_Verkehrsentwicklungsplan_09_Kapitel_8_O__ffentlicher_Verkehr.pdf#page=11"
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
             }
         ]
     },
-    {
-        "shortOperatorName": "vvs-fischle",
+	{
+        "shortOperatorName": "vvs-eisemann",
         "contributors": [
             {
                 "github": "wittighausen"
@@ -6754,12 +6872,30 @@
         ],
         "sources": [
             {
-                "name": "Netzplan Esslingen",
-                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-esslingen.pdf"
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
             }
         ]
     },
-    {
+	{
+        "shortOperatorName": "vvs-fischle",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+			{
+                "name": "Netzplan Esslingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-esslingen.pdf"
+            },
+            {
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
+            }
+        ]
+    },
+	{
         "shortOperatorName": "vvs-flattich",
         "contributors": [
             {
@@ -6768,10 +6904,10 @@
         ],
         "sources": [
             {
-                "name": "ÖPNV – Liniennetz Vaihingen an der Enz",
-                "source": "https://www.vaihingen.de/fileadmin/Dateien/Dateien/Sonstige_Planung/00_Verkehrsentwicklungsplan_09_Kapitel_8_O__ffentlicher_Verkehr.pdf#page=11"
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
             },
-            {
+			{
                 "name": "Verkehrslinienplan Stadtverkehr - Stadtbus Ditzingen",
                 "source": "https://www.ditzingen.de/fileadmin/Dateien/Cross7/Startseite/Info_%26_Aktuelles/Verkehr/OPNV/Verkehrslinienplan_Stadtverkehr_Baustellenfahrplan.pdf"
             },
@@ -6781,21 +6917,7 @@
             }
         ]
     },
-    {
-        "shortOperatorName": "vvs-frank-stoeckle",
-        "contributors": [
-            {
-                "github": "wittighausen"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Bus-Liniennetz Landkreis Göppingen",
-                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
-            }
-        ]
-    },
-    {
+	{
         "shortOperatorName": "vvs-fmo",
         "contributors": [
             {
@@ -6811,13 +6933,41 @@
                 "name": "Fahrplan-Merker 2026",
                 "source": "https://www.waiblingen.de/ceasy/resource/?id=29535&download=1"
             },
-            {
-                "name": "ÖPNV – Liniennetz Vaihingen an der Enz",
-                "source": "https://www.vaihingen.de/fileadmin/Dateien/Dateien/Sonstige_Planung/00_Verkehrsentwicklungsplan_09_Kapitel_8_O__ffentlicher_Verkehr.pdf#page=11"
+			{
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
             }
         ]
     },
-    {
+	{
+        "shortOperatorName": "vvs-frank-stoeckle",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Bus-Liniennetz Landkreis Göppingen",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vvs-hassler",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
+            }
+        ]
+    },
+	{
         "shortOperatorName": "vvs-hildenbrand",
         "contributors": [
             {
@@ -6831,7 +6981,7 @@
             }
         ]
     },
-    {
+	{
         "shortOperatorName": "vvs-kappus",
         "contributors": [
             {
@@ -6846,10 +6996,32 @@
             {
                 "name": "Verkehrslinienplan Ditzingen",
                 "source": "https://www.ditzingen.de/fileadmin/Dateien/Cross7/Startseite/Info_%26_Aktuelles/Verkehr/OPNV/Verkehrslinienplan_Gesamtstadt_Baustellenfahrplan.pdf"
+            },
+			{
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
+            },
+			{
+                "name": "Notiz von @wittighausen: Die PDF-Version dieses Netzplanes bei Interesse bitte beim VVS anfragen, da mir Lizenz zur Weitergabe nicht bekannt ist. Danke :)",
+                "source": "https://www.leonberg.de/media/custom/4170_967_1_g.JPG?1766155100"
             }
         ]
     },
-    {
+	{
+        "shortOperatorName": "vvs-knisel",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
+            }
+        ]
+    },
+	{
         "shortOperatorName": "vvs-lvl",
         "contributors": [
             {
@@ -6864,10 +7036,28 @@
             {
                 "name": "Liniennetz Ludwigsburg (13.04. – 14.06.2026)",
                 "source": "https://ems.vvs.de/s/uPFTB"
+            },
+			{
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
             }
         ]
     },
-    {
+	{
+        "shortOperatorName": "vvs-museumsverkehr",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Oldtimerlinien",
+                "source": "https://www.shb-ev.net/web/fileadmin/images/Liniennetz_OL_525.jpg"
+            }
+        ]
+    },
+	{
         "shortOperatorName": "vvs-nachtbus",
         "contributors": [
             {
@@ -6885,21 +7075,7 @@
             }
         ]
     },
-    {
-        "shortOperatorName": "vvs-osb",
-        "contributors": [
-            {
-                "github": "wittighausen"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetz Fa. Spillmann",
-                "source": "https://www.bietigheim-bissingen.de/fileadmin/user_upload_stadtverwaltung/seitenstruktur/wirtschaft-einkaufen-verkehr/verkehr-und-mobilitaet/Mobilit%C3%A4tsplan-2035.pdf#page=30"
-            }
-        ]
-    },
-    {
+	{
         "shortOperatorName": "vvs-ovg",
         "contributors": [
             {
@@ -6913,7 +7089,7 @@
             }
         ]
     },
-    {
+	{
         "shortOperatorName": "vvs-ovr",
         "contributors": [
             {
@@ -6925,13 +7101,31 @@
                 "name": "Fahrplan-Merker 2026",
                 "source": "https://www.waiblingen.de/ceasy/resource/?id=29535&download=1"
             },
-            {
-                "name": "ÖPNV – Liniennetz Vaihingen an der Enz",
-                "source": "https://www.vaihingen.de/fileadmin/Dateien/Dateien/Sonstige_Planung/00_Verkehrsentwicklungsplan_09_Kapitel_8_O__ffentlicher_Verkehr.pdf#page=11"
+			{
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
             }
         ]
     },
-    {
+	{
+        "shortOperatorName": "vvs-pflieger",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Stadtverkehr Böblingen-Sindelfingen",
+                "source": "https://www.pflieger.net/fileadmin/bilder/3.2-Liniennetz/Liniennetz_BB_SiFi_2025_abAugust.pdf"
+            },
+			{
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
+            }
+        ]
+    },
+	{
         "shortOperatorName": "vvs-rab",
         "contributors": [
             {
@@ -6942,10 +7136,14 @@
             {
                 "name": "Bus-Liniennetz Landkreis Göppingen",
                 "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
+            },
+			{
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
             }
         ]
     },
-    {
+	{
         "shortOperatorName": "vvs-relex",
         "contributors": [
             {
@@ -6956,14 +7154,10 @@
             {
                 "name": "Expressbus-Liniennetz",
                 "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Expressbus-Liniennetz.pdf"
-            },
-            {
-                "name": "Bus-Liniennetz Landkreis Göppingen",
-                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Bus/Netzplan-G%C3%B6ppingen.pdf"
             }
         ]
     },
-    {
+	{
         "shortOperatorName": "vvs-ruftaxi",
         "contributors": [
             {
@@ -6977,7 +7171,7 @@
             }
         ]
     },
-    {
+	{
         "shortOperatorName": "vvs-schlienz",
         "contributors": [
             {
@@ -6992,10 +7186,18 @@
             {
                 "name": "Fahrplan-Merker 2026",
                 "source": "https://www.waiblingen.de/ceasy/resource/?id=29535&download=1"
+            },
+			{
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
+            },
+			{
+                "name": "Flughafen/Messe Liniennetzanbindung",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Weitere_Plaene/Liniennetz_Flughafen_Messe.pdf"
             }
         ]
     },
-    {
+	{
         "shortOperatorName": "vvs-seitter",
         "contributors": [
             {
@@ -7009,7 +7211,21 @@
             }
         ]
     },
-    {
+	{
+        "shortOperatorName": "vvs-spillmann",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
+            }
+        ]
+    },
+	{
         "shortOperatorName": "vvs-ssb-bus",
         "contributors": [
             {
@@ -7023,7 +7239,7 @@
             }
         ]
     },
-    {
+	{
         "shortOperatorName": "vvs-ssb-nachtbus",
         "contributors": [
             {
@@ -7054,7 +7270,21 @@
             }
         ]
     },
-    {
+	{
+        "shortOperatorName": "vvs-staebler",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
+            }
+        ]
+    },
+	{
         "shortOperatorName": "vvs-sve",
         "contributors": [
             {
@@ -7068,7 +7298,21 @@
             }
         ]
     },
-    {
+	{
+        "shortOperatorName": "vvs-sw-herrenberg",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
+            }
+        ]
+    },
+	{
         "shortOperatorName": "vvs-wbg",
         "contributors": [
             {
@@ -7079,10 +7323,14 @@
             {
                 "name": "Bus-Liniennetz Stadtgebiet Ludwigsburg ab 11.12.2022",
                 "source": "https://www.lvl-jaeger.de/fileadmin/LVL-Material/06_Tarife/Netzplan-Ludwigsburg_2023.svg"
+            },
+			{
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
             }
         ]
     },
-    {
+	{
         "shortOperatorName": "vvs-weg",
         "contributors": [
             {
@@ -7095,7 +7343,21 @@
         "sources": [
             {
                 "name": "Liniennetzplan bwegt",
-                "source": "https://www2.bwegt.de/fileadmin/assets/media/PDF/Karten/Liniennetzplan/bwegt_Karte_Liniennetzplan_Regionalverkehr_19.07.2024_barrierefrei.pdf"
+                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_02-07-2026_barrierefrei.pdf"
+            }
+        ]
+    },
+	{
+        "shortOperatorName": "vvs-woehr",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Verkehrslinienplan Verbundraum",
+                "source": "https://www.vvs.de/fileadmin/2_Verbindungen_und_Mobilitaet/2.3_Liniennetz_und_Tarifzonenplan/Verkehrslinienpl%C3%A4ne/VLP17_Verbundraum.pdf"
             }
         ]
     },
