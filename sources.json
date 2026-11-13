@@ -5247,6 +5247,24 @@
         ]
     },
     {
+        "shortOperatorName": "vrm-koveb",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan Koblenz Tagnetz",
+                "source": "https://www.koveb.de/liniennetz/liniennetzplan-tag-2026-koveb.pdf?cid=3ktf"
+            },
+            {
+                "name": "Liniennetzplan Koblenz Nachtnetz",
+                "source": "https://www.koveb.de/liniennetz/liniennetzplan-nacht-2026-koveb.pdf?cid=3kte"
+            }
+        ]
+    },
+    {
         "shortOperatorName": "vrn-behles",
         "contributors": [
             {
