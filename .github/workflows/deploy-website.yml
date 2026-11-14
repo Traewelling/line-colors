@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7
       - name: Validate datasets
-        run: python3 validation/check.py
+        run: python3 .github/workflows/check.py
 
   deploy:
     needs: [validate]
