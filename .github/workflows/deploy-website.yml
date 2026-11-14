@@ -2,36 +2,35 @@ name: "Validate and deploy website"
 
 on:
   push:
+    branches: [main]
   pull_request:
+
+permissions:
+  contents: read
 
 jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Setup PHP
-        uses: shivammathur/setup-php@v2
-        with:
-          php-version: 8.2
-      - name: Test validators
-        working-directory: ./validation
-        run: php test.php
-      - name: Validate line-colors.csv
-        working-directory: ./validation
-        run: php check.php
+      - uses: actions/checkout@v7
+      - name: Validate datasets
+        run: python3 validation/check.py
 
   deploy:
     needs: [validate]
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
+    permissions:
+      contents: write
+    concurrency: deploy-website
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v7
 
       - name: Copy datasets
         run: cp line-colors*.csv website/
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./website
