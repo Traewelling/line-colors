@@ -27,14 +27,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Setup PHP
-        uses: shivammathur/setup-php@v2
-        with:
-          php-version: 8.2
-
-      - name: Write out Website
-        working-directory: ./website
-        run: php index.php > index.html && rm index.php
+      - name: Copy datasets
+        run: cp line-colors*.csv website/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
