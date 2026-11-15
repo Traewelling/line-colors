@@ -3968,20 +3968,6 @@
         ]
     },
     {
-        "shortOperatorName": "svg-stuttgart",
-        "contributors": [
-            {
-                "github": "wittighausen"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzkarte Regionalverkehr 2026",
-                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_16-11-2025_barrierefrei.pdf"
-            }
-        ]
-    },
-    {
         "shortOperatorName": "svv-brb",
         "contributors": [
             {
