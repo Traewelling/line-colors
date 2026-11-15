@@ -327,22 +327,22 @@ db-regio-ag-baden-wurttemberg,RB 32,,,#008c3c,#ffffff,,rectangle,Q142163938,1044
 db-regio-ag-baden-wurttemberg,RB 37,,,#aec90a,#ffffff,,rectangle,Q130283617,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 42,,,#088c3c,#ffffff,,rectangle,Q142164210,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 50,,,#b5931c,#ffffff,,rectangle,Q142164358,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 52,,,#00a99d,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 53,,,#561c6f,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 55,,,#b0599e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 55,,,#b0599e,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 63,,,#d30730,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 68,,,#ec2933,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 52,,,#00a99d,#ffffff,,rectangle,Q142175287,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 53,,,#0065b2,#ffffff,,rectangle,Q142175353,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 53a,,,#541f68,#ffffff,,rectangle,Q142175409,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 53b,,,#ba932f,#ffffff,,rectangle,Q142175423,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RE 55,,,#b0599e,#ffffff,,rectangle,Q142175438,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 63,,,#d30730,#ffffff,,rectangle,Q142175585,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 68,,,#ec2933,#ffffff,,rectangle,Q121096307,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 71,,,#b6921d,#ffffff,,rectangle,Q131584454,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RB 71,,,#ec2933,#ffffff,,rectangle,Q131584394,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 72,,,#008c3c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 74,,,#0a69b2,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 86,,,#e4007c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 87,,,#9f5a2c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 90,,,#e4007c,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 91,,,#afca0b,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RB 93,,,#009fe3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
-db-regio-ag-baden-wurttemberg,RE 93,,,#009fe3,#ffffff,,rectangle,,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 72,,,#008c3c,#ffffff,,rectangle,Q142175615,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 74,,,#0a69b2,#ffffff,,rectangle,Q15824569,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 86,,,#e4007c,#ffffff,,rectangle,Q142175645,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RE 87,,,#9f5a2c,#ffffff,,rectangle,Q142175658,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RE 90,,,#e4007c,#ffffff,,rectangle,Q64512220,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 91,,,#afca0b,#ffffff,,rectangle,Q142175704,10443,DB Regio AG Baden-Württemberg
+db-regio-ag-baden-wurttemberg,RB 93,,,#009fe3,#ffffff,,rectangle,Q142175726,10443,DB Regio AG Baden-Württemberg
 db-regio-ag-baden-wurttemberg,RE 200,db-regio-ag-baden-wurttemberg,re-200,#aa0344,#ffffff,,rectangle,Q114680512,10443,DB Regio AG Baden-Württemberg
 db-regio-bayern,RB 6,db-regio-ag-bayern,rb-6,#e50000,#ffffff,,rectangle,,10446,DB Regio AG Bayern
 db-regio-bayern,RB 10,db-regio-ag-bayern,rb-10,#90bf26,#ffffff,,rectangle,,10446,DB Regio AG Bayern
@@ -3765,7 +3765,7 @@ sweg-sudwest,RB59a,,,#ffc734,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs
 sweg-sudwest,RB66,,,#014f9f,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
 sweg-sudwest,RE66,,,#014f9f,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
 sweg-sudwest,RB67,,,#00a9df,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
-sweg-sudwest,RB68,,,#ec2933,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
+sweg-sudwest,RB68,,,#ec2933,#ffffff,,rectangle,Q121096307,10939,Südwestdeutsche Verkehrs-AG
 sweg-sudwest,RB68a,,,#d30630,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
 sweg-sudwest,RB69,,,#f27320,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
 sweg-sudwest,RB76,,,#aa0044,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
