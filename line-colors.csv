@@ -3184,7 +3184,7 @@ pid-prague,C,dopravni-podnik-hl-m-prahy,7-540001-c,#ee1d23,#ffffff,,rectangle,,,
 polregio,RB91,polregio,r-91,#eb7405,#ffffff,,rectangle,,,
 regio-s-bahn-donau-iller,RS 2,,,#901411,#ffffff,,pill,,10443,DB Regio AG Baden-Württemberg
 regio-s-bahn-donau-iller,RS 21,,,#e92a1c,#ffffff,,pill,,10443,DB Regio AG Baden-Württemberg
-regio-s-bahn-donau-iller,RS 3,,,#62358a,#ffffff,,pill,,,
+regio-s-bahn-donau-iller,RS 3,,,#62358a,#ffffff,,pill,Q141633289,,
 regio-s-bahn-donau-iller,RS 5,,,#00622e,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
 regio-s-bahn-donau-iller,RS 51,,,#43aa2c,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
 regio-s-bahn-donau-iller,RS 7,,,#234997,#ffffff,,pill,,10446,DB Regio AG Bayern
@@ -3743,7 +3743,6 @@ sued-thueringen-bahn,RE45,,,#008136,#ffffff,,rectangle-rounded-corner,,10941,Sü
 sued-thueringen-bahn,RB46,,,#12a537,#ffffff,,rectangle-rounded-corner,,10942,Süd-Thüringen-Bahn
 sued-thueringen-bahn,RB48,,,#0096d7,#ffffff,,rectangle-rounded-corner,,10942,Süd-Thüringen-Bahn
 sued-thueringen-bahn,RE50,,,#ec6607,#ffffff,,rectangle-rounded-corner,,10941,Süd-Thüringen-Bahn Express
-svg-stuttgart,RE4,,,#a05a2c,#ffffff,,rectangle,,10954,Nebenbahn Vaihingen-Enzweihingen
 svv-brb,S3,bayerische-regiobahn,4-l8-s3,#3ab048,#ffffff,,rectangle-rounded-corner,,10969,Bayerische Regiobahn
 svv-brb,S4,bayerische-regiobahn,4-l8-s4,#9764ac,#ffffff,,rectangle-rounded-corner,,10969,Bayerische Regiobahn
 svv-oebb,R3,osterreichische-bundesbahnen,r-3,#99be41,#ffffff,,rectangle-rounded-corner,,13396,Österreichische Bundesbahnen
@@ -3755,25 +3754,25 @@ svv-oebb,S3,osterreichische-bundesbahnen,4-81-3-1451275-5318936,#3ab048,#ffffff,
 svv-slb,R33,salzburger-lokalbahnen,,#c22438,#ffffff,,rectangle-rounded-corner,,,
 svv-slb,S1,salzburger-lokalbahnen,4-810007-1,#c22438,#ffffff,,rectangle-rounded-corner,,,
 svv-slb,S11,salzburger-lokalbahnen,4-810007-11,#c22438,#ffffff,,rectangle-rounded-corner,,,
-sweg-sudwest,RE4,,,#a05a2c,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
 sweg-sudwest,RB42,,,#088c3c,#ffffff,,rectangle,Q142164210,10939,Südwestdeutsche Verkehrs-AG
-sweg-sudwest,RB42a,,,#f06c1c,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
-sweg-sudwest,RE42,,,#088c3c,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
-sweg-sudwest,RB43,,,#089ce4,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
-sweg-sudwest,RB43a,,,#b8941c,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
-sweg-sudwest,RB59a,,,#ffc734,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
-sweg-sudwest,RB66,,,#014f9f,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
-sweg-sudwest,RE66,,,#014f9f,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
-sweg-sudwest,RB67,,,#00a9df,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
+sweg-sudwest,RB42a,,,#f06c1c,#ffffff,,rectangle,Q142175919,10939,Südwestdeutsche Verkehrs-AG
+sweg-sudwest,RE42,,,#088c3c,#ffffff,,rectangle,Q142175963,10939,Südwestdeutsche Verkehrs-AG
+sweg-sudwest,RB43,,,#089ce4,#ffffff,,rectangle,Q142176424,10939,Südwestdeutsche Verkehrs-AG
+sweg-sudwest,RB43a,,,#b8941c,#ffffff,,rectangle,Q142176521,10939,Südwestdeutsche Verkehrs-AG
+sweg-sudwest,RB59a,,,#ffc734,#ffffff,,rectangle,Q142176531,10939,Südwestdeutsche Verkehrs-AG
+sweg-sudwest,RB66,,,#014f9f,#ffffff,,rectangle,Q142176548,10939,Südwestdeutsche Verkehrs-AG
+sweg-sudwest,RE66,,,#014f9f,#ffffff,,rectangle,Q142176559,10939,Südwestdeutsche Verkehrs-AG
+sweg-sudwest,RB67,,,#00a9df,#ffffff,,rectangle,Q142176564,10939,Südwestdeutsche Verkehrs-AG
 sweg-sudwest,RB68,,,#ec2933,#ffffff,,rectangle,Q121096307,10939,Südwestdeutsche Verkehrs-AG
-sweg-sudwest,RB68a,,,#d30630,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
-sweg-sudwest,RB69,,,#f27320,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
-sweg-sudwest,RB76,,,#aa0044,#ffffff,,rectangle,,10939,Südwestdeutsche Verkehrs-AG
-sweg-sudwest,RS1,,,#1d4e9e,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
-sweg-sudwest,RS11,,,#009ddb,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
-sweg-sudwest,RS12,,,#74ba24,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
-sweg-sudwest,RS2,,,#fbc707,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
-sweg-sudwest,RS4,,,#d91338,#ffffff,,pill,,10939,Südwestdeutsche Verkehrs-AG
+sweg-sudwest,RB68a,,,#d30630,#ffffff,,rectangle,Q142176574,10939,Südwestdeutsche Verkehrs-AG
+sweg-sudwest,RB69,,,#f27320,#ffffff,,rectangle,Q142176590,10939,Südwestdeutsche Verkehrs-AG
+sweg-sudwest,RB76,,,#aa0044,#ffffff,,rectangle,Q136692471,10939,Südwestdeutsche Verkehrs-AG
+sweg-sudwest,RS1,,,#1d4e9e,#ffffff,,pill,Q133798416,10939,Südwestdeutsche Verkehrs-AG
+sweg-sudwest,RS11,,,#009ddb,#ffffff,,pill,Q133798420,10939,Südwestdeutsche Verkehrs-AG
+sweg-sudwest,RS12,,,#74ba24,#ffffff,,pill,Q133798421,10939,Südwestdeutsche Verkehrs-AG
+sweg-sudwest,RS2,,,#fbc707,#ffffff,,pill,Q133798417,10939,Südwestdeutsche Verkehrs-AG
+sweg-sudwest,RS3,,,#dd761d,#ffffff,,pill,Q133798418,,
+sweg-sudwest,RS4,,,#d91338,#ffffff,,pill,Q133798419,10939,Südwestdeutsche Verkehrs-AG
 tgo-suedwestbus,400,,,#f05a72,#ffffff,,rectangle,,8103,RVS
 tgo-suedwestbus,423,,,#8c523a,#ffffff,,rectangle,,8103,RVS
 tgo-suedwestbus,425,,,#fdb813,#ffffff,,rectangle,,8103,RVS
