@@ -6556,12 +6556,6 @@ vvo-bus,93,,9-voe023-93,#9c9661,#ffffff,,pill,,,DVB-Bus
 vvo-bus,98A,,5-voe022-98a,#b1aa6e,#ffffff,,pill,,,MüllerBusReisen
 vvo-bus,98B,,5-voe022-98b,#dbd186,#ffffff,,pill,,,MüllerBusReisen
 vvo-bus,98C,,5-voe022-98c,#c6be7a,#ffffff,,pill,,,MüllerBusReisen
-vvo-bus,160,,5-voe023-160,#ec1d35,#ffffff,,pill,,,RVD-Busverkehr
-vvo-bus,161,,,#5a9230,#ffffff,,pill,,,RVD-Busverkehr
-vvo-bus,162,,,#00a77f,#ffffff,,pill,,,RVD-Busverkehr
-vvo-bus,163,,,#6e2c91,#ffffff,,pill,,,RVD-Busverkehr
-vvo-bus,164,,,#f9aa1b,#ffffff,,pill,,,RVD-Busverkehr
-vvo-bus,166,,5-voe023-166,#35a9e1,#ffffff,,pill,,,DVB-Bus
 vvo-bus,140,,,#c54b96,#ffffff,,circle,,8191,OVPS-Stadtbus
 vvo-bus,141,,,#fbcc3e,#ffffff,,circle,,8191,OVPS-Stadtbus
 vvo-bus,142,,,#57bbaf,#ffffff,,circle,,8191,OVPS-Stadtbus
@@ -6570,6 +6564,12 @@ vvo-bus,146,,,#bf2036,#ffffff,,circle,,8191,OVPS-Stadtbus
 vvo-bus,147,,,#f4911c,#ffffff,,circle,,8191,OVPS-Stadtbus
 vvo-bus,149,,,#a6c833,#ffffff,,circle,,8191,OVPS-Stadtbus
 vvo-bus,151,,,#0086cd,#ffffff,,circle,,8191,OVPS-Stadtbus
+vvo-bus,160,,5-voe023-160,#ec1d35,#ffffff,,pill,,,RVD-Busverkehr
+vvo-bus,161,,,#5a9230,#ffffff,,pill,,,RVD-Busverkehr
+vvo-bus,162,,,#00a77f,#ffffff,,pill,,,RVD-Busverkehr
+vvo-bus,163,,,#6e2c91,#ffffff,,pill,,,RVD-Busverkehr
+vvo-bus,164,,,#f9aa1b,#ffffff,,pill,,,RVD-Busverkehr
+vvo-bus,166,,5-voe023-166,#35a9e1,#ffffff,,pill,,,DVB-Bus
 vvo-bus,1,,,#ec1d35,#ffffff,,circle,,8198,VGH Busverkehr
 vvo-bus,2,,,#5a9230,#ffffff,,circle,,8198,VGH Busverkehr
 vvo-bus,3,,,#0073bd,#ffffff,,circle,,8198,VGH Busverkehr
