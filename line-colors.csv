@@ -1781,15 +1781,16 @@ mvv-mvg-bus,54,,,#d3762b,#ffffff,,rectangle,Q105839971,14943,Bus München
 mvv-mvg-bus,55,,,#d3762b,#ffffff,,rectangle,Q105839974,14943,Bus München
 mvv-mvg-bus,56,,,#d3762b,#ffffff,,rectangle,Q77663730,14943,Bus München
 mvv-mvg-bus,57,,,#d3762b,#ffffff,,rectangle,Q105839978,14943,Bus München
-mvv-mvg-bus,58,,,#d3762b,#ffffff,,rectangle,Q105839981,14943,Bus München
 mvv-mvg-bus,59,,,#d3762b,#ffffff,,rectangle,Q105839983,14943,Bus München
+mvv-mvg-bus,64,,,#d3762b,#ffffff,,rectangle,Q105840211,14943,Bus München
 mvv-mvg-bus,60,,,#d3762b,#ffffff,,rectangle,Q105840211,14943,Bus München
 mvv-mvg-bus,62,,,#d3762b,#ffffff,,rectangle,Q105840214,14943,Bus München
 mvv-mvg-bus,63,,,#d3762b,#ffffff,,rectangle,Q105840215,14943,Bus München
-mvv-mvg-bus,68,,,#d3762b,#ffffff,,rectangle,Q105840226,14943,Bus München
 mvv-mvg-bus,100,,,#325868,#ffffff,,rectangle,Q63709137,14943,Bus München
+mvv-mvg-bus,101,,,#325868,#ffffff,,rectangle,Q63709137,14943,Bus München
 mvv-mvg-bus,130,,,#325868,#ffffff,,rectangle,,14943,Bus München
 mvv-mvg-bus,132,,,#325868,#ffffff,,rectangle,Q63717831,14943,Bus München
+mvv-mvg-bus,133,,,#325868,#ffffff,,rectangle,Q64521087,14943,Bus München
 mvv-mvg-bus,134,,,#325868,#ffffff,,rectangle,Q64521087,14943,Bus München
 mvv-mvg-bus,135,,,#325868,#ffffff,,rectangle,,14943,Bus München
 mvv-mvg-bus,136,,,#325868,#ffffff,,rectangle,,14943,Bus München
@@ -1833,7 +1834,6 @@ mvv-mvg-bus,179,,,#325868,#ffffff,,rectangle,,14943,Bus München
 mvv-mvg-bus,180,,,#325868,#ffffff,,rectangle,,14943,Bus München
 mvv-mvg-bus,181,,,#325868,#ffffff,,rectangle,,14943,Bus München
 mvv-mvg-bus,183,,,#325868,#ffffff,,rectangle,,14943,Bus München
-mvv-mvg-bus,184,,,#325868,#ffffff,,rectangle,,14943,Bus München
 mvv-mvg-bus,185,,,#325868,#ffffff,,rectangle,,14943,Bus München
 mvv-mvg-bus,186,,,#325868,#ffffff,,rectangle,Q63716819,14943,Bus München
 mvv-mvg-bus,187,,,#325868,#ffffff,,rectangle,,14943,Bus München
@@ -1851,8 +1851,6 @@ mvv-mvg-bus,198,,,#325868,#ffffff,,rectangle,,14943,Bus München
 mvv-mvg-bus,199,,,#31567e,#ffffff,,rectangle,,14943,Bus München
 mvv-mvg-bus,N80,,,#ffffff,#2f5465,#2f5465,rectangle,,14941,NachtBus München
 mvv-mvg-bus,N81,,,#ffffff,#2f5465,#2f5465,rectangle,,14941,NachtBus München
-mvv-mvg-bus,X30,,,#798674,#ffffff,,rectangle,Q63436634,14942,ExpressBus München
-mvv-mvg-bus,X35,,,#b5a226,#ffffff,,rectangle,,14942,ExpressBus München
 mvv-mvg-bus,X36,,,#657077,#ffffff,,rectangle,,14942,ExpressBus München
 mvv-mvg-bus,X80,,,#466dae,#ffffff,,rectangle,Q63434328,14942,ExpressBus München
 mvv-mvg-tram,12,,8-swm002-12,#95348b,#ffffff,,rectangle,,14747,Straßenbahn München
