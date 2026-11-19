@@ -6562,14 +6562,14 @@ vvo-bus,162,,,#00a77f,#ffffff,,pill,,,RVD-Busverkehr
 vvo-bus,163,,,#6e2c91,#ffffff,,pill,,,RVD-Busverkehr
 vvo-bus,164,,,#f9aa1b,#ffffff,,pill,,,RVD-Busverkehr
 vvo-bus,166,,5-voe023-166,#35a9e1,#ffffff,,pill,,,DVB-Bus
-vvo-bus,A (Heidenau),,,#008fd5,#ffffff,,pill,,,OVPS-Stadtbus
-vvo-bus,B (Heidenau),,,#ec1d35,#ffffff,,pill,,,OVPS-Stadtbus
-vvo-bus,G/L (Pirna),,,#00acdd,#ffffff,,pill,,,OVPS-Stadtbus
-vvo-bus,H/S (Pirna),,,#9d7a39,#ffffff,,pill,,,OVPS-Stadtbus
-vvo-bus,M (Pirna),,,#f27022,#ffffff,,pill,,,OVPS-Stadtbus
-vvo-bus,N (Pirna),,,#7bc243,#ffffff,,pill,,,OVPS-Stadtbus
-vvo-bus,P (Pirna),,,#5a9230,#ffffff,,pill,,,OVPS-Stadtbus
-vvo-bus,Z (Pirna),,,#f6b12f,#000000,,pill,,,OVPS-Stadtbus
+vvo-bus,140,,,#c54b96,#ffffff,,circle,,8191,OVPS-Stadtbus
+vvo-bus,141,,,#fbcc3e,#ffffff,,circle,,8191,OVPS-Stadtbus
+vvo-bus,142,,,#57bbaf,#ffffff,,circle,,8191,OVPS-Stadtbus
+vvo-bus,143,,,#784192,#ffffff,,circle,,8191,OVPS-Stadtbus
+vvo-bus,146,,,#bf2036,#ffffff,,circle,,8191,OVPS-Stadtbus
+vvo-bus,147,,,#f4911c,#ffffff,,circle,,8191,OVPS-Stadtbus
+vvo-bus,149,,,#a6c833,#ffffff,,circle,,8191,OVPS-Stadtbus
+vvo-bus,151,,,#0086cd,#ffffff,,circle,,8191,OVPS-Stadtbus
 vvo-bus,1,,,#ec1d35,#ffffff,,circle,,8198,VGH Busverkehr
 vvo-bus,2,,,#5a9230,#ffffff,,circle,,8198,VGH Busverkehr
 vvo-bus,3,,,#0073bd,#ffffff,,circle,,8198,VGH Busverkehr
