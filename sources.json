@@ -513,7 +513,7 @@
         "sources": [
             {
                 "name": "Liniennetzplan bwegt",
-                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_02-07-2026_barrierefrei.pdf"
+                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_09-11-2026_barrierefrei.pdf"
             },
             {
                 "name": "Liniennetzplan Rheinland-Pfalz",
@@ -1130,12 +1130,8 @@
         ],
         "sources": [
             {
-                "name": "Go-Ahead BW Netzplan",
-                "source": "https://www.go-ahead-bw.de/fileadmin/user_upload/content/unterwegs/liniennetz/GABW_Netz_A4_220315_pr.pdf"
-            },
-            {
-                "name": "Streckenfahrplan RE8/RB8 2025",
-                "source": "https://www.arverio-bw.de/fileadmin/user_upload/content/unterwegs/fahrplaene/ABW_24_StrFpl_RE8_RB8_2412-2506_web.pdf"
+                "name": "Liniennetz Arverio Baden-Württemberg ab 12.2026",
+                "source": "https://www.arverio-bw.de/fileadmin/user_upload/content/unterwegs/liniennetz/ABW_26_Liniennetz_Baden-Wuerttemberg_750x525_261015.pdf"
             }
         ]
     },
@@ -3968,20 +3964,6 @@
             {
                 "name": "Liniennetz Erfurter Bahn & Süd-Thüringen-Bahn",
                 "source": "https://www.erfurter-bahn.de/files/efb/documents/F%C3%BCr%20Fahrg%C3%A4ste/Informationsmaterial%20zum%20Download%20neu/Liniennetz_11-24.pdf"
-            }
-        ]
-    },
-    {
-        "shortOperatorName": "svg-stuttgart",
-        "contributors": [
-            {
-                "github": "wittighausen"
-            }
-        ],
-        "sources": [
-            {
-                "name": "Liniennetzkarte Regionalverkehr 2026",
-                "source": "https://www.bwegt.de/fileadmin/media/PDF/Karten/Liniennetzkarte/bwegt_Karte_Liniennetzkarte_Regionalverkehr_16-11-2025_barrierefrei.pdf"
             }
         ]
     },
