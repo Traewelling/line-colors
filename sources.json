@@ -3804,6 +3804,20 @@
             }
         ]
     },
+	{
+        "shortOperatorName": "s-bahn-saar",
+        "contributors": [
+            {
+                "github": "wittighausen"
+            }
+        ],
+        "sources": [
+            {
+                "name": "Liniennetzplan S-Bahn Saar",
+                "source": "https://saarvv.de/wp-content/uploads/2026/11/Liniennetzplan-S-Bahn-Saar-Dezember-2026.pdf"
+            }
+        ]
+    },
     {
         "shortOperatorName": "s-bahn-zentralschweiz-bls",
         "contributors": [

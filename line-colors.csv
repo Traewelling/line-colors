@@ -465,11 +465,7 @@ db-regio-mitte,RB68,,,#ec008c,#ffffff,,rectangle-rounded-corner,,13422,DB Regio 
 db-regio-mitte,RB68,,,#406bb1,#ffffff,,rectangle-rounded-corner,Q68930888,10440,DB Regio AG Mitte Region Hessen
 db-regio-mitte,RB69,,,#38b54a,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
 db-regio-mitte,RE70,,,#d03831,#ffffff,,rectangle-rounded-corner,Q80105383,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RB70,,,#6dcff6,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
-db-regio-mitte,RB71,,,#28b7ea,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
 db-regio-mitte,RE73,,,#ff2e17,#ffffff,,rectangle-rounded-corner,,10440,DB Regio AG Mitte Region Hessen
-db-regio-mitte,RB73,,,#0086c2,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
-db-regio-mitte,RB77,,,#3777bc,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
 db-regio-mitte,RB79,,,#999999,#ffffff,,rectangle-rounded-corner,,12796,DB Regio Mitte
 db-regio-mitte,RB81,,,#3777bc,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
 db-regio-mitte,RB82,,,#0086c2,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
@@ -3663,7 +3659,20 @@ s-bahn-hannover-transdev,S 51,s-bahn-hannover-transdev,4-tdhs-51,#f18700,#ffffff
 s-bahn-hannover-transdev,S 6,s-bahn-hannover-transdev,4-tdhs-6,#004f9f,#ffffff,,pill,Q63433460,13776,S-Bahn Hannover
 s-bahn-hannover-transdev,S 7,s-bahn-hannover-transdev,4-tdhs-7,#afcb27,#ffffff,,pill,Q63433461,13776,S-Bahn Hannover
 s-bahn-hannover-transdev,S 8,s-bahn-hannover-transdev,4-tdhs-8,#1794ca,#ffffff,,pill,Q63433462,13776,S-Bahn Hannover
-saarbahn,S1,saarbahn,8-vgssbs-1,#f39200,#ffffff,,rectangle,,8931,Saarbahn GmbH
+s-bahn-saar,S1,saarbahn,8-vgssbs-1,#6587ae,#ffffff,,rectangle-rounded-corner,,8931,Saarbahn GmbH
+s-bahn-saar,S10,,,#ed1c24,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+s-bahn-saar,S10,,,#ed1c24,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
+s-bahn-saar,S11,,,#f5821f,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
+s-bahn-saar,S12,,,#fdb912,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
+s-bahn-saar,S13,,,#0bb14b,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+s-bahn-saar,S14,,,#9acb3c,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+s-bahn-saar,S15,,,#00a99d,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+s-bahn-saar,S15,,,#00a99d,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
+s-bahn-saar,S16,,,#00abe6,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+s-bahn-saar,S17,,,#004892,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+s-bahn-saar,S18,,,#7e609f,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+s-bahn-saar,S19,,,#c786ba,#ffffff,,rectangle-rounded-corner,,10951,vlexx
+s-bahn-saar,S20,,,#d94c9b,#ffffff,,rectangle-rounded-corner,,10449,DB Regio AG Mitte Region Südwest
 saarbahn,30,,5-vgssbb-30,#5c2483,#ffffff,,rectangle,,8931,Saarbahn GmbH
 saarbahn,101,,5-vgssbb-101,#e30613,#ffffff,,rectangle,,8931,Saarbahn GmbH
 saarbahn,102,,5-vgssbb-102,#e30613,#ffffff,,rectangle,,8931,Saarbahn GmbH
@@ -4369,10 +4378,6 @@ vlexx,RE34,,,#0688ca,#ffffff,,rectangle-rounded-corner,,10952,vlexx1
 vlexx,RB35,,,#0d9ad7,#ffffff,,rectangle-rounded-corner,,10951,vlexx
 vlexx,RB44,,,#004666,#ffffff,,rectangle-rounded-corner,,10951,vlexx
 vlexx,RB53,,,#a1cd3a,#ffffff,,rectangle-rounded-corner,,10951,vlexx
-vlexx,RB72,,,#6d8c51,#ffffff,,rectangle-rounded-corner,,10951,vlexx
-vlexx,RB73,,,#00785b,#ffffff,,rectangle-rounded-corner,,10951,vlexx
-vlexx,RB74,,,#40b98c,#ffffff,,rectangle-rounded-corner,,10951,vlexx
-vlexx,RB76,,,#92c83e,#ffffff,,rectangle-rounded-corner,,10951,vlexx
 vms-chemnitzbahn,C11,,,#ab98c4,#ffffff,,pill,,14974,Chemnitzer Modell1
 vms-chemnitzbahn,C13,,,#62b9bd,#ffffff,,pill,,14974,Chemnitzer Modell1
 vms-chemnitzbahn,C14,,,#edab53,#ffffff,,pill,,14974,Chemnitzer Modell1
