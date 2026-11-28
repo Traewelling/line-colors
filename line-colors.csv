@@ -2905,6 +2905,7 @@ nrw-sbahn,S 3,db-regio-ag-nrw,4-8003l1-3,#fff200,#000000,,pill,,10436,DB Regio A
 nrw-sbahn,S 4,db-regio-ag-nrw,4-800337-4,#f5821f,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 5,db-regio-ag-nrw,4-800354-5,#80c342,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 6,db-regio-ag-nrw,4-8003s-6,#e21d3c,#ffffff,,pill,,10436,DB Regio AG NRW
+nrw-sbahn,S 7,rheinruhrbahn-transdev,4-tdrr-s7,#00afb5,#ffffff,,pill,,14173,RheinRuhrBahn
 nrw-sbahn,S 8,db-regio-ag-nrw,4-800354-8,#b23815,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 9,db-regio-ag-nrw,4-8003l1-9,#c6168d,#ffffff,,pill,,10436,DB Regio AG NRW
 nrw-sbahn,S 11,db-regio-ag-nrw,4-8003s-11,#f26522,#ffffff,,pill,,10436,DB Regio AG NRW
@@ -5780,6 +5781,7 @@ vrr-rheinbahn,O5,,,#f1db68,#000000,#f1db68,rectangle,,7764,Rheinbahn Bus
 vrr-rheinbahn,O6,,,#f1db68,#000000,#f1db68,rectangle,,7764,Rheinbahn Bus
 vrr-rheinbahn,O10,,,#f1db68,#000000,#f1db68,rectangle,,7764,Rheinbahn Bus
 vrr-rheinbahn,O11,,,#f1db68,#000000,#f1db68,rectangle,,7764,Rheinbahn Bus
+vrr-rheinbahn,O12,,,#f1db68,#000000,#f1db68,rectangle,,7764,Rheinbahn Bus
 vrr-rheinbahn,O13,,,#f1db68,#000000,#f1db68,rectangle,,7764,Rheinbahn Bus
 vrr-rheinbahn,O14,,,#f1db68,#000000,#f1db68,rectangle,,7764,Rheinbahn Bus
 vrr-rheinbahn,O15,,,#f1db68,#000000,#f1db68,rectangle,,7764,Rheinbahn Bus
